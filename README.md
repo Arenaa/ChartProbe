@@ -27,6 +27,9 @@ Run outputs go to `bench_runs/` / `checkpoints/` (gitignored).
 ## 1. Setup
 
 ```bash
+# Git LFS required (chart PNGs under data/ are LFS objects)
+git lfs install
+
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
@@ -34,6 +37,8 @@ pip install -r requirements.txt
 export HF_TOKEN=...   # gated Hub models (optional)
 # or: export HUGGING_FACE_HUB_TOKEN=...
 ```
+
+After clone: `git lfs pull` if images are still pointer files.
 
 GPU recommended. List model presets:
 
