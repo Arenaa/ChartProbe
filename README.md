@@ -1,9 +1,8 @@
 # ChartProbe
 
-Staged diagnostics for chart-understanding VLMs.
+Skill-targeted diagnostics for chart-understanding VLMs.
 
-Each ChartProbe sample has **9 fixed probes** (3 Perception + 3 Grounding + 3 Reasoning).  
-Complex-reasoning (CR) sets use **1 free-form CoT question** per sample.
+ChartProbe pinpoints where a vision-language model fails on charts, not just whether it does. Every sample is decomposed into 9 fixed probes: 3 Perception, 3 Grounding, and 3 Reasoning, so errors can be traced to a specific stage rather than a single aggregate score. Complex-Reasoning (CR) sets add 1 free-form chain-of-thought question per sample to test end-to-end reasoning.
 
 This release ships code under `src/` and packed eval/train data under `data/`.  
 Run outputs go to `bench_runs/` / `checkpoints/` (gitignored).
