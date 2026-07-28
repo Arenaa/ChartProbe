@@ -1,0 +1,95 @@
+{
+  "chart_id": "c40fd778fc956654",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1751,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Congo (Republic)",
+      "value": "725000000",
+      "value_numeric": 725000000.0,
+      "element_bbox": [
+        83,
+        755,
+        230,
+        813
+      ],
+      "value_bbox": [
+        117,
+        734,
+        196,
+        755
+      ]
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "1820000000",
+      "value_numeric": 1820000000.0,
+      "element_bbox": [
+        266,
+        669,
+        413,
+        813
+      ],
+      "value_bbox": [
+        296,
+        647,
+        383,
+        669
+      ]
+    },
+    {
+      "label": "Luxembourg",
+      "value": "7800000000",
+      "value_numeric": 7800000000.0,
+      "element_bbox": [
+        450,
+        195,
+        597,
+        813
+      ],
+      "value_bbox": [
+        480,
+        174,
+        567,
+        195
+      ]
+    },
+    {
+      "label": "Sweden",
+      "value": "8700000000",
+      "value_numeric": 8700000000.0,
+      "element_bbox": [
+        633,
+        124,
+        780,
+        813
+      ],
+      "value_bbox": [
+        663,
+        102,
+        750,
+        124
+      ]
+    },
+    {
+      "label": "Finland",
+      "value": "8300000000",
+      "value_numeric": 8300000000.0,
+      "element_bbox": [
+        817,
+        156,
+        964,
+        813
+      ],
+      "value_bbox": [
+        847,
+        134,
+        934,
+        156
+      ]
+    }
+  ]
+}

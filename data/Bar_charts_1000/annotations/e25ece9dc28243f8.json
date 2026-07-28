@@ -1,0 +1,61 @@
+{
+  "chart_id": "e25ece9dc28243f8",
+  "chart_type": "Bar Chart",
+  "image_width": 2292,
+  "image_height": 1390,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Africa",
+      "value": "59.8",
+      "value_numeric": 59.8,
+      "element_bbox": [
+        149,
+        338,
+        375,
+        818
+      ],
+      "value_bbox": [
+        243,
+        312,
+        281,
+        338
+      ]
+    },
+    {
+      "label": "Asia",
+      "value": "75.0",
+      "value_numeric": 75.0,
+      "element_bbox": [
+        431,
+        216,
+        656,
+        818
+      ],
+      "value_bbox": [
+        524,
+        190,
+        563,
+        216
+      ]
+    },
+    {
+      "label": "Oceania",
+      "value": "45.0",
+      "value_numeric": 45.0,
+      "element_bbox": [
+        713,
+        457,
+        938,
+        818
+      ],
+      "value_bbox": [
+        806,
+        431,
+        845,
+        457
+      ]
+    }
+  ]
+}

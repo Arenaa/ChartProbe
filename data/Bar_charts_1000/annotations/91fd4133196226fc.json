@@ -1,0 +1,78 @@
+{
+  "chart_id": "91fd4133196226fc",
+  "chart_type": "Bar Chart",
+  "image_width": 2346,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Caribbean",
+      "value": "35.0",
+      "value_numeric": 35.0,
+      "element_bbox": [
+        126,
+        629,
+        301,
+        884
+      ],
+      "value_bbox": [
+        194,
+        607,
+        233,
+        629
+      ]
+    },
+    {
+      "label": "East Africa",
+      "value": "86.1",
+      "value_numeric": 86.1,
+      "element_bbox": [
+        345,
+        257,
+        519,
+        884
+      ],
+      "value_bbox": [
+        413,
+        235,
+        451,
+        257
+      ]
+    },
+    {
+      "label": "Southern Africa",
+      "value": "77.0",
+      "value_numeric": 77.0,
+      "element_bbox": [
+        563,
+        323,
+        737,
+        884
+      ],
+      "value_bbox": [
+        631,
+        301,
+        670,
+        323
+      ]
+    },
+    {
+      "label": "West Africa",
+      "value": "83.9",
+      "value_numeric": 83.9,
+      "element_bbox": [
+        781,
+        273,
+        956,
+        884
+      ],
+      "value_bbox": [
+        849,
+        251,
+        888,
+        273
+      ]
+    }
+  ]
+}

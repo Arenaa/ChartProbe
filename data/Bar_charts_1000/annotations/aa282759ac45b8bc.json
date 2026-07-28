@@ -1,0 +1,78 @@
+{
+  "chart_id": "aa282759ac45b8bc",
+  "chart_type": "Bar Chart",
+  "image_width": 2962,
+  "image_height": 1763,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Low & middle income",
+      "value": "2.0",
+      "value_numeric": 2.0,
+      "element_bbox": [
+        271,
+        779,
+        526,
+        858
+      ],
+      "value_bbox": [
+        533,
+        808,
+        556,
+        830
+      ]
+    },
+    {
+      "label": "Least developed countries",
+      "value": "3.5",
+      "value_numeric": 3.5,
+      "element_bbox": [
+        271,
+        580,
+        951,
+        660
+      ],
+      "value_bbox": [
+        958,
+        609,
+        980,
+        631
+      ]
+    },
+    {
+      "label": "Latin America(developing only)",
+      "value": "1.3",
+      "value_numeric": 1.3,
+      "element_bbox": [
+        271,
+        382,
+        484,
+        461
+      ],
+      "value_bbox": [
+        491,
+        410,
+        513,
+        432
+      ]
+    },
+    {
+      "label": "Latin America(all income levels)",
+      "value": "2.3",
+      "value_numeric": 2.3,
+      "element_bbox": [
+        271,
+        183,
+        583,
+        262
+      ],
+      "value_bbox": [
+        590,
+        212,
+        612,
+        233
+      ]
+    }
+  ]
+}

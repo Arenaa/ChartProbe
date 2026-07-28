@@ -1,0 +1,299 @@
+{
+  "chart_id": "3c28913526cfc74f",
+  "chart_type": "Bar Chart",
+  "image_width": 3546,
+  "image_height": 2344,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Rwanda",
+      "value": "84",
+      "value_numeric": 84.0,
+      "element_bbox": [
+        104,
+        141,
+        144,
+        765
+      ],
+      "value_bbox": [
+        116,
+        125,
+        131,
+        141
+      ]
+    },
+    {
+      "label": "Kenya",
+      "value": "72",
+      "value_numeric": 72.0,
+      "element_bbox": [
+        154,
+        231,
+        194,
+        765
+      ],
+      "value_bbox": [
+        166,
+        214,
+        181,
+        231
+      ]
+    },
+    {
+      "label": "South Africa",
+      "value": "67",
+      "value_numeric": 67.0,
+      "element_bbox": [
+        204,
+        268,
+        244,
+        765
+      ],
+      "value_bbox": [
+        216,
+        251,
+        231,
+        268
+      ]
+    },
+    {
+      "label": "Senegal",
+      "value": "64",
+      "value_numeric": 64.0,
+      "element_bbox": [
+        254,
+        290,
+        294,
+        765
+      ],
+      "value_bbox": [
+        266,
+        274,
+        281,
+        290
+      ]
+    },
+    {
+      "label": "Chile",
+      "value": "63",
+      "value_numeric": 63.0,
+      "element_bbox": [
+        304,
+        297,
+        344,
+        765
+      ],
+      "value_bbox": [
+        316,
+        281,
+        331,
+        297
+      ]
+    },
+    {
+      "label": "Brazil",
+      "value": "60",
+      "value_numeric": 60.0,
+      "element_bbox": [
+        354,
+        320,
+        393,
+        765
+      ],
+      "value_bbox": [
+        366,
+        303,
+        381,
+        320
+      ]
+    },
+    {
+      "label": "Mexico",
+      "value": "58",
+      "value_numeric": 58.0,
+      "element_bbox": [
+        403,
+        334,
+        443,
+        765
+      ],
+      "value_bbox": [
+        416,
+        318,
+        431,
+        334
+      ]
+    },
+    {
+      "label": "Argentina",
+      "value": "58",
+      "value_numeric": 58.0,
+      "element_bbox": [
+        453,
+        334,
+        493,
+        765
+      ],
+      "value_bbox": [
+        466,
+        318,
+        481,
+        334
+      ]
+    },
+    {
+      "label": "Russian Federation",
+      "value": "55",
+      "value_numeric": 55.0,
+      "element_bbox": [
+        503,
+        357,
+        543,
+        765
+      ],
+      "value_bbox": [
+        516,
+        340,
+        531,
+        357
+      ]
+    },
+    {
+      "label": "Vietnam",
+      "value": "54",
+      "value_numeric": 54.0,
+      "element_bbox": [
+        553,
+        364,
+        593,
+        765
+      ],
+      "value_bbox": [
+        566,
+        348,
+        581,
+        364
+      ]
+    },
+    {
+      "label": "Tunisia",
+      "value": "48",
+      "value_numeric": 48.0,
+      "element_bbox": [
+        603,
+        409,
+        643,
+        765
+      ],
+      "value_bbox": [
+        616,
+        392,
+        631,
+        409
+      ]
+    },
+    {
+      "label": "India",
+      "value": "45",
+      "value_numeric": 45.0,
+      "element_bbox": [
+        653,
+        431,
+        693,
+        765
+      ],
+      "value_bbox": [
+        666,
+        415,
+        681,
+        431
+      ]
+    },
+    {
+      "label": "Samoa",
+      "value": "42",
+      "value_numeric": 42.0,
+      "element_bbox": [
+        703,
+        453,
+        743,
+        765
+      ],
+      "value_bbox": [
+        716,
+        437,
+        731,
+        453
+      ]
+    },
+    {
+      "label": "Sao Tome and Principe",
+      "value": "36",
+      "value_numeric": 36.0,
+      "element_bbox": [
+        753,
+        498,
+        793,
+        765
+      ],
+      "value_bbox": [
+        766,
+        481,
+        780,
+        498
+      ]
+    },
+    {
+      "label": "Turkey",
+      "value": "31",
+      "value_numeric": 31.0,
+      "element_bbox": [
+        803,
+        535,
+        843,
+        765
+      ],
+      "value_bbox": [
+        816,
+        519,
+        830,
+        535
+      ]
+    },
+    {
+      "label": "Jordan",
+      "value": "22",
+      "value_numeric": 22.0,
+      "element_bbox": [
+        853,
+        602,
+        893,
+        765
+      ],
+      "value_bbox": [
+        866,
+        585,
+        880,
+        602
+      ]
+    },
+    {
+      "label": "Saudi Arabia",
+      "value": "15",
+      "value_numeric": 15.0,
+      "element_bbox": [
+        903,
+        654,
+        943,
+        765
+      ],
+      "value_bbox": [
+        916,
+        637,
+        930,
+        654
+      ]
+    }
+  ]
+}

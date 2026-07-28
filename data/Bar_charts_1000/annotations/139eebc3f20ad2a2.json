@@ -1,0 +1,95 @@
+{
+  "chart_id": "139eebc3f20ad2a2",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1749,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "San José",
+      "value": "32.38",
+      "value_numeric": 32.38,
+      "element_bbox": [
+        92,
+        129,
+        238,
+        882
+      ],
+      "value_bbox": [
+        145,
+        107,
+        185,
+        129
+      ]
+    },
+    {
+      "label": "Alajuela",
+      "value": "21.33",
+      "value_numeric": 21.33,
+      "element_bbox": [
+        274,
+        386,
+        419,
+        882
+      ],
+      "value_bbox": [
+        327,
+        364,
+        366,
+        386
+      ]
+    },
+    {
+      "label": "Cartago",
+      "value": "12.04",
+      "value_numeric": 12.04,
+      "element_bbox": [
+        455,
+        602,
+        601,
+        882
+      ],
+      "value_bbox": [
+        508,
+        580,
+        548,
+        602
+      ]
+    },
+    {
+      "label": "Heredia",
+      "value": "11.54",
+      "value_numeric": 11.54,
+      "element_bbox": [
+        637,
+        614,
+        782,
+        882
+      ],
+      "value_bbox": [
+        690,
+        592,
+        730,
+        614
+      ]
+    },
+    {
+      "label": "Limón",
+      "value": "7.45",
+      "value_numeric": 7.45,
+      "element_bbox": [
+        819,
+        709,
+        964,
+        882
+      ],
+      "value_bbox": [
+        876,
+        687,
+        907,
+        709
+      ]
+    }
+  ]
+}

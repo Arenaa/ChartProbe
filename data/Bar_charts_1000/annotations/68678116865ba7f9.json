@@ -1,0 +1,61 @@
+{
+  "chart_id": "68678116865ba7f9",
+  "chart_type": "Bar Chart",
+  "image_width": 3162,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Industry",
+      "value": "70000000000",
+      "value_numeric": 70000000000.0,
+      "element_bbox": [
+        139,
+        750,
+        146,
+        847
+      ],
+      "value_bbox": [
+        155,
+        788,
+        251,
+        809
+      ]
+    },
+    {
+      "label": "Services",
+      "value": "250000000000",
+      "value_numeric": 250000000000.0,
+      "element_bbox": [
+        139,
+        475,
+        942,
+        572
+      ],
+      "value_bbox": [
+        950,
+        513,
+        1000,
+        534
+      ]
+    },
+    {
+      "label": "Agriculture",
+      "value": "5000000000",
+      "value_numeric": 5000000000.0,
+      "element_bbox": [
+        139,
+        201,
+        314,
+        297
+      ],
+      "value_bbox": [
+        323,
+        238,
+        410,
+        260
+      ]
+    }
+  ]
+}

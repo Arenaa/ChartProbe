@@ -1,0 +1,282 @@
+{
+  "chart_id": "a1babb30545bcef5",
+  "chart_type": "Bar Chart",
+  "image_width": 3547,
+  "image_height": 2050,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Central Europe",
+      "value": "67",
+      "value_numeric": 67.0,
+      "element_bbox": [
+        83,
+        708,
+        106,
+        732
+      ],
+      "value_bbox": [
+        87,
+        690,
+        102,
+        708
+      ]
+    },
+    {
+      "label": "East Asia",
+      "value": "985",
+      "value_numeric": 985.0,
+      "element_bbox": [
+        140,
+        240,
+        163,
+        732
+      ],
+      "value_bbox": [
+        141,
+        222,
+        162,
+        240
+      ]
+    },
+    {
+      "label": "East Asia (Developing)",
+      "value": "825",
+      "value_numeric": 825.0,
+      "element_bbox": [
+        197,
+        335,
+        219,
+        732
+      ],
+      "value_bbox": [
+        197,
+        316,
+        219,
+        335
+      ]
+    },
+    {
+      "label": "Eurozone",
+      "value": "265",
+      "value_numeric": 265.0,
+      "element_bbox": [
+        253,
+        691,
+        276,
+        732
+      ],
+      "value_bbox": [
+        254,
+        672,
+        276,
+        691
+      ]
+    },
+    {
+      "label": "Europe (Total)",
+      "value": "645",
+      "value_numeric": 645.0,
+      "element_bbox": [
+        310,
+        607,
+        333,
+        732
+      ],
+      "value_bbox": [
+        311,
+        588,
+        332,
+        607
+      ]
+    },
+    {
+      "label": "Europe (Developing)",
+      "value": "175",
+      "value_numeric": 175.0,
+      "element_bbox": [
+        367,
+        678,
+        390,
+        732
+      ],
+      "value_bbox": [
+        367,
+        660,
+        389,
+        678
+      ]
+    },
+    {
+      "label": "North America",
+      "value": "375",
+      "value_numeric": 375.0,
+      "element_bbox": [
+        424,
+        685,
+        446,
+        732
+      ],
+      "value_bbox": [
+        424,
+        666,
+        446,
+        685
+      ]
+    },
+    {
+      "label": "South America",
+      "value": "135",
+      "value_numeric": 135.0,
+      "element_bbox": [
+        480,
+        702,
+        503,
+        732
+      ],
+      "value_bbox": [
+        481,
+        683,
+        503,
+        702
+      ]
+    },
+    {
+      "label": "Sub-Saharan Africa",
+      "value": "1520",
+      "value_numeric": 1520.0,
+      "element_bbox": [
+        537,
+        154,
+        560,
+        732
+      ],
+      "value_bbox": [
+        534,
+        136,
+        563,
+        154
+      ]
+    },
+    {
+      "label": "Oceania",
+      "value": "30",
+      "value_numeric": 30.0,
+      "element_bbox": [
+        594,
+        721,
+        616,
+        732
+      ],
+      "value_bbox": [
+        598,
+        703,
+        612,
+        721
+      ]
+    },
+    {
+      "label": "Central Asia",
+      "value": "48",
+      "value_numeric": 48.0,
+      "element_bbox": [
+        650,
+        716,
+        673,
+        732
+      ],
+      "value_bbox": [
+        655,
+        697,
+        669,
+        716
+      ]
+    },
+    {
+      "label": "Middle East",
+      "value": "138",
+      "value_numeric": 138.0,
+      "element_bbox": [
+        707,
+        694,
+        730,
+        732
+      ],
+      "value_bbox": [
+        708,
+        675,
+        729,
+        694
+      ]
+    },
+    {
+      "label": "North Africa",
+      "value": "138",
+      "value_numeric": 138.0,
+      "element_bbox": [
+        764,
+        701,
+        787,
+        732
+      ],
+      "value_bbox": [
+        764,
+        683,
+        786,
+        701
+      ]
+    },
+    {
+      "label": "Southeast Asia",
+      "value": "355",
+      "value_numeric": 355.0,
+      "element_bbox": [
+        821,
+        608,
+        843,
+        732
+      ],
+      "value_bbox": [
+        821,
+        589,
+        843,
+        608
+      ]
+    },
+    {
+      "label": "Latin America",
+      "value": "125",
+      "value_numeric": 125.0,
+      "element_bbox": [
+        877,
+        698,
+        900,
+        732
+      ],
+      "value_bbox": [
+        878,
+        679,
+        900,
+        698
+      ]
+    },
+    {
+      "label": "Caribbean",
+      "value": "45",
+      "value_numeric": 45.0,
+      "element_bbox": [
+        934,
+        719,
+        957,
+        732
+      ],
+      "value_bbox": [
+        938,
+        701,
+        953,
+        719
+      ]
+    }
+  ]
+}

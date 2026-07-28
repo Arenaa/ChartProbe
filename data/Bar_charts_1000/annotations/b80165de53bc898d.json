@@ -1,0 +1,112 @@
+{
+  "chart_id": "b80165de53bc898d",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1745,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Low-Income Avg",
+      "value": "60.11",
+      "value_numeric": 60.11,
+      "element_bbox": [
+        115,
+        117,
+        229,
+        697
+      ],
+      "value_bbox": [
+        152,
+        95,
+        192,
+        117
+      ]
+    },
+    {
+      "label": "Ethiopia Reform",
+      "value": "51.98",
+      "value_numeric": 51.98,
+      "element_bbox": [
+        258,
+        196,
+        372,
+        697
+      ],
+      "value_bbox": [
+        295,
+        174,
+        334,
+        196
+      ]
+    },
+    {
+      "label": "Nigeria Adjusted",
+      "value": "50.77",
+      "value_numeric": 50.77,
+      "element_bbox": [
+        400,
+        207,
+        514,
+        697
+      ],
+      "value_bbox": [
+        437,
+        186,
+        477,
+        207
+      ]
+    },
+    {
+      "label": "Egypt Adjusted",
+      "value": "56.31",
+      "value_numeric": 56.31,
+      "element_bbox": [
+        542,
+        154,
+        656,
+        697
+      ],
+      "value_bbox": [
+        579,
+        132,
+        619,
+        154
+      ]
+    },
+    {
+      "label": "South Africa Adjusted",
+      "value": "55.72",
+      "value_numeric": 55.72,
+      "element_bbox": [
+        685,
+        159,
+        798,
+        697
+      ],
+      "value_bbox": [
+        722,
+        138,
+        761,
+        159
+      ]
+    },
+    {
+      "label": "Kenya Adjusted",
+      "value": "52.27",
+      "value_numeric": 52.27,
+      "element_bbox": [
+        827,
+        193,
+        941,
+        697
+      ],
+      "value_bbox": [
+        864,
+        171,
+        904,
+        193
+      ]
+    }
+  ]
+}

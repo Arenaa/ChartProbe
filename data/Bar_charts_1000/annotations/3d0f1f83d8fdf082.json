@@ -1,0 +1,112 @@
+{
+  "chart_id": "3d0f1f83d8fdf082",
+  "chart_type": "Bar Chart",
+  "image_width": 3547,
+  "image_height": 2341,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Congo (Democratic)",
+      "value": "2033.47",
+      "value_numeric": 2033.47,
+      "element_bbox": [
+        134,
+        777,
+        162,
+        782
+      ],
+      "value_bbox": [
+        124,
+        761,
+        172,
+        777
+      ]
+    },
+    {
+      "label": "Cuba",
+      "value": "2033.47",
+      "value_numeric": 2033.47,
+      "element_bbox": [
+        274,
+        777,
+        302,
+        782
+      ],
+      "value_bbox": [
+        264,
+        761,
+        312,
+        777
+      ]
+    },
+    {
+      "label": "Denmark",
+      "value": "20333.47",
+      "value_numeric": 20333.47,
+      "element_bbox": [
+        414,
+        730,
+        442,
+        782
+      ],
+      "value_bbox": [
+        400,
+        714,
+        455,
+        730
+      ]
+    },
+    {
+      "label": "Egypt",
+      "value": "1796.78",
+      "value_numeric": 1796.78,
+      "element_bbox": [
+        553,
+        777,
+        581,
+        782
+      ],
+      "value_bbox": [
+        544,
+        761,
+        591,
+        777
+      ]
+    },
+    {
+      "label": "Finland",
+      "value": "12033.47",
+      "value_numeric": 12033.47,
+      "element_bbox": [
+        693,
+        752,
+        721,
+        782
+      ],
+      "value_bbox": [
+        680,
+        736,
+        734,
+        752
+      ]
+    },
+    {
+      "label": "France",
+      "value": "195033.47",
+      "value_numeric": 195033.47,
+      "element_bbox": [
+        833,
+        122,
+        861,
+        782
+      ],
+      "value_bbox": [
+        816,
+        106,
+        878,
+        122
+      ]
+    }
+  ]
+}

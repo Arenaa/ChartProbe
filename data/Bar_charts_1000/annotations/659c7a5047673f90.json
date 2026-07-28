@@ -1,0 +1,78 @@
+{
+  "chart_id": "659c7a5047673f90",
+  "chart_type": "Bar Chart",
+  "image_width": 3090,
+  "image_height": 1764,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Macedonia",
+      "value": "51",
+      "value_numeric": 51.0,
+      "element_bbox": [
+        147,
+        693,
+        945,
+        851
+      ],
+      "value_bbox": [
+        953,
+        761,
+        971,
+        783
+      ]
+    },
+    {
+      "label": "Luxembourg",
+      "value": "35",
+      "value_numeric": 35.0,
+      "element_bbox": [
+        147,
+        496,
+        679,
+        654
+      ],
+      "value_bbox": [
+        687,
+        564,
+        705,
+        586
+      ]
+    },
+    {
+      "label": "Lithuania",
+      "value": "22",
+      "value_numeric": 22.0,
+      "element_bbox": [
+        147,
+        299,
+        491,
+        457
+      ],
+      "value_bbox": [
+        500,
+        367,
+        517,
+        388
+      ]
+    },
+    {
+      "label": "Latvia",
+      "value": "33",
+      "value_numeric": 33.0,
+      "element_bbox": [
+        147,
+        101,
+        663,
+        259
+      ],
+      "value_bbox": [
+        672,
+        169,
+        689,
+        191
+      ]
+    }
+  ]
+}

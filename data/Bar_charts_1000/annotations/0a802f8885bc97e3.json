@@ -1,0 +1,95 @@
+{
+  "chart_id": "0a802f8885bc97e3",
+  "chart_type": "Bar Chart",
+  "image_width": 2952,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Norway",
+      "value": "86.5",
+      "value_numeric": 86.5,
+      "element_bbox": [
+        89,
+        829,
+        939,
+        847
+      ],
+      "value_bbox": [
+        948,
+        827,
+        979,
+        849
+      ]
+    },
+    {
+      "label": "Italy",
+      "value": "72",
+      "value_numeric": 72.0,
+      "element_bbox": [
+        89,
+        657,
+        873,
+        674
+      ],
+      "value_bbox": [
+        882,
+        655,
+        899,
+        676
+      ]
+    },
+    {
+      "label": "France",
+      "value": "82.5",
+      "value_numeric": 82.5,
+      "element_bbox": [
+        89,
+        484,
+        873,
+        501
+      ],
+      "value_bbox": [
+        882,
+        482,
+        913,
+        504
+      ]
+    },
+    {
+      "label": "Finland",
+      "value": "83",
+      "value_numeric": 83.0,
+      "element_bbox": [
+        89,
+        311,
+        778,
+        329
+      ],
+      "value_bbox": [
+        787,
+        309,
+        804,
+        331
+      ]
+    },
+    {
+      "label": "Canada",
+      "value": "89.5",
+      "value_numeric": 89.5,
+      "element_bbox": [
+        89,
+        139,
+        892,
+        156
+      ],
+      "value_bbox": [
+        901,
+        137,
+        932,
+        158
+      ]
+    }
+  ]
+}

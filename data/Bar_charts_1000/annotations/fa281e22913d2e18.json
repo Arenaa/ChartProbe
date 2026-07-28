@@ -1,0 +1,95 @@
+{
+  "chart_id": "fa281e22913d2e18",
+  "chart_type": "Bar Chart",
+  "image_width": 2945,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Low & middle income",
+      "value": "56",
+      "value_numeric": 56.0,
+      "element_bbox": [
+        301,
+        785,
+        796,
+        847
+      ],
+      "value_bbox": [
+        803,
+        805,
+        820,
+        827
+      ]
+    },
+    {
+      "label": "Least developed countries",
+      "value": "44",
+      "value_numeric": 44.0,
+      "element_bbox": [
+        301,
+        630,
+        702,
+        692
+      ],
+      "value_bbox": [
+        709,
+        650,
+        726,
+        672
+      ]
+    },
+    {
+      "label": "Latin America(developing only)",
+      "value": "59",
+      "value_numeric": 59.0,
+      "element_bbox": [
+        301,
+        475,
+        830,
+        537
+      ],
+      "value_bbox": [
+        837,
+        496,
+        854,
+        517
+      ]
+    },
+    {
+      "label": "Latin America(all income levels)",
+      "value": "60",
+      "value_numeric": 60.0,
+      "element_bbox": [
+        301,
+        321,
+        847,
+        383
+      ],
+      "value_bbox": [
+        854,
+        341,
+        871,
+        363
+      ]
+    },
+    {
+      "label": "High income: OECD",
+      "value": "69",
+      "value_numeric": 69.0,
+      "element_bbox": [
+        301,
+        166,
+        950,
+        228
+      ],
+      "value_bbox": [
+        956,
+        186,
+        974,
+        208
+      ]
+    }
+  ]
+}

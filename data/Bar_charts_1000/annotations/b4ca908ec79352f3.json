@@ -1,0 +1,78 @@
+{
+  "chart_id": "b4ca908ec79352f3",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Sweden",
+      "value": "11.5",
+      "value_numeric": 11.5,
+      "element_bbox": [
+        115,
+        298,
+        159,
+        884
+      ],
+      "value_bbox": [
+        122,
+        277,
+        153,
+        298
+      ]
+    },
+    {
+      "label": "Switzerland",
+      "value": "17.0",
+      "value_numeric": 17.0,
+      "element_bbox": [
+        333,
+        129,
+        376,
+        884
+      ],
+      "value_bbox": [
+        339,
+        107,
+        370,
+        129
+      ]
+    },
+    {
+      "label": "Thailand",
+      "value": "6.8",
+      "value_numeric": 6.8,
+      "element_bbox": [
+        550,
+        518,
+        593,
+        884
+      ],
+      "value_bbox": [
+        561,
+        496,
+        583,
+        518
+      ]
+    },
+    {
+      "label": "Turkey",
+      "value": "5.8",
+      "value_numeric": 5.8,
+      "element_bbox": [
+        767,
+        312,
+        810,
+        884
+      ],
+      "value_bbox": [
+        778,
+        290,
+        800,
+        312
+      ]
+    }
+  ]
+}

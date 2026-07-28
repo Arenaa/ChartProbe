@@ -1,0 +1,163 @@
+{
+  "chart_id": "389c5f7dd34cae58",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "2000",
+      "value": "64",
+      "value_numeric": 64.0,
+      "element_bbox": [
+        91,
+        157,
+        121,
+        884
+      ],
+      "value_bbox": [
+        98,
+        135,
+        115,
+        157
+      ]
+    },
+    {
+      "label": "2010",
+      "value": "68",
+      "value_numeric": 68.0,
+      "element_bbox": [
+        167,
+        553,
+        197,
+        884
+      ],
+      "value_bbox": [
+        173,
+        532,
+        191,
+        553
+      ]
+    },
+    {
+      "label": "2020",
+      "value": "74",
+      "value_numeric": 74.0,
+      "element_bbox": [
+        243,
+        739,
+        273,
+        884
+      ],
+      "value_bbox": [
+        249,
+        717,
+        267,
+        739
+      ]
+    },
+    {
+      "label": "2030",
+      "value": "77",
+      "value_numeric": 77.0,
+      "element_bbox": [
+        318,
+        773,
+        349,
+        884
+      ],
+      "value_bbox": [
+        325,
+        751,
+        342,
+        773
+      ]
+    },
+    {
+      "label": "2040",
+      "value": "84",
+      "value_numeric": 84.0,
+      "element_bbox": [
+        394,
+        795,
+        424,
+        884
+      ],
+      "value_bbox": [
+        400,
+        773,
+        418,
+        795
+      ]
+    },
+    {
+      "label": "2050",
+      "value": "86",
+      "value_numeric": 86.0,
+      "element_bbox": [
+        470,
+        801,
+        500,
+        884
+      ],
+      "value_bbox": [
+        476,
+        779,
+        493,
+        801
+      ]
+    },
+    {
+      "label": "2060",
+      "value": "92",
+      "value_numeric": 92.0,
+      "element_bbox": [
+        545,
+        808,
+        576,
+        884
+      ],
+      "value_bbox": [
+        552,
+        786,
+        569,
+        808
+      ]
+    },
+    {
+      "label": "2070",
+      "value": "99",
+      "value_numeric": 99.0,
+      "element_bbox": [
+        621,
+        813,
+        651,
+        884
+      ],
+      "value_bbox": [
+        628,
+        791,
+        645,
+        813
+      ]
+    },
+    {
+      "label": "2080",
+      "value": "104",
+      "value_numeric": 104.0,
+      "element_bbox": [
+        697,
+        816,
+        727,
+        884
+      ],
+      "value_bbox": [
+        699,
+        795,
+        725,
+        816
+      ]
+    }
+  ]
+}

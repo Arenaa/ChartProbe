@@ -1,0 +1,44 @@
+{
+  "chart_id": "bb23565c21b60e82",
+  "chart_type": "Bar Chart",
+  "image_width": 1800,
+  "image_height": 1381,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Taxes",
+      "value": "15",
+      "value_numeric": 15.0,
+      "element_bbox": [
+        160,
+        494,
+        239,
+        890
+      ],
+      "value_bbox": [
+        186,
+        467,
+        213,
+        494
+      ]
+    },
+    {
+      "label": "Grants",
+      "value": "17",
+      "value_numeric": 17.0,
+      "element_bbox": [
+        552,
+        157,
+        630,
+        890
+      ],
+      "value_bbox": [
+        577,
+        130,
+        604,
+        157
+      ]
+    }
+  ]
+}

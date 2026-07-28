@@ -1,0 +1,95 @@
+{
+  "chart_id": "997d803fbe180705",
+  "chart_type": "Bar Chart",
+  "image_width": 2346,
+  "image_height": 1451,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Primary Education",
+      "value": "5250",
+      "value_numeric": 5250.0,
+      "element_bbox": [
+        134,
+        138,
+        272,
+        749
+      ],
+      "value_bbox": [
+        181,
+        112,
+        225,
+        138
+      ]
+    },
+    {
+      "label": "Secondary Education",
+      "value": "4250",
+      "value_numeric": 4250.0,
+      "element_bbox": [
+        306,
+        255,
+        444,
+        749
+      ],
+      "value_bbox": [
+        353,
+        229,
+        397,
+        255
+      ]
+    },
+    {
+      "label": "Upper Secondary",
+      "value": "2650",
+      "value_numeric": 2650.0,
+      "element_bbox": [
+        478,
+        441,
+        616,
+        749
+      ],
+      "value_bbox": [
+        525,
+        415,
+        569,
+        441
+      ]
+    },
+    {
+      "label": "Higher Education",
+      "value": "1450",
+      "value_numeric": 1450.0,
+      "element_bbox": [
+        650,
+        581,
+        788,
+        749
+      ],
+      "value_bbox": [
+        697,
+        555,
+        741,
+        581
+      ]
+    },
+    {
+      "label": "Vocational Training",
+      "value": "900",
+      "value_numeric": 900.0,
+      "element_bbox": [
+        823,
+        645,
+        960,
+        749
+      ],
+      "value_bbox": [
+        875,
+        619,
+        908,
+        645
+      ]
+    }
+  ]
+}

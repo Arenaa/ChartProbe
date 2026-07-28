@@ -1,0 +1,95 @@
+{
+  "chart_id": "5782fccbb88330f7",
+  "chart_type": "Bar Chart",
+  "image_width": 1879,
+  "image_height": 1381,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Arab World",
+      "value": "5.0",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        155,
+        538,
+        213,
+        547
+      ],
+      "value_bbox": [
+        166,
+        511,
+        201,
+        538
+      ]
+    },
+    {
+      "label": "Caribbean small states",
+      "value": "18.0",
+      "value_numeric": 18.0,
+      "element_bbox": [
+        320,
+        519,
+        378,
+        547
+      ],
+      "value_bbox": [
+        325,
+        492,
+        373,
+        519
+      ]
+    },
+    {
+      "label": "Central Europe",
+      "value": "23.0",
+      "value_numeric": 23.0,
+      "element_bbox": [
+        486,
+        500,
+        544,
+        547
+      ],
+      "value_bbox": [
+        491,
+        472,
+        539,
+        500
+      ]
+    },
+    {
+      "label": "East Asia (all income levels)",
+      "value": "10.0",
+      "value_numeric": 10.0,
+      "element_bbox": [
+        651,
+        480,
+        709,
+        547
+      ],
+      "value_bbox": [
+        656,
+        453,
+        705,
+        480
+      ]
+    },
+    {
+      "label": "East Asia (developing only)",
+      "value": "5.0",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        817,
+        528,
+        875,
+        547
+      ],
+      "value_bbox": [
+        829,
+        501,
+        863,
+        528
+      ]
+    }
+  ]
+}

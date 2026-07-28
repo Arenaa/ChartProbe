@@ -1,0 +1,78 @@
+{
+  "chart_id": "761adb553f1ca6a2",
+  "chart_type": "Bar Chart",
+  "image_width": 2346,
+  "image_height": 1446,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Asia",
+      "value": "4.16%",
+      "value_numeric": 4.16,
+      "element_bbox": [
+        121,
+        144,
+        296,
+        860
+      ],
+      "value_bbox": [
+        181,
+        118,
+        236,
+        144
+      ]
+    },
+    {
+      "label": "North America",
+      "value": "2.14%",
+      "value_numeric": 2.14,
+      "element_bbox": [
+        340,
+        491,
+        516,
+        860
+      ],
+      "value_bbox": [
+        401,
+        465,
+        455,
+        491
+      ]
+    },
+    {
+      "label": "Oceania",
+      "value": "1.78%",
+      "value_numeric": 1.78,
+      "element_bbox": [
+        560,
+        554,
+        736,
+        860
+      ],
+      "value_bbox": [
+        621,
+        528,
+        675,
+        554
+      ]
+    },
+    {
+      "label": "Europe",
+      "value": "1.45%",
+      "value_numeric": 1.45,
+      "element_bbox": [
+        780,
+        610,
+        956,
+        860
+      ],
+      "value_bbox": [
+        840,
+        584,
+        895,
+        610
+      ]
+    }
+  ]
+}

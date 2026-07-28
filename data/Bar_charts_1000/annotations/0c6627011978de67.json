@@ -1,0 +1,61 @@
+{
+  "chart_id": "0c6627011978de67",
+  "chart_type": "Bar Chart",
+  "image_width": 2370,
+  "image_height": 1381,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Ages 15-20",
+      "value": "38",
+      "value_numeric": 38.0,
+      "element_bbox": [
+        125,
+        805,
+        709,
+        855
+      ],
+      "value_bbox": [
+        717,
+        816,
+        744,
+        844
+      ]
+    },
+    {
+      "label": "Ages 20-60",
+      "value": "47",
+      "value_numeric": 47.0,
+      "element_bbox": [
+        125,
+        555,
+        863,
+        605
+      ],
+      "value_bbox": [
+        871,
+        566,
+        898,
+        594
+      ]
+    },
+    {
+      "label": "Ages 60+",
+      "value": "51",
+      "value_numeric": 51.0,
+      "element_bbox": [
+        125,
+        305,
+        853,
+        355
+      ],
+      "value_bbox": [
+        861,
+        316,
+        888,
+        344
+      ]
+    }
+  ]
+}

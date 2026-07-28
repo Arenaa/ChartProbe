@@ -1,0 +1,78 @@
+{
+  "chart_id": "0d5e84c83dc10138",
+  "chart_type": "Bar Chart",
+  "image_width": 2346,
+  "image_height": 1446,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Southern Africa",
+      "value": "457650012",
+      "value_numeric": 457650012.0,
+      "element_bbox": [
+        103,
+        144,
+        282,
+        860
+      ],
+      "value_bbox": [
+        144,
+        118,
+        242,
+        144
+      ]
+    },
+    {
+      "label": "Europe",
+      "value": "16696300",
+      "value_numeric": 16696300.0,
+      "element_bbox": [
+        327,
+        834,
+        507,
+        860
+      ],
+      "value_bbox": [
+        374,
+        808,
+        460,
+        834
+      ]
+    },
+    {
+      "label": "East Africa",
+      "value": "12370300",
+      "value_numeric": 12370300.0,
+      "element_bbox": [
+        551,
+        841,
+        731,
+        860
+      ],
+      "value_bbox": [
+        598,
+        815,
+        685,
+        841
+      ]
+    },
+    {
+      "label": "Horn of Africa",
+      "value": "5263300",
+      "value_numeric": 5263300.0,
+      "element_bbox": [
+        776,
+        852,
+        955,
+        860
+      ],
+      "value_bbox": [
+        827,
+        826,
+        903,
+        852
+      ]
+    }
+  ]
+}

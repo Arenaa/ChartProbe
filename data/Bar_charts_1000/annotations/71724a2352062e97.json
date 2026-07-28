@@ -1,0 +1,180 @@
+{
+  "chart_id": "71724a2352062e97",
+  "chart_type": "Bar Chart",
+  "image_width": 3563,
+  "image_height": 1763,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "USA",
+      "value": "15.82",
+      "value_numeric": 15.82,
+      "element_bbox": [
+        100,
+        114,
+        169,
+        694
+      ],
+      "value_bbox": [
+        118,
+        92,
+        151,
+        114
+      ]
+    },
+    {
+      "label": "Australia & New Zealand",
+      "value": "13.92",
+      "value_numeric": 13.92,
+      "element_bbox": [
+        186,
+        186,
+        255,
+        694
+      ],
+      "value_bbox": [
+        204,
+        164,
+        237,
+        186
+      ]
+    },
+    {
+      "label": "Canada",
+      "value": "12.66",
+      "value_numeric": 12.66,
+      "element_bbox": [
+        273,
+        221,
+        342,
+        694
+      ],
+      "value_bbox": [
+        291,
+        200,
+        324,
+        221
+      ]
+    },
+    {
+      "label": "Northern Ireland",
+      "value": "12.30",
+      "value_numeric": 12.3,
+      "element_bbox": [
+        359,
+        232,
+        428,
+        694
+      ],
+      "value_bbox": [
+        377,
+        210,
+        410,
+        232
+      ]
+    },
+    {
+      "label": "France",
+      "value": "10.50",
+      "value_numeric": 10.5,
+      "element_bbox": [
+        445,
+        305,
+        514,
+        694
+      ],
+      "value_bbox": [
+        463,
+        283,
+        496,
+        305
+      ]
+    },
+    {
+      "label": "Sweden",
+      "value": "10.19",
+      "value_numeric": 10.19,
+      "element_bbox": [
+        531,
+        320,
+        600,
+        694
+      ],
+      "value_bbox": [
+        549,
+        298,
+        582,
+        320
+      ]
+    },
+    {
+      "label": "Netherlands",
+      "value": "10.09",
+      "value_numeric": 10.09,
+      "element_bbox": [
+        618,
+        327,
+        687,
+        694
+      ],
+      "value_bbox": [
+        636,
+        305,
+        669,
+        327
+      ]
+    },
+    {
+      "label": "Japan",
+      "value": "9.99",
+      "value_numeric": 9.99,
+      "element_bbox": [
+        704,
+        334,
+        773,
+        694
+      ],
+      "value_bbox": [
+        726,
+        312,
+        751,
+        334
+      ]
+    },
+    {
+      "label": "Germany (EU)",
+      "value": "9.35",
+      "value_numeric": 9.35,
+      "element_bbox": [
+        790,
+        343,
+        859,
+        694
+      ],
+      "value_bbox": [
+        812,
+        322,
+        837,
+        343
+      ]
+    },
+    {
+      "label": "South Korea",
+      "value": "8.92",
+      "value_numeric": 8.92,
+      "element_bbox": [
+        876,
+        373,
+        945,
+        694
+      ],
+      "value_bbox": [
+        898,
+        351,
+        924,
+        373
+      ]
+    }
+  ]
+}

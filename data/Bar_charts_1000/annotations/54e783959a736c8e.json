@@ -1,0 +1,78 @@
+{
+  "chart_id": "54e783959a736c8e",
+  "chart_type": "Bar Chart",
+  "image_width": 2315,
+  "image_height": 1381,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Ethiopia",
+      "value": "15.5",
+      "value_numeric": 15.5,
+      "element_bbox": [
+        125,
+        708,
+        374,
+        855
+      ],
+      "value_bbox": [
+        381,
+        768,
+        430,
+        795
+      ]
+    },
+    {
+      "label": "Estonia",
+      "value": "26.5",
+      "value_numeric": 26.5,
+      "element_bbox": [
+        125,
+        523,
+        550,
+        671
+      ],
+      "value_bbox": [
+        558,
+        584,
+        606,
+        611
+      ]
+    },
+    {
+      "label": "El Salvador",
+      "value": "46.0",
+      "value_numeric": 46.0,
+      "element_bbox": [
+        125,
+        339,
+        863,
+        487
+      ],
+      "value_bbox": [
+        871,
+        399,
+        919,
+        426
+      ]
+    },
+    {
+      "label": "Arab Rep",
+      "value": "18.5",
+      "value_numeric": 18.5,
+      "element_bbox": [
+        125,
+        155,
+        422,
+        302
+      ],
+      "value_bbox": [
+        430,
+        215,
+        478,
+        242
+      ]
+    }
+  ]
+}

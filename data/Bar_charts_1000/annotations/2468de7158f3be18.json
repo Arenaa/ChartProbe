@@ -1,0 +1,78 @@
+{
+  "chart_id": "2468de7158f3be18",
+  "chart_type": "Bar Chart",
+  "image_width": 1710,
+  "image_height": 1381,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Belize",
+      "value": "27.54",
+      "value_numeric": 27.54,
+      "element_bbox": [
+        160,
+        882,
+        202,
+        890
+      ],
+      "value_bbox": [
+        150,
+        855,
+        212,
+        882
+      ]
+    },
+    {
+      "label": "Ecuador",
+      "value": "59.11",
+      "value_numeric": 59.11,
+      "element_bbox": [
+        367,
+        890,
+        409,
+        890
+      ],
+      "value_bbox": [
+        416,
+        876,
+        478,
+        904
+      ]
+    },
+    {
+      "label": "Panama",
+      "value": "37.12",
+      "value_numeric": 37.12,
+      "element_bbox": [
+        575,
+        871,
+        616,
+        890
+      ],
+      "value_bbox": [
+        564,
+        844,
+        626,
+        871
+      ]
+    },
+    {
+      "label": "Zambia",
+      "value": "34.95",
+      "value_numeric": 34.95,
+      "element_bbox": [
+        782,
+        889,
+        823,
+        890
+      ],
+      "value_bbox": [
+        831,
+        876,
+        892,
+        903
+      ]
+    }
+  ]
+}

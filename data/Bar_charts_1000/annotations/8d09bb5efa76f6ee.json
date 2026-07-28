@@ -1,0 +1,95 @@
+{
+  "chart_id": "8d09bb5efa76f6ee",
+  "chart_type": "Bar Chart",
+  "image_width": 3738,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Nepal",
+      "value": "29000000000",
+      "value_numeric": 29000000000.0,
+      "element_bbox": [
+        102,
+        723,
+        250,
+        847
+      ],
+      "value_bbox": [
+        258,
+        774,
+        338,
+        796
+      ]
+    },
+    {
+      "label": "Morocco",
+      "value": "25000000000",
+      "value_numeric": 25000000000.0,
+      "element_bbox": [
+        102,
+        568,
+        229,
+        692
+      ],
+      "value_bbox": [
+        238,
+        619,
+        318,
+        641
+      ]
+    },
+    {
+      "label": "Moldova",
+      "value": "1500000000",
+      "value_numeric": 1500000000.0,
+      "element_bbox": [
+        102,
+        414,
+        109,
+        537
+      ],
+      "value_bbox": [
+        118,
+        465,
+        191,
+        486
+      ]
+    },
+    {
+      "label": "Maldives",
+      "value": "500000000",
+      "value_numeric": 500000000.0,
+      "element_bbox": [
+        102,
+        259,
+        104,
+        383
+      ],
+      "value_bbox": [
+        113,
+        310,
+        179,
+        332
+      ]
+    },
+    {
+      "label": "Malaysia",
+      "value": "165000000000",
+      "value_numeric": 165000000000.0,
+      "element_bbox": [
+        102,
+        104,
+        943,
+        228
+      ],
+      "value_bbox": [
+        952,
+        155,
+        1000,
+        177
+      ]
+    }
+  ]
+}

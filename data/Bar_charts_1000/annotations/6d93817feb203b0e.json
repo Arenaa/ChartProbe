@@ -1,0 +1,95 @@
+{
+  "chart_id": "6d93817feb203b0e",
+  "chart_type": "Bar Chart",
+  "image_width": 2978,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Bulgaria",
+      "value": "18.5%",
+      "value_numeric": 18.5,
+      "element_bbox": [
+        118,
+        723,
+        941,
+        847
+      ],
+      "value_bbox": [
+        950,
+        774,
+        993,
+        796
+      ]
+    },
+    {
+      "label": "Brazil",
+      "value": "7.5%",
+      "value_numeric": 7.5,
+      "element_bbox": [
+        118,
+        568,
+        452,
+        692
+      ],
+      "value_bbox": [
+        460,
+        619,
+        495,
+        641
+      ]
+    },
+    {
+      "label": "Bolivia",
+      "value": "4.5%",
+      "value_numeric": 4.5,
+      "element_bbox": [
+        118,
+        414,
+        318,
+        537
+      ],
+      "value_bbox": [
+        327,
+        465,
+        362,
+        486
+      ]
+    },
+    {
+      "label": "Benin",
+      "value": "1.0%",
+      "value_numeric": 1.0,
+      "element_bbox": [
+        118,
+        259,
+        163,
+        383
+      ],
+      "value_bbox": [
+        171,
+        310,
+        206,
+        332
+      ]
+    },
+    {
+      "label": "Belize",
+      "value": "7.0%",
+      "value_numeric": 7.0,
+      "element_bbox": [
+        118,
+        104,
+        430,
+        228
+      ],
+      "value_bbox": [
+        438,
+        155,
+        473,
+        177
+      ]
+    }
+  ]
+}

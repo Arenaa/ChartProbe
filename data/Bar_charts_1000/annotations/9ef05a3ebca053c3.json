@@ -1,0 +1,95 @@
+{
+  "chart_id": "9ef05a3ebca053c3",
+  "chart_type": "Bar Chart",
+  "image_width": 2947,
+  "image_height": 1745,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "International",
+      "value": "530214",
+      "value_numeric": 530214.0,
+      "element_bbox": [
+        152,
+        122,
+        284,
+        771
+      ],
+      "value_bbox": [
+        192,
+        101,
+        244,
+        122
+      ]
+    },
+    {
+      "label": "Local",
+      "value": "113490",
+      "value_numeric": 113490.0,
+      "element_bbox": [
+        317,
+        632,
+        449,
+        771
+      ],
+      "value_bbox": [
+        357,
+        611,
+        409,
+        632
+      ]
+    },
+    {
+      "label": "Corporate",
+      "value": "24440",
+      "value_numeric": 24440.0,
+      "element_bbox": [
+        481,
+        741,
+        613,
+        771
+      ],
+      "value_bbox": [
+        525,
+        720,
+        569,
+        741
+      ]
+    },
+    {
+      "label": "Research Institute",
+      "value": "22750",
+      "value_numeric": 22750.0,
+      "element_bbox": [
+        646,
+        744,
+        778,
+        771
+      ],
+      "value_bbox": [
+        690,
+        722,
+        734,
+        744
+      ]
+    },
+    {
+      "label": "University",
+      "value": "6825",
+      "value_numeric": 6825.0,
+      "element_bbox": [
+        811,
+        763,
+        942,
+        771
+      ],
+      "value_bbox": [
+        859,
+        741,
+        894,
+        763
+      ]
+    }
+  ]
+}

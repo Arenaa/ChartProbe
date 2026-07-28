@@ -1,0 +1,129 @@
+{
+  "chart_id": "357617fa604f4c9e",
+  "chart_type": "Bar Chart",
+  "image_width": 2951,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Sweden",
+      "value": "48.5",
+      "value_numeric": 48.5,
+      "element_bbox": [
+        132,
+        101,
+        942,
+        192
+      ],
+      "value_bbox": [
+        950,
+        136,
+        981,
+        157
+      ]
+    },
+    {
+      "label": "USA",
+      "value": "47.5",
+      "value_numeric": 47.5,
+      "element_bbox": [
+        132,
+        214,
+        889,
+        305
+      ],
+      "value_bbox": [
+        898,
+        249,
+        929,
+        271
+      ]
+    },
+    {
+      "label": "Germany",
+      "value": "46.5",
+      "value_numeric": 46.5,
+      "element_bbox": [
+        132,
+        328,
+        880,
+        419
+      ],
+      "value_bbox": [
+        888,
+        362,
+        919,
+        384
+      ]
+    },
+    {
+      "label": "Canada",
+      "value": "42.8",
+      "value_numeric": 42.8,
+      "element_bbox": [
+        132,
+        441,
+        822,
+        532
+      ],
+      "value_bbox": [
+        830,
+        476,
+        861,
+        498
+      ]
+    },
+    {
+      "label": "Australia",
+      "value": "42.7",
+      "value_numeric": 42.7,
+      "element_bbox": [
+        132,
+        555,
+        821,
+        646
+      ],
+      "value_bbox": [
+        830,
+        589,
+        861,
+        611
+      ]
+    },
+    {
+      "label": "New Zealand",
+      "value": "37.5",
+      "value_numeric": 37.5,
+      "element_bbox": [
+        132,
+        668,
+        767,
+        759
+      ],
+      "value_bbox": [
+        776,
+        703,
+        806,
+        724
+      ]
+    },
+    {
+      "label": "Norway",
+      "value": "34.0",
+      "value_numeric": 34.0,
+      "element_bbox": [
+        132,
+        782,
+        695,
+        872
+      ],
+      "value_bbox": [
+        704,
+        816,
+        735,
+        838
+      ]
+    }
+  ]
+}

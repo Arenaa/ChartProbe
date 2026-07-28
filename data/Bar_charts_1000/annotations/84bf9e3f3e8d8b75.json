@@ -1,0 +1,163 @@
+{
+  "chart_id": "84bf9e3f3e8d8b75",
+  "chart_type": "Bar Chart",
+  "image_width": 3567,
+  "image_height": 2065,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Brazil",
+      "value": "1.0",
+      "value_numeric": 1.0,
+      "element_bbox": [
+        68,
+        385,
+        109,
+        911
+      ],
+      "value_bbox": [
+        79,
+        366,
+        98,
+        385
+      ]
+    },
+    {
+      "label": "Chile",
+      "value": "1.03",
+      "value_numeric": 1.03,
+      "element_bbox": [
+        171,
+        585,
+        213,
+        911
+      ],
+      "value_bbox": [
+        179,
+        567,
+        205,
+        585
+      ]
+    },
+    {
+      "label": "Colombia",
+      "value": "1.46",
+      "value_numeric": 1.46,
+      "element_bbox": [
+        275,
+        326,
+        316,
+        911
+      ],
+      "value_bbox": [
+        282,
+        308,
+        308,
+        326
+      ]
+    },
+    {
+      "label": "Ecuador",
+      "value": "1.47",
+      "value_numeric": 1.47,
+      "element_bbox": [
+        378,
+        443,
+        419,
+        911
+      ],
+      "value_bbox": [
+        386,
+        425,
+        412,
+        443
+      ]
+    },
+    {
+      "label": "Kenya",
+      "value": "1.84",
+      "value_numeric": 1.84,
+      "element_bbox": [
+        481,
+        323,
+        523,
+        911
+      ],
+      "value_bbox": [
+        489,
+        305,
+        515,
+        323
+      ]
+    },
+    {
+      "label": "Pakistan",
+      "value": "2.15",
+      "value_numeric": 2.15,
+      "element_bbox": [
+        585,
+        209,
+        626,
+        911
+      ],
+      "value_bbox": [
+        593,
+        191,
+        618,
+        209
+      ]
+    },
+    {
+      "label": "Panama",
+      "value": "2.45",
+      "value_numeric": 2.45,
+      "element_bbox": [
+        688,
+        166,
+        730,
+        911
+      ],
+      "value_bbox": [
+        696,
+        147,
+        722,
+        166
+      ]
+    },
+    {
+      "label": "Peru",
+      "value": "0.94",
+      "value_numeric": 0.94,
+      "element_bbox": [
+        792,
+        610,
+        833,
+        911
+      ],
+      "value_bbox": [
+        799,
+        591,
+        825,
+        610
+      ]
+    },
+    {
+      "label": "Vietnam",
+      "value": "1.99",
+      "value_numeric": 1.99,
+      "element_bbox": [
+        895,
+        268,
+        936,
+        911
+      ],
+      "value_bbox": [
+        903,
+        249,
+        928,
+        268
+      ]
+    }
+  ]
+}

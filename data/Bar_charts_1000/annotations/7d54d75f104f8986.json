@@ -1,0 +1,418 @@
+{
+  "chart_id": "7d54d75f104f8986",
+  "chart_type": "Bar Chart",
+  "image_width": 2945,
+  "image_height": 2346,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Digital privacy concerns",
+      "value": "3",
+      "value_numeric": 3.0,
+      "element_bbox": [
+        279,
+        849,
+        335,
+        874
+      ],
+      "value_bbox": [
+        342,
+        853,
+        350,
+        870
+      ]
+    },
+    {
+      "label": "Legal reform gaps",
+      "value": "4",
+      "value_numeric": 4.0,
+      "element_bbox": [
+        279,
+        816,
+        353,
+        842
+      ],
+      "value_bbox": [
+        360,
+        821,
+        369,
+        837
+      ]
+    },
+    {
+      "label": "Religious beliefs",
+      "value": "4",
+      "value_numeric": 4.0,
+      "element_bbox": [
+        279,
+        784,
+        353,
+        810
+      ],
+      "value_bbox": [
+        360,
+        789,
+        369,
+        805
+      ]
+    },
+    {
+      "label": "Domestic law ambiguity",
+      "value": "4",
+      "value_numeric": 4.0,
+      "element_bbox": [
+        279,
+        752,
+        353,
+        777
+      ],
+      "value_bbox": [
+        360,
+        756,
+        369,
+        773
+      ]
+    },
+    {
+      "label": "Digital surveillance",
+      "value": "5",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        279,
+        719,
+        372,
+        745
+      ],
+      "value_bbox": [
+        379,
+        724,
+        388,
+        740
+      ]
+    },
+    {
+      "label": "Limited support services",
+      "value": "5",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        279,
+        687,
+        372,
+        713
+      ],
+      "value_bbox": [
+        379,
+        692,
+        388,
+        708
+      ]
+    },
+    {
+      "label": "Neighbourhood pressure",
+      "value": "6",
+      "value_numeric": 6.0,
+      "element_bbox": [
+        279,
+        655,
+        390,
+        681
+      ],
+      "value_bbox": [
+        397,
+        660,
+        406,
+        676
+      ]
+    },
+    {
+      "label": "Legal ambiguity",
+      "value": "7",
+      "value_numeric": 7.0,
+      "element_bbox": [
+        279,
+        622,
+        409,
+        648
+      ],
+      "value_bbox": [
+        416,
+        627,
+        425,
+        644
+      ]
+    },
+    {
+      "label": "Weak legal enforcement",
+      "value": "9",
+      "value_numeric": 9.0,
+      "element_bbox": [
+        279,
+        590,
+        446,
+        616
+      ],
+      "value_bbox": [
+        453,
+        595,
+        462,
+        611
+      ]
+    },
+    {
+      "label": "Media influence",
+      "value": "9",
+      "value_numeric": 9.0,
+      "element_bbox": [
+        279,
+        558,
+        446,
+        584
+      ],
+      "value_bbox": [
+        453,
+        563,
+        462,
+        579
+      ]
+    },
+    {
+      "label": "Online harassment",
+      "value": "10",
+      "value_numeric": 10.0,
+      "element_bbox": [
+        279,
+        526,
+        465,
+        551
+      ],
+      "value_bbox": [
+        472,
+        530,
+        489,
+        547
+      ]
+    },
+    {
+      "label": "Cultural norms",
+      "value": "11",
+      "value_numeric": 11.0,
+      "element_bbox": [
+        279,
+        493,
+        483,
+        519
+      ],
+      "value_bbox": [
+        490,
+        498,
+        508,
+        514
+      ]
+    },
+    {
+      "label": "Urban migration",
+      "value": "12",
+      "value_numeric": 12.0,
+      "element_bbox": [
+        279,
+        461,
+        502,
+        487
+      ],
+      "value_bbox": [
+        509,
+        466,
+        527,
+        482
+      ]
+    },
+    {
+      "label": "Alcohol abuse",
+      "value": "15",
+      "value_numeric": 15.0,
+      "element_bbox": [
+        279,
+        429,
+        558,
+        455
+      ],
+      "value_bbox": [
+        565,
+        433,
+        582,
+        450
+      ]
+    },
+    {
+      "label": "Infidelity",
+      "value": "16",
+      "value_numeric": 16.0,
+      "element_bbox": [
+        279,
+        396,
+        576,
+        422
+      ],
+      "value_bbox": [
+        583,
+        401,
+        601,
+        417
+      ]
+    },
+    {
+      "label": "Social stigma",
+      "value": "17",
+      "value_numeric": 17.0,
+      "element_bbox": [
+        279,
+        364,
+        595,
+        390
+      ],
+      "value_bbox": [
+        602,
+        369,
+        620,
+        385
+      ]
+    },
+    {
+      "label": "Financial control",
+      "value": "18",
+      "value_numeric": 18.0,
+      "element_bbox": [
+        279,
+        332,
+        614,
+        358
+      ],
+      "value_bbox": [
+        621,
+        337,
+        638,
+        353
+      ]
+    },
+    {
+      "label": "Unintentional fire accident",
+      "value": "19",
+      "value_numeric": 19.0,
+      "element_bbox": [
+        279,
+        300,
+        632,
+        325
+      ],
+      "value_bbox": [
+        639,
+        304,
+        657,
+        321
+      ]
+    },
+    {
+      "label": "Child neglect",
+      "value": "22",
+      "value_numeric": 22.0,
+      "element_bbox": [
+        279,
+        267,
+        688,
+        293
+      ],
+      "value_bbox": [
+        695,
+        272,
+        713,
+        288
+      ]
+    },
+    {
+      "label": "Mental health issues",
+      "value": "23",
+      "value_numeric": 23.0,
+      "element_bbox": [
+        279,
+        235,
+        707,
+        261
+      ],
+      "value_bbox": [
+        714,
+        240,
+        731,
+        256
+      ]
+    },
+    {
+      "label": "Economic hardship",
+      "value": "26",
+      "value_numeric": 26.0,
+      "element_bbox": [
+        279,
+        203,
+        762,
+        228
+      ],
+      "value_bbox": [
+        769,
+        207,
+        787,
+        224
+      ]
+    },
+    {
+      "label": "Condoned beating",
+      "value": "27",
+      "value_numeric": 27.0,
+      "element_bbox": [
+        279,
+        170,
+        781,
+        196
+      ],
+      "value_bbox": [
+        788,
+        175,
+        806,
+        191
+      ]
+    },
+    {
+      "label": "COVID-19 economic pressure",
+      "value": "27",
+      "value_numeric": 27.0,
+      "element_bbox": [
+        279,
+        138,
+        781,
+        164
+      ],
+      "value_bbox": [
+        788,
+        143,
+        806,
+        159
+      ]
+    },
+    {
+      "label": "Argument escalation",
+      "value": "36",
+      "value_numeric": 36.0,
+      "element_bbox": [
+        279,
+        106,
+        949,
+        132
+      ],
+      "value_bbox": [
+        956,
+        111,
+        973,
+        127
+      ]
+    }
+  ]
+}

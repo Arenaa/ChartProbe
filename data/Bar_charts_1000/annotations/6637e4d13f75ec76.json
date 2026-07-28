@@ -1,0 +1,95 @@
+{
+  "chart_id": "6637e4d13f75ec76",
+  "chart_type": "Bar Chart",
+  "image_width": 2364,
+  "image_height": 1464,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "< 1 year",
+      "value": "48",
+      "value_numeric": 48.0,
+      "element_bbox": [
+        107,
+        138,
+        250,
+        866
+      ],
+      "value_bbox": [
+        167,
+        112,
+        189,
+        138
+      ]
+    },
+    {
+      "label": "1-2 years",
+      "value": "32",
+      "value_numeric": 32.0,
+      "element_bbox": [
+        285,
+        381,
+        428,
+        866
+      ],
+      "value_bbox": [
+        346,
+        355,
+        367,
+        381
+      ]
+    },
+    {
+      "label": "2-3 years",
+      "value": "14",
+      "value_numeric": 14.0,
+      "element_bbox": [
+        464,
+        654,
+        606,
+        866
+      ],
+      "value_bbox": [
+        524,
+        628,
+        546,
+        654
+      ]
+    },
+    {
+      "label": "> 3 years",
+      "value": "9",
+      "value_numeric": 9.0,
+      "element_bbox": [
+        642,
+        730,
+        785,
+        866
+      ],
+      "value_bbox": [
+        708,
+        704,
+        719,
+        730
+      ]
+    },
+    {
+      "label": "5+ years",
+      "value": "5",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        821,
+        791,
+        963,
+        866
+      ],
+      "value_bbox": [
+        887,
+        765,
+        897,
+        791
+      ]
+    }
+  ]
+}

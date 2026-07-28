@@ -1,0 +1,95 @@
+{
+  "chart_id": "888b68b6ad699f37",
+  "chart_type": "Bar Chart",
+  "image_width": 3564,
+  "image_height": 2363,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Brazil",
+      "value": "12.0",
+      "value_numeric": 12.0,
+      "element_bbox": [
+        109,
+        661,
+        171,
+        861
+      ],
+      "value_bbox": [
+        127,
+        645,
+        153,
+        661
+      ]
+    },
+    {
+      "label": "Ghana",
+      "value": "26.8",
+      "value_numeric": 26.8,
+      "element_bbox": [
+        287,
+        403,
+        349,
+        861
+      ],
+      "value_bbox": [
+        305,
+        387,
+        331,
+        403
+      ]
+    },
+    {
+      "label": "India",
+      "value": "19.9",
+      "value_numeric": 19.9,
+      "element_bbox": [
+        465,
+        528,
+        527,
+        861
+      ],
+      "value_bbox": [
+        483,
+        512,
+        509,
+        528
+      ]
+    },
+    {
+      "label": "Malawi",
+      "value": "43.8",
+      "value_numeric": 43.8,
+      "element_bbox": [
+        643,
+        102,
+        705,
+        861
+      ],
+      "value_bbox": [
+        661,
+        85,
+        687,
+        102
+      ]
+    },
+    {
+      "label": "South Africa",
+      "value": "30.9",
+      "value_numeric": 30.9,
+      "element_bbox": [
+        821,
+        330,
+        883,
+        861
+      ],
+      "value_bbox": [
+        839,
+        314,
+        865,
+        330
+      ]
+    }
+  ]
+}

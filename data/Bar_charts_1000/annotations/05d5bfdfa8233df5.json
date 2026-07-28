@@ -1,0 +1,248 @@
+{
+  "chart_id": "05d5bfdfa8233df5",
+  "chart_type": "Bar Chart",
+  "image_width": 3545,
+  "image_height": 2345,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "North Africa",
+      "value": "41.01",
+      "value_numeric": 41.01,
+      "element_bbox": [
+        97,
+        103,
+        138,
+        814
+      ],
+      "value_bbox": [
+        101,
+        87,
+        134,
+        103
+      ]
+    },
+    {
+      "label": "Bangladesh",
+      "value": "27.34",
+      "value_numeric": 27.34,
+      "element_bbox": [
+        148,
+        340,
+        188,
+        814
+      ],
+      "value_bbox": [
+        152,
+        324,
+        185,
+        340
+      ]
+    },
+    {
+      "label": "Zambia",
+      "value": "2.59",
+      "value_numeric": 2.59,
+      "element_bbox": [
+        199,
+        769,
+        239,
+        814
+      ],
+      "value_bbox": [
+        206,
+        753,
+        232,
+        769
+      ]
+    },
+    {
+      "label": "Ethiopia",
+      "value": "2.48",
+      "value_numeric": 2.48,
+      "element_bbox": [
+        250,
+        771,
+        290,
+        814
+      ],
+      "value_bbox": [
+        257,
+        755,
+        283,
+        771
+      ]
+    },
+    {
+      "label": "Kenya",
+      "value": "1.72",
+      "value_numeric": 1.72,
+      "element_bbox": [
+        300,
+        784,
+        341,
+        814
+      ],
+      "value_bbox": [
+        308,
+        768,
+        334,
+        784
+      ]
+    },
+    {
+      "label": "Morocco",
+      "value": "4.47",
+      "value_numeric": 4.47,
+      "element_bbox": [
+        351,
+        736,
+        392,
+        814
+      ],
+      "value_bbox": [
+        359,
+        720,
+        385,
+        736
+      ]
+    },
+    {
+      "label": "West Africa",
+      "value": "2.7",
+      "value_numeric": 2.7,
+      "element_bbox": [
+        402,
+        767,
+        443,
+        814
+      ],
+      "value_bbox": [
+        413,
+        751,
+        432,
+        767
+      ]
+    },
+    {
+      "label": "East Africa",
+      "value": "2.21",
+      "value_numeric": 2.21,
+      "element_bbox": [
+        453,
+        776,
+        494,
+        814
+      ],
+      "value_bbox": [
+        461,
+        759,
+        486,
+        776
+      ]
+    },
+    {
+      "label": "Southern Africa",
+      "value": "2.59",
+      "value_numeric": 2.59,
+      "element_bbox": [
+        504,
+        769,
+        545,
+        814
+      ],
+      "value_bbox": [
+        511,
+        753,
+        537,
+        769
+      ]
+    },
+    {
+      "label": "Sudan",
+      "value": "3.11",
+      "value_numeric": 3.11,
+      "element_bbox": [
+        555,
+        759,
+        596,
+        814
+      ],
+      "value_bbox": [
+        562,
+        743,
+        588,
+        759
+      ]
+    },
+    {
+      "label": "Tanzania",
+      "value": "1.78",
+      "value_numeric": 1.78,
+      "element_bbox": [
+        606,
+        783,
+        646,
+        814
+      ],
+      "value_bbox": [
+        613,
+        767,
+        639,
+        783
+      ]
+    },
+    {
+      "label": "Uganda",
+      "value": "1.32",
+      "value_numeric": 1.32,
+      "element_bbox": [
+        657,
+        791,
+        697,
+        814
+      ],
+      "value_bbox": [
+        664,
+        775,
+        690,
+        791
+      ]
+    },
+    {
+      "label": "Rwanda",
+      "value": "0.84",
+      "value_numeric": 0.84,
+      "element_bbox": [
+        708,
+        799,
+        748,
+        814
+      ],
+      "value_bbox": [
+        715,
+        783,
+        741,
+        799
+      ]
+    },
+    {
+      "label": "Eritrea",
+      "value": "0.73",
+      "value_numeric": 0.73,
+      "element_bbox": [
+        758,
+        801,
+        799,
+        814
+      ],
+      "value_bbox": [
+        806,
+        799,
+        832,
+        816
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "chart_id": "def0ce5499bb8b31",
+  "chart_type": "Bar Chart",
+  "image_width": 2769,
+  "image_height": 1736,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Haiti",
+      "value": "25",
+      "value_numeric": 25.0,
+      "element_bbox": [
+        160,
+        715,
+        362,
+        890
+      ],
+      "value_bbox": [
+        252,
+        693,
+        270,
+        715
+      ]
+    },
+    {
+      "label": "Micronesia",
+      "value": "100",
+      "value_numeric": 100.0,
+      "element_bbox": [
+        412,
+        190,
+        613,
+        890
+      ],
+      "value_bbox": [
+        499,
+        168,
+        526,
+        190
+      ]
+    },
+    {
+      "label": "Papua New Guinea",
+      "value": "50",
+      "value_numeric": 50.0,
+      "element_bbox": [
+        663,
+        540,
+        865,
+        890
+      ],
+      "value_bbox": [
+        755,
+        518,
+        773,
+        540
+      ]
+    }
+  ]
+}

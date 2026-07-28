@@ -1,0 +1,95 @@
+{
+  "chart_id": "4adfe7cf5506c545",
+  "chart_type": "Bar Chart",
+  "image_width": 2646,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Argentina",
+      "value": "50",
+      "value_numeric": 50.0,
+      "element_bbox": [
+        111,
+        586,
+        253,
+        884
+      ],
+      "value_bbox": [
+        172,
+        564,
+        191,
+        586
+      ]
+    },
+    {
+      "label": "Chile",
+      "value": "63",
+      "value_numeric": 63.0,
+      "element_bbox": [
+        288,
+        509,
+        430,
+        884
+      ],
+      "value_bbox": [
+        349,
+        487,
+        369,
+        509
+      ]
+    },
+    {
+      "label": "Mexico",
+      "value": "127",
+      "value_numeric": 127.0,
+      "element_bbox": [
+        465,
+        128,
+        607,
+        884
+      ],
+      "value_bbox": [
+        522,
+        106,
+        551,
+        128
+      ]
+    },
+    {
+      "label": "Pakistan",
+      "value": "21",
+      "value_numeric": 21.0,
+      "element_bbox": [
+        643,
+        759,
+        785,
+        884
+      ],
+      "value_bbox": [
+        704,
+        737,
+        724,
+        759
+      ]
+    },
+    {
+      "label": "Peru",
+      "value": "76",
+      "value_numeric": 76.0,
+      "element_bbox": [
+        820,
+        431,
+        962,
+        884
+      ],
+      "value_bbox": [
+        882,
+        410,
+        901,
+        431
+      ]
+    }
+  ]
+}

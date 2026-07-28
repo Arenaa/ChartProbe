@@ -1,0 +1,44 @@
+{
+  "chart_id": "2239c6de7eac0f09",
+  "chart_type": "Bar Chart",
+  "image_width": 1772,
+  "image_height": 1428,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Arms exports",
+      "value": "1000000",
+      "value_numeric": 1000000.0,
+      "element_bbox": [
+        160,
+        887,
+        239,
+        890
+      ],
+      "value_bbox": [
+        152,
+        859,
+        247,
+        887
+      ]
+    },
+    {
+      "label": "Arms imports",
+      "value": "100000000",
+      "value_numeric": 100000000.0,
+      "element_bbox": [
+        552,
+        576,
+        630,
+        890
+      ],
+      "value_bbox": [
+        529,
+        549,
+        652,
+        576
+      ]
+    }
+  ]
+}

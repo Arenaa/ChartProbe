@@ -1,0 +1,44 @@
+{
+  "chart_id": "2b487b0bb2abe681",
+  "chart_type": "Bar Chart",
+  "image_width": 3505,
+  "image_height": 1736,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Female labors",
+      "value": "67",
+      "value_numeric": 67.0,
+      "element_bbox": [
+        125,
+        722,
+        559,
+        855
+      ],
+      "value_bbox": [
+        567,
+        778,
+        584,
+        799
+      ]
+    },
+    {
+      "label": "Male labors",
+      "value": "81",
+      "value_numeric": 81.0,
+      "element_bbox": [
+        125,
+        555,
+        516,
+        688
+      ],
+      "value_bbox": [
+        524,
+        611,
+        541,
+        633
+      ]
+    }
+  ]
+}

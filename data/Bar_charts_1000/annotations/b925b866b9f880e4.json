@@ -1,0 +1,129 @@
+{
+  "chart_id": "b925b866b9f880e4",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "MENA (incl.)",
+      "value": "360.5",
+      "value_numeric": 360.5,
+      "element_bbox": [
+        97,
+        124,
+        199,
+        810
+      ],
+      "value_bbox": [
+        128,
+        102,
+        168,
+        124
+      ]
+    },
+    {
+      "label": "Cabo Verde",
+      "value": "2.4",
+      "value_numeric": 2.4,
+      "element_bbox": [
+        225,
+        805,
+        328,
+        810
+      ],
+      "value_bbox": [
+        265,
+        784,
+        287,
+        805
+      ]
+    },
+    {
+      "label": "Denmark",
+      "value": "53.6",
+      "value_numeric": 53.6,
+      "element_bbox": [
+        353,
+        708,
+        456,
+        810
+      ],
+      "value_bbox": [
+        389,
+        686,
+        420,
+        708
+      ]
+    },
+    {
+      "label": "Portugal",
+      "value": "43.3",
+      "value_numeric": 43.3,
+      "element_bbox": [
+        482,
+        727,
+        584,
+        810
+      ],
+      "value_bbox": [
+        518,
+        706,
+        548,
+        727
+      ]
+    },
+    {
+      "label": "Tunisia",
+      "value": "91.5",
+      "value_numeric": 91.5,
+      "element_bbox": [
+        610,
+        636,
+        713,
+        810
+      ],
+      "value_bbox": [
+        646,
+        614,
+        677,
+        636
+      ]
+    },
+    {
+      "label": "Morocco",
+      "value": "67.3",
+      "value_numeric": 67.3,
+      "element_bbox": [
+        738,
+        682,
+        841,
+        810
+      ],
+      "value_bbox": [
+        774,
+        660,
+        805,
+        682
+      ]
+    },
+    {
+      "label": "Egypt",
+      "value": "52.6",
+      "value_numeric": 52.6,
+      "element_bbox": [
+        867,
+        710,
+        969,
+        810
+      ],
+      "value_bbox": [
+        902,
+        688,
+        933,
+        710
+      ]
+    }
+  ]
+}

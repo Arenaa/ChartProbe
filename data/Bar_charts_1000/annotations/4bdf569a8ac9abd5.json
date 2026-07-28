@@ -1,0 +1,180 @@
+{
+  "chart_id": "4bdf569a8ac9abd5",
+  "chart_type": "Bar Chart",
+  "image_width": 2989,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Asia Pacific",
+      "value": "35",
+      "value_numeric": 35.0,
+      "element_bbox": [
+        218,
+        98,
+        972,
+        161
+      ],
+      "value_bbox": [
+        980,
+        119,
+        997,
+        140
+      ]
+    },
+    {
+      "label": "North America",
+      "value": "29.2",
+      "value_numeric": 29.2,
+      "element_bbox": [
+        218,
+        177,
+        847,
+        241
+      ],
+      "value_bbox": [
+        855,
+        198,
+        886,
+        220
+      ]
+    },
+    {
+      "label": "Latin America",
+      "value": "28.1",
+      "value_numeric": 28.1,
+      "element_bbox": [
+        218,
+        256,
+        824,
+        320
+      ],
+      "value_bbox": [
+        831,
+        277,
+        862,
+        299
+      ]
+    },
+    {
+      "label": "Southern Europe",
+      "value": "22",
+      "value_numeric": 22.0,
+      "element_bbox": [
+        218,
+        336,
+        692,
+        399
+      ],
+      "value_bbox": [
+        700,
+        357,
+        717,
+        378
+      ]
+    },
+    {
+      "label": "Middle East",
+      "value": "21.5",
+      "value_numeric": 21.5,
+      "element_bbox": [
+        218,
+        415,
+        681,
+        479
+      ],
+      "value_bbox": [
+        689,
+        436,
+        720,
+        458
+      ]
+    },
+    {
+      "label": "European Union",
+      "value": "18.3",
+      "value_numeric": 18.3,
+      "element_bbox": [
+        218,
+        495,
+        612,
+        558
+      ],
+      "value_bbox": [
+        620,
+        516,
+        651,
+        537
+      ]
+    },
+    {
+      "label": "Central Europe",
+      "value": "17.7",
+      "value_numeric": 17.7,
+      "element_bbox": [
+        218,
+        574,
+        600,
+        638
+      ],
+      "value_bbox": [
+        607,
+        595,
+        638,
+        617
+      ]
+    },
+    {
+      "label": "Upper Middle Income",
+      "value": "14.5",
+      "value_numeric": 14.5,
+      "element_bbox": [
+        218,
+        653,
+        531,
+        717
+      ],
+      "value_bbox": [
+        538,
+        674,
+        569,
+        696
+      ]
+    },
+    {
+      "label": "Kosovo",
+      "value": "10.8",
+      "value_numeric": 10.8,
+      "element_bbox": [
+        218,
+        733,
+        451,
+        796
+      ],
+      "value_bbox": [
+        458,
+        754,
+        489,
+        775
+      ]
+    },
+    {
+      "label": "Cyprus",
+      "value": "3",
+      "value_numeric": 3.0,
+      "element_bbox": [
+        218,
+        812,
+        283,
+        876
+      ],
+      "value_bbox": [
+        290,
+        833,
+        299,
+        855
+      ]
+    }
+  ]
+}

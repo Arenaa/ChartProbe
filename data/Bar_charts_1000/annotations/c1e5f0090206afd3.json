@@ -1,0 +1,214 @@
+{
+  "chart_id": "c1e5f0090206afd3",
+  "chart_type": "Bar Chart",
+  "image_width": 4744,
+  "image_height": 2649,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "East Asia - Developing",
+      "value": "27",
+      "value_numeric": 27.0,
+      "element_bbox": [
+        69,
+        94,
+        75,
+        756
+      ],
+      "value_bbox": [
+        66,
+        80,
+        77,
+        94
+      ]
+    },
+    {
+      "label": "South Asia - Developing",
+      "value": "13",
+      "value_numeric": 13.0,
+      "element_bbox": [
+        140,
+        319,
+        146,
+        756
+      ],
+      "value_bbox": [
+        137,
+        305,
+        148,
+        319
+      ]
+    },
+    {
+      "label": "MENA",
+      "value": "37",
+      "value_numeric": 37.0,
+      "element_bbox": [
+        211,
+        460,
+        217,
+        756
+      ],
+      "value_bbox": [
+        209,
+        446,
+        219,
+        460
+      ]
+    },
+    {
+      "label": "Sub-Saharan Africa",
+      "value": "8",
+      "value_numeric": 8.0,
+      "element_bbox": [
+        282,
+        573,
+        288,
+        756
+      ],
+      "value_bbox": [
+        282,
+        559,
+        288,
+        573
+      ]
+    },
+    {
+      "label": "Latin America & Caribbean",
+      "value": "35",
+      "value_numeric": 35.0,
+      "element_bbox": [
+        353,
+        488,
+        359,
+        756
+      ],
+      "value_bbox": [
+        351,
+        474,
+        362,
+        488
+      ]
+    },
+    {
+      "label": "North America",
+      "value": "1",
+      "value_numeric": 1.0,
+      "element_bbox": [
+        424,
+        672,
+        430,
+        756
+      ],
+      "value_bbox": [
+        425,
+        657,
+        430,
+        672
+      ]
+    },
+    {
+      "label": "Central America",
+      "value": "10",
+      "value_numeric": 10.0,
+      "element_bbox": [
+        495,
+        643,
+        502,
+        756
+      ],
+      "value_bbox": [
+        493,
+        629,
+        504,
+        643
+      ]
+    },
+    {
+      "label": "Southeast Asia",
+      "value": "7",
+      "value_numeric": 7.0,
+      "element_bbox": [
+        566,
+        432,
+        573,
+        756
+      ],
+      "value_bbox": [
+        567,
+        418,
+        572,
+        432
+      ]
+    },
+    {
+      "label": "Oceania",
+      "value": "4",
+      "value_numeric": 4.0,
+      "element_bbox": [
+        637,
+        686,
+        644,
+        756
+      ],
+      "value_bbox": [
+        638,
+        671,
+        643,
+        686
+      ]
+    },
+    {
+      "label": "Central Asia",
+      "value": "32",
+      "value_numeric": 32.0,
+      "element_bbox": [
+        708,
+        474,
+        715,
+        756
+      ],
+      "value_bbox": [
+        706,
+        460,
+        717,
+        474
+      ]
+    },
+    {
+      "label": "Eastern Europe",
+      "value": "24",
+      "value_numeric": 24.0,
+      "element_bbox": [
+        780,
+        545,
+        786,
+        756
+      ],
+      "value_bbox": [
+        777,
+        530,
+        788,
+        545
+      ]
+    },
+    {
+      "label": "West Asia",
+      "value": "27",
+      "value_numeric": 27.0,
+      "element_bbox": [
+        851,
+        404,
+        857,
+        756
+      ],
+      "value_bbox": [
+        848,
+        389,
+        859,
+        404
+      ]
+    }
+  ]
+}

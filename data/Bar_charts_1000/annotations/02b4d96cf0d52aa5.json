@@ -1,0 +1,78 @@
+{
+  "chart_id": "02b4d96cf0d52aa5",
+  "chart_type": "Bar Chart",
+  "image_width": 2547,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Honduras",
+      "value": "15.5",
+      "value_numeric": 15.5,
+      "element_bbox": [
+        160,
+        221,
+        309,
+        890
+      ],
+      "value_bbox": [
+        219,
+        200,
+        250,
+        221
+      ]
+    },
+    {
+      "label": "Hungary",
+      "value": "2.5",
+      "value_numeric": 2.5,
+      "element_bbox": [
+        346,
+        782,
+        494,
+        890
+      ],
+      "value_bbox": [
+        409,
+        760,
+        431,
+        782
+      ]
+    },
+    {
+      "label": "Iceland",
+      "value": "8.0",
+      "value_numeric": 8.0,
+      "element_bbox": [
+        531,
+        545,
+        679,
+        890
+      ],
+      "value_bbox": [
+        594,
+        523,
+        616,
+        545
+      ]
+    },
+    {
+      "label": "Indonesia",
+      "value": "17.0",
+      "value_numeric": 17.0,
+      "element_bbox": [
+        716,
+        157,
+        865,
+        890
+      ],
+      "value_bbox": [
+        775,
+        135,
+        806,
+        157
+      ]
+    }
+  ]
+}

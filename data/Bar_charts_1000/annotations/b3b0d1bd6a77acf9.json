@@ -1,0 +1,299 @@
+{
+  "chart_id": "b3b0d1bd6a77acf9",
+  "chart_type": "Bar Chart",
+  "image_width": 3546,
+  "image_height": 1853,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Asia-Pacific",
+      "value": "12.05",
+      "value_numeric": 12.05,
+      "element_bbox": [
+        67,
+        575,
+        82,
+        718
+      ],
+      "value_bbox": [
+        58,
+        553,
+        91,
+        575
+      ]
+    },
+    {
+      "label": "Europe",
+      "value": "47.15",
+      "value_numeric": 47.15,
+      "element_bbox": [
+        122,
+        142,
+        136,
+        718
+      ],
+      "value_bbox": [
+        112,
+        120,
+        145,
+        142
+      ]
+    },
+    {
+      "label": "North America",
+      "value": "8.35",
+      "value_numeric": 8.35,
+      "element_bbox": [
+        176,
+        624,
+        190,
+        718
+      ],
+      "value_bbox": [
+        170,
+        602,
+        196,
+        624
+      ]
+    },
+    {
+      "label": "Oceania",
+      "value": "9.35",
+      "value_numeric": 9.35,
+      "element_bbox": [
+        230,
+        611,
+        245,
+        718
+      ],
+      "value_bbox": [
+        225,
+        589,
+        250,
+        611
+      ]
+    },
+    {
+      "label": "Latin America",
+      "value": "7.05",
+      "value_numeric": 7.05,
+      "element_bbox": [
+        284,
+        640,
+        299,
+        718
+      ],
+      "value_bbox": [
+        279,
+        619,
+        305,
+        640
+      ]
+    },
+    {
+      "label": "Middle East",
+      "value": "6.2",
+      "value_numeric": 6.2,
+      "element_bbox": [
+        339,
+        671,
+        353,
+        718
+      ],
+      "value_bbox": [
+        337,
+        650,
+        355,
+        671
+      ]
+    },
+    {
+      "label": "Sub-Saharan Africa",
+      "value": "3.55",
+      "value_numeric": 3.55,
+      "element_bbox": [
+        393,
+        684,
+        408,
+        718
+      ],
+      "value_bbox": [
+        387,
+        662,
+        413,
+        684
+      ]
+    },
+    {
+      "label": "Central Asia",
+      "value": "3.0",
+      "value_numeric": 3.0,
+      "element_bbox": [
+        447,
+        673,
+        462,
+        718
+      ],
+      "value_bbox": [
+        445,
+        651,
+        464,
+        673
+      ]
+    },
+    {
+      "label": "South Asia",
+      "value": "8.75",
+      "value_numeric": 8.75,
+      "element_bbox": [
+        502,
+        619,
+        516,
+        718
+      ],
+      "value_bbox": [
+        496,
+        597,
+        522,
+        619
+      ]
+    },
+    {
+      "label": "Eastern Europe",
+      "value": "9.0",
+      "value_numeric": 9.0,
+      "element_bbox": [
+        556,
+        593,
+        570,
+        718
+      ],
+      "value_bbox": [
+        554,
+        571,
+        572,
+        593
+      ]
+    },
+    {
+      "label": "Central America",
+      "value": "4.2",
+      "value_numeric": 4.2,
+      "element_bbox": [
+        610,
+        667,
+        625,
+        718
+      ],
+      "value_bbox": [
+        608,
+        646,
+        627,
+        667
+      ]
+    },
+    {
+      "label": "Western Europe",
+      "value": "42.85",
+      "value_numeric": 42.85,
+      "element_bbox": [
+        665,
+        200,
+        679,
+        718
+      ],
+      "value_bbox": [
+        655,
+        178,
+        688,
+        200
+      ]
+    },
+    {
+      "label": "North Africa",
+      "value": "3.5",
+      "value_numeric": 3.5,
+      "element_bbox": [
+        719,
+        675,
+        733,
+        718
+      ],
+      "value_bbox": [
+        717,
+        653,
+        735,
+        675
+      ]
+    },
+    {
+      "label": "Central Europe",
+      "value": "17.85",
+      "value_numeric": 17.85,
+      "element_bbox": [
+        773,
+        507,
+        788,
+        718
+      ],
+      "value_bbox": [
+        764,
+        485,
+        797,
+        507
+      ]
+    },
+    {
+      "label": "Southeast Asia",
+      "value": "7.65",
+      "value_numeric": 7.65,
+      "element_bbox": [
+        828,
+        633,
+        842,
+        718
+      ],
+      "value_bbox": [
+        822,
+        611,
+        848,
+        633
+      ]
+    },
+    {
+      "label": "Central Africa",
+      "value": "2.5",
+      "value_numeric": 2.5,
+      "element_bbox": [
+        882,
+        688,
+        896,
+        718
+      ],
+      "value_bbox": [
+        880,
+        666,
+        898,
+        688
+      ]
+    },
+    {
+      "label": "West Africa",
+      "value": "2.8",
+      "value_numeric": 2.8,
+      "element_bbox": [
+        936,
+        687,
+        951,
+        718
+      ],
+      "value_bbox": [
+        934,
+        665,
+        953,
+        687
+      ]
+    }
+  ]
+}

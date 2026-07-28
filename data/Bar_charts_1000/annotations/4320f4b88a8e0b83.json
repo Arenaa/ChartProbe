@@ -1,0 +1,95 @@
+{
+  "chart_id": "4320f4b88a8e0b83",
+  "chart_type": "Bar Chart",
+  "image_width": 2646,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Cameroon",
+      "value": "5.47",
+      "value_numeric": 5.47,
+      "element_bbox": [
+        132,
+        603,
+        267,
+        870
+      ],
+      "value_bbox": [
+        182,
+        582,
+        217,
+        603
+      ]
+    },
+    {
+      "label": "Canada",
+      "value": "8.48",
+      "value_numeric": 8.48,
+      "element_bbox": [
+        300,
+        456,
+        435,
+        870
+      ],
+      "value_bbox": [
+        350,
+        435,
+        385,
+        456
+      ]
+    },
+    {
+      "label": "Chile",
+      "value": "14.47",
+      "value_numeric": 14.47,
+      "element_bbox": [
+        469,
+        164,
+        603,
+        870
+      ],
+      "value_bbox": [
+        514,
+        143,
+        558,
+        164
+      ]
+    },
+    {
+      "label": "China",
+      "value": "7.45",
+      "value_numeric": 7.45,
+      "element_bbox": [
+        637,
+        507,
+        771,
+        870
+      ],
+      "value_bbox": [
+        687,
+        485,
+        721,
+        507
+      ]
+    },
+    {
+      "label": "Germany",
+      "value": "9.25",
+      "value_numeric": 9.25,
+      "element_bbox": [
+        805,
+        419,
+        940,
+        870
+      ],
+      "value_bbox": [
+        855,
+        397,
+        889,
+        419
+      ]
+    }
+  ]
+}

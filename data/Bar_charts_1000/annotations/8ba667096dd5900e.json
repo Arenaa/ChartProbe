@@ -1,0 +1,61 @@
+{
+  "chart_id": "8ba667096dd5900e",
+  "chart_type": "Bar Chart",
+  "image_width": 2346,
+  "image_height": 1446,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Alpine Region",
+      "value": "23.0",
+      "value_numeric": 23.0,
+      "element_bbox": [
+        133,
+        257,
+        363,
+        860
+      ],
+      "value_bbox": [
+        228,
+        231,
+        267,
+        257
+      ]
+    },
+    {
+      "label": "Balkans Region",
+      "value": "20.0",
+      "value_numeric": 20.0,
+      "element_bbox": [
+        420,
+        336,
+        650,
+        860
+      ],
+      "value_bbox": [
+        516,
+        310,
+        554,
+        336
+      ]
+    },
+    {
+      "label": "Western Mediterranean",
+      "value": "24.0",
+      "value_numeric": 24.0,
+      "element_bbox": [
+        707,
+        231,
+        937,
+        860
+      ],
+      "value_bbox": [
+        803,
+        205,
+        842,
+        231
+      ]
+    }
+  ]
+}

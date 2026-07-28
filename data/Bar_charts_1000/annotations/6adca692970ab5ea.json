@@ -1,0 +1,112 @@
+{
+  "chart_id": "6adca692970ab5ea",
+  "chart_type": "Bar Chart",
+  "image_width": 2635,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Cuba",
+      "value": "15000",
+      "value_numeric": 15000.0,
+      "element_bbox": [
+        160,
+        762,
+        257,
+        890
+      ],
+      "value_bbox": [
+        187,
+        740,
+        231,
+        762
+      ]
+    },
+    {
+      "label": "Cyprus",
+      "value": "5000",
+      "value_numeric": 5000.0,
+      "element_bbox": [
+        282,
+        847,
+        379,
+        890
+      ],
+      "value_bbox": [
+        313,
+        826,
+        348,
+        847
+      ]
+    },
+    {
+      "label": "Czech Republic",
+      "value": "22000",
+      "value_numeric": 22000.0,
+      "element_bbox": [
+        403,
+        702,
+        500,
+        890
+      ],
+      "value_bbox": [
+        430,
+        680,
+        474,
+        702
+      ]
+    },
+    {
+      "label": "Denmark",
+      "value": "85000",
+      "value_numeric": 85000.0,
+      "element_bbox": [
+        525,
+        163,
+        622,
+        890
+      ],
+      "value_bbox": [
+        551,
+        141,
+        595,
+        163
+      ]
+    },
+    {
+      "label": "Djibouti",
+      "value": "3000",
+      "value_numeric": 3000.0,
+      "element_bbox": [
+        646,
+        864,
+        743,
+        890
+      ],
+      "value_bbox": [
+        677,
+        843,
+        712,
+        864
+      ]
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "5000",
+      "value_numeric": 5000.0,
+      "element_bbox": [
+        768,
+        847,
+        865,
+        890
+      ],
+      "value_bbox": [
+        799,
+        826,
+        834,
+        847
+      ]
+    }
+  ]
+}

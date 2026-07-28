@@ -1,0 +1,316 @@
+{
+  "chart_id": "649a1355897f96be",
+  "chart_type": "Bar Chart",
+  "image_width": 3523,
+  "image_height": 2650,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Agriculture",
+      "value": "5.5",
+      "value_numeric": 5.5,
+      "element_bbox": [
+        176,
+        66,
+        259,
+        75
+      ],
+      "value_bbox": [
+        266,
+        63,
+        284,
+        78
+      ]
+    },
+    {
+      "label": "Energy",
+      "value": "4.8",
+      "value_numeric": 4.8,
+      "element_bbox": [
+        176,
+        114,
+        247,
+        123
+      ],
+      "value_bbox": [
+        254,
+        111,
+        272,
+        126
+      ]
+    },
+    {
+      "label": "Finance",
+      "value": "4.1",
+      "value_numeric": 4.1,
+      "element_bbox": [
+        176,
+        161,
+        240,
+        171
+      ],
+      "value_bbox": [
+        247,
+        159,
+        265,
+        173
+      ]
+    },
+    {
+      "label": "Healthcare",
+      "value": "3.4",
+      "value_numeric": 3.4,
+      "element_bbox": [
+        176,
+        209,
+        224,
+        219
+      ],
+      "value_bbox": [
+        230,
+        207,
+        249,
+        221
+      ]
+    },
+    {
+      "label": "Industry",
+      "value": "20.0",
+      "value_numeric": 20.0,
+      "element_bbox": [
+        176,
+        257,
+        666,
+        267
+      ],
+      "value_bbox": [
+        672,
+        255,
+        698,
+        269
+      ]
+    },
+    {
+      "label": "Manufacturing",
+      "value": "15.0",
+      "value_numeric": 15.0,
+      "element_bbox": [
+        176,
+        305,
+        515,
+        315
+      ],
+      "value_bbox": [
+        522,
+        303,
+        548,
+        317
+      ]
+    },
+    {
+      "label": "Renewables",
+      "value": "1.8",
+      "value_numeric": 1.8,
+      "element_bbox": [
+        176,
+        353,
+        210,
+        362
+      ],
+      "value_bbox": [
+        217,
+        350,
+        235,
+        365
+      ]
+    },
+    {
+      "label": "Services",
+      "value": "28.0",
+      "value_numeric": 28.0,
+      "element_bbox": [
+        176,
+        401,
+        804,
+        410
+      ],
+      "value_bbox": [
+        811,
+        398,
+        836,
+        413
+      ]
+    },
+    {
+      "label": "Technology",
+      "value": "9.5",
+      "value_numeric": 9.5,
+      "element_bbox": [
+        176,
+        449,
+        381,
+        458
+      ],
+      "value_bbox": [
+        388,
+        446,
+        406,
+        461
+      ]
+    },
+    {
+      "label": "Transportation",
+      "value": "3.2",
+      "value_numeric": 3.2,
+      "element_bbox": [
+        176,
+        496,
+        236,
+        506
+      ],
+      "value_bbox": [
+        243,
+        494,
+        261,
+        509
+      ]
+    },
+    {
+      "label": "Utilities",
+      "value": "1.2",
+      "value_numeric": 1.2,
+      "element_bbox": [
+        176,
+        544,
+        203,
+        554
+      ],
+      "value_bbox": [
+        210,
+        542,
+        228,
+        556
+      ]
+    },
+    {
+      "label": "Education",
+      "value": "4.0",
+      "value_numeric": 4.0,
+      "element_bbox": [
+        176,
+        592,
+        250,
+        602
+      ],
+      "value_bbox": [
+        256,
+        590,
+        275,
+        604
+      ]
+    },
+    {
+      "label": "Construction",
+      "value": "5.5",
+      "value_numeric": 5.5,
+      "element_bbox": [
+        176,
+        640,
+        276,
+        650
+      ],
+      "value_bbox": [
+        282,
+        638,
+        301,
+        652
+      ]
+    },
+    {
+      "label": "Real Estate",
+      "value": "2.8",
+      "value_numeric": 2.8,
+      "element_bbox": [
+        176,
+        688,
+        233,
+        698
+      ],
+      "value_bbox": [
+        240,
+        686,
+        258,
+        700
+      ]
+    },
+    {
+      "label": "Telecommunications",
+      "value": "2.0",
+      "value_numeric": 2.0,
+      "element_bbox": [
+        176,
+        736,
+        224,
+        745
+      ],
+      "value_bbox": [
+        230,
+        733,
+        249,
+        748
+      ]
+    },
+    {
+      "label": "Aerospace",
+      "value": "1.5",
+      "value_numeric": 1.5,
+      "element_bbox": [
+        176,
+        784,
+        205,
+        793
+      ],
+      "value_bbox": [
+        211,
+        781,
+        230,
+        796
+      ]
+    },
+    {
+      "label": "Defense",
+      "value": "2.0",
+      "value_numeric": 2.0,
+      "element_bbox": [
+        176,
+        832,
+        217,
+        841
+      ],
+      "value_bbox": [
+        223,
+        829,
+        242,
+        844
+      ]
+    },
+    {
+      "label": "Space",
+      "value": "0.3",
+      "value_numeric": 0.3,
+      "element_bbox": [
+        176,
+        879,
+        187,
+        889
+      ],
+      "value_bbox": [
+        193,
+        877,
+        212,
+        891
+      ]
+    }
+  ]
+}

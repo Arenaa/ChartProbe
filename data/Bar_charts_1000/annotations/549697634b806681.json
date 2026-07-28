@@ -1,0 +1,78 @@
+{
+  "chart_id": "549697634b806681",
+  "chart_type": "Bar Chart",
+  "image_width": 2736,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Rwanda",
+      "value": "2.5e7",
+      "value_numeric": 25000000.0,
+      "element_bbox": [
+        125,
+        808,
+        129,
+        855
+      ],
+      "value_bbox": [
+        137,
+        821,
+        176,
+        842
+      ]
+    },
+    {
+      "label": "Portugal",
+      "value": "4.7e9",
+      "value_numeric": 4700000000.0,
+      "element_bbox": [
+        125,
+        622,
+        753,
+        668
+      ],
+      "value_bbox": [
+        761,
+        634,
+        800,
+        656
+      ]
+    },
+    {
+      "label": "Philippines",
+      "value": "3.9e9",
+      "value_numeric": 3900000000.0,
+      "element_bbox": [
+        125,
+        435,
+        643,
+        482
+      ],
+      "value_bbox": [
+        651,
+        448,
+        690,
+        469
+      ]
+    },
+    {
+      "label": "Peru",
+      "value": "3.9e9",
+      "value_numeric": 3900000000.0,
+      "element_bbox": [
+        125,
+        248,
+        628,
+        295
+      ],
+      "value_bbox": [
+        635,
+        261,
+        674,
+        282
+      ]
+    }
+  ]
+}

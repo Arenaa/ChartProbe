@@ -1,0 +1,95 @@
+{
+  "chart_id": "3a0b182b594d0dea",
+  "chart_type": "Bar Chart",
+  "image_width": 2547,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Hong Kong",
+      "value": "0.3",
+      "value_numeric": 0.3,
+      "element_bbox": [
+        160,
+        869,
+        278,
+        890
+      ],
+      "value_bbox": [
+        284,
+        869,
+        307,
+        890
+      ]
+    },
+    {
+      "label": "Hungary",
+      "value": "10.4",
+      "value_numeric": 10.4,
+      "element_bbox": [
+        307,
+        162,
+        424,
+        890
+      ],
+      "value_bbox": [
+        350,
+        140,
+        381,
+        162
+      ]
+    },
+    {
+      "label": "Iceland",
+      "value": "0.5",
+      "value_numeric": 0.5,
+      "element_bbox": [
+        454,
+        855,
+        571,
+        890
+      ],
+      "value_bbox": [
+        578,
+        862,
+        600,
+        883
+      ]
+    },
+    {
+      "label": "India",
+      "value": "1.6",
+      "value_numeric": 1.6,
+      "element_bbox": [
+        601,
+        778,
+        718,
+        890
+      ],
+      "value_bbox": [
+        648,
+        756,
+        670,
+        778
+      ]
+    },
+    {
+      "label": "Indonesia",
+      "value": "1.0",
+      "value_numeric": 1.0,
+      "element_bbox": [
+        747,
+        820,
+        865,
+        890
+      ],
+      "value_bbox": [
+        795,
+        798,
+        817,
+        820
+      ]
+    }
+  ]
+}

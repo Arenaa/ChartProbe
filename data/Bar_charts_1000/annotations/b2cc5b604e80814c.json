@@ -1,0 +1,95 @@
+{
+  "chart_id": "b2cc5b604e80814c",
+  "chart_type": "Bar Chart",
+  "image_width": 2306,
+  "image_height": 1397,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Exports",
+      "value": "35.5",
+      "value_numeric": 35.5,
+      "element_bbox": [
+        211,
+        139,
+        705,
+        248
+      ],
+      "value_bbox": [
+        712,
+        181,
+        751,
+        207
+      ]
+    },
+    {
+      "label": "Imports",
+      "value": "46.4",
+      "value_numeric": 46.4,
+      "element_bbox": [
+        211,
+        275,
+        857,
+        384
+      ],
+      "value_bbox": [
+        865,
+        317,
+        903,
+        343
+      ]
+    },
+    {
+      "label": "Transit",
+      "value": "5.6",
+      "value_numeric": 5.6,
+      "element_bbox": [
+        211,
+        411,
+        288,
+        520
+      ],
+      "value_bbox": [
+        296,
+        453,
+        323,
+        479
+      ]
+    },
+    {
+      "label": "Re-Exports",
+      "value": "1.9",
+      "value_numeric": 1.9,
+      "element_bbox": [
+        211,
+        548,
+        237,
+        656
+      ],
+      "value_bbox": [
+        244,
+        589,
+        272,
+        615
+      ]
+    },
+    {
+      "label": "Domestic",
+      "value": "10.6",
+      "value_numeric": 10.6,
+      "element_bbox": [
+        211,
+        684,
+        359,
+        793
+      ],
+      "value_bbox": [
+        366,
+        725,
+        405,
+        751
+      ]
+    }
+  ]
+}

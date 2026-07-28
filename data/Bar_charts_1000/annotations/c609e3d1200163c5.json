@@ -1,0 +1,44 @@
+{
+  "chart_id": "c609e3d1200163c5",
+  "chart_type": "Bar Chart",
+  "image_width": 1763,
+  "image_height": 1428,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "International Tourists",
+      "value": "1.25E+09",
+      "value_numeric": 1250000000.0,
+      "element_bbox": [
+        160,
+        802,
+        261,
+        890
+      ],
+      "value_bbox": [
+        158,
+        775,
+        263,
+        802
+      ]
+    },
+    {
+      "label": "Domestic Tourists",
+      "value": "1.10E+09",
+      "value_numeric": 1100000000.0,
+      "element_bbox": [
+        563,
+        655,
+        663,
+        890
+      ],
+      "value_bbox": [
+        560,
+        628,
+        666,
+        655
+      ]
+    }
+  ]
+}

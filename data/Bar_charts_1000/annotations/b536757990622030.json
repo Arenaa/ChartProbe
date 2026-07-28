@@ -1,0 +1,61 @@
+{
+  "chart_id": "b536757990622030",
+  "chart_type": "Bar Chart",
+  "image_width": 2591,
+  "image_height": 1695,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "CO₂",
+      "value": "3960000",
+      "value_numeric": 3960000.0,
+      "element_bbox": [
+        145,
+        142,
+        372,
+        888
+      ],
+      "value_bbox": [
+        225,
+        120,
+        292,
+        142
+      ]
+    },
+    {
+      "label": "Methane",
+      "value": "1800000",
+      "value_numeric": 1800000.0,
+      "element_bbox": [
+        429,
+        549,
+        657,
+        888
+      ],
+      "value_bbox": [
+        509,
+        527,
+        577,
+        549
+      ]
+    },
+    {
+      "label": "Nitrous Oxide",
+      "value": "1580000",
+      "value_numeric": 1580000.0,
+      "element_bbox": [
+        714,
+        590,
+        942,
+        888
+      ],
+      "value_bbox": [
+        794,
+        568,
+        862,
+        590
+      ]
+    }
+  ]
+}

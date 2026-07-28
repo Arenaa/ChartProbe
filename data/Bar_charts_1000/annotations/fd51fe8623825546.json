@@ -1,0 +1,78 @@
+{
+  "chart_id": "fd51fe8623825546",
+  "chart_type": "Bar Chart",
+  "image_width": 1927,
+  "image_height": 1382,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "China",
+      "value": "24",
+      "value_numeric": 24.0,
+      "element_bbox": [
+        326,
+        746,
+        756,
+        820
+      ],
+      "value_bbox": [
+        762,
+        769,
+        789,
+        796
+      ]
+    },
+    {
+      "label": "Colombia",
+      "value": "13",
+      "value_numeric": 13.0,
+      "element_bbox": [
+        326,
+        562,
+        619,
+        635
+      ],
+      "value_bbox": [
+        625,
+        585,
+        653,
+        612
+      ]
+    },
+    {
+      "label": "Comoros",
+      "value": "24",
+      "value_numeric": 24.0,
+      "element_bbox": [
+        326,
+        377,
+        463,
+        451
+      ],
+      "value_bbox": [
+        469,
+        401,
+        496,
+        428
+      ]
+    },
+    {
+      "label": "Congo (Democratic)",
+      "value": "63",
+      "value_numeric": 63.0,
+      "element_bbox": [
+        326,
+        193,
+        541,
+        267
+      ],
+      "value_bbox": [
+        547,
+        216,
+        574,
+        243
+      ]
+    }
+  ]
+}

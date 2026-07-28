@@ -1,0 +1,78 @@
+{
+  "chart_id": "5130b235a87ce20c",
+  "chart_type": "Bar Chart",
+  "image_width": 2871,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Kuwait",
+      "value": "75.9",
+      "value_numeric": 75.9,
+      "element_bbox": [
+        125,
+        708,
+        863,
+        855
+      ],
+      "value_bbox": [
+        871,
+        770,
+        902,
+        792
+      ]
+    },
+    {
+      "label": "Korea (Republic)",
+      "value": "8.7",
+      "value_numeric": 8.7,
+      "element_bbox": [
+        125,
+        523,
+        210,
+        671
+      ],
+      "value_bbox": [
+        217,
+        586,
+        239,
+        608
+      ]
+    },
+    {
+      "label": "Kenya",
+      "value": "17.5",
+      "value_numeric": 17.5,
+      "element_bbox": [
+        125,
+        339,
+        295,
+        487
+      ],
+      "value_bbox": [
+        303,
+        402,
+        334,
+        424
+      ]
+    },
+    {
+      "label": "Kazakhstan",
+      "value": "5.2",
+      "value_numeric": 5.2,
+      "element_bbox": [
+        125,
+        155,
+        176,
+        302
+      ],
+      "value_bbox": [
+        183,
+        218,
+        206,
+        240
+      ]
+    }
+  ]
+}

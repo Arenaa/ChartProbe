@@ -1,0 +1,44 @@
+{
+  "chart_id": "545af7b421cc4540",
+  "chart_type": "Bar Chart",
+  "image_width": 2818,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "DAC donors",
+      "value": "9000000",
+      "value_numeric": 9000000.0,
+      "element_bbox": [
+        125,
+        777,
+        736,
+        855
+      ],
+      "value_bbox": [
+        744,
+        805,
+        805,
+        827
+      ]
+    },
+    {
+      "label": "UN agencies",
+      "value": "50000",
+      "value_numeric": 50000.0,
+      "element_bbox": [
+        125,
+        311,
+        863,
+        388
+      ],
+      "value_bbox": [
+        871,
+        339,
+        915,
+        360
+      ]
+    }
+  ]
+}

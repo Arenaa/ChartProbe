@@ -1,0 +1,112 @@
+{
+  "chart_id": "adc2cb0db8ea6f22",
+  "chart_type": "Bar Chart",
+  "image_width": 2346,
+  "image_height": 1446,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Africa",
+      "value": "79.5",
+      "value_numeric": 79.5,
+      "element_bbox": [
+        134,
+        294,
+        250,
+        860
+      ],
+      "value_bbox": [
+        173,
+        268,
+        211,
+        294
+      ]
+    },
+    {
+      "label": "Africa",
+      "value": "87.5",
+      "value_numeric": 87.5,
+      "element_bbox": [
+        425,
+        212,
+        541,
+        860
+      ],
+      "value_bbox": [
+        464,
+        186,
+        502,
+        212
+      ]
+    },
+    {
+      "label": "Asia",
+      "value": "90.3",
+      "value_numeric": 90.3,
+      "element_bbox": [
+        716,
+        144,
+        832,
+        860
+      ],
+      "value_bbox": [
+        755,
+        118,
+        793,
+        144
+      ]
+    },
+    {
+      "label": "Asia",
+      "value": "94.1",
+      "value_numeric": 94.1,
+      "element_bbox": [
+        250,
+        227,
+        366,
+        860
+      ],
+      "value_bbox": [
+        289,
+        201,
+        328,
+        227
+      ]
+    },
+    {
+      "label": "Europe/Eurasia",
+      "value": "99.8",
+      "value_numeric": 99.8,
+      "element_bbox": [
+        541,
+        184,
+        657,
+        860
+      ],
+      "value_bbox": [
+        580,
+        158,
+        618,
+        184
+      ]
+    },
+    {
+      "label": "Europe/Eurasia",
+      "value": "99.0",
+      "value_numeric": 99.0,
+      "element_bbox": [
+        832,
+        150,
+        948,
+        860
+      ],
+      "value_bbox": [
+        871,
+        124,
+        909,
+        150
+      ]
+    }
+  ]
+}

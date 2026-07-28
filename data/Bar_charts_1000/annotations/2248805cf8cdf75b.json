@@ -1,0 +1,95 @@
+{
+  "chart_id": "2248805cf8cdf75b",
+  "chart_type": "Bar Chart",
+  "image_width": 2948,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Trade Taxes",
+      "value": "31.4",
+      "value_numeric": 31.4,
+      "element_bbox": [
+        219,
+        106,
+        942,
+        233
+      ],
+      "value_bbox": [
+        949,
+        158,
+        980,
+        180
+      ]
+    },
+    {
+      "label": "Income Tax",
+      "value": "24.7",
+      "value_numeric": 24.7,
+      "element_bbox": [
+        219,
+        264,
+        787,
+        391
+      ],
+      "value_bbox": [
+        795,
+        317,
+        826,
+        339
+      ]
+    },
+    {
+      "label": "Goods & Services",
+      "value": "17.4",
+      "value_numeric": 17.4,
+      "element_bbox": [
+        219,
+        423,
+        620,
+        550
+      ],
+      "value_bbox": [
+        627,
+        476,
+        658,
+        498
+      ]
+    },
+    {
+      "label": "Environmental Levies",
+      "value": "15.3",
+      "value_numeric": 15.3,
+      "element_bbox": [
+        219,
+        582,
+        571,
+        709
+      ],
+      "value_bbox": [
+        578,
+        635,
+        609,
+        656
+      ]
+    },
+    {
+      "label": "Property Tax",
+      "value": "11.1",
+      "value_numeric": 11.1,
+      "element_bbox": [
+        219,
+        741,
+        475,
+        868
+      ],
+      "value_bbox": [
+        483,
+        794,
+        514,
+        815
+      ]
+    }
+  ]
+}

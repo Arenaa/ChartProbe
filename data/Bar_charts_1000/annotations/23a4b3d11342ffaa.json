@@ -1,0 +1,180 @@
+{
+  "chart_id": "23a4b3d11342ffaa",
+  "chart_type": "Bar Chart",
+  "image_width": 2947,
+  "image_height": 1745,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Urban Core",
+      "value": "17.7",
+      "value_numeric": 17.7,
+      "element_bbox": [
+        106,
+        206,
+        176,
+        756
+      ],
+      "value_bbox": [
+        126,
+        185,
+        157,
+        206
+      ]
+    },
+    {
+      "label": "Rural Areas",
+      "value": "15.7",
+      "value_numeric": 15.7,
+      "element_bbox": [
+        194,
+        263,
+        265,
+        756
+      ],
+      "value_bbox": [
+        214,
+        242,
+        245,
+        263
+      ]
+    },
+    {
+      "label": "Peri-Urban",
+      "value": "18.2",
+      "value_numeric": 18.2,
+      "element_bbox": [
+        283,
+        188,
+        354,
+        756
+      ],
+      "value_bbox": [
+        303,
+        167,
+        334,
+        188
+      ]
+    },
+    {
+      "label": "Suburban",
+      "value": "17.5",
+      "value_numeric": 17.5,
+      "element_bbox": [
+        371,
+        214,
+        442,
+        756
+      ],
+      "value_bbox": [
+        391,
+        193,
+        422,
+        214
+      ]
+    },
+    {
+      "label": "Semi-Urban",
+      "value": "18.3",
+      "value_numeric": 18.3,
+      "element_bbox": [
+        460,
+        165,
+        531,
+        756
+      ],
+      "value_bbox": [
+        480,
+        143,
+        511,
+        165
+      ]
+    },
+    {
+      "label": "New Urban",
+      "value": "20.5",
+      "value_numeric": 20.5,
+      "element_bbox": [
+        548,
+        121,
+        619,
+        756
+      ],
+      "value_bbox": [
+        568,
+        100,
+        599,
+        121
+      ]
+    },
+    {
+      "label": "Central Urban",
+      "value": "19.8",
+      "value_numeric": 19.8,
+      "element_bbox": [
+        637,
+        142,
+        708,
+        756
+      ],
+      "value_bbox": [
+        657,
+        120,
+        688,
+        142
+      ]
+    },
+    {
+      "label": "Mixed-Use",
+      "value": "10.2",
+      "value_numeric": 10.2,
+      "element_bbox": [
+        725,
+        447,
+        796,
+        756
+      ],
+      "value_bbox": [
+        745,
+        425,
+        776,
+        447
+      ]
+    },
+    {
+      "label": "Emerging Urban",
+      "value": "7.7",
+      "value_numeric": 7.7,
+      "element_bbox": [
+        814,
+        514,
+        885,
+        756
+      ],
+      "value_bbox": [
+        838,
+        493,
+        860,
+        514
+      ]
+    },
+    {
+      "label": "Digital Urban",
+      "value": "7.3",
+      "value_numeric": 7.3,
+      "element_bbox": [
+        902,
+        536,
+        973,
+        756
+      ],
+      "value_bbox": [
+        927,
+        514,
+        949,
+        536
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "chart_id": "3a48e738ba0a9bd0",
+  "chart_type": "Bar Chart",
+  "image_width": 2777,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Tajikistan",
+      "value": "1",
+      "value_numeric": 1.0,
+      "element_bbox": [
+        125,
+        708,
+        182,
+        855
+      ],
+      "value_bbox": [
+        190,
+        770,
+        198,
+        792
+      ]
+    },
+    {
+      "label": "Sierra Leone",
+      "value": "5",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        125,
+        523,
+        409,
+        671
+      ],
+      "value_bbox": [
+        417,
+        586,
+        425,
+        608
+      ]
+    },
+    {
+      "label": "Senegal",
+      "value": "7",
+      "value_numeric": 7.0,
+      "element_bbox": [
+        125,
+        339,
+        522,
+        487
+      ],
+      "value_bbox": [
+        530,
+        402,
+        539,
+        424
+      ]
+    },
+    {
+      "label": "Rwanda",
+      "value": "13",
+      "value_numeric": 13.0,
+      "element_bbox": [
+        125,
+        155,
+        863,
+        302
+      ],
+      "value_bbox": [
+        871,
+        218,
+        888,
+        240
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "chart_id": "9b77e76dae84ff73",
+  "chart_type": "Bar Chart",
+  "image_width": 2518,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Ecuador",
+      "value": "800000000",
+      "value_numeric": 800000000.0,
+      "element_bbox": [
+        160,
+        157,
+        224,
+        890
+      ],
+      "value_bbox": [
+        153,
+        135,
+        232,
+        157
+      ]
+    },
+    {
+      "label": "Mexico",
+      "value": "800000000",
+      "value_numeric": 800000000.0,
+      "element_bbox": [
+        416,
+        157,
+        480,
+        890
+      ],
+      "value_bbox": [
+        409,
+        135,
+        488,
+        157
+      ]
+    },
+    {
+      "label": "Panama",
+      "value": "800000000",
+      "value_numeric": 800000000.0,
+      "element_bbox": [
+        673,
+        157,
+        737,
+        890
+      ],
+      "value_bbox": [
+        665,
+        135,
+        744,
+        157
+      ]
+    }
+  ]
+}

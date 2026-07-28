@@ -1,0 +1,248 @@
+{
+  "chart_id": "b7a7e8871e01db79",
+  "chart_type": "Bar Chart",
+  "image_width": 3546,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "2011",
+      "value": "138",
+      "value_numeric": 138.0,
+      "element_bbox": [
+        76,
+        106,
+        89,
+        846
+      ],
+      "value_bbox": [
+        72,
+        84,
+        94,
+        106
+      ]
+    },
+    {
+      "label": "2012",
+      "value": "137",
+      "value_numeric": 137.0,
+      "element_bbox": [
+        142,
+        122,
+        155,
+        846
+      ],
+      "value_bbox": [
+        137,
+        101,
+        159,
+        122
+      ]
+    },
+    {
+      "label": "2013",
+      "value": "136",
+      "value_numeric": 136.0,
+      "element_bbox": [
+        207,
+        135,
+        220,
+        846
+      ],
+      "value_bbox": [
+        203,
+        113,
+        224,
+        135
+      ]
+    },
+    {
+      "label": "2014",
+      "value": "135",
+      "value_numeric": 135.0,
+      "element_bbox": [
+        272,
+        143,
+        285,
+        846
+      ],
+      "value_bbox": [
+        268,
+        121,
+        290,
+        143
+      ]
+    },
+    {
+      "label": "2015",
+      "value": "134",
+      "value_numeric": 134.0,
+      "element_bbox": [
+        338,
+        151,
+        351,
+        846
+      ],
+      "value_bbox": [
+        333,
+        129,
+        355,
+        151
+      ]
+    },
+    {
+      "label": "2016",
+      "value": "133",
+      "value_numeric": 133.0,
+      "element_bbox": [
+        403,
+        163,
+        416,
+        846
+      ],
+      "value_bbox": [
+        399,
+        142,
+        420,
+        163
+      ]
+    },
+    {
+      "label": "2017",
+      "value": "132",
+      "value_numeric": 132.0,
+      "element_bbox": [
+        469,
+        176,
+        482,
+        846
+      ],
+      "value_bbox": [
+        464,
+        154,
+        486,
+        176
+      ]
+    },
+    {
+      "label": "2018",
+      "value": "131",
+      "value_numeric": 131.0,
+      "element_bbox": [
+        534,
+        184,
+        547,
+        846
+      ],
+      "value_bbox": [
+        530,
+        162,
+        551,
+        184
+      ]
+    },
+    {
+      "label": "2019",
+      "value": "130",
+      "value_numeric": 130.0,
+      "element_bbox": [
+        599,
+        192,
+        612,
+        846
+      ],
+      "value_bbox": [
+        595,
+        171,
+        617,
+        192
+      ]
+    },
+    {
+      "label": "2020",
+      "value": "129",
+      "value_numeric": 129.0,
+      "element_bbox": [
+        665,
+        204,
+        678,
+        846
+      ],
+      "value_bbox": [
+        660,
+        183,
+        682,
+        204
+      ]
+    },
+    {
+      "label": "2021",
+      "value": "128",
+      "value_numeric": 128.0,
+      "element_bbox": [
+        730,
+        217,
+        743,
+        846
+      ],
+      "value_bbox": [
+        726,
+        195,
+        747,
+        217
+      ]
+    },
+    {
+      "label": "2022",
+      "value": "127",
+      "value_numeric": 127.0,
+      "element_bbox": [
+        795,
+        229,
+        808,
+        846
+      ],
+      "value_bbox": [
+        791,
+        207,
+        813,
+        229
+      ]
+    },
+    {
+      "label": "2023",
+      "value": "126",
+      "value_numeric": 126.0,
+      "element_bbox": [
+        861,
+        237,
+        874,
+        846
+      ],
+      "value_bbox": [
+        856,
+        216,
+        878,
+        237
+      ]
+    },
+    {
+      "label": "2024",
+      "value": "125",
+      "value_numeric": 125.0,
+      "element_bbox": [
+        926,
+        241,
+        939,
+        846
+      ],
+      "value_bbox": [
+        922,
+        220,
+        944,
+        241
+      ]
+    }
+  ]
+}

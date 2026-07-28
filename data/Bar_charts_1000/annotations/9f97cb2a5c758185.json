@@ -1,0 +1,61 @@
+{
+  "chart_id": "9f97cb2a5c758185",
+  "chart_type": "Bar Chart",
+  "image_width": 2562,
+  "image_height": 1593,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Rwanda",
+      "value": "0.46",
+      "value_numeric": 0.46,
+      "element_bbox": [
+        160,
+        157,
+        224,
+        890
+      ],
+      "value_bbox": [
+        177,
+        135,
+        208,
+        157
+      ]
+    },
+    {
+      "label": "Russian Federation",
+      "value": "0.45",
+      "value_numeric": 0.45,
+      "element_bbox": [
+        416,
+        386,
+        480,
+        890
+      ],
+      "value_bbox": [
+        433,
+        364,
+        464,
+        386
+      ]
+    },
+    {
+      "label": "Romania",
+      "value": "0.25",
+      "value_numeric": 0.25,
+      "element_bbox": [
+        673,
+        523,
+        737,
+        890
+      ],
+      "value_bbox": [
+        689,
+        502,
+        720,
+        523
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "chart_id": "5c45ecbb5add0307",
+  "chart_type": "Bar Chart",
+  "image_width": 2945,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "South Africa",
+      "value": "1.0",
+      "value_numeric": 1.0,
+      "element_bbox": [
+        148,
+        690,
+        342,
+        847
+      ],
+      "value_bbox": [
+        350,
+        758,
+        372,
+        779
+      ]
+    },
+    {
+      "label": "Senegal",
+      "value": "0.5",
+      "value_numeric": 0.5,
+      "element_bbox": [
+        148,
+        495,
+        245,
+        651
+      ],
+      "value_bbox": [
+        185,
+        473,
+        207,
+        495
+      ]
+    },
+    {
+      "label": "Pakistan",
+      "value": "0.4",
+      "value_numeric": 0.4,
+      "element_bbox": [
+        148,
+        300,
+        225,
+        456
+      ],
+      "value_bbox": [
+        175,
+        278,
+        198,
+        300
+      ]
+    },
+    {
+      "label": "Nigeria",
+      "value": "4.1",
+      "value_numeric": 4.1,
+      "element_bbox": [
+        148,
+        104,
+        942,
+        261
+      ],
+      "value_bbox": [
+        951,
+        172,
+        973,
+        193
+      ]
+    }
+  ]
+}

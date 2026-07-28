@@ -1,0 +1,95 @@
+{
+  "chart_id": "66ebe734ac913aae",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Indonesia",
+      "value": "355.2",
+      "value_numeric": 355.2,
+      "element_bbox": [
+        102,
+        128,
+        245,
+        884
+      ],
+      "value_bbox": [
+        154,
+        106,
+        193,
+        128
+      ]
+    },
+    {
+      "label": "Thailand",
+      "value": "70.5",
+      "value_numeric": 70.5,
+      "element_bbox": [
+        281,
+        734,
+        425,
+        884
+      ],
+      "value_bbox": [
+        338,
+        712,
+        369,
+        734
+      ]
+    },
+    {
+      "label": "Malaysia",
+      "value": "47.5",
+      "value_numeric": 47.5,
+      "element_bbox": [
+        461,
+        783,
+        605,
+        884
+      ],
+      "value_bbox": [
+        517,
+        761,
+        548,
+        783
+      ]
+    },
+    {
+      "label": "Vietnam",
+      "value": "41.0",
+      "value_numeric": 41.0,
+      "element_bbox": [
+        641,
+        797,
+        784,
+        884
+      ],
+      "value_bbox": [
+        697,
+        775,
+        728,
+        797
+      ]
+    },
+    {
+      "label": "Bolivia",
+      "value": "26.1",
+      "value_numeric": 26.1,
+      "element_bbox": [
+        820,
+        828,
+        964,
+        884
+      ],
+      "value_bbox": [
+        877,
+        806,
+        908,
+        828
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "chart_id": "1fa5e3a655aaf263",
+  "chart_type": "Bar Chart",
+  "image_width": 2947,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Goods",
+      "value": "1470000",
+      "value_numeric": 1470000.0,
+      "element_bbox": [
+        103,
+        331,
+        223,
+        884
+      ],
+      "value_bbox": [
+        132,
+        310,
+        194,
+        331
+      ]
+    },
+    {
+      "label": "Services",
+      "value": "2012000",
+      "value_numeric": 2012000.0,
+      "element_bbox": [
+        252,
+        128,
+        371,
+        884
+      ],
+      "value_bbox": [
+        281,
+        106,
+        342,
+        128
+      ]
+    },
+    {
+      "label": "Investment",
+      "value": "294000",
+      "value_numeric": 294000.0,
+      "element_bbox": [
+        401,
+        773,
+        520,
+        884
+      ],
+      "value_bbox": [
+        435,
+        752,
+        487,
+        773
+      ]
+    },
+    {
+      "label": "Tech",
+      "value": "99400",
+      "value_numeric": 99400.0,
+      "element_bbox": [
+        550,
+        846,
+        669,
+        884
+      ],
+      "value_bbox": [
+        588,
+        825,
+        631,
+        846
+      ]
+    },
+    {
+      "label": "Renewables",
+      "value": "84400",
+      "value_numeric": 84400.0,
+      "element_bbox": [
+        699,
+        852,
+        818,
+        884
+      ],
+      "value_bbox": [
+        737,
+        830,
+        780,
+        852
+      ]
+    },
+    {
+      "label": "Tourism",
+      "value": "346800",
+      "value_numeric": 346800.0,
+      "element_bbox": [
+        848,
+        753,
+        967,
+        884
+      ],
+      "value_bbox": [
+        881,
+        732,
+        934,
+        753
+      ]
+    }
+  ]
+}

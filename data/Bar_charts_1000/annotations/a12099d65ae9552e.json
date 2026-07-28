@@ -1,0 +1,78 @@
+{
+  "chart_id": "a12099d65ae9552e",
+  "chart_type": "Bar Chart",
+  "image_width": 2698,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "China (PRC)",
+      "value": "0.38",
+      "value_numeric": 0.38,
+      "element_bbox": [
+        94,
+        824,
+        276,
+        884
+      ],
+      "value_bbox": [
+        284,
+        843,
+        318,
+        865
+      ]
+    },
+    {
+      "label": "Romania",
+      "value": "1.68",
+      "value_numeric": 1.68,
+      "element_bbox": [
+        321,
+        612,
+        503,
+        884
+      ],
+      "value_bbox": [
+        395,
+        590,
+        429,
+        612
+      ]
+    },
+    {
+      "label": "Saudi Arabia",
+      "value": "4.87",
+      "value_numeric": 4.87,
+      "element_bbox": [
+        549,
+        128,
+        730,
+        884
+      ],
+      "value_bbox": [
+        622,
+        106,
+        657,
+        128
+      ]
+    },
+    {
+      "label": "Tajikistan",
+      "value": "0.13",
+      "value_numeric": 0.13,
+      "element_bbox": [
+        776,
+        862,
+        957,
+        884
+      ],
+      "value_bbox": [
+        965,
+        862,
+        1000,
+        884
+      ]
+    }
+  ]
+}

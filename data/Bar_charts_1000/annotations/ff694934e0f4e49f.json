@@ -1,0 +1,95 @@
+{
+  "chart_id": "ff694934e0f4e49f",
+  "chart_type": "Bar Chart",
+  "image_width": 2713,
+  "image_height": 1745,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Southern Cone",
+      "value": "1.73",
+      "value_numeric": 1.73,
+      "element_bbox": [
+        116,
+        103,
+        257,
+        789
+      ],
+      "value_bbox": [
+        169,
+        82,
+        204,
+        103
+      ]
+    },
+    {
+      "label": "Andean",
+      "value": "1.09",
+      "value_numeric": 1.09,
+      "element_bbox": [
+        292,
+        355,
+        433,
+        789
+      ],
+      "value_bbox": [
+        346,
+        334,
+        380,
+        355
+      ]
+    },
+    {
+      "label": "Mesoamerica",
+      "value": "0.61",
+      "value_numeric": 0.61,
+      "element_bbox": [
+        469,
+        549,
+        610,
+        789
+      ],
+      "value_bbox": [
+        618,
+        658,
+        652,
+        680
+      ]
+    },
+    {
+      "label": "Caribbean",
+      "value": "0.52",
+      "value_numeric": 0.52,
+      "element_bbox": [
+        645,
+        583,
+        786,
+        789
+      ],
+      "value_bbox": [
+        794,
+        676,
+        828,
+        697
+      ]
+    },
+    {
+      "label": "Northern South",
+      "value": "0.39",
+      "value_numeric": 0.39,
+      "element_bbox": [
+        821,
+        635,
+        962,
+        789
+      ],
+      "value_bbox": [
+        970,
+        701,
+        1000,
+        723
+      ]
+    }
+  ]
+}

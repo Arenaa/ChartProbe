@@ -1,0 +1,214 @@
+{
+  "chart_id": "83d8253f4eb34be2",
+  "chart_type": "Bar Chart",
+  "image_width": 3039,
+  "image_height": 1765,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Arab World",
+      "value": "0.12",
+      "value_numeric": 0.12,
+      "element_bbox": [
+        92,
+        474,
+        152,
+        896
+      ],
+      "value_bbox": [
+        161,
+        674,
+        192,
+        696
+      ]
+    },
+    {
+      "label": "Arab World",
+      "value": "0.08",
+      "value_numeric": 0.08,
+      "element_bbox": [
+        243,
+        579,
+        304,
+        896
+      ],
+      "value_bbox": [
+        312,
+        727,
+        343,
+        748
+      ]
+    },
+    {
+      "label": "Chile",
+      "value": "0.09",
+      "value_numeric": 0.09,
+      "element_bbox": [
+        395,
+        650,
+        455,
+        896
+      ],
+      "value_bbox": [
+        464,
+        762,
+        495,
+        784
+      ]
+    },
+    {
+      "label": "Chile",
+      "value": "0.11",
+      "value_numeric": 0.11,
+      "element_bbox": [
+        546,
+        544,
+        607,
+        896
+      ],
+      "value_bbox": [
+        615,
+        709,
+        646,
+        731
+      ]
+    },
+    {
+      "label": "Nicaragua",
+      "value": "0.07",
+      "value_numeric": 0.07,
+      "element_bbox": [
+        698,
+        439,
+        758,
+        896
+      ],
+      "value_bbox": [
+        767,
+        657,
+        798,
+        678
+      ]
+    },
+    {
+      "label": "Nicaragua",
+      "value": "0.19",
+      "value_numeric": 0.19,
+      "element_bbox": [
+        849,
+        509,
+        910,
+        896
+      ],
+      "value_bbox": [
+        918,
+        692,
+        949,
+        713
+      ]
+    },
+    {
+      "label": "South Sudan",
+      "value": "0.10",
+      "value_numeric": 0.1,
+      "element_bbox": [
+        152,
+        615,
+        213,
+        896
+      ],
+      "value_bbox": [
+        221,
+        744,
+        252,
+        766
+      ]
+    },
+    {
+      "label": "South Sudan",
+      "value": "0.22",
+      "value_numeric": 0.22,
+      "element_bbox": [
+        304,
+        509,
+        365,
+        896
+      ],
+      "value_bbox": [
+        373,
+        692,
+        404,
+        713
+      ]
+    },
+    {
+      "label": "Kenya",
+      "value": "0.13",
+      "value_numeric": 0.13,
+      "element_bbox": [
+        455,
+        228,
+        516,
+        896
+      ],
+      "value_bbox": [
+        524,
+        551,
+        555,
+        573
+      ]
+    },
+    {
+      "label": "Kenya",
+      "value": "0.15",
+      "value_numeric": 0.15,
+      "element_bbox": [
+        607,
+        122,
+        667,
+        896
+      ],
+      "value_bbox": [
+        676,
+        498,
+        707,
+        520
+      ]
+    },
+    {
+      "label": "Ethiopia",
+      "value": "0.11",
+      "value_numeric": 0.11,
+      "element_bbox": [
+        758,
+        368,
+        819,
+        896
+      ],
+      "value_bbox": [
+        827,
+        621,
+        858,
+        643
+      ]
+    },
+    {
+      "label": "Ethiopia",
+      "value": "0.14",
+      "value_numeric": 0.14,
+      "element_bbox": [
+        910,
+        404,
+        970,
+        896
+      ],
+      "value_bbox": [
+        979,
+        639,
+        1000,
+        661
+      ]
+    }
+  ]
+}

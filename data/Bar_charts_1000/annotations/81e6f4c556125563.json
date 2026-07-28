@@ -1,0 +1,78 @@
+{
+  "chart_id": "81e6f4c556125563",
+  "chart_type": "Bar Chart",
+  "image_width": 3046,
+  "image_height": 1764,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Industry",
+      "value": "2.0e+08",
+      "value_numeric": 200000000.0,
+      "element_bbox": [
+        162,
+        780,
+        585,
+        851
+      ],
+      "value_bbox": [
+        593,
+        805,
+        652,
+        827
+      ]
+    },
+    {
+      "label": "Manufacturing",
+      "value": "1.5e+08",
+      "value_numeric": 150000000.0,
+      "element_bbox": [
+        162,
+        578,
+        892,
+        649
+      ],
+      "value_bbox": [
+        900,
+        602,
+        959,
+        624
+      ]
+    },
+    {
+      "label": "Services",
+      "value": "3.0e+08",
+      "value_numeric": 300000000.0,
+      "element_bbox": [
+        162,
+        375,
+        585,
+        446
+      ],
+      "value_bbox": [
+        593,
+        400,
+        652,
+        421
+      ]
+    },
+    {
+      "label": "Agriculture",
+      "value": "2.5e+08",
+      "value_numeric": 250000000.0,
+      "element_bbox": [
+        162,
+        172,
+        946,
+        243
+      ],
+      "value_bbox": [
+        954,
+        197,
+        1000,
+        219
+      ]
+    }
+  ]
+}

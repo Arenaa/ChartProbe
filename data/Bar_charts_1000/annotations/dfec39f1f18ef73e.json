@@ -1,0 +1,95 @@
+{
+  "chart_id": "dfec39f1f18ef73e",
+  "chart_type": "Bar Chart",
+  "image_width": 2538,
+  "image_height": 1697,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Armenia",
+      "value": "2.44",
+      "value_numeric": 2.44,
+      "element_bbox": [
+        136,
+        337,
+        272,
+        581
+      ],
+      "value_bbox": [
+        187,
+        315,
+        221,
+        337
+      ]
+    },
+    {
+      "label": "East Asia (all income levels)",
+      "value": "4.21",
+      "value_numeric": 4.21,
+      "element_bbox": [
+        306,
+        160,
+        442,
+        581
+      ],
+      "value_bbox": [
+        357,
+        138,
+        391,
+        160
+      ]
+    },
+    {
+      "label": "Latin America (all income levels)",
+      "value": "4.53",
+      "value_numeric": 4.53,
+      "element_bbox": [
+        476,
+        127,
+        612,
+        581
+      ],
+      "value_bbox": [
+        527,
+        106,
+        561,
+        127
+      ]
+    },
+    {
+      "label": "Sub-Saharan Africa",
+      "value": "3.54",
+      "value_numeric": 3.54,
+      "element_bbox": [
+        646,
+        226,
+        783,
+        581
+      ],
+      "value_bbox": [
+        697,
+        204,
+        732,
+        226
+      ]
+    },
+    {
+      "label": "Syrian Arab Republic",
+      "value": "3.13",
+      "value_numeric": 3.13,
+      "element_bbox": [
+        817,
+        268,
+        953,
+        581
+      ],
+      "value_bbox": [
+        868,
+        246,
+        902,
+        268
+      ]
+    }
+  ]
+}

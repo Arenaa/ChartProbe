@@ -1,0 +1,78 @@
+{
+  "chart_id": "c2b6ca8407721610",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1745,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "El Salvador",
+      "value": "97.1",
+      "value_numeric": 97.1,
+      "element_bbox": [
+        132,
+        124,
+        303,
+        818
+      ],
+      "value_bbox": [
+        202,
+        103,
+        233,
+        124
+      ]
+    },
+    {
+      "label": "Macedonia",
+      "value": "87.4",
+      "value_numeric": 87.4,
+      "element_bbox": [
+        345,
+        194,
+        516,
+        818
+      ],
+      "value_bbox": [
+        415,
+        172,
+        446,
+        194
+      ]
+    },
+    {
+      "label": "Sierra Leone",
+      "value": "71.1",
+      "value_numeric": 71.1,
+      "element_bbox": [
+        558,
+        310,
+        729,
+        818
+      ],
+      "value_bbox": [
+        628,
+        289,
+        659,
+        310
+      ]
+    },
+    {
+      "label": "Slovak Republic",
+      "value": "96.4",
+      "value_numeric": 96.4,
+      "element_bbox": [
+        771,
+        129,
+        942,
+        818
+      ],
+      "value_bbox": [
+        841,
+        108,
+        872,
+        129
+      ]
+    }
+  ]
+}

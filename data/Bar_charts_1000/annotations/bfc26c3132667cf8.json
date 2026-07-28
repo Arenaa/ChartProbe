@@ -1,0 +1,95 @@
+{
+  "chart_id": "bfc26c3132667cf8",
+  "chart_type": "Bar Chart",
+  "image_width": 2025,
+  "image_height": 1381,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Serbia",
+      "value": "0.0",
+      "value_numeric": 0.0,
+      "element_bbox": [
+        125,
+        797,
+        326,
+        855
+      ],
+      "value_bbox": [
+        334,
+        812,
+        369,
+        839
+      ]
+    },
+    {
+      "label": "Seychelles",
+      "value": "0.0",
+      "value_numeric": 0.0,
+      "element_bbox": [
+        125,
+        651,
+        460,
+        709
+      ],
+      "value_bbox": [
+        468,
+        666,
+        503,
+        694
+      ]
+    },
+    {
+      "label": "Singapore",
+      "value": "0.0",
+      "value_numeric": 0.0,
+      "element_bbox": [
+        125,
+        505,
+        550,
+        563
+      ],
+      "value_bbox": [
+        558,
+        521,
+        592,
+        548
+      ]
+    },
+    {
+      "label": "Czech Republic",
+      "value": "1.5",
+      "value_numeric": 1.5,
+      "element_bbox": [
+        125,
+        359,
+        863,
+        418
+      ],
+      "value_bbox": [
+        871,
+        375,
+        906,
+        402
+      ]
+    },
+    {
+      "label": "Slovenia",
+      "value": "4.0",
+      "value_numeric": 4.0,
+      "element_bbox": [
+        125,
+        213,
+        214,
+        272
+      ],
+      "value_bbox": [
+        222,
+        229,
+        257,
+        256
+      ]
+    }
+  ]
+}

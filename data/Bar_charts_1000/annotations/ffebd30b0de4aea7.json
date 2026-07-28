@@ -1,0 +1,248 @@
+{
+  "chart_id": "ffebd30b0de4aea7",
+  "chart_type": "Bar Chart",
+  "image_width": 2953,
+  "image_height": 1745,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Central Asia",
+      "value": "85",
+      "value_numeric": 85.0,
+      "element_bbox": [
+        95,
+        677,
+        140,
+        757
+      ],
+      "value_bbox": [
+        109,
+        655,
+        126,
+        677
+      ]
+    },
+    {
+      "label": "Central Asia",
+      "value": "28",
+      "value_numeric": 28.0,
+      "element_bbox": [
+        208,
+        456,
+        253,
+        757
+      ],
+      "value_bbox": [
+        222,
+        434,
+        239,
+        456
+      ]
+    },
+    {
+      "label": "East Africa",
+      "value": "320",
+      "value_numeric": 320.0,
+      "element_bbox": [
+        321,
+        593,
+        366,
+        757
+      ],
+      "value_bbox": [
+        330,
+        571,
+        356,
+        593
+      ]
+    },
+    {
+      "label": "East Africa",
+      "value": "104",
+      "value_numeric": 104.0,
+      "element_bbox": [
+        433,
+        522,
+        479,
+        757
+      ],
+      "value_bbox": [
+        443,
+        500,
+        469,
+        522
+      ]
+    },
+    {
+      "label": "Low Income",
+      "value": "174",
+      "value_numeric": 174.0,
+      "element_bbox": [
+        546,
+        121,
+        591,
+        757
+      ],
+      "value_bbox": [
+        556,
+        100,
+        582,
+        121
+      ]
+    },
+    {
+      "label": "Low Income",
+      "value": "59",
+      "value_numeric": 59.0,
+      "element_bbox": [
+        659,
+        492,
+        704,
+        757
+      ],
+      "value_bbox": [
+        673,
+        470,
+        690,
+        492
+      ]
+    },
+    {
+      "label": "North Africa",
+      "value": "250",
+      "value_numeric": 250.0,
+      "element_bbox": [
+        772,
+        458,
+        817,
+        757
+      ],
+      "value_bbox": [
+        781,
+        436,
+        808,
+        458
+      ]
+    },
+    {
+      "label": "North Africa",
+      "value": "85",
+      "value_numeric": 85.0,
+      "element_bbox": [
+        140,
+        730,
+        185,
+        757
+      ],
+      "value_bbox": [
+        154,
+        709,
+        171,
+        730
+      ]
+    },
+    {
+      "label": "South Asia",
+      "value": "680",
+      "value_numeric": 680.0,
+      "element_bbox": [
+        253,
+        659,
+        298,
+        757
+      ],
+      "value_bbox": [
+        263,
+        637,
+        289,
+        659
+      ]
+    },
+    {
+      "label": "South Asia",
+      "value": "235",
+      "value_numeric": 235.0,
+      "element_bbox": [
+        366,
+        701,
+        411,
+        757
+      ],
+      "value_bbox": [
+        375,
+        679,
+        401,
+        701
+      ]
+    },
+    {
+      "label": "Southeast Asia",
+      "value": "282",
+      "value_numeric": 282.0,
+      "element_bbox": [
+        479,
+        677,
+        524,
+        757
+      ],
+      "value_bbox": [
+        488,
+        655,
+        514,
+        677
+      ]
+    },
+    {
+      "label": "Southeast Asia",
+      "value": "94",
+      "value_numeric": 94.0,
+      "element_bbox": [
+        591,
+        539,
+        636,
+        757
+      ],
+      "value_bbox": [
+        605,
+        517,
+        623,
+        539
+      ]
+    },
+    {
+      "label": "West Africa",
+      "value": "318",
+      "value_numeric": 318.0,
+      "element_bbox": [
+        704,
+        668,
+        749,
+        757
+      ],
+      "value_bbox": [
+        714,
+        647,
+        740,
+        668
+      ]
+    },
+    {
+      "label": "West Africa",
+      "value": "108",
+      "value_numeric": 108.0,
+      "element_bbox": [
+        817,
+        655,
+        862,
+        757
+      ],
+      "value_bbox": [
+        826,
+        633,
+        853,
+        655
+      ]
+    }
+  ]
+}

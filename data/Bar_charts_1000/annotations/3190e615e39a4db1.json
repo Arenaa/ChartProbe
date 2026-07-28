@@ -1,0 +1,112 @@
+{
+  "chart_id": "3190e615e39a4db1",
+  "chart_type": "Bar Chart",
+  "image_width": 2482,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "1965-1974",
+      "value": "9.68",
+      "value_numeric": 9.68,
+      "element_bbox": [
+        83,
+        128,
+        98,
+        884
+      ],
+      "value_bbox": [
+        75,
+        106,
+        106,
+        128
+      ]
+    },
+    {
+      "label": "1975-1984",
+      "value": "8.63",
+      "value_numeric": 8.63,
+      "element_bbox": [
+        174,
+        204,
+        188,
+        884
+      ],
+      "value_bbox": [
+        166,
+        183,
+        196,
+        204
+      ]
+    },
+    {
+      "label": "1985-1994",
+      "value": "7.58",
+      "value_numeric": 7.58,
+      "element_bbox": [
+        265,
+        276,
+        279,
+        884
+      ],
+      "value_bbox": [
+        257,
+        254,
+        287,
+        276
+      ]
+    },
+    {
+      "label": "1995-2004",
+      "value": "5.9",
+      "value_numeric": 5.9,
+      "element_bbox": [
+        356,
+        348,
+        370,
+        884
+      ],
+      "value_bbox": [
+        352,
+        326,
+        374,
+        348
+      ]
+    },
+    {
+      "label": "2005-2014",
+      "value": "5.28",
+      "value_numeric": 5.28,
+      "element_bbox": [
+        446,
+        419,
+        461,
+        884
+      ],
+      "value_bbox": [
+        438,
+        398,
+        469,
+        419
+      ]
+    },
+    {
+      "label": "2015-2024",
+      "value": "4.03",
+      "value_numeric": 4.03,
+      "element_bbox": [
+        537,
+        522,
+        552,
+        884
+      ],
+      "value_bbox": [
+        529,
+        500,
+        560,
+        522
+      ]
+    }
+  ]
+}

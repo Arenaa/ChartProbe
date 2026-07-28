@@ -1,0 +1,25 @@
+{
+  "bar": {
+    "n": 500,
+    "type_source": {
+      "keyword": 500
+    },
+    "splits": {
+      "train": 500
+    },
+    "out": "data/CR_ChartQA_500/bar_charts_500"
+  },
+  "pie": {
+    "n": 500,
+    "type_source": {
+      "clip": 361,
+      "keyword": 139
+    },
+    "splits": {
+      "train": 482,
+      "test": 11,
+      "val": 7
+    },
+    "out": "data/CR_ChartQA_500/pie_charts_500"
+  }
+}

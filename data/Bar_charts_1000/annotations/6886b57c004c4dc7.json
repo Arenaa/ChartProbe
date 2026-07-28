@@ -1,0 +1,112 @@
+{
+  "chart_id": "6886b57c004c4dc7",
+  "chart_type": "Bar Chart",
+  "image_width": 1911,
+  "image_height": 1382,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Cote d'Ivoire",
+      "value": "6.1",
+      "value_numeric": 6.1,
+      "element_bbox": [
+        326,
+        723,
+        487,
+        820
+      ],
+      "value_bbox": [
+        493,
+        758,
+        528,
+        785
+      ]
+    },
+    {
+      "label": "Costa Rica",
+      "value": "17.4",
+      "value_numeric": 17.4,
+      "element_bbox": [
+        326,
+        602,
+        785,
+        699
+      ],
+      "value_bbox": [
+        792,
+        637,
+        840,
+        664
+      ]
+    },
+    {
+      "label": "Congo (Republic)",
+      "value": "10.6",
+      "value_numeric": 10.6,
+      "element_bbox": [
+        326,
+        481,
+        606,
+        578
+      ],
+      "value_bbox": [
+        612,
+        516,
+        661,
+        543
+      ]
+    },
+    {
+      "label": "Congo (Democratic)",
+      "value": "12.7",
+      "value_numeric": 12.7,
+      "element_bbox": [
+        326,
+        361,
+        661,
+        457
+      ],
+      "value_bbox": [
+        668,
+        395,
+        716,
+        423
+      ]
+    },
+    {
+      "label": "Comoros",
+      "value": "10.8",
+      "value_numeric": 10.8,
+      "element_bbox": [
+        326,
+        240,
+        611,
+        336
+      ],
+      "value_bbox": [
+        618,
+        275,
+        666,
+        302
+      ]
+    },
+    {
+      "label": "Colombia",
+      "value": "23.3",
+      "value_numeric": 23.3,
+      "element_bbox": [
+        326,
+        119,
+        941,
+        216
+      ],
+      "value_bbox": [
+        948,
+        154,
+        996,
+        181
+      ]
+    }
+  ]
+}

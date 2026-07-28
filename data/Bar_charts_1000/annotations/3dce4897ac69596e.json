@@ -1,0 +1,95 @@
+{
+  "chart_id": "3dce4897ac69596e",
+  "chart_type": "Bar Chart",
+  "image_width": 2346,
+  "image_height": 1446,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Tax",
+      "value": "18.5",
+      "value_numeric": 18.5,
+      "element_bbox": [
+        110,
+        438,
+        181,
+        860
+      ],
+      "value_bbox": [
+        126,
+        412,
+        165,
+        438
+      ]
+    },
+    {
+      "label": "Grants",
+      "value": "22.1",
+      "value_numeric": 22.1,
+      "element_bbox": [
+        287,
+        411,
+        358,
+        860
+      ],
+      "value_bbox": [
+        303,
+        385,
+        342,
+        411
+      ]
+    },
+    {
+      "label": "Other",
+      "value": "3.4",
+      "value_numeric": 3.4,
+      "element_bbox": [
+        464,
+        806,
+        535,
+        860
+      ],
+      "value_bbox": [
+        486,
+        780,
+        513,
+        806
+      ]
+    },
+    {
+      "label": "Investment",
+      "value": "1.14",
+      "value_numeric": 1.14,
+      "element_bbox": [
+        641,
+        837,
+        712,
+        860
+      ],
+      "value_bbox": [
+        657,
+        811,
+        696,
+        837
+      ]
+    },
+    {
+      "label": "Customs",
+      "value": "1.6",
+      "value_numeric": 1.6,
+      "element_bbox": [
+        818,
+        831,
+        889,
+        860
+      ],
+      "value_bbox": [
+        840,
+        805,
+        867,
+        831
+      ]
+    }
+  ]
+}

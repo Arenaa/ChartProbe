@@ -1,0 +1,95 @@
+{
+  "chart_id": "472744b4a1d149dc",
+  "chart_type": "Bar Chart",
+  "image_width": 2928,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Korea (Republic)",
+      "value": "0.3",
+      "value_numeric": 0.3,
+      "element_bbox": [
+        180,
+        808,
+        210,
+        847
+      ],
+      "value_bbox": [
+        184,
+        786,
+        206,
+        808
+      ]
+    },
+    {
+      "label": "Libya",
+      "value": "2.9",
+      "value_numeric": 2.9,
+      "element_bbox": [
+        180,
+        651,
+        810,
+        690
+      ],
+      "value_bbox": [
+        817,
+        660,
+        839,
+        682
+      ]
+    },
+    {
+      "label": "Madagascar",
+      "value": "1.2",
+      "value_numeric": 1.2,
+      "element_bbox": [
+        180,
+        495,
+        356,
+        534
+      ],
+      "value_bbox": [
+        363,
+        504,
+        385,
+        525
+      ]
+    },
+    {
+      "label": "Mauritius",
+      "value": "4.2",
+      "value_numeric": 4.2,
+      "element_bbox": [
+        180,
+        339,
+        488,
+        378
+      ],
+      "value_bbox": [
+        495,
+        347,
+        517,
+        369
+      ]
+    },
+    {
+      "label": "Mexico",
+      "value": "0.2",
+      "value_numeric": 0.2,
+      "element_bbox": [
+        180,
+        182,
+        224,
+        222
+      ],
+      "value_bbox": [
+        231,
+        191,
+        253,
+        213
+      ]
+    }
+  ]
+}

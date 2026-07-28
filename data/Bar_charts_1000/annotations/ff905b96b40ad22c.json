@@ -1,0 +1,61 @@
+{
+  "chart_id": "ff905b96b40ad22c",
+  "chart_type": "Bar Chart",
+  "image_width": 3107,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Haiti",
+      "value": "75",
+      "value_numeric": 75.0,
+      "element_bbox": [
+        125,
+        655,
+        338,
+        855
+      ],
+      "value_bbox": [
+        346,
+        744,
+        363,
+        766
+      ]
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "150",
+      "value_numeric": 150.0,
+      "element_bbox": [
+        125,
+        405,
+        551,
+        605
+      ],
+      "value_bbox": [
+        559,
+        494,
+        585,
+        516
+      ]
+    },
+    {
+      "label": "Colombia",
+      "value": "260",
+      "value_numeric": 260.0,
+      "element_bbox": [
+        125,
+        155,
+        863,
+        355
+      ],
+      "value_bbox": [
+        871,
+        244,
+        897,
+        266
+      ]
+    }
+  ]
+}

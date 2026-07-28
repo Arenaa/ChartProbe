@@ -1,0 +1,112 @@
+{
+  "chart_id": "5f6d6056840c394f",
+  "chart_type": "Bar Chart",
+  "image_width": 2291,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Fiji",
+      "value": "0.13",
+      "value_numeric": 0.13,
+      "element_bbox": [
+        409,
+        96,
+        478,
+        150
+      ],
+      "value_bbox": [
+        410,
+        112,
+        441,
+        134
+      ]
+    },
+    {
+      "label": "Morocco",
+      "value": "2.02",
+      "value_numeric": 2.02,
+      "element_bbox": [
+        458,
+        230,
+        478,
+        283
+      ],
+      "value_bbox": [
+        453,
+        261,
+        484,
+        283
+      ]
+    },
+    {
+      "label": "Panama",
+      "value": "0.13",
+      "value_numeric": 0.13,
+      "element_bbox": [
+        454,
+        363,
+        478,
+        417
+      ],
+      "value_bbox": [
+        451,
+        395,
+        482,
+        417
+      ]
+    },
+    {
+      "label": "St. Kitts & Nevis",
+      "value": "0.38",
+      "value_numeric": 0.38,
+      "element_bbox": [
+        176,
+        497,
+        478,
+        550
+      ],
+      "value_bbox": [
+        178,
+        512,
+        209,
+        534
+      ]
+    },
+    {
+      "label": "Malta",
+      "value": "0.60",
+      "value_numeric": 0.6,
+      "element_bbox": [
+        443,
+        630,
+        478,
+        684
+      ],
+      "value_bbox": [
+        445,
+        646,
+        475,
+        668
+      ]
+    },
+    {
+      "label": "Bhutan",
+      "value": "0.25",
+      "value_numeric": 0.25,
+      "element_bbox": [
+        465,
+        764,
+        478,
+        817
+      ],
+      "value_bbox": [
+        456,
+        795,
+        487,
+        817
+      ]
+    }
+  ]
+}

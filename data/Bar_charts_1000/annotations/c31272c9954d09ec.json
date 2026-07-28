@@ -1,0 +1,95 @@
+{
+  "chart_id": "c31272c9954d09ec",
+  "chart_type": "Bar Chart",
+  "image_width": 2646,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Electricity & Heat",
+      "value": "45.7",
+      "value_numeric": 45.7,
+      "element_bbox": [
+        100,
+        168,
+        244,
+        884
+      ],
+      "value_bbox": [
+        155,
+        146,
+        189,
+        168
+      ]
+    },
+    {
+      "label": "Manufacturing",
+      "value": "26.1",
+      "value_numeric": 26.1,
+      "element_bbox": [
+        280,
+        475,
+        423,
+        884
+      ],
+      "value_bbox": [
+        335,
+        453,
+        369,
+        475
+      ]
+    },
+    {
+      "label": "Transportation",
+      "value": "12.6",
+      "value_numeric": 12.6,
+      "element_bbox": [
+        459,
+        687,
+        603,
+        884
+      ],
+      "value_bbox": [
+        514,
+        666,
+        548,
+        687
+      ]
+    },
+    {
+      "label": "Agriculture",
+      "value": "7.7",
+      "value_numeric": 7.7,
+      "element_bbox": [
+        639,
+        763,
+        783,
+        884
+      ],
+      "value_bbox": [
+        698,
+        741,
+        723,
+        763
+      ]
+    },
+    {
+      "label": "Renewables",
+      "value": "4.6",
+      "value_numeric": 4.6,
+      "element_bbox": [
+        818,
+        812,
+        962,
+        884
+      ],
+      "value_bbox": [
+        878,
+        790,
+        903,
+        812
+      ]
+    }
+  ]
+}

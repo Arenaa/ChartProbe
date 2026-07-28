@@ -1,0 +1,95 @@
+{
+  "chart_id": "397533da98c8f50a",
+  "chart_type": "Bar Chart",
+  "image_width": 2646,
+  "image_height": 1752,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "All Part-time",
+      "value": "27.94",
+      "value_numeric": 27.94,
+      "element_bbox": [
+        100,
+        418,
+        244,
+        923
+      ],
+      "value_bbox": [
+        150,
+        396,
+        194,
+        418
+      ]
+    },
+    {
+      "label": "Urban (Total)",
+      "value": "31.88",
+      "value_numeric": 31.88,
+      "element_bbox": [
+        280,
+        347,
+        423,
+        923
+      ],
+      "value_bbox": [
+        330,
+        325,
+        374,
+        347
+      ]
+    },
+    {
+      "label": "Urban (Female)",
+      "value": "29.61",
+      "value_numeric": 29.61,
+      "element_bbox": [
+        459,
+        388,
+        603,
+        923
+      ],
+      "value_bbox": [
+        509,
+        366,
+        553,
+        388
+      ]
+    },
+    {
+      "label": "Urban (Male)",
+      "value": "38.40",
+      "value_numeric": 38.4,
+      "element_bbox": [
+        639,
+        229,
+        783,
+        923
+      ],
+      "value_bbox": [
+        689,
+        207,
+        733,
+        229
+      ]
+    },
+    {
+      "label": "Rural",
+      "value": "23.51",
+      "value_numeric": 23.51,
+      "element_bbox": [
+        818,
+        498,
+        962,
+        923
+      ],
+      "value_bbox": [
+        868,
+        476,
+        912,
+        498
+      ]
+    }
+  ]
+}

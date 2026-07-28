@@ -1,0 +1,146 @@
+{
+  "chart_id": "02a033c4bdf4f657",
+  "chart_type": "Bar Chart",
+  "image_width": 2945,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Indonesia",
+      "value": "47.6",
+      "value_numeric": 47.6,
+      "element_bbox": [
+        129,
+        100,
+        941,
+        179
+      ],
+      "value_bbox": [
+        950,
+        129,
+        981,
+        150
+      ]
+    },
+    {
+      "label": "Turkey",
+      "value": "41.5",
+      "value_numeric": 41.5,
+      "element_bbox": [
+        129,
+        199,
+        837,
+        278
+      ],
+      "value_bbox": [
+        846,
+        228,
+        877,
+        249
+      ]
+    },
+    {
+      "label": "Serbia",
+      "value": "33.6",
+      "value_numeric": 33.6,
+      "element_bbox": [
+        129,
+        298,
+        702,
+        378
+      ],
+      "value_bbox": [
+        711,
+        327,
+        742,
+        349
+      ]
+    },
+    {
+      "label": "Egypt",
+      "value": "31.5",
+      "value_numeric": 31.5,
+      "element_bbox": [
+        129,
+        397,
+        667,
+        477
+      ],
+      "value_bbox": [
+        675,
+        426,
+        706,
+        448
+      ]
+    },
+    {
+      "label": "Morocco",
+      "value": "30.5",
+      "value_numeric": 30.5,
+      "element_bbox": [
+        129,
+        497,
+        649,
+        576
+      ],
+      "value_bbox": [
+        658,
+        526,
+        689,
+        547
+      ]
+    },
+    {
+      "label": "Tunisia",
+      "value": "29.5",
+      "value_numeric": 29.5,
+      "element_bbox": [
+        129,
+        596,
+        632,
+        675
+      ],
+      "value_bbox": [
+        641,
+        625,
+        672,
+        646
+      ]
+    },
+    {
+      "label": "Algeria",
+      "value": "28.5",
+      "value_numeric": 28.5,
+      "element_bbox": [
+        129,
+        695,
+        615,
+        775
+      ],
+      "value_bbox": [
+        624,
+        724,
+        655,
+        746
+      ]
+    },
+    {
+      "label": "Libya",
+      "value": "23.5",
+      "value_numeric": 23.5,
+      "element_bbox": [
+        129,
+        794,
+        530,
+        874
+      ],
+      "value_bbox": [
+        538,
+        823,
+        569,
+        845
+      ]
+    }
+  ]
+}

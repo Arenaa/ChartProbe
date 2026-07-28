@@ -1,0 +1,95 @@
+{
+  "chart_id": "834dda7a644abfdf",
+  "chart_type": "Bar Chart",
+  "image_width": 2646,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Africa",
+      "value": "34.4",
+      "value_numeric": 34.4,
+      "element_bbox": [
+        111,
+        608,
+        253,
+        884
+      ],
+      "value_bbox": [
+        164,
+        587,
+        199,
+        608
+      ]
+    },
+    {
+      "label": "Americas",
+      "value": "78.7",
+      "value_numeric": 78.7,
+      "element_bbox": [
+        288,
+        253,
+        430,
+        884
+      ],
+      "value_bbox": [
+        342,
+        232,
+        376,
+        253
+      ]
+    },
+    {
+      "label": "Asia",
+      "value": "51.9",
+      "value_numeric": 51.9,
+      "element_bbox": [
+        465,
+        468,
+        607,
+        884
+      ],
+      "value_bbox": [
+        519,
+        446,
+        554,
+        468
+      ]
+    },
+    {
+      "label": "Europe",
+      "value": "75.5",
+      "value_numeric": 75.5,
+      "element_bbox": [
+        643,
+        279,
+        785,
+        884
+      ],
+      "value_bbox": [
+        697,
+        257,
+        731,
+        279
+      ]
+    },
+    {
+      "label": "Oceania",
+      "value": "55.6",
+      "value_numeric": 55.6,
+      "element_bbox": [
+        820,
+        438,
+        962,
+        884
+      ],
+      "value_bbox": [
+        874,
+        416,
+        908,
+        438
+      ]
+    }
+  ]
+}

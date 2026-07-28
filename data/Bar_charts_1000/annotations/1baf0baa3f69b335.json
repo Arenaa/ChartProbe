@@ -1,0 +1,316 @@
+{
+  "chart_id": "1baf0baa3f69b335",
+  "chart_type": "Bar Chart",
+  "image_width": 3546,
+  "image_height": 1745,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "India",
+      "value": "197",
+      "value_numeric": 197.0,
+      "element_bbox": [
+        111,
+        123,
+        149,
+        781
+      ],
+      "value_bbox": [
+        119,
+        101,
+        141,
+        123
+      ]
+    },
+    {
+      "label": "Zambia",
+      "value": "185",
+      "value_numeric": 185.0,
+      "element_bbox": [
+        158,
+        163,
+        195,
+        781
+      ],
+      "value_bbox": [
+        166,
+        141,
+        188,
+        163
+      ]
+    },
+    {
+      "label": "Nigeria",
+      "value": "178",
+      "value_numeric": 178.0,
+      "element_bbox": [
+        205,
+        186,
+        242,
+        781
+      ],
+      "value_bbox": [
+        213,
+        165,
+        234,
+        186
+      ]
+    },
+    {
+      "label": "Pakistan",
+      "value": "168",
+      "value_numeric": 168.0,
+      "element_bbox": [
+        252,
+        220,
+        289,
+        781
+      ],
+      "value_bbox": [
+        259,
+        198,
+        281,
+        220
+      ]
+    },
+    {
+      "label": "Brazil",
+      "value": "158",
+      "value_numeric": 158.0,
+      "element_bbox": [
+        298,
+        253,
+        336,
+        781
+      ],
+      "value_bbox": [
+        306,
+        231,
+        328,
+        253
+      ]
+    },
+    {
+      "label": "Peru",
+      "value": "156",
+      "value_numeric": 156.0,
+      "element_bbox": [
+        345,
+        260,
+        382,
+        781
+      ],
+      "value_bbox": [
+        353,
+        238,
+        375,
+        260
+      ]
+    },
+    {
+      "label": "South Africa",
+      "value": "156",
+      "value_numeric": 156.0,
+      "element_bbox": [
+        392,
+        260,
+        429,
+        781
+      ],
+      "value_bbox": [
+        400,
+        238,
+        421,
+        260
+      ]
+    },
+    {
+      "label": "Argentina",
+      "value": "136",
+      "value_numeric": 136.0,
+      "element_bbox": [
+        439,
+        327,
+        476,
+        781
+      ],
+      "value_bbox": [
+        446,
+        305,
+        468,
+        327
+      ]
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "130",
+      "value_numeric": 130.0,
+      "element_bbox": [
+        485,
+        347,
+        523,
+        781
+      ],
+      "value_bbox": [
+        493,
+        325,
+        515,
+        347
+      ]
+    },
+    {
+      "label": "Singapore",
+      "value": "126",
+      "value_numeric": 126.0,
+      "element_bbox": [
+        532,
+        360,
+        569,
+        781
+      ],
+      "value_bbox": [
+        540,
+        338,
+        562,
+        360
+      ]
+    },
+    {
+      "label": "Malaysia",
+      "value": "120",
+      "value_numeric": 120.0,
+      "element_bbox": [
+        579,
+        380,
+        616,
+        781
+      ],
+      "value_bbox": [
+        587,
+        358,
+        608,
+        380
+      ]
+    },
+    {
+      "label": "Chile",
+      "value": "115",
+      "value_numeric": 115.0,
+      "element_bbox": [
+        626,
+        397,
+        663,
+        781
+      ],
+      "value_bbox": [
+        633,
+        375,
+        655,
+        397
+      ]
+    },
+    {
+      "label": "Vietnam",
+      "value": "112",
+      "value_numeric": 112.0,
+      "element_bbox": [
+        672,
+        407,
+        710,
+        781
+      ],
+      "value_bbox": [
+        680,
+        385,
+        702,
+        407
+      ]
+    },
+    {
+      "label": "Thailand",
+      "value": "111",
+      "value_numeric": 111.0,
+      "element_bbox": [
+        719,
+        410,
+        756,
+        781
+      ],
+      "value_bbox": [
+        727,
+        389,
+        749,
+        410
+      ]
+    },
+    {
+      "label": "Kenya",
+      "value": "108",
+      "value_numeric": 108.0,
+      "element_bbox": [
+        766,
+        420,
+        803,
+        781
+      ],
+      "value_bbox": [
+        774,
+        399,
+        795,
+        420
+      ]
+    },
+    {
+      "label": "Bangladesh",
+      "value": "100",
+      "value_numeric": 100.0,
+      "element_bbox": [
+        813,
+        447,
+        850,
+        781
+      ],
+      "value_bbox": [
+        820,
+        425,
+        842,
+        447
+      ]
+    },
+    {
+      "label": "Ethiopia",
+      "value": "87",
+      "value_numeric": 87.0,
+      "element_bbox": [
+        859,
+        491,
+        897,
+        781
+      ],
+      "value_bbox": [
+        871,
+        469,
+        885,
+        491
+      ]
+    },
+    {
+      "label": "Uganda",
+      "value": "80",
+      "value_numeric": 80.0,
+      "element_bbox": [
+        906,
+        514,
+        943,
+        781
+      ],
+      "value_bbox": [
+        917,
+        492,
+        932,
+        514
+      ]
+    }
+  ]
+}

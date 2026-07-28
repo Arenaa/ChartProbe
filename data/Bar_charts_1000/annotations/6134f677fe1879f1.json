@@ -1,0 +1,112 @@
+{
+  "chart_id": "6134f677fe1879f1",
+  "chart_type": "Bar Chart",
+  "image_width": 2945,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Kenya",
+      "value": "30",
+      "value_numeric": 30.0,
+      "element_bbox": [
+        129,
+        744,
+        385,
+        847
+      ],
+      "value_bbox": [
+        394,
+        785,
+        411,
+        806
+      ]
+    },
+    {
+      "label": "Indonesia",
+      "value": "60",
+      "value_numeric": 60.0,
+      "element_bbox": [
+        129,
+        616,
+        642,
+        719
+      ],
+      "value_bbox": [
+        651,
+        657,
+        668,
+        678
+      ]
+    },
+    {
+      "label": "India",
+      "value": "45",
+      "value_numeric": 45.0,
+      "element_bbox": [
+        129,
+        488,
+        514,
+        591
+      ],
+      "value_bbox": [
+        522,
+        529,
+        540,
+        550
+      ]
+    },
+    {
+      "label": "Honduras",
+      "value": "35",
+      "value_numeric": 35.0,
+      "element_bbox": [
+        129,
+        360,
+        428,
+        463
+      ],
+      "value_bbox": [
+        437,
+        401,
+        454,
+        422
+      ]
+    },
+    {
+      "label": "Haiti",
+      "value": "25",
+      "value_numeric": 25.0,
+      "element_bbox": [
+        129,
+        232,
+        343,
+        335
+      ],
+      "value_bbox": [
+        351,
+        273,
+        369,
+        294
+      ]
+    },
+    {
+      "label": "Guinea",
+      "value": "95",
+      "value_numeric": 95.0,
+      "element_bbox": [
+        129,
+        104,
+        941,
+        207
+      ],
+      "value_bbox": [
+        950,
+        145,
+        967,
+        166
+      ]
+    }
+  ]
+}

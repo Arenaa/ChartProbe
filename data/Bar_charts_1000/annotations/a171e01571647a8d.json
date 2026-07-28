@@ -1,0 +1,112 @@
+{
+  "chart_id": "a171e01571647a8d",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1745,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Solomon Islands",
+      "value": "3.86",
+      "value_numeric": 3.86,
+      "element_bbox": [
+        120,
+        429,
+        233,
+        1000
+      ],
+      "value_bbox": [
+        161,
+        407,
+        192,
+        429
+      ]
+    },
+    {
+      "label": "Cameroon",
+      "value": "2.98",
+      "value_numeric": 2.98,
+      "element_bbox": [
+        262,
+        579,
+        375,
+        1000
+      ],
+      "value_bbox": [
+        303,
+        558,
+        334,
+        579
+      ]
+    },
+    {
+      "label": "Ghana",
+      "value": "3.08",
+      "value_numeric": 3.08,
+      "element_bbox": [
+        403,
+        548,
+        516,
+        1000
+      ],
+      "value_bbox": [
+        444,
+        526,
+        475,
+        548
+      ]
+    },
+    {
+      "label": "Kenya",
+      "value": "2.88",
+      "value_numeric": 2.88,
+      "element_bbox": [
+        545,
+        610,
+        658,
+        1000
+      ],
+      "value_bbox": [
+        586,
+        588,
+        617,
+        610
+      ]
+    },
+    {
+      "label": "Niger",
+      "value": "3.00",
+      "value_numeric": 3.0,
+      "element_bbox": [
+        686,
+        572,
+        799,
+        1000
+      ],
+      "value_bbox": [
+        727,
+        550,
+        758,
+        572
+      ]
+    },
+    {
+      "label": "Azerbaijan",
+      "value": "3.48",
+      "value_numeric": 3.48,
+      "element_bbox": [
+        828,
+        464,
+        941,
+        1000
+      ],
+      "value_bbox": [
+        869,
+        443,
+        900,
+        464
+      ]
+    }
+  ]
+}

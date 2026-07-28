@@ -1,0 +1,180 @@
+{
+  "chart_id": "5262002b6346661f",
+  "chart_type": "Bar Chart",
+  "image_width": 1964,
+  "image_height": 1445,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "2012",
+      "value": "200000",
+      "value_numeric": 200000.0,
+      "element_bbox": [
+        138,
+        566,
+        143,
+        862
+      ],
+      "value_bbox": [
+        108,
+        540,
+        173,
+        566
+      ]
+    },
+    {
+      "label": "2013",
+      "value": "210000",
+      "value_numeric": 210000.0,
+      "element_bbox": [
+        179,
+        510,
+        184,
+        862
+      ],
+      "value_bbox": [
+        149,
+        484,
+        214,
+        510
+      ]
+    },
+    {
+      "label": "2014",
+      "value": "220000",
+      "value_numeric": 220000.0,
+      "element_bbox": [
+        220,
+        468,
+        226,
+        862
+      ],
+      "value_bbox": [
+        190,
+        442,
+        256,
+        468
+      ]
+    },
+    {
+      "label": "2015",
+      "value": "230000",
+      "value_numeric": 230000.0,
+      "element_bbox": [
+        261,
+        426,
+        267,
+        862
+      ],
+      "value_bbox": [
+        231,
+        400,
+        297,
+        426
+      ]
+    },
+    {
+      "label": "2016",
+      "value": "240000",
+      "value_numeric": 240000.0,
+      "element_bbox": [
+        302,
+        383,
+        308,
+        862
+      ],
+      "value_bbox": [
+        272,
+        357,
+        338,
+        383
+      ]
+    },
+    {
+      "label": "2017",
+      "value": "250000",
+      "value_numeric": 250000.0,
+      "element_bbox": [
+        344,
+        341,
+        349,
+        862
+      ],
+      "value_bbox": [
+        314,
+        315,
+        379,
+        341
+      ]
+    },
+    {
+      "label": "2018",
+      "value": "260000",
+      "value_numeric": 260000.0,
+      "element_bbox": [
+        385,
+        299,
+        390,
+        862
+      ],
+      "value_bbox": [
+        355,
+        273,
+        420,
+        299
+      ]
+    },
+    {
+      "label": "2019",
+      "value": "270000",
+      "value_numeric": 270000.0,
+      "element_bbox": [
+        426,
+        256,
+        432,
+        862
+      ],
+      "value_bbox": [
+        396,
+        230,
+        462,
+        256
+      ]
+    },
+    {
+      "label": "2020",
+      "value": "280000",
+      "value_numeric": 280000.0,
+      "element_bbox": [
+        467,
+        228,
+        473,
+        862
+      ],
+      "value_bbox": [
+        437,
+        202,
+        503,
+        228
+      ]
+    },
+    {
+      "label": "2021",
+      "value": "290000",
+      "value_numeric": 290000.0,
+      "element_bbox": [
+        508,
+        200,
+        514,
+        862
+      ],
+      "value_bbox": [
+        478,
+        174,
+        544,
+        200
+      ]
+    }
+  ]
+}

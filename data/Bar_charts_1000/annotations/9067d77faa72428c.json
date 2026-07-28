@@ -1,0 +1,95 @@
+{
+  "chart_id": "9067d77faa72428c",
+  "chart_type": "Bar Chart",
+  "image_width": 2352,
+  "image_height": 1451,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Europe",
+      "value": "352.0",
+      "value_numeric": 352.0,
+      "element_bbox": [
+        141,
+        134,
+        274,
+        866
+      ],
+      "value_bbox": [
+        182,
+        108,
+        232,
+        134
+      ]
+    },
+    {
+      "label": "Global",
+      "value": "177.0",
+      "value_numeric": 177.0,
+      "element_bbox": [
+        307,
+        498,
+        440,
+        866
+      ],
+      "value_bbox": [
+        348,
+        472,
+        398,
+        498
+      ]
+    },
+    {
+      "label": "Middle East",
+      "value": "129.0",
+      "value_numeric": 129.0,
+      "element_bbox": [
+        473,
+        598,
+        606,
+        866
+      ],
+      "value_bbox": [
+        514,
+        572,
+        564,
+        598
+      ]
+    },
+    {
+      "label": "North Africa",
+      "value": "78.9",
+      "value_numeric": 78.9,
+      "element_bbox": [
+        639,
+        702,
+        772,
+        866
+      ],
+      "value_bbox": [
+        686,
+        676,
+        724,
+        702
+      ]
+    },
+    {
+      "label": "Sub-Saharan Africa",
+      "value": "83.7",
+      "value_numeric": 83.7,
+      "element_bbox": [
+        805,
+        692,
+        938,
+        866
+      ],
+      "value_bbox": [
+        852,
+        666,
+        890,
+        692
+      ]
+    }
+  ]
+}

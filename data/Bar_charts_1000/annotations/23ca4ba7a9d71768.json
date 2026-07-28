@@ -1,0 +1,78 @@
+{
+  "chart_id": "23ca4ba7a9d71768",
+  "chart_type": "Bar Chart",
+  "image_width": 2652,
+  "image_height": 1446,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Service",
+      "value": "3.47",
+      "value_numeric": 3.47,
+      "element_bbox": [
+        158,
+        118,
+        884,
+        194
+      ],
+      "value_bbox": [
+        893,
+        143,
+        927,
+        169
+      ]
+    },
+    {
+      "label": "Other",
+      "value": "1.12",
+      "value_numeric": 1.12,
+      "element_bbox": [
+        158,
+        309,
+        365,
+        385
+      ],
+      "value_bbox": [
+        373,
+        334,
+        408,
+        360
+      ]
+    },
+    {
+      "label": "Manufacturing",
+      "value": "0.26",
+      "value_numeric": 0.26,
+      "element_bbox": [
+        158,
+        499,
+        209,
+        575
+      ],
+      "value_bbox": [
+        166,
+        549,
+        201,
+        575
+      ]
+    },
+    {
+      "label": "Agriculture",
+      "value": "0.26",
+      "value_numeric": 0.26,
+      "element_bbox": [
+        158,
+        689,
+        209,
+        765
+      ],
+      "value_bbox": [
+        166,
+        739,
+        201,
+        765
+      ]
+    }
+  ]
+}

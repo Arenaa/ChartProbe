@@ -1,0 +1,78 @@
+{
+  "chart_id": "d36281b7b9f42517",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Miscellaneous expenses",
+      "value": "800000000",
+      "value_numeric": 800000000.0,
+      "element_bbox": [
+        120,
+        884,
+        198,
+        884
+      ],
+      "value_bbox": [
+        206,
+        873,
+        285,
+        895
+      ]
+    },
+    {
+      "label": "Labor Taxes",
+      "value": "0",
+      "value_numeric": 0.0,
+      "element_bbox": [
+        342,
+        106,
+        420,
+        884
+      ],
+      "value_bbox": [
+        376,
+        84,
+        385,
+        106
+      ]
+    },
+    {
+      "label": "Grants and Revenue",
+      "value": "1650000000",
+      "value_numeric": 1650000000.0,
+      "element_bbox": [
+        564,
+        683,
+        641,
+        884
+      ],
+      "value_bbox": [
+        559,
+        661,
+        646,
+        683
+      ]
+    },
+    {
+      "label": "Services",
+      "value": "1850000000",
+      "value_numeric": 1850000000.0,
+      "element_bbox": [
+        786,
+        428,
+        863,
+        884
+      ],
+      "value_bbox": [
+        781,
+        406,
+        868,
+        428
+      ]
+    }
+  ]
+}

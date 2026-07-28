@@ -1,0 +1,78 @@
+{
+  "chart_id": "4be4ef69c40f0fe3",
+  "chart_type": "Bar Chart",
+  "image_width": 2562,
+  "image_height": 1705,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Chile",
+      "value": "1e9",
+      "value_numeric": 1000000000.0,
+      "element_bbox": [
+        160,
+        841,
+        309,
+        890
+      ],
+      "value_bbox": [
+        221,
+        819,
+        247,
+        841
+      ]
+    },
+    {
+      "label": "China",
+      "value": "1.5e10",
+      "value_numeric": 15000000000.0,
+      "element_bbox": [
+        346,
+        157,
+        494,
+        890
+      ],
+      "value_bbox": [
+        396,
+        135,
+        444,
+        157
+      ]
+    },
+    {
+      "label": "Colombia",
+      "value": "1.5e9",
+      "value_numeric": 1500000000.0,
+      "element_bbox": [
+        531,
+        817,
+        679,
+        890
+      ],
+      "value_bbox": [
+        586,
+        795,
+        625,
+        817
+      ]
+    },
+    {
+      "label": "Congo (rep.)",
+      "value": "1e8",
+      "value_numeric": 100000000.0,
+      "element_bbox": [
+        716,
+        885,
+        865,
+        890
+      ],
+      "value_bbox": [
+        778,
+        863,
+        804,
+        885
+      ]
+    }
+  ]
+}

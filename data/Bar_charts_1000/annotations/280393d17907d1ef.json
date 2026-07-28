@@ -1,0 +1,95 @@
+{
+  "chart_id": "280393d17907d1ef",
+  "chart_type": "Bar Chart",
+  "image_width": 2647,
+  "image_height": 1752,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Women",
+      "value": "23465",
+      "value_numeric": 23465.0,
+      "element_bbox": [
+        132,
+        198,
+        270,
+        923
+      ],
+      "value_bbox": [
+        177,
+        177,
+        225,
+        198
+      ]
+    },
+    {
+      "label": "Men",
+      "value": "20280",
+      "value_numeric": 20280.0,
+      "element_bbox": [
+        305,
+        297,
+        443,
+        923
+      ],
+      "value_bbox": [
+        350,
+        275,
+        398,
+        297
+      ]
+    },
+    {
+      "label": "Non-binary",
+      "value": "2340",
+      "value_numeric": 2340.0,
+      "element_bbox": [
+        478,
+        851,
+        616,
+        923
+      ],
+      "value_bbox": [
+        528,
+        829,
+        567,
+        851
+      ]
+    },
+    {
+      "label": "Other",
+      "value": "481",
+      "value_numeric": 481.0,
+      "element_bbox": [
+        651,
+        908,
+        790,
+        923
+      ],
+      "value_bbox": [
+        706,
+        886,
+        735,
+        908
+      ]
+    },
+    {
+      "label": "Prefer not to say",
+      "value": "155",
+      "value_numeric": 155.0,
+      "element_bbox": [
+        824,
+        918,
+        963,
+        923
+      ],
+      "value_bbox": [
+        879,
+        897,
+        908,
+        918
+      ]
+    }
+  ]
+}

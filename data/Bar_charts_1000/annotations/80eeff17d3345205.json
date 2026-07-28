@@ -1,0 +1,146 @@
+{
+  "chart_id": "80eeff17d3345205",
+  "chart_type": "Bar Chart",
+  "image_width": 3048,
+  "image_height": 1763,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "New Zealand",
+      "value": "12.00",
+      "value_numeric": 12.0,
+      "element_bbox": [
+        82,
+        118,
+        174,
+        776
+      ],
+      "value_bbox": [
+        108,
+        96,
+        148,
+        118
+      ]
+    },
+    {
+      "label": "Canada",
+      "value": "2.50",
+      "value_numeric": 2.5,
+      "element_bbox": [
+        197,
+        639,
+        288,
+        776
+      ],
+      "value_bbox": [
+        227,
+        617,
+        258,
+        639
+      ]
+    },
+    {
+      "label": "Portugal",
+      "value": "2.00",
+      "value_numeric": 2.0,
+      "element_bbox": [
+        311,
+        666,
+        402,
+        776
+      ],
+      "value_bbox": [
+        341,
+        644,
+        372,
+        666
+      ]
+    },
+    {
+      "label": "Germany",
+      "value": "1.80",
+      "value_numeric": 1.8,
+      "element_bbox": [
+        425,
+        677,
+        517,
+        776
+      ],
+      "value_bbox": [
+        455,
+        655,
+        486,
+        677
+      ]
+    },
+    {
+      "label": "Sweden",
+      "value": "1.20",
+      "value_numeric": 1.2,
+      "element_bbox": [
+        539,
+        710,
+        631,
+        776
+      ],
+      "value_bbox": [
+        570,
+        688,
+        601,
+        710
+      ]
+    },
+    {
+      "label": "France",
+      "value": "0.90",
+      "value_numeric": 0.9,
+      "element_bbox": [
+        654,
+        726,
+        745,
+        776
+      ],
+      "value_bbox": [
+        684,
+        705,
+        715,
+        726
+      ]
+    },
+    {
+      "label": "Poland",
+      "value": "0.08",
+      "value_numeric": 0.08,
+      "element_bbox": [
+        768,
+        771,
+        859,
+        776
+      ],
+      "value_bbox": [
+        868,
+        763,
+        899,
+        785
+      ]
+    },
+    {
+      "label": "United States",
+      "value": "0.06",
+      "value_numeric": 0.06,
+      "element_bbox": [
+        882,
+        773,
+        974,
+        776
+      ],
+      "value_bbox": [
+        982,
+        763,
+        1000,
+        785
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "chart_id": "05eb798b1782fa9c",
+  "chart_type": "Bar Chart",
+  "image_width": 2899,
+  "image_height": 1695,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "South Sudan",
+      "value": "220",
+      "value_numeric": 220.0,
+      "element_bbox": [
+        135,
+        515,
+        272,
+        888
+      ],
+      "value_bbox": [
+        190,
+        493,
+        216,
+        515
+      ]
+    },
+    {
+      "label": "Kenya",
+      "value": "315",
+      "value_numeric": 315.0,
+      "element_bbox": [
+        306,
+        354,
+        443,
+        888
+      ],
+      "value_bbox": [
+        361,
+        333,
+        387,
+        354
+      ]
+    },
+    {
+      "label": "Ethiopia",
+      "value": "430",
+      "value_numeric": 430.0,
+      "element_bbox": [
+        477,
+        159,
+        614,
+        888
+      ],
+      "value_bbox": [
+        532,
+        138,
+        558,
+        159
+      ]
+    },
+    {
+      "label": "Uganda",
+      "value": "175",
+      "value_numeric": 175.0,
+      "element_bbox": [
+        648,
+        591,
+        785,
+        888
+      ],
+      "value_bbox": [
+        703,
+        570,
+        729,
+        591
+      ]
+    },
+    {
+      "label": "Tanzania",
+      "value": "292",
+      "value_numeric": 292.0,
+      "element_bbox": [
+        819,
+        393,
+        956,
+        888
+      ],
+      "value_bbox": [
+        874,
+        371,
+        901,
+        393
+      ]
+    }
+  ]
+}

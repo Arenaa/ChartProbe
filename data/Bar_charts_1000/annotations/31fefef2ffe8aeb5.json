@@ -1,0 +1,95 @@
+{
+  "chart_id": "31fefef2ffe8aeb5",
+  "chart_type": "Bar Chart",
+  "image_width": 2543,
+  "image_height": 1653,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Potential Connections",
+      "value": "5200",
+      "value_numeric": 5200.0,
+      "element_bbox": [
+        145,
+        144,
+        278,
+        717
+      ],
+      "value_bbox": [
+        192,
+        122,
+        231,
+        144
+      ]
+    },
+    {
+      "label": "Qualified Requests",
+      "value": "4450",
+      "value_numeric": 4450.0,
+      "element_bbox": [
+        312,
+        227,
+        445,
+        717
+      ],
+      "value_bbox": [
+        359,
+        205,
+        398,
+        227
+      ]
+    },
+    {
+      "label": "Approved Connections",
+      "value": "3900",
+      "value_numeric": 3900.0,
+      "element_bbox": [
+        479,
+        287,
+        612,
+        717
+      ],
+      "value_bbox": [
+        526,
+        266,
+        565,
+        287
+      ]
+    },
+    {
+      "label": "Installed Connections",
+      "value": "3500",
+      "value_numeric": 3500.0,
+      "element_bbox": [
+        646,
+        331,
+        779,
+        717
+      ],
+      "value_bbox": [
+        693,
+        310,
+        732,
+        331
+      ]
+    },
+    {
+      "label": "Active Connections",
+      "value": "2500",
+      "value_numeric": 2500.0,
+      "element_bbox": [
+        813,
+        442,
+        946,
+        717
+      ],
+      "value_bbox": [
+        860,
+        420,
+        899,
+        442
+      ]
+    }
+  ]
+}

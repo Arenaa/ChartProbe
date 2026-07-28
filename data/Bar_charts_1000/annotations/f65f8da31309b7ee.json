@@ -1,0 +1,61 @@
+{
+  "chart_id": "f65f8da31309b7ee",
+  "chart_type": "Bar Chart",
+  "image_width": 1968,
+  "image_height": 1381,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Norway",
+      "value": "16.0",
+      "value_numeric": 16.0,
+      "element_bbox": [
+        125,
+        738,
+        407,
+        855
+      ],
+      "value_bbox": [
+        415,
+        783,
+        463,
+        810
+      ]
+    },
+    {
+      "label": "Spain",
+      "value": "27.5",
+      "value_numeric": 27.5,
+      "element_bbox": [
+        125,
+        505,
+        863,
+        622
+      ],
+      "value_bbox": [
+        871,
+        550,
+        919,
+        577
+      ]
+    },
+    {
+      "label": "Sweden",
+      "value": "10.5",
+      "value_numeric": 10.5,
+      "element_bbox": [
+        125,
+        272,
+        568,
+        388
+      ],
+      "value_bbox": [
+        576,
+        316,
+        624,
+        344
+      ]
+    }
+  ]
+}

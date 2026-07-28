@@ -1,0 +1,95 @@
+{
+  "chart_id": "2be62fe08d9832d9",
+  "chart_type": "Bar Chart",
+  "image_width": 2831,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Israel",
+      "value": "50000",
+      "value_numeric": 50000.0,
+      "element_bbox": [
+        125,
+        738,
+        128,
+        855
+      ],
+      "value_bbox": [
+        135,
+        786,
+        179,
+        808
+      ]
+    },
+    {
+      "label": "Iceland",
+      "value": "0",
+      "value_numeric": 0.0,
+      "element_bbox": [
+        125,
+        593,
+        125,
+        709
+      ],
+      "value_bbox": [
+        121,
+        571,
+        129,
+        593
+      ]
+    },
+    {
+      "label": "Iran",
+      "value": "2000000",
+      "value_numeric": 2000000.0,
+      "element_bbox": [
+        125,
+        447,
+        234,
+        563
+      ],
+      "value_bbox": [
+        242,
+        494,
+        303,
+        516
+      ]
+    },
+    {
+      "label": "Indonesia",
+      "value": "13500000",
+      "value_numeric": 13500000.0,
+      "element_bbox": [
+        125,
+        301,
+        863,
+        418
+      ],
+      "value_bbox": [
+        871,
+        348,
+        941,
+        370
+      ]
+    },
+    {
+      "label": "Ireland",
+      "value": "0",
+      "value_numeric": 0.0,
+      "element_bbox": [
+        125,
+        155,
+        125,
+        272
+      ],
+      "value_bbox": [
+        121,
+        133,
+        129,
+        155
+      ]
+    }
+  ]
+}

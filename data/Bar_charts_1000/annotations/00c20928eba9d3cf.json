@@ -1,0 +1,61 @@
+{
+  "chart_id": "00c20928eba9d3cf",
+  "chart_type": "Bar Chart",
+  "image_width": 2346,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Female participants",
+      "value": "36.2",
+      "value_numeric": 36.2,
+      "element_bbox": [
+        133,
+        128,
+        319,
+        884
+      ],
+      "value_bbox": [
+        206,
+        106,
+        245,
+        128
+      ]
+    },
+    {
+      "label": "Male participants",
+      "value": "35.3",
+      "value_numeric": 35.3,
+      "element_bbox": [
+        442,
+        145,
+        628,
+        884
+      ],
+      "value_bbox": [
+        516,
+        123,
+        554,
+        145
+      ]
+    },
+    {
+      "label": "Non-binary participants",
+      "value": "31.1",
+      "value_numeric": 31.1,
+      "element_bbox": [
+        752,
+        233,
+        937,
+        884
+      ],
+      "value_bbox": [
+        825,
+        212,
+        864,
+        233
+      ]
+    }
+  ]
+}

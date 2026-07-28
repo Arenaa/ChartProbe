@@ -1,0 +1,95 @@
+{
+  "chart_id": "8eea35ab74c5b2b9",
+  "chart_type": "Bar Chart",
+  "image_width": 2681,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Peru",
+      "value": "2",
+      "value_numeric": 2.0,
+      "element_bbox": [
+        125,
+        738,
+        189,
+        855
+      ],
+      "value_bbox": [
+        197,
+        786,
+        206,
+        808
+      ]
+    },
+    {
+      "label": "Panama",
+      "value": "9",
+      "value_numeric": 9.0,
+      "element_bbox": [
+        125,
+        593,
+        414,
+        709
+      ],
+      "value_bbox": [
+        422,
+        640,
+        430,
+        662
+      ]
+    },
+    {
+      "label": "Nigeria",
+      "value": "1",
+      "value_numeric": 1.0,
+      "element_bbox": [
+        125,
+        447,
+        157,
+        563
+      ],
+      "value_bbox": [
+        165,
+        494,
+        174,
+        516
+      ]
+    },
+    {
+      "label": "Oman",
+      "value": "23",
+      "value_numeric": 23.0,
+      "element_bbox": [
+        125,
+        301,
+        863,
+        418
+      ],
+      "value_bbox": [
+        871,
+        348,
+        888,
+        370
+      ]
+    },
+    {
+      "label": "Pakistan",
+      "value": "1",
+      "value_numeric": 1.0,
+      "element_bbox": [
+        125,
+        155,
+        157,
+        272
+      ],
+      "value_bbox": [
+        165,
+        203,
+        174,
+        224
+      ]
+    }
+  ]
+}

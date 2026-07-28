@@ -1,0 +1,95 @@
+{
+  "chart_id": "0dc7926405ccf3e8",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "1960-1973",
+      "value": "84.6%",
+      "value_numeric": 84.6,
+      "element_bbox": [
+        102,
+        322,
+        245,
+        884
+      ],
+      "value_bbox": [
+        152,
+        301,
+        195,
+        322
+      ]
+    },
+    {
+      "label": "1974-1985",
+      "value": "87.2%",
+      "value_numeric": 87.2,
+      "element_bbox": [
+        281,
+        306,
+        425,
+        884
+      ],
+      "value_bbox": [
+        331,
+        284,
+        375,
+        306
+      ]
+    },
+    {
+      "label": "1986-1996",
+      "value": "97.9%",
+      "value_numeric": 97.9,
+      "element_bbox": [
+        461,
+        235,
+        605,
+        884
+      ],
+      "value_bbox": [
+        511,
+        213,
+        554,
+        235
+      ]
+    },
+    {
+      "label": "1997-2007",
+      "value": "103.3%",
+      "value_numeric": 103.3,
+      "element_bbox": [
+        641,
+        199,
+        784,
+        884
+      ],
+      "value_bbox": [
+        686,
+        177,
+        738,
+        199
+      ]
+    },
+    {
+      "label": "2008-2018",
+      "value": "114.1%",
+      "value_numeric": 114.1,
+      "element_bbox": [
+        820,
+        128,
+        964,
+        884
+      ],
+      "value_bbox": [
+        866,
+        106,
+        918,
+        128
+      ]
+    }
+  ]
+}

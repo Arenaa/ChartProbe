@@ -1,0 +1,78 @@
+{
+  "chart_id": "5b57c09c9d823284",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1745,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Middle Eastern Nations",
+      "value": "122.92",
+      "value_numeric": 122.92,
+      "element_bbox": [
+        106,
+        96,
+        286,
+        633
+      ],
+      "value_bbox": [
+        172,
+        74,
+        220,
+        96
+      ]
+    },
+    {
+      "label": "Overall",
+      "value": "29.97",
+      "value_numeric": 29.97,
+      "element_bbox": [
+        331,
+        502,
+        510,
+        633
+      ],
+      "value_bbox": [
+        401,
+        480,
+        440,
+        502
+      ]
+    },
+    {
+      "label": "Sub-Saharan African Nations",
+      "value": "2.77",
+      "value_numeric": 2.77,
+      "element_bbox": [
+        555,
+        621,
+        735,
+        633
+      ],
+      "value_bbox": [
+        630,
+        599,
+        661,
+        621
+      ]
+    },
+    {
+      "label": "Caribbean Nations",
+      "value": "1.07",
+      "value_numeric": 1.07,
+      "element_bbox": [
+        780,
+        628,
+        960,
+        633
+      ],
+      "value_bbox": [
+        854,
+        606,
+        885,
+        628
+      ]
+    }
+  ]
+}

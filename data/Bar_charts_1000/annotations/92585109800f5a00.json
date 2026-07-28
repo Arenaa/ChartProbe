@@ -1,0 +1,231 @@
+{
+  "chart_id": "92585109800f5a00",
+  "chart_type": "Bar Chart",
+  "image_width": 3206,
+  "image_height": 1772,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Romania",
+      "value": "45.5",
+      "value_numeric": 45.5,
+      "element_bbox": [
+        67,
+        452,
+        79,
+        827
+      ],
+      "value_bbox": [
+        59,
+        430,
+        87,
+        452
+      ]
+    },
+    {
+      "label": "Croatia",
+      "value": "19.6",
+      "value_numeric": 19.6,
+      "element_bbox": [
+        138,
+        652,
+        149,
+        827
+      ],
+      "value_bbox": [
+        129,
+        630,
+        157,
+        652
+      ]
+    },
+    {
+      "label": "Ethiopia",
+      "value": "11.6",
+      "value_numeric": 11.6,
+      "element_bbox": [
+        208,
+        713,
+        219,
+        827
+      ],
+      "value_bbox": [
+        199,
+        692,
+        228,
+        713
+      ]
+    },
+    {
+      "label": "Macau (Special)",
+      "value": "2.2",
+      "value_numeric": 2.2,
+      "element_bbox": [
+        278,
+        805,
+        289,
+        827
+      ],
+      "value_bbox": [
+        273,
+        783,
+        294,
+        805
+      ]
+    },
+    {
+      "label": "Portugal",
+      "value": "21.4",
+      "value_numeric": 21.4,
+      "element_bbox": [
+        348,
+        597,
+        360,
+        827
+      ],
+      "value_bbox": [
+        340,
+        576,
+        368,
+        597
+      ]
+    },
+    {
+      "label": "Spain",
+      "value": "18.0",
+      "value_numeric": 18.0,
+      "element_bbox": [
+        419,
+        634,
+        430,
+        827
+      ],
+      "value_bbox": [
+        410,
+        612,
+        439,
+        634
+      ]
+    },
+    {
+      "label": "Italy",
+      "value": "15.3",
+      "value_numeric": 15.3,
+      "element_bbox": [
+        489,
+        666,
+        500,
+        827
+      ],
+      "value_bbox": [
+        480,
+        645,
+        509,
+        666
+      ]
+    },
+    {
+      "label": "Germany",
+      "value": "14.6",
+      "value_numeric": 14.6,
+      "element_bbox": [
+        559,
+        685,
+        570,
+        827
+      ],
+      "value_bbox": [
+        550,
+        664,
+        579,
+        685
+      ]
+    },
+    {
+      "label": "Poland",
+      "value": "19.2",
+      "value_numeric": 19.2,
+      "element_bbox": [
+        629,
+        619,
+        641,
+        827
+      ],
+      "value_bbox": [
+        621,
+        598,
+        649,
+        619
+      ]
+    },
+    {
+      "label": "Hungary",
+      "value": "18.0",
+      "value_numeric": 18.0,
+      "element_bbox": [
+        700,
+        630,
+        711,
+        827
+      ],
+      "value_bbox": [
+        691,
+        608,
+        720,
+        630
+      ]
+    },
+    {
+      "label": "Norway",
+      "value": "9.83",
+      "value_numeric": 9.83,
+      "element_bbox": [
+        770,
+        706,
+        781,
+        827
+      ],
+      "value_bbox": [
+        761,
+        684,
+        790,
+        706
+      ]
+    },
+    {
+      "label": "Sweden",
+      "value": "10.83",
+      "value_numeric": 10.83,
+      "element_bbox": [
+        840,
+        691,
+        851,
+        827
+      ],
+      "value_bbox": [
+        828,
+        670,
+        864,
+        691
+      ]
+    },
+    {
+      "label": "Denmark",
+      "value": "13.1",
+      "value_numeric": 13.1,
+      "element_bbox": [
+        910,
+        702,
+        922,
+        827
+      ],
+      "value_bbox": [
+        902,
+        680,
+        930,
+        702
+      ]
+    }
+  ]
+}

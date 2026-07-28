@@ -1,0 +1,180 @@
+{
+  "chart_id": "50ccdfcb77abaa00",
+  "chart_type": "Bar Chart",
+  "image_width": 2486,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "1997-2001",
+      "value": "54.2",
+      "value_numeric": 54.2,
+      "element_bbox": [
+        95,
+        251,
+        145,
+        870
+      ],
+      "value_bbox": [
+        104,
+        230,
+        135,
+        251
+      ]
+    },
+    {
+      "label": "1997-2001",
+      "value": "55.9",
+      "value_numeric": 55.9,
+      "element_bbox": [
+        220,
+        223,
+        270,
+        870
+      ],
+      "value_bbox": [
+        229,
+        201,
+        260,
+        223
+      ]
+    },
+    {
+      "label": "2002-2006",
+      "value": "56.7",
+      "value_numeric": 56.7,
+      "element_bbox": [
+        344,
+        204,
+        394,
+        870
+      ],
+      "value_bbox": [
+        354,
+        183,
+        385,
+        204
+      ]
+    },
+    {
+      "label": "2002-2006",
+      "value": "58.4",
+      "value_numeric": 58.4,
+      "element_bbox": [
+        469,
+        186,
+        519,
+        870
+      ],
+      "value_bbox": [
+        479,
+        165,
+        510,
+        186
+      ]
+    },
+    {
+      "label": "2007-2011",
+      "value": "58.3",
+      "value_numeric": 58.3,
+      "element_bbox": [
+        594,
+        171,
+        644,
+        870
+      ],
+      "value_bbox": [
+        603,
+        150,
+        634,
+        171
+      ]
+    },
+    {
+      "label": "2007-2011",
+      "value": "60.9",
+      "value_numeric": 60.9,
+      "element_bbox": [
+        145,
+        232,
+        195,
+        870
+      ],
+      "value_bbox": [
+        154,
+        210,
+        185,
+        232
+      ]
+    },
+    {
+      "label": "2012-2016",
+      "value": "59.9",
+      "value_numeric": 59.9,
+      "element_bbox": [
+        270,
+        203,
+        319,
+        870
+      ],
+      "value_bbox": [
+        279,
+        182,
+        310,
+        203
+      ]
+    },
+    {
+      "label": "2012-2016",
+      "value": "62.9",
+      "value_numeric": 62.9,
+      "element_bbox": [
+        394,
+        175,
+        444,
+        870
+      ],
+      "value_bbox": [
+        404,
+        153,
+        435,
+        175
+      ]
+    },
+    {
+      "label": "2017-2021",
+      "value": "61.2",
+      "value_numeric": 61.2,
+      "element_bbox": [
+        519,
+        152,
+        569,
+        870
+      ],
+      "value_bbox": [
+        529,
+        130,
+        559,
+        152
+      ]
+    },
+    {
+      "label": "2017-2021",
+      "value": "65.1",
+      "value_numeric": 65.1,
+      "element_bbox": [
+        644,
+        127,
+        694,
+        870
+      ],
+      "value_bbox": [
+        653,
+        105,
+        684,
+        127
+      ]
+    }
+  ]
+}

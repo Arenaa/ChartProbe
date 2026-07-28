@@ -1,0 +1,95 @@
+{
+  "chart_id": "1c3611d09377bad2",
+  "chart_type": "Bar Chart",
+  "image_width": 3522,
+  "image_height": 2340,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Middle East & North Africa (all income levels)",
+      "value": "60",
+      "value_numeric": 60.0,
+      "element_bbox": [
+        179,
+        286,
+        236,
+        612
+      ],
+      "value_bbox": [
+        200,
+        270,
+        215,
+        286
+      ]
+    },
+    {
+      "label": "Middle East & North Africa (developing only)",
+      "value": "62",
+      "value_numeric": 62.0,
+      "element_bbox": [
+        342,
+        253,
+        399,
+        612
+      ],
+      "value_bbox": [
+        363,
+        237,
+        378,
+        253
+      ]
+    },
+    {
+      "label": "Middle income",
+      "value": "65",
+      "value_numeric": 65.0,
+      "element_bbox": [
+        505,
+        221,
+        563,
+        612
+      ],
+      "value_bbox": [
+        527,
+        204,
+        541,
+        221
+      ]
+    },
+    {
+      "label": "OECD members",
+      "value": "82",
+      "value_numeric": 82.0,
+      "element_bbox": [
+        669,
+        90,
+        726,
+        612
+      ],
+      "value_bbox": [
+        690,
+        74,
+        705,
+        90
+      ]
+    },
+    {
+      "label": "Other small states",
+      "value": "48",
+      "value_numeric": 48.0,
+      "element_bbox": [
+        832,
+        319,
+        889,
+        612
+      ],
+      "value_bbox": [
+        854,
+        302,
+        868,
+        319
+      ]
+    }
+  ]
+}

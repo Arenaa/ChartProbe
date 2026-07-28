@@ -1,0 +1,78 @@
+{
+  "chart_id": "a41026b311401f23",
+  "chart_type": "Bar Chart",
+  "image_width": 3022,
+  "image_height": 1736,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Ethiopia",
+      "value": "18",
+      "value_numeric": 18.0,
+      "element_bbox": [
+        160,
+        428,
+        309,
+        890
+      ],
+      "value_bbox": [
+        226,
+        406,
+        243,
+        428
+      ]
+    },
+    {
+      "label": "Finland",
+      "value": "27",
+      "value_numeric": 27.0,
+      "element_bbox": [
+        346,
+        197,
+        494,
+        890
+      ],
+      "value_bbox": [
+        411,
+        175,
+        429,
+        197
+      ]
+    },
+    {
+      "label": "France",
+      "value": "13",
+      "value_numeric": 13.0,
+      "element_bbox": [
+        531,
+        556,
+        679,
+        890
+      ],
+      "value_bbox": [
+        597,
+        535,
+        614,
+        556
+      ]
+    },
+    {
+      "label": "Gabon",
+      "value": "23",
+      "value_numeric": 23.0,
+      "element_bbox": [
+        716,
+        300,
+        865,
+        890
+      ],
+      "value_bbox": [
+        782,
+        278,
+        799,
+        300
+      ]
+    }
+  ]
+}

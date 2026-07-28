@@ -1,0 +1,95 @@
+{
+  "chart_id": "564cdc7271895360",
+  "chart_type": "Bar Chart",
+  "image_width": 2948,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Middle East",
+      "value": "111000000",
+      "value_numeric": 111000000.0,
+      "element_bbox": [
+        126,
+        106,
+        886,
+        233
+      ],
+      "value_bbox": [
+        894,
+        158,
+        973,
+        180
+      ]
+    },
+    {
+      "label": "Africa",
+      "value": "99050000",
+      "value_numeric": 99050000.0,
+      "element_bbox": [
+        126,
+        264,
+        804,
+        391
+      ],
+      "value_bbox": [
+        812,
+        317,
+        882,
+        339
+      ]
+    },
+    {
+      "label": "Asia",
+      "value": "62400000",
+      "value_numeric": 62400000.0,
+      "element_bbox": [
+        126,
+        423,
+        553,
+        550
+      ],
+      "value_bbox": [
+        561,
+        476,
+        631,
+        498
+      ]
+    },
+    {
+      "label": "Europe",
+      "value": "11300000",
+      "value_numeric": 11300000.0,
+      "element_bbox": [
+        126,
+        582,
+        203,
+        709
+      ],
+      "value_bbox": [
+        211,
+        635,
+        281,
+        656
+      ]
+    },
+    {
+      "label": "Micro States",
+      "value": "2410000",
+      "value_numeric": 2410000.0,
+      "element_bbox": [
+        126,
+        741,
+        142,
+        868
+      ],
+      "value_bbox": [
+        150,
+        794,
+        212,
+        815
+      ]
+    }
+  ]
+}

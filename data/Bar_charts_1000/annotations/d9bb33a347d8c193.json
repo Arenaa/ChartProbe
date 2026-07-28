@@ -1,0 +1,112 @@
+{
+  "chart_id": "d9bb33a347d8c193",
+  "chart_type": "Bar Chart",
+  "image_width": 2518,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Argentina",
+      "value": "0",
+      "value_numeric": 0.0,
+      "element_bbox": [
+        160,
+        890,
+        185,
+        890
+      ],
+      "value_bbox": [
+        192,
+        879,
+        201,
+        901
+      ]
+    },
+    {
+      "label": "Armenia",
+      "value": "1.4",
+      "value_numeric": 1.4,
+      "element_bbox": [
+        282,
+        631,
+        306,
+        890
+      ],
+      "value_bbox": [
+        283,
+        610,
+        305,
+        631
+      ]
+    },
+    {
+      "label": "Aruba",
+      "value": "0.9",
+      "value_numeric": 0.9,
+      "element_bbox": [
+        403,
+        430,
+        427,
+        890
+      ],
+      "value_bbox": [
+        404,
+        408,
+        426,
+        430
+      ]
+    },
+    {
+      "label": "Australia",
+      "value": "0.03",
+      "value_numeric": 0.03,
+      "element_bbox": [
+        525,
+        890,
+        549,
+        890
+      ],
+      "value_bbox": [
+        556,
+        879,
+        587,
+        901
+      ]
+    },
+    {
+      "label": "Austria",
+      "value": "0.5",
+      "value_numeric": 0.5,
+      "element_bbox": [
+        646,
+        861,
+        670,
+        890
+      ],
+      "value_bbox": [
+        678,
+        865,
+        700,
+        886
+      ]
+    },
+    {
+      "label": "Azerbaijan",
+      "value": "4.9",
+      "value_numeric": 4.9,
+      "element_bbox": [
+        768,
+        185,
+        792,
+        890
+      ],
+      "value_bbox": [
+        769,
+        164,
+        791,
+        185
+      ]
+    }
+  ]
+}

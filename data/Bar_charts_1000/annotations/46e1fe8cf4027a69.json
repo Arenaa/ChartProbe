@@ -1,0 +1,95 @@
+{
+  "chart_id": "46e1fe8cf4027a69",
+  "chart_type": "Bar Chart",
+  "image_width": 2795,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Canada",
+      "value": "1200",
+      "value_numeric": 1200.0,
+      "element_bbox": [
+        125,
+        738,
+        165,
+        855
+      ],
+      "value_bbox": [
+        173,
+        786,
+        208,
+        808
+      ]
+    },
+    {
+      "label": "Cameroon",
+      "value": "22000",
+      "value_numeric": 22000.0,
+      "element_bbox": [
+        125,
+        593,
+        863,
+        709
+      ],
+      "value_bbox": [
+        871,
+        640,
+        915,
+        662
+      ]
+    },
+    {
+      "label": "Cambodia",
+      "value": "8500",
+      "value_numeric": 8500.0,
+      "element_bbox": [
+        125,
+        447,
+        410,
+        563
+      ],
+      "value_bbox": [
+        418,
+        494,
+        453,
+        516
+      ]
+    },
+    {
+      "label": "Cabo Verde",
+      "value": "200",
+      "value_numeric": 200.0,
+      "element_bbox": [
+        125,
+        301,
+        132,
+        418
+      ],
+      "value_bbox": [
+        139,
+        348,
+        166,
+        370
+      ]
+    },
+    {
+      "label": "Burundi",
+      "value": "12000",
+      "value_numeric": 12000.0,
+      "element_bbox": [
+        125,
+        155,
+        528,
+        272
+      ],
+      "value_bbox": [
+        535,
+        203,
+        579,
+        224
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "chart_id": "9bb9427a05dea7e8",
+  "chart_type": "Bar Chart",
+  "image_width": 3637,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Upper middle income",
+      "value": "0.1e+08",
+      "value_numeric": 10000000.0,
+      "element_bbox": [
+        183,
+        723,
+        189,
+        847
+      ],
+      "value_bbox": [
+        197,
+        774,
+        246,
+        796
+      ]
+    },
+    {
+      "label": "World",
+      "value": "3.77e+10",
+      "value_numeric": 37700000000.0,
+      "element_bbox": [
+        183,
+        568,
+        947,
+        692
+      ],
+      "value_bbox": [
+        955,
+        619,
+        1000,
+        641
+      ]
+    },
+    {
+      "label": "Australia",
+      "value": "0.1e+08",
+      "value_numeric": 10000000.0,
+      "element_bbox": [
+        183,
+        414,
+        188,
+        537
+      ],
+      "value_bbox": [
+        196,
+        465,
+        245,
+        486
+      ]
+    },
+    {
+      "label": "OECD members",
+      "value": "3.75e+10",
+      "value_numeric": 37500000000.0,
+      "element_bbox": [
+        183,
+        259,
+        943,
+        383
+      ],
+      "value_bbox": [
+        951,
+        310,
+        1000,
+        332
+      ]
+    },
+    {
+      "label": "North America",
+      "value": "0.3e+09",
+      "value_numeric": 300000000.0,
+      "element_bbox": [
+        183,
+        104,
+        219,
+        228
+      ],
+      "value_bbox": [
+        228,
+        155,
+        276,
+        177
+      ]
+    }
+  ]
+}

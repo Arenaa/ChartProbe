@@ -1,0 +1,61 @@
+{
+  "chart_id": "c95855d223497c2d",
+  "chart_type": "Bar Chart",
+  "image_width": 2619,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Angola",
+      "value": "35.6",
+      "value_numeric": 35.6,
+      "element_bbox": [
+        160,
+        585,
+        362,
+        890
+      ],
+      "value_bbox": [
+        246,
+        564,
+        276,
+        585
+      ]
+    },
+    {
+      "label": "Belize",
+      "value": "72.4",
+      "value_numeric": 72.4,
+      "element_bbox": [
+        412,
+        271,
+        613,
+        890
+      ],
+      "value_bbox": [
+        497,
+        249,
+        528,
+        271
+      ]
+    },
+    {
+      "label": "Montenegro",
+      "value": "81.2",
+      "value_numeric": 81.2,
+      "element_bbox": [
+        663,
+        195,
+        865,
+        890
+      ],
+      "value_bbox": [
+        749,
+        174,
+        780,
+        195
+      ]
+    }
+  ]
+}

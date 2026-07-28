@@ -1,0 +1,61 @@
+{
+  "chart_id": "8021f958a3a7842c",
+  "chart_type": "Bar Chart",
+  "image_width": 1710,
+  "image_height": 1389,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Australia",
+      "value": "20.5",
+      "value_numeric": 20.5,
+      "element_bbox": [
+        160,
+        225,
+        224,
+        890
+      ],
+      "value_bbox": [
+        168,
+        198,
+        216,
+        225
+      ]
+    },
+    {
+      "label": "Canada",
+      "value": "7.5",
+      "value_numeric": 7.5,
+      "element_bbox": [
+        416,
+        702,
+        480,
+        890
+      ],
+      "value_bbox": [
+        431,
+        675,
+        466,
+        702
+      ]
+    },
+    {
+      "label": "Japan",
+      "value": "13.0",
+      "value_numeric": 13.0,
+      "element_bbox": [
+        673,
+        344,
+        737,
+        890
+      ],
+      "value_bbox": [
+        681,
+        317,
+        729,
+        344
+      ]
+    }
+  ]
+}

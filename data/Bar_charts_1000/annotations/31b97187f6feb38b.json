@@ -1,0 +1,78 @@
+{
+  "chart_id": "31b97187f6feb38b",
+  "chart_type": "Bar Chart",
+  "image_width": 2356,
+  "image_height": 1446,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Logistics Index",
+      "value": "1859",
+      "value_numeric": 1859.0,
+      "element_bbox": [
+        221,
+        126,
+        924,
+        277
+      ],
+      "value_bbox": [
+        931,
+        189,
+        975,
+        215
+      ]
+    },
+    {
+      "label": "Connectivity",
+      "value": "726",
+      "value_numeric": 726.0,
+      "element_bbox": [
+        221,
+        315,
+        495,
+        465
+      ],
+      "value_bbox": [
+        503,
+        377,
+        535,
+        403
+      ]
+    },
+    {
+      "label": "Customs Efficiency",
+      "value": "410",
+      "value_numeric": 410.0,
+      "element_bbox": [
+        221,
+        503,
+        376,
+        653
+      ],
+      "value_bbox": [
+        383,
+        565,
+        416,
+        591
+      ]
+    },
+    {
+      "label": "Ports",
+      "value": "108",
+      "value_numeric": 108.0,
+      "element_bbox": [
+        221,
+        691,
+        262,
+        842
+      ],
+      "value_bbox": [
+        269,
+        753,
+        302,
+        779
+      ]
+    }
+  ]
+}

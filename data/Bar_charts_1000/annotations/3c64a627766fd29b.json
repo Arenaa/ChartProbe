@@ -1,0 +1,146 @@
+{
+  "chart_id": "3c64a627766fd29b",
+  "chart_type": "Bar Chart",
+  "image_width": 3546,
+  "image_height": 2055,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Capital City",
+      "value": "100",
+      "value_numeric": 100.0,
+      "element_bbox": [
+        81,
+        114,
+        173,
+        818
+      ],
+      "value_bbox": [
+        116,
+        95,
+        138,
+        114
+      ]
+    },
+    {
+      "label": "Coastal",
+      "value": "19",
+      "value_numeric": 19.0,
+      "element_bbox": [
+        196,
+        690,
+        287,
+        818
+      ],
+      "value_bbox": [
+        234,
+        671,
+        249,
+        690
+      ]
+    },
+    {
+      "label": "Highland",
+      "value": "10",
+      "value_numeric": 10.0,
+      "element_bbox": [
+        310,
+        747,
+        401,
+        818
+      ],
+      "value_bbox": [
+        348,
+        728,
+        363,
+        747
+      ]
+    },
+    {
+      "label": "Peri-Urban",
+      "value": "19.5",
+      "value_numeric": 19.5,
+      "element_bbox": [
+        424,
+        682,
+        516,
+        818
+      ],
+      "value_bbox": [
+        457,
+        664,
+        483,
+        682
+      ]
+    },
+    {
+      "label": "Rural Islands",
+      "value": "32",
+      "value_numeric": 32.0,
+      "element_bbox": [
+        539,
+        596,
+        630,
+        818
+      ],
+      "value_bbox": [
+        577,
+        578,
+        592,
+        596
+      ]
+    },
+    {
+      "label": "Satellite",
+      "value": "9",
+      "value_numeric": 9.0,
+      "element_bbox": [
+        653,
+        754,
+        745,
+        818
+      ],
+      "value_bbox": [
+        695,
+        736,
+        703,
+        754
+      ]
+    },
+    {
+      "label": "Tourism Resorts",
+      "value": "12",
+      "value_numeric": 12.0,
+      "element_bbox": [
+        768,
+        728,
+        859,
+        818
+      ],
+      "value_bbox": [
+        806,
+        710,
+        821,
+        728
+      ]
+    },
+    {
+      "label": "Urban Fringe",
+      "value": "21",
+      "value_numeric": 21.0,
+      "element_bbox": [
+        882,
+        665,
+        974,
+        818
+      ],
+      "value_bbox": [
+        921,
+        646,
+        935,
+        665
+      ]
+    }
+  ]
+}

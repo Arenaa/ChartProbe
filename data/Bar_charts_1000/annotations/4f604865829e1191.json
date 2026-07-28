@@ -1,0 +1,78 @@
+{
+  "chart_id": "4f604865829e1191",
+  "chart_type": "Bar Chart",
+  "image_width": 2645,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Primary",
+      "value": "57",
+      "value_numeric": 57.0,
+      "element_bbox": [
+        101,
+        736,
+        138,
+        884
+      ],
+      "value_bbox": [
+        110,
+        715,
+        129,
+        736
+      ]
+    },
+    {
+      "label": "Secondary",
+      "value": "41",
+      "value_numeric": 41.0,
+      "element_bbox": [
+        286,
+        441,
+        323,
+        884
+      ],
+      "value_bbox": [
+        295,
+        420,
+        314,
+        441
+      ]
+    },
+    {
+      "label": "Tertiary",
+      "value": "34",
+      "value_numeric": 34.0,
+      "element_bbox": [
+        471,
+        294,
+        508,
+        884
+      ],
+      "value_bbox": [
+        480,
+        272,
+        499,
+        294
+      ]
+    },
+    {
+      "label": "Postgraduate",
+      "value": "40",
+      "value_numeric": 40.0,
+      "element_bbox": [
+        656,
+        203,
+        693,
+        884
+      ],
+      "value_bbox": [
+        665,
+        181,
+        685,
+        203
+      ]
+    }
+  ]
+}

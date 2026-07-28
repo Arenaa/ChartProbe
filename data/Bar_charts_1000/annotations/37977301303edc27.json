@@ -1,0 +1,78 @@
+{
+  "chart_id": "37977301303edc27",
+  "chart_type": "Bar Chart",
+  "image_width": 2547,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Sierra Leone",
+      "value": "5",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        160,
+        664,
+        309,
+        890
+      ],
+      "value_bbox": [
+        230,
+        642,
+        239,
+        664
+      ]
+    },
+    {
+      "label": "Tajikistan",
+      "value": "1",
+      "value_numeric": 1.0,
+      "element_bbox": [
+        346,
+        845,
+        494,
+        890
+      ],
+      "value_bbox": [
+        415,
+        823,
+        424,
+        845
+      ]
+    },
+    {
+      "label": "Tanzania",
+      "value": "16",
+      "value_numeric": 16.0,
+      "element_bbox": [
+        531,
+        165,
+        679,
+        890
+      ],
+      "value_bbox": [
+        597,
+        144,
+        614,
+        165
+      ]
+    },
+    {
+      "label": "Vietnam",
+      "value": "13",
+      "value_numeric": 13.0,
+      "element_bbox": [
+        716,
+        301,
+        865,
+        890
+      ],
+      "value_bbox": [
+        782,
+        280,
+        799,
+        301
+      ]
+    }
+  ]
+}

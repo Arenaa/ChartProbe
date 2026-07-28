@@ -1,0 +1,44 @@
+{
+  "chart_id": "27c65cae26341eb4",
+  "chart_type": "Bar Chart",
+  "image_width": 1710,
+  "image_height": 1381,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Dependency ratio(old)",
+      "value": "5",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        160,
+        768,
+        261,
+        890
+      ],
+      "value_bbox": [
+        204,
+        741,
+        217,
+        768
+      ]
+    },
+    {
+      "label": "Dependency ratio(young)",
+      "value": "90",
+      "value_numeric": 90.0,
+      "element_bbox": [
+        563,
+        686,
+        663,
+        890
+      ],
+      "value_bbox": [
+        600,
+        659,
+        627,
+        686
+      ]
+    }
+  ]
+}

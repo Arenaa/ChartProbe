@@ -1,0 +1,95 @@
+{
+  "chart_id": "089130f0b5677825",
+  "chart_type": "Bar Chart",
+  "image_width": 3516,
+  "image_height": 2355,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Fragile and conflict affected situations",
+      "value": "130",
+      "value_numeric": 130.0,
+      "element_bbox": [
+        164,
+        341,
+        222,
+        634
+      ],
+      "value_bbox": [
+        182,
+        325,
+        204,
+        341
+      ]
+    },
+    {
+      "label": "Heavily indebted poor countries",
+      "value": "170",
+      "value_numeric": 170.0,
+      "element_bbox": [
+        330,
+        276,
+        389,
+        634
+      ],
+      "value_bbox": [
+        349,
+        260,
+        370,
+        276
+      ]
+    },
+    {
+      "label": "High income",
+      "value": "15",
+      "value_numeric": 15.0,
+      "element_bbox": [
+        497,
+        601,
+        555,
+        634
+      ],
+      "value_bbox": [
+        519,
+        585,
+        533,
+        601
+      ]
+    },
+    {
+      "label": "High income: nonOECD",
+      "value": "30",
+      "value_numeric": 30.0,
+      "element_bbox": [
+        663,
+        569,
+        721,
+        634
+      ],
+      "value_bbox": [
+        685,
+        553,
+        699,
+        569
+      ]
+    },
+    {
+      "label": "High income: OECD",
+      "value": "10",
+      "value_numeric": 10.0,
+      "element_bbox": [
+        829,
+        618,
+        888,
+        634
+      ],
+      "value_bbox": [
+        851,
+        601,
+        866,
+        618
+      ]
+    }
+  ]
+}

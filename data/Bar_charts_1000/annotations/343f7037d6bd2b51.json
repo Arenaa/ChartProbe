@@ -1,0 +1,78 @@
+{
+  "chart_id": "343f7037d6bd2b51",
+  "chart_type": "Bar Chart",
+  "image_width": 2547,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Jamaica",
+      "value": "1",
+      "value_numeric": 1.0,
+      "element_bbox": [
+        160,
+        820,
+        309,
+        890
+      ],
+      "value_bbox": [
+        230,
+        798,
+        239,
+        820
+      ]
+    },
+    {
+      "label": "Japan",
+      "value": "0.1",
+      "value_numeric": 0.1,
+      "element_bbox": [
+        346,
+        883,
+        494,
+        890
+      ],
+      "value_bbox": [
+        501,
+        876,
+        523,
+        897
+      ]
+    },
+    {
+      "label": "Jordan",
+      "value": "4.5",
+      "value_numeric": 4.5,
+      "element_bbox": [
+        531,
+        575,
+        679,
+        890
+      ],
+      "value_bbox": [
+        594,
+        553,
+        616,
+        575
+      ]
+    },
+    {
+      "label": "Kazakhstan",
+      "value": "10",
+      "value_numeric": 10.0,
+      "element_bbox": [
+        716,
+        190,
+        865,
+        890
+      ],
+      "value_bbox": [
+        782,
+        168,
+        799,
+        190
+      ]
+    }
+  ]
+}

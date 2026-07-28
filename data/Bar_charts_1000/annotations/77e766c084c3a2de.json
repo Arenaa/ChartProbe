@@ -1,0 +1,146 @@
+{
+  "chart_id": "77e766c084c3a2de",
+  "chart_type": "Bar Chart",
+  "image_width": 2945,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "2013",
+      "value": "752",
+      "value_numeric": 752.0,
+      "element_bbox": [
+        93,
+        439,
+        111,
+        884
+      ],
+      "value_bbox": [
+        89,
+        418,
+        115,
+        439
+      ]
+    },
+    {
+      "label": "2014",
+      "value": "742",
+      "value_numeric": 742.0,
+      "element_bbox": [
+        185,
+        425,
+        204,
+        884
+      ],
+      "value_bbox": [
+        181,
+        404,
+        208,
+        425
+      ]
+    },
+    {
+      "label": "2015",
+      "value": "736",
+      "value_numeric": 736.0,
+      "element_bbox": [
+        278,
+        420,
+        296,
+        884
+      ],
+      "value_bbox": [
+        274,
+        398,
+        300,
+        420
+      ]
+    },
+    {
+      "label": "2016",
+      "value": "731",
+      "value_numeric": 731.0,
+      "element_bbox": [
+        370,
+        409,
+        388,
+        884
+      ],
+      "value_bbox": [
+        366,
+        387,
+        392,
+        409
+      ]
+    },
+    {
+      "label": "2017",
+      "value": "731",
+      "value_numeric": 731.0,
+      "element_bbox": [
+        462,
+        405,
+        481,
+        884
+      ],
+      "value_bbox": [
+        458,
+        383,
+        485,
+        405
+      ]
+    },
+    {
+      "label": "2018",
+      "value": "726",
+      "value_numeric": 726.0,
+      "element_bbox": [
+        555,
+        400,
+        573,
+        884
+      ],
+      "value_bbox": [
+        551,
+        378,
+        577,
+        400
+      ]
+    },
+    {
+      "label": "2019",
+      "value": "724",
+      "value_numeric": 724.0,
+      "element_bbox": [
+        647,
+        396,
+        665,
+        884
+      ],
+      "value_bbox": [
+        643,
+        374,
+        669,
+        396
+      ]
+    },
+    {
+      "label": "2020",
+      "value": "722",
+      "value_numeric": 722.0,
+      "element_bbox": [
+        739,
+        393,
+        758,
+        884
+      ],
+      "value_bbox": [
+        735,
+        371,
+        762,
+        393
+      ]
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "chart_id": "38666289fa8a4bdd",
+  "chart_type": "Bar Chart",
+  "image_width": 3546,
+  "image_height": 2049,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Bolivia",
+      "value": "80",
+      "value_numeric": 80.0,
+      "element_bbox": [
+        68,
+        113,
+        93,
+        808
+      ],
+      "value_bbox": [
+        73,
+        95,
+        87,
+        113
+      ]
+    },
+    {
+      "label": "Burkina Faso",
+      "value": "24",
+      "value_numeric": 24.0,
+      "element_bbox": [
+        129,
+        525,
+        154,
+        808
+      ],
+      "value_bbox": [
+        134,
+        507,
+        149,
+        525
+      ]
+    },
+    {
+      "label": "Mozambique",
+      "value": "26",
+      "value_numeric": 26.0,
+      "element_bbox": [
+        191,
+        549,
+        216,
+        808
+      ],
+      "value_bbox": [
+        196,
+        531,
+        211,
+        549
+      ]
+    },
+    {
+      "label": "Tunisia",
+      "value": "70",
+      "value_numeric": 70.0,
+      "element_bbox": [
+        253,
+        186,
+        277,
+        808
+      ],
+      "value_bbox": [
+        258,
+        167,
+        272,
+        186
+      ]
+    },
+    {
+      "label": "Kenya",
+      "value": "68",
+      "value_numeric": 68.0,
+      "element_bbox": [
+        314,
+        210,
+        339,
+        808
+      ],
+      "value_bbox": [
+        319,
+        191,
+        334,
+        210
+      ]
+    },
+    {
+      "label": "Uganda",
+      "value": "68",
+      "value_numeric": 68.0,
+      "element_bbox": [
+        376,
+        218,
+        400,
+        808
+      ],
+      "value_bbox": [
+        381,
+        200,
+        395,
+        218
+      ]
+    },
+    {
+      "label": "Ghana",
+      "value": "64",
+      "value_numeric": 64.0,
+      "element_bbox": [
+        437,
+        242,
+        462,
+        808
+      ],
+      "value_bbox": [
+        442,
+        224,
+        457,
+        242
+      ]
+    },
+    {
+      "label": "Senegal",
+      "value": "69",
+      "value_numeric": 69.0,
+      "element_bbox": [
+        499,
+        210,
+        523,
+        808
+      ],
+      "value_bbox": [
+        504,
+        191,
+        518,
+        210
+      ]
+    },
+    {
+      "label": "Rwanda",
+      "value": "66",
+      "value_numeric": 66.0,
+      "element_bbox": [
+        560,
+        234,
+        585,
+        808
+      ],
+      "value_bbox": [
+        565,
+        216,
+        580,
+        234
+      ]
+    },
+    {
+      "label": "Ethiopia",
+      "value": "66",
+      "value_numeric": 66.0,
+      "element_bbox": [
+        622,
+        259,
+        646,
+        808
+      ],
+      "value_bbox": [
+        627,
+        240,
+        641,
+        259
+      ]
+    },
+    {
+      "label": "Tanzania",
+      "value": "70",
+      "value_numeric": 70.0,
+      "element_bbox": [
+        683,
+        218,
+        708,
+        808
+      ],
+      "value_bbox": [
+        688,
+        200,
+        703,
+        218
+      ]
+    },
+    {
+      "label": "Namibia",
+      "value": "70",
+      "value_numeric": 70.0,
+      "element_bbox": [
+        745,
+        202,
+        770,
+        808
+      ],
+      "value_bbox": [
+        750,
+        183,
+        765,
+        202
+      ]
+    },
+    {
+      "label": "Zambia",
+      "value": "72",
+      "value_numeric": 72.0,
+      "element_bbox": [
+        807,
+        178,
+        831,
+        808
+      ],
+      "value_bbox": [
+        812,
+        159,
+        826,
+        178
+      ]
+    },
+    {
+      "label": "Botswana",
+      "value": "75",
+      "value_numeric": 75.0,
+      "element_bbox": [
+        868,
+        162,
+        893,
+        808
+      ],
+      "value_bbox": [
+        873,
+        143,
+        888,
+        162
+      ]
+    },
+    {
+      "label": "Malawi",
+      "value": "67",
+      "value_numeric": 67.0,
+      "element_bbox": [
+        930,
+        250,
+        954,
+        808
+      ],
+      "value_bbox": [
+        935,
+        232,
+        949,
+        250
+      ]
+    }
+  ]
+}

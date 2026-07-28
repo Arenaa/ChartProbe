@@ -1,0 +1,197 @@
+{
+  "chart_id": "4adaf6f059c66cbc",
+  "chart_type": "Bar Chart",
+  "image_width": 2826,
+  "image_height": 1836,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Estonia",
+      "value": "6",
+      "value_numeric": 6.0,
+      "element_bbox": [
+        85,
+        602,
+        102,
+        884
+      ],
+      "value_bbox": [
+        89,
+        580,
+        98,
+        602
+      ]
+    },
+    {
+      "label": "Ethiopia",
+      "value": "53",
+      "value_numeric": 53.0,
+      "element_bbox": [
+        168,
+        763,
+        184,
+        884
+      ],
+      "value_bbox": [
+        167,
+        741,
+        185,
+        763
+      ]
+    },
+    {
+      "label": "Fiji",
+      "value": "17",
+      "value_numeric": 17.0,
+      "element_bbox": [
+        250,
+        642,
+        266,
+        884
+      ],
+      "value_bbox": [
+        249,
+        621,
+        267,
+        642
+      ]
+    },
+    {
+      "label": "Finland",
+      "value": "3",
+      "value_numeric": 3.0,
+      "element_bbox": [
+        332,
+        542,
+        348,
+        884
+      ],
+      "value_bbox": [
+        336,
+        520,
+        345,
+        542
+      ]
+    },
+    {
+      "label": "France",
+      "value": "3",
+      "value_numeric": 3.0,
+      "element_bbox": [
+        414,
+        652,
+        431,
+        884
+      ],
+      "value_bbox": [
+        418,
+        631,
+        427,
+        652
+      ]
+    },
+    {
+      "label": "Germany",
+      "value": "1",
+      "value_numeric": 1.0,
+      "element_bbox": [
+        496,
+        582,
+        513,
+        884
+      ],
+      "value_bbox": [
+        500,
+        560,
+        509,
+        582
+      ]
+    },
+    {
+      "label": "Greece",
+      "value": "4",
+      "value_numeric": 4.0,
+      "element_bbox": [
+        579,
+        612,
+        595,
+        884
+      ],
+      "value_bbox": [
+        582,
+        591,
+        591,
+        612
+      ]
+    },
+    {
+      "label": "India",
+      "value": "8",
+      "value_numeric": 8.0,
+      "element_bbox": [
+        661,
+        572,
+        677,
+        884
+      ],
+      "value_bbox": [
+        664,
+        550,
+        673,
+        572
+      ]
+    },
+    {
+      "label": "Japan",
+      "value": "2",
+      "value_numeric": 2.0,
+      "element_bbox": [
+        743,
+        592,
+        759,
+        884
+      ],
+      "value_bbox": [
+        747,
+        570,
+        756,
+        592
+      ]
+    },
+    {
+      "label": "Norway",
+      "value": "2",
+      "value_numeric": 2.0,
+      "element_bbox": [
+        825,
+        552,
+        842,
+        884
+      ],
+      "value_bbox": [
+        829,
+        530,
+        838,
+        552
+      ]
+    },
+    {
+      "label": "Spain",
+      "value": "7",
+      "value_numeric": 7.0,
+      "element_bbox": [
+        907,
+        622,
+        924,
+        884
+      ],
+      "value_bbox": [
+        911,
+        601,
+        920,
+        622
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "chart_id": "a70dabe9ae3c92ae",
+  "chart_type": "Bar Chart",
+  "image_width": 3557,
+  "image_height": 1736,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Djibouti",
+      "value": "100",
+      "value_numeric": 100.0,
+      "element_bbox": [
+        125,
+        708,
+        863,
+        855
+      ],
+      "value_bbox": [
+        871,
+        770,
+        897,
+        792
+      ]
+    },
+    {
+      "label": "Cyprus",
+      "value": "12",
+      "value_numeric": 12.0,
+      "element_bbox": [
+        125,
+        523,
+        214,
+        671
+      ],
+      "value_bbox": [
+        221,
+        586,
+        239,
+        608
+      ]
+    },
+    {
+      "label": "Cuba",
+      "value": "1",
+      "value_numeric": 1.0,
+      "element_bbox": [
+        125,
+        339,
+        132,
+        487
+      ],
+      "value_bbox": [
+        140,
+        402,
+        149,
+        424
+      ]
+    },
+    {
+      "label": "Cote d'Ivoire",
+      "value": "10",
+      "value_numeric": 10.0,
+      "element_bbox": [
+        125,
+        155,
+        199,
+        302
+      ],
+      "value_bbox": [
+        207,
+        218,
+        224,
+        240
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "chart_id": "74c444eac8ae1f9a",
+  "chart_type": "Bar Chart",
+  "image_width": 2568,
+  "image_height": 1389,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Agriculture",
+      "value": "8",
+      "value_numeric": 8.0,
+      "element_bbox": [
+        160,
+        846,
+        227,
+        890
+      ],
+      "value_bbox": [
+        187,
+        819,
+        200,
+        846
+      ]
+    },
+    {
+      "label": "Industry",
+      "value": "30",
+      "value_numeric": 30.0,
+      "element_bbox": [
+        351,
+        784,
+        417,
+        890
+      ],
+      "value_bbox": [
+        370,
+        757,
+        398,
+        784
+      ]
+    },
+    {
+      "label": "Services",
+      "value": "62",
+      "value_numeric": 62.0,
+      "element_bbox": [
+        541,
+        157,
+        608,
+        890
+      ],
+      "value_bbox": [
+        561,
+        130,
+        588,
+        157
+      ]
+    },
+    {
+      "label": "Self-employed",
+      "value": "13",
+      "value_numeric": 13.0,
+      "element_bbox": [
+        731,
+        669,
+        798,
+        890
+      ],
+      "value_bbox": [
+        751,
+        642,
+        778,
+        669
+      ]
+    }
+  ]
+}

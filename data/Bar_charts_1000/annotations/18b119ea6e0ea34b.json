@@ -1,0 +1,95 @@
+{
+  "chart_id": "18b119ea6e0ea34b",
+  "chart_type": "Bar Chart",
+  "image_width": 2954,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "East Asia (developing only)",
+      "value": "88%",
+      "value_numeric": 88.0,
+      "element_bbox": [
+        263,
+        723,
+        948,
+        847
+      ],
+      "value_bbox": [
+        955,
+        774,
+        985,
+        796
+      ]
+    },
+    {
+      "label": "Europe(all income levels)",
+      "value": "75%",
+      "value_numeric": 75.0,
+      "element_bbox": [
+        263,
+        568,
+        847,
+        692
+      ],
+      "value_bbox": [
+        854,
+        619,
+        884,
+        641
+      ]
+    },
+    {
+      "label": "Europe(developing only)",
+      "value": "80%",
+      "value_numeric": 80.0,
+      "element_bbox": [
+        263,
+        414,
+        886,
+        537
+      ],
+      "value_bbox": [
+        893,
+        465,
+        923,
+        486
+      ]
+    },
+    {
+      "label": "High income",
+      "value": "70%",
+      "value_numeric": 70.0,
+      "element_bbox": [
+        263,
+        259,
+        808,
+        383
+      ],
+      "value_bbox": [
+        815,
+        310,
+        845,
+        332
+      ]
+    },
+    {
+      "label": "High income: nonOECD",
+      "value": "68%",
+      "value_numeric": 68.0,
+      "element_bbox": [
+        263,
+        104,
+        792,
+        228
+      ],
+      "value_bbox": [
+        799,
+        155,
+        829,
+        177
+      ]
+    }
+  ]
+}

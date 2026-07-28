@@ -1,0 +1,112 @@
+{
+  "chart_id": "beb32c62388ba6ff",
+  "chart_type": "Bar Chart",
+  "image_width": 2948,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Gambia The",
+      "value": "0.55",
+      "value_numeric": 0.55,
+      "element_bbox": [
+        152,
+        744,
+        676,
+        847
+      ],
+      "value_bbox": [
+        399,
+        723,
+        430,
+        744
+      ]
+    },
+    {
+      "label": "Gabon",
+      "value": "0.83",
+      "value_numeric": 0.83,
+      "element_bbox": [
+        152,
+        616,
+        942,
+        719
+      ],
+      "value_bbox": [
+        952,
+        657,
+        983,
+        678
+      ]
+    },
+    {
+      "label": "France",
+      "value": "0.3",
+      "value_numeric": 0.3,
+      "element_bbox": [
+        152,
+        488,
+        438,
+        591
+      ],
+      "value_bbox": [
+        284,
+        467,
+        306,
+        488
+      ]
+    },
+    {
+      "label": "Finland",
+      "value": "0.38",
+      "value_numeric": 0.38,
+      "element_bbox": [
+        152,
+        360,
+        514,
+        463
+      ],
+      "value_bbox": [
+        318,
+        339,
+        349,
+        360
+      ]
+    },
+    {
+      "label": "Fiji",
+      "value": "0.32",
+      "value_numeric": 0.32,
+      "element_bbox": [
+        152,
+        232,
+        457,
+        335
+      ],
+      "value_bbox": [
+        289,
+        211,
+        320,
+        232
+      ]
+    },
+    {
+      "label": "Ethiopia",
+      "value": "0.27",
+      "value_numeric": 0.27,
+      "element_bbox": [
+        152,
+        104,
+        409,
+        207
+      ],
+      "value_bbox": [
+        265,
+        83,
+        296,
+        104
+      ]
+    }
+  ]
+}

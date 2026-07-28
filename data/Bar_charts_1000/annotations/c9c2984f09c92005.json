@@ -1,0 +1,112 @@
+{
+  "chart_id": "c9c2984f09c92005",
+  "chart_type": "Bar Chart",
+  "image_width": 2353,
+  "image_height": 1442,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Central Europe (EU)",
+      "value": "45.57142857142857",
+      "value_numeric": 45.57142857142857,
+      "element_bbox": [
+        133,
+        189,
+        237,
+        860
+      ],
+      "value_bbox": [
+        95,
+        163,
+        275,
+        189
+      ]
+    },
+    {
+      "label": "Guatemala",
+      "value": "38.42857142857143",
+      "value_numeric": 38.42857142857143,
+      "element_bbox": [
+        431,
+        295,
+        535,
+        860
+      ],
+      "value_bbox": [
+        393,
+        269,
+        573,
+        295
+      ]
+    },
+    {
+      "label": "Israel",
+      "value": "50.5",
+      "value_numeric": 50.5,
+      "element_bbox": [
+        729,
+        118,
+        833,
+        860
+      ],
+      "value_bbox": [
+        761,
+        92,
+        800,
+        118
+      ]
+    },
+    {
+      "label": "Central Europe (EU)",
+      "value": "28.214285714285715",
+      "value_numeric": 28.214285714285715,
+      "element_bbox": [
+        237,
+        442,
+        341,
+        860
+      ],
+      "value_bbox": [
+        194,
+        416,
+        385,
+        442
+      ]
+    },
+    {
+      "label": "Guatemala",
+      "value": "15.214285714285715",
+      "value_numeric": 15.214285714285715,
+      "element_bbox": [
+        535,
+        633,
+        639,
+        860
+      ],
+      "value_bbox": [
+        491,
+        607,
+        683,
+        633
+      ]
+    },
+    {
+      "label": "Israel",
+      "value": "20.571428571428573",
+      "value_numeric": 20.571428571428573,
+      "element_bbox": [
+        833,
+        560,
+        937,
+        860
+      ],
+      "value_bbox": [
+        789,
+        534,
+        981,
+        560
+      ]
+    }
+  ]
+}

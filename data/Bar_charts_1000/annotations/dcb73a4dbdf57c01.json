@@ -1,0 +1,78 @@
+{
+  "chart_id": "dcb73a4dbdf57c01",
+  "chart_type": "Bar Chart",
+  "image_width": 2291,
+  "image_height": 1390,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Current",
+      "value": "2.84",
+      "value_numeric": 2.84,
+      "element_bbox": [
+        152,
+        151,
+        319,
+        818
+      ],
+      "value_bbox": [
+        216,
+        125,
+        254,
+        151
+      ]
+    },
+    {
+      "label": "Optimized",
+      "value": "2.61",
+      "value_numeric": 2.61,
+      "element_bbox": [
+        360,
+        205,
+        528,
+        818
+      ],
+      "value_bbox": [
+        425,
+        179,
+        463,
+        205
+      ]
+    },
+    {
+      "label": "Projected",
+      "value": "2.42",
+      "value_numeric": 2.42,
+      "element_bbox": [
+        569,
+        250,
+        736,
+        818
+      ],
+      "value_bbox": [
+        634,
+        224,
+        672,
+        250
+      ]
+    },
+    {
+      "label": "Future",
+      "value": "2.25",
+      "value_numeric": 2.25,
+      "element_bbox": [
+        778,
+        290,
+        945,
+        818
+      ],
+      "value_bbox": [
+        842,
+        264,
+        881,
+        290
+      ]
+    }
+  ]
+}

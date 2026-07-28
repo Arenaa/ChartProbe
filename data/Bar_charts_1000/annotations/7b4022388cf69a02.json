@@ -1,0 +1,95 @@
+{
+  "chart_id": "7b4022388cf69a02",
+  "chart_type": "Bar Chart",
+  "image_width": 2655,
+  "image_height": 1446,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "DA Committee",
+      "value": "75.4",
+      "value_numeric": 75.4,
+      "element_bbox": [
+        273,
+        123,
+        942,
+        243
+      ],
+      "value_bbox": [
+        949,
+        170,
+        983,
+        196
+      ]
+    },
+    {
+      "label": "Other UN Programs",
+      "value": "34.9",
+      "value_numeric": 34.9,
+      "element_bbox": [
+        273,
+        273,
+        582,
+        394
+      ],
+      "value_bbox": [
+        589,
+        321,
+        624,
+        347
+      ]
+    },
+    {
+      "label": "Humanitarian Assistance",
+      "value": "23.2",
+      "value_numeric": 23.2,
+      "element_bbox": [
+        273,
+        424,
+        479,
+        544
+      ],
+      "value_bbox": [
+        486,
+        471,
+        520,
+        497
+      ]
+    },
+    {
+      "label": "Education Support",
+      "value": "15.5",
+      "value_numeric": 15.5,
+      "element_bbox": [
+        273,
+        574,
+        410,
+        695
+      ],
+      "value_bbox": [
+        417,
+        622,
+        452,
+        648
+      ]
+    },
+    {
+      "label": "Health Care",
+      "value": "8.1",
+      "value_numeric": 8.1,
+      "element_bbox": [
+        273,
+        725,
+        345,
+        845
+      ],
+      "value_bbox": [
+        352,
+        772,
+        376,
+        798
+      ]
+    }
+  ]
+}

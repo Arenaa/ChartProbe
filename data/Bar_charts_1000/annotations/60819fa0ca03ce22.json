@@ -1,0 +1,214 @@
+{
+  "chart_id": "60819fa0ca03ce22",
+  "chart_type": "Bar Chart",
+  "image_width": 3546,
+  "image_height": 2045,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Azerbaijan",
+      "value": "8.9",
+      "value_numeric": 8.9,
+      "element_bbox": [
+        81,
+        480,
+        142,
+        813
+      ],
+      "value_bbox": [
+        103,
+        461,
+        121,
+        480
+      ]
+    },
+    {
+      "label": "Denmark",
+      "value": "13.6",
+      "value_numeric": 13.6,
+      "element_bbox": [
+        157,
+        304,
+        218,
+        813
+      ],
+      "value_bbox": [
+        175,
+        285,
+        200,
+        304
+      ]
+    },
+    {
+      "label": "Montenegro",
+      "value": "7.4",
+      "value_numeric": 7.4,
+      "element_bbox": [
+        233,
+        536,
+        294,
+        813
+      ],
+      "value_bbox": [
+        254,
+        517,
+        273,
+        536
+      ]
+    },
+    {
+      "label": "Pakistan",
+      "value": "17.1",
+      "value_numeric": 17.1,
+      "element_bbox": [
+        309,
+        173,
+        370,
+        813
+      ],
+      "value_bbox": [
+        327,
+        154,
+        352,
+        173
+      ]
+    },
+    {
+      "label": "Vietnam",
+      "value": "10.0",
+      "value_numeric": 10.0,
+      "element_bbox": [
+        385,
+        439,
+        446,
+        813
+      ],
+      "value_bbox": [
+        403,
+        420,
+        428,
+        439
+      ]
+    },
+    {
+      "label": "Thailand",
+      "value": "7.6",
+      "value_numeric": 7.6,
+      "element_bbox": [
+        461,
+        528,
+        522,
+        813
+      ],
+      "value_bbox": [
+        482,
+        510,
+        501,
+        528
+      ]
+    },
+    {
+      "label": "Malaysia",
+      "value": "10.7",
+      "value_numeric": 10.7,
+      "element_bbox": [
+        537,
+        412,
+        598,
+        813
+      ],
+      "value_bbox": [
+        554,
+        394,
+        580,
+        412
+      ]
+    },
+    {
+      "label": "South Korea",
+      "value": "13.5",
+      "value_numeric": 13.5,
+      "element_bbox": [
+        613,
+        308,
+        674,
+        813
+      ],
+      "value_bbox": [
+        630,
+        289,
+        656,
+        308
+      ]
+    },
+    {
+      "label": "Indonesia",
+      "value": "9.0",
+      "value_numeric": 9.0,
+      "element_bbox": [
+        689,
+        476,
+        750,
+        813
+      ],
+      "value_bbox": [
+        710,
+        458,
+        728,
+        476
+      ]
+    },
+    {
+      "label": "India",
+      "value": "15.2",
+      "value_numeric": 15.2,
+      "element_bbox": [
+        765,
+        244,
+        826,
+        813
+      ],
+      "value_bbox": [
+        782,
+        225,
+        808,
+        244
+      ]
+    },
+    {
+      "label": "Bangladesh",
+      "value": "14.3",
+      "value_numeric": 14.3,
+      "element_bbox": [
+        841,
+        278,
+        901,
+        813
+      ],
+      "value_bbox": [
+        858,
+        259,
+        884,
+        278
+      ]
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "12.8",
+      "value_numeric": 12.8,
+      "element_bbox": [
+        917,
+        334,
+        977,
+        813
+      ],
+      "value_bbox": [
+        934,
+        315,
+        960,
+        334
+      ]
+    }
+  ]
+}

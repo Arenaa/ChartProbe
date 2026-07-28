@@ -1,0 +1,78 @@
+{
+  "chart_id": "6e9aee62f163b69a",
+  "chart_type": "Bar Chart",
+  "image_width": 2437,
+  "image_height": 1447,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Fixed Broadband",
+      "value": "0.057",
+      "value_numeric": 0.057,
+      "element_bbox": [
+        128,
+        142,
+        302,
+        868
+      ],
+      "value_bbox": [
+        310,
+        492,
+        359,
+        518
+      ]
+    },
+    {
+      "label": "Mobile Broadband",
+      "value": "0.039",
+      "value_numeric": 0.039,
+      "element_bbox": [
+        346,
+        371,
+        520,
+        868
+      ],
+      "value_bbox": [
+        527,
+        607,
+        577,
+        633
+      ]
+    },
+    {
+      "label": "Other Broadband",
+      "value": "0.005",
+      "value_numeric": 0.005,
+      "element_bbox": [
+        563,
+        805,
+        738,
+        868
+      ],
+      "value_bbox": [
+        745,
+        824,
+        795,
+        850
+      ]
+    },
+    {
+      "label": "Satellite Broadband",
+      "value": "0.003",
+      "value_numeric": 0.003,
+      "element_bbox": [
+        781,
+        830,
+        956,
+        868
+      ],
+      "value_bbox": [
+        963,
+        836,
+        1000,
+        862
+      ]
+    }
+  ]
+}

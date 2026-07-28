@@ -1,0 +1,78 @@
+{
+  "chart_id": "107a020d012a0af3",
+  "chart_type": "Bar Chart",
+  "image_width": 3034,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Cambodia",
+      "value": "1500000",
+      "value_numeric": 1500000.0,
+      "element_bbox": [
+        152,
+        690,
+        591,
+        847
+      ],
+      "value_bbox": [
+        600,
+        758,
+        661,
+        779
+      ]
+    },
+    {
+      "label": "Cabo Verde",
+      "value": "50000",
+      "value_numeric": 50000.0,
+      "element_bbox": [
+        152,
+        495,
+        167,
+        651
+      ],
+      "value_bbox": [
+        175,
+        562,
+        219,
+        584
+      ]
+    },
+    {
+      "label": "Burundi",
+      "value": "200000",
+      "value_numeric": 200000.0,
+      "element_bbox": [
+        152,
+        300,
+        211,
+        456
+      ],
+      "value_bbox": [
+        219,
+        367,
+        272,
+        389
+      ]
+    },
+    {
+      "label": "Burkina Faso",
+      "value": "2700000",
+      "value_numeric": 2700000.0,
+      "element_bbox": [
+        152,
+        104,
+        942,
+        261
+      ],
+      "value_bbox": [
+        951,
+        172,
+        1000,
+        193
+      ]
+    }
+  ]
+}

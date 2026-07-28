@@ -1,0 +1,78 @@
+{
+  "chart_id": "4a602950e97cec09",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1745,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "All Part-time Workers",
+      "value": "23.0",
+      "value_numeric": 23.0,
+      "element_bbox": [
+        97,
+        266,
+        278,
+        753
+      ],
+      "value_bbox": [
+        172,
+        245,
+        203,
+        266
+      ]
+    },
+    {
+      "label": "Urban Men",
+      "value": "29.9",
+      "value_numeric": 29.9,
+      "element_bbox": [
+        324,
+        121,
+        505,
+        753
+      ],
+      "value_bbox": [
+        399,
+        100,
+        430,
+        121
+      ]
+    },
+    {
+      "label": "Urban Women",
+      "value": "23.3",
+      "value_numeric": 23.3,
+      "element_bbox": [
+        551,
+        261,
+        732,
+        753
+      ],
+      "value_bbox": [
+        626,
+        239,
+        657,
+        261
+      ]
+    },
+    {
+      "label": "Urban Workers",
+      "value": "25.4",
+      "value_numeric": 25.4,
+      "element_bbox": [
+        778,
+        215,
+        959,
+        753
+      ],
+      "value_bbox": [
+        853,
+        193,
+        884,
+        215
+      ]
+    }
+  ]
+}

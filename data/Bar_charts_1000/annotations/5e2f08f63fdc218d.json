@@ -1,0 +1,95 @@
+{
+  "chart_id": "5e2f08f63fdc218d",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "High",
+      "value": "222.1",
+      "value_numeric": 222.1,
+      "element_bbox": [
+        102,
+        447,
+        245,
+        884
+      ],
+      "value_bbox": [
+        154,
+        425,
+        193,
+        447
+      ]
+    },
+    {
+      "label": "Middle",
+      "value": "204.0",
+      "value_numeric": 204.0,
+      "element_bbox": [
+        281,
+        483,
+        425,
+        884
+      ],
+      "value_bbox": [
+        333,
+        461,
+        373,
+        483
+      ]
+    },
+    {
+      "label": "Low",
+      "value": "322.2",
+      "value_numeric": 322.2,
+      "element_bbox": [
+        461,
+        250,
+        605,
+        884
+      ],
+      "value_bbox": [
+        513,
+        228,
+        553,
+        250
+      ]
+    },
+    {
+      "label": "Very Low",
+      "value": "353.7",
+      "value_numeric": 353.7,
+      "element_bbox": [
+        641,
+        188,
+        784,
+        884
+      ],
+      "value_bbox": [
+        693,
+        166,
+        732,
+        188
+      ]
+    },
+    {
+      "label": "Ultra Low",
+      "value": "373.7",
+      "value_numeric": 373.7,
+      "element_bbox": [
+        820,
+        149,
+        964,
+        884
+      ],
+      "value_bbox": [
+        872,
+        127,
+        912,
+        149
+      ]
+    }
+  ]
+}

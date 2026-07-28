@@ -1,0 +1,112 @@
+{
+  "chart_id": "d1035ad483ea5b6f",
+  "chart_type": "Bar Chart",
+  "image_width": 2950,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Compensation of employees",
+      "value": "33",
+      "value_numeric": 33.0,
+      "element_bbox": [
+        250,
+        103,
+        813,
+        209
+      ],
+      "value_bbox": [
+        820,
+        145,
+        838,
+        167
+      ]
+    },
+    {
+      "label": "Subsidies and Transfers",
+      "value": "30",
+      "value_numeric": 30.0,
+      "element_bbox": [
+        250,
+        235,
+        762,
+        341
+      ],
+      "value_bbox": [
+        769,
+        277,
+        787,
+        299
+      ]
+    },
+    {
+      "label": "Goods and Services",
+      "value": "14",
+      "value_numeric": 14.0,
+      "element_bbox": [
+        250,
+        368,
+        489,
+        474
+      ],
+      "value_bbox": [
+        496,
+        410,
+        514,
+        431
+      ]
+    },
+    {
+      "label": "Other expenses",
+      "value": "6",
+      "value_numeric": 6.0,
+      "element_bbox": [
+        250,
+        500,
+        352,
+        606
+      ],
+      "value_bbox": [
+        360,
+        542,
+        368,
+        564
+      ]
+    },
+    {
+      "label": "Net surplus",
+      "value": "12",
+      "value_numeric": 12.0,
+      "element_bbox": [
+        250,
+        632,
+        455,
+        738
+      ],
+      "value_bbox": [
+        462,
+        674,
+        479,
+        696
+      ]
+    },
+    {
+      "label": "Interest Payments",
+      "value": "5",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        250,
+        765,
+        335,
+        871
+      ],
+      "value_bbox": [
+        342,
+        807,
+        351,
+        828
+      ]
+    }
+  ]
+}

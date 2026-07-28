@@ -1,0 +1,163 @@
+{
+  "chart_id": "48bb12218ca3e85c",
+  "chart_type": "Bar Chart",
+  "image_width": 2796,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Belarus",
+      "value": "13.5",
+      "value_numeric": 13.5,
+      "element_bbox": [
+        143,
+        99,
+        879,
+        169
+      ],
+      "value_bbox": [
+        887,
+        123,
+        918,
+        145
+      ]
+    },
+    {
+      "label": "Uzbekistan",
+      "value": "4.1",
+      "value_numeric": 4.1,
+      "element_bbox": [
+        143,
+        187,
+        366,
+        257
+      ],
+      "value_bbox": [
+        374,
+        211,
+        396,
+        233
+      ]
+    },
+    {
+      "label": "Kazakhstan",
+      "value": "5.6",
+      "value_numeric": 5.6,
+      "element_bbox": [
+        143,
+        275,
+        448,
+        346
+      ],
+      "value_bbox": [
+        456,
+        299,
+        478,
+        321
+      ]
+    },
+    {
+      "label": "Latvia",
+      "value": "2.3",
+      "value_numeric": 2.3,
+      "element_bbox": [
+        143,
+        363,
+        268,
+        434
+      ],
+      "value_bbox": [
+        276,
+        388,
+        298,
+        409
+      ]
+    },
+    {
+      "label": "Lithuania",
+      "value": "4.2",
+      "value_numeric": 4.2,
+      "element_bbox": [
+        143,
+        451,
+        372,
+        522
+      ],
+      "value_bbox": [
+        380,
+        476,
+        402,
+        498
+      ]
+    },
+    {
+      "label": "Estonia",
+      "value": "3.1",
+      "value_numeric": 3.1,
+      "element_bbox": [
+        143,
+        540,
+        312,
+        610
+      ],
+      "value_bbox": [
+        320,
+        564,
+        342,
+        586
+      ]
+    },
+    {
+      "label": "Moldova",
+      "value": "2.9",
+      "value_numeric": 2.9,
+      "element_bbox": [
+        143,
+        628,
+        301,
+        698
+      ],
+      "value_bbox": [
+        309,
+        652,
+        331,
+        674
+      ]
+    },
+    {
+      "label": "Poland",
+      "value": "6.5",
+      "value_numeric": 6.5,
+      "element_bbox": [
+        143,
+        716,
+        497,
+        787
+      ],
+      "value_bbox": [
+        505,
+        741,
+        527,
+        762
+      ]
+    },
+    {
+      "label": "Romania",
+      "value": "3.7",
+      "value_numeric": 3.7,
+      "element_bbox": [
+        143,
+        804,
+        345,
+        875
+      ],
+      "value_bbox": [
+        352,
+        829,
+        374,
+        850
+      ]
+    }
+  ]
+}

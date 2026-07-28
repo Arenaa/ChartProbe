@@ -1,0 +1,78 @@
+{
+  "chart_id": "a6e168ba1a2076d9",
+  "chart_type": "Bar Chart",
+  "image_width": 2945,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Kiribati",
+      "value": "31",
+      "value_numeric": 31.0,
+      "element_bbox": [
+        180,
+        808,
+        617,
+        847
+      ],
+      "value_bbox": [
+        625,
+        816,
+        642,
+        838
+      ]
+    },
+    {
+      "label": "Korea (Republic)",
+      "value": "17",
+      "value_numeric": 17.0,
+      "element_bbox": [
+        180,
+        612,
+        944,
+        651
+      ],
+      "value_bbox": [
+        952,
+        621,
+        969,
+        643
+      ]
+    },
+    {
+      "label": "Kuwait",
+      "value": "35",
+      "value_numeric": 35.0,
+      "element_bbox": [
+        180,
+        417,
+        551,
+        456
+      ],
+      "value_bbox": [
+        559,
+        426,
+        577,
+        447
+      ]
+    },
+    {
+      "label": "Kyrgyz Republic",
+      "value": "20",
+      "value_numeric": 20.0,
+      "element_bbox": [
+        180,
+        222,
+        638,
+        261
+      ],
+      "value_bbox": [
+        647,
+        230,
+        664,
+        252
+      ]
+    }
+  ]
+}

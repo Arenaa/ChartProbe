@@ -1,0 +1,248 @@
+{
+  "chart_id": "1c1ca83a814e0ca5",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Saudi Arabia",
+      "value": "22.28",
+      "value_numeric": 22.28,
+      "element_bbox": [
+        183,
+        95,
+        916,
+        141
+      ],
+      "value_bbox": [
+        923,
+        107,
+        963,
+        129
+      ]
+    },
+    {
+      "label": "Middle East",
+      "value": "16.63",
+      "value_numeric": 16.63,
+      "element_bbox": [
+        183,
+        152,
+        730,
+        197
+      ],
+      "value_bbox": [
+        738,
+        164,
+        777,
+        186
+      ]
+    },
+    {
+      "label": "North Africa",
+      "value": "14.38",
+      "value_numeric": 14.38,
+      "element_bbox": [
+        183,
+        209,
+        656,
+        254
+      ],
+      "value_bbox": [
+        664,
+        221,
+        703,
+        242
+      ]
+    },
+    {
+      "label": "South Asia",
+      "value": "12.29",
+      "value_numeric": 12.29,
+      "element_bbox": [
+        183,
+        266,
+        587,
+        311
+      ],
+      "value_bbox": [
+        595,
+        277,
+        635,
+        299
+      ]
+    },
+    {
+      "label": "Cyprus (EU)",
+      "value": "11.01",
+      "value_numeric": 11.01,
+      "element_bbox": [
+        183,
+        322,
+        545,
+        368
+      ],
+      "value_bbox": [
+        553,
+        334,
+        593,
+        356
+      ]
+    },
+    {
+      "label": "Central Asia",
+      "value": "9.07",
+      "value_numeric": 9.07,
+      "element_bbox": [
+        183,
+        379,
+        481,
+        424
+      ],
+      "value_bbox": [
+        489,
+        391,
+        520,
+        412
+      ]
+    },
+    {
+      "label": "Baltic States",
+      "value": "8.73",
+      "value_numeric": 8.73,
+      "element_bbox": [
+        183,
+        436,
+        470,
+        481
+      ],
+      "value_bbox": [
+        478,
+        448,
+        509,
+        469
+      ]
+    },
+    {
+      "label": "Central Europe",
+      "value": "8.40",
+      "value_numeric": 8.4,
+      "element_bbox": [
+        183,
+        492,
+        459,
+        538
+      ],
+      "value_bbox": [
+        467,
+        504,
+        498,
+        526
+      ]
+    },
+    {
+      "label": "Western Europe",
+      "value": "8.10",
+      "value_numeric": 8.1,
+      "element_bbox": [
+        183,
+        549,
+        449,
+        594
+      ],
+      "value_bbox": [
+        457,
+        561,
+        488,
+        583
+      ]
+    },
+    {
+      "label": "Eastern Europe",
+      "value": "7.71",
+      "value_numeric": 7.71,
+      "element_bbox": [
+        183,
+        606,
+        437,
+        651
+      ],
+      "value_bbox": [
+        444,
+        618,
+        475,
+        639
+      ]
+    },
+    {
+      "label": "East Asia",
+      "value": "6.70",
+      "value_numeric": 6.7,
+      "element_bbox": [
+        183,
+        663,
+        403,
+        708
+      ],
+      "value_bbox": [
+        411,
+        674,
+        442,
+        696
+      ]
+    },
+    {
+      "label": "Southern Europe",
+      "value": "6.12",
+      "value_numeric": 6.12,
+      "element_bbox": [
+        183,
+        719,
+        384,
+        765
+      ],
+      "value_bbox": [
+        392,
+        731,
+        423,
+        753
+      ]
+    },
+    {
+      "label": "Southeast Asia",
+      "value": "5.10",
+      "value_numeric": 5.1,
+      "element_bbox": [
+        183,
+        776,
+        351,
+        821
+      ],
+      "value_bbox": [
+        359,
+        788,
+        390,
+        810
+      ]
+    },
+    {
+      "label": "Northern Europe",
+      "value": "4.38",
+      "value_numeric": 4.38,
+      "element_bbox": [
+        183,
+        833,
+        327,
+        878
+      ],
+      "value_bbox": [
+        335,
+        845,
+        366,
+        866
+      ]
+    }
+  ]
+}

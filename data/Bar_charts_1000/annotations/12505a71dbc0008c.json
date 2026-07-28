@@ -1,0 +1,163 @@
+{
+  "chart_id": "12505a71dbc0008c",
+  "chart_type": "Bar Chart",
+  "image_width": 8436,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "1993",
+      "value": "0.35",
+      "value_numeric": 0.35,
+      "element_bbox": [
+        133,
+        237,
+        206,
+        884
+      ],
+      "value_bbox": [
+        1000,
+        549,
+        1000,
+        571
+      ]
+    },
+    {
+      "label": "1994",
+      "value": "0.39",
+      "value_numeric": 0.39,
+      "element_bbox": [
+        225,
+        182,
+        298,
+        884
+      ],
+      "value_bbox": [
+        1000,
+        522,
+        1000,
+        544
+      ]
+    },
+    {
+      "label": "1995",
+      "value": "0.41",
+      "value_numeric": 0.41,
+      "element_bbox": [
+        317,
+        128,
+        390,
+        884
+      ],
+      "value_bbox": [
+        1000,
+        495,
+        1000,
+        516
+      ]
+    },
+    {
+      "label": "1996",
+      "value": "0.34",
+      "value_numeric": 0.34,
+      "element_bbox": [
+        409,
+        273,
+        482,
+        884
+      ],
+      "value_bbox": [
+        1000,
+        568,
+        1000,
+        589
+      ]
+    },
+    {
+      "label": "1997",
+      "value": "0.24",
+      "value_numeric": 0.24,
+      "element_bbox": [
+        500,
+        437,
+        574,
+        884
+      ],
+      "value_bbox": [
+        1000,
+        650,
+        1000,
+        671
+      ]
+    },
+    {
+      "label": "1998",
+      "value": "0.27",
+      "value_numeric": 0.27,
+      "element_bbox": [
+        592,
+        401,
+        666,
+        884
+      ],
+      "value_bbox": [
+        1000,
+        631,
+        1000,
+        653
+      ]
+    },
+    {
+      "label": "1999",
+      "value": "0.23",
+      "value_numeric": 0.23,
+      "element_bbox": [
+        684,
+        456,
+        758,
+        884
+      ],
+      "value_bbox": [
+        1000,
+        659,
+        1000,
+        680
+      ]
+    },
+    {
+      "label": "2000",
+      "value": "0.21",
+      "value_numeric": 0.21,
+      "element_bbox": [
+        776,
+        492,
+        850,
+        884
+      ],
+      "value_bbox": [
+        1000,
+        677,
+        1000,
+        699
+      ]
+    },
+    {
+      "label": "2001",
+      "value": "0.19",
+      "value_numeric": 0.19,
+      "element_bbox": [
+        868,
+        538,
+        942,
+        884
+      ],
+      "value_bbox": [
+        1000,
+        700,
+        1000,
+        721
+      ]
+    }
+  ]
+}

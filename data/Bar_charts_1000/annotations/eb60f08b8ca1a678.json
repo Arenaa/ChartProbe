@@ -1,0 +1,112 @@
+{
+  "chart_id": "eb60f08b8ca1a678",
+  "chart_type": "Bar Chart",
+  "image_width": 2945,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Philippines",
+      "value": "9.5",
+      "value_numeric": 9.5,
+      "element_bbox": [
+        247,
+        744,
+        722,
+        847
+      ],
+      "value_bbox": [
+        730,
+        785,
+        752,
+        806
+      ]
+    },
+    {
+      "label": "Paraguay",
+      "value": "4.5",
+      "value_numeric": 4.5,
+      "element_bbox": [
+        247,
+        616,
+        472,
+        719
+      ],
+      "value_bbox": [
+        480,
+        657,
+        502,
+        678
+      ]
+    },
+    {
+      "label": "Panama",
+      "value": "14",
+      "value_numeric": 14.0,
+      "element_bbox": [
+        247,
+        488,
+        947,
+        591
+      ],
+      "value_bbox": [
+        954,
+        529,
+        972,
+        550
+      ]
+    },
+    {
+      "label": "Pakistan",
+      "value": "1.5",
+      "value_numeric": 1.5,
+      "element_bbox": [
+        247,
+        360,
+        322,
+        463
+      ],
+      "value_bbox": [
+        330,
+        401,
+        352,
+        422
+      ]
+    },
+    {
+      "label": "Norway",
+      "value": "3",
+      "value_numeric": 3.0,
+      "element_bbox": [
+        247,
+        232,
+        397,
+        335
+      ],
+      "value_bbox": [
+        405,
+        273,
+        413,
+        294
+      ]
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "8",
+      "value_numeric": 8.0,
+      "element_bbox": [
+        247,
+        104,
+        647,
+        207
+      ],
+      "value_bbox": [
+        655,
+        145,
+        663,
+        166
+      ]
+    }
+  ]
+}

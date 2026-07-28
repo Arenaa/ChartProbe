@@ -1,0 +1,78 @@
+{
+  "chart_id": "2baeea2467a280ab",
+  "chart_type": "Bar Chart",
+  "image_width": 2347,
+  "image_height": 1371,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Caribbean",
+      "value": "536",
+      "value_numeric": 536.0,
+      "element_bbox": [
+        138,
+        676,
+        310,
+        860
+      ],
+      "value_bbox": [
+        208,
+        650,
+        240,
+        676
+      ]
+    },
+    {
+      "label": "Central America",
+      "value": "396",
+      "value_numeric": 396.0,
+      "element_bbox": [
+        353,
+        724,
+        526,
+        860
+      ],
+      "value_bbox": [
+        423,
+        698,
+        456,
+        724
+      ]
+    },
+    {
+      "label": "North America",
+      "value": "455",
+      "value_numeric": 455.0,
+      "element_bbox": [
+        569,
+        704,
+        741,
+        860
+      ],
+      "value_bbox": [
+        638,
+        678,
+        671,
+        704
+      ]
+    },
+    {
+      "label": "South America",
+      "value": "1943",
+      "value_numeric": 1943.0,
+      "element_bbox": [
+        784,
+        191,
+        956,
+        860
+      ],
+      "value_bbox": [
+        848,
+        165,
+        892,
+        191
+      ]
+    }
+  ]
+}

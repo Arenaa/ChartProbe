@@ -1,0 +1,112 @@
+{
+  "chart_id": "0deea4eb2afd26f6",
+  "chart_type": "Bar Chart",
+  "image_width": 2547,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Azerbaijan",
+      "value": "77.8",
+      "value_numeric": 77.8,
+      "element_bbox": [
+        160,
+        191,
+        191,
+        890
+      ],
+      "value_bbox": [
+        160,
+        169,
+        191,
+        191
+      ]
+    },
+    {
+      "label": "Bahrain",
+      "value": "10.8",
+      "value_numeric": 10.8,
+      "element_bbox": [
+        283,
+        737,
+        313,
+        890
+      ],
+      "value_bbox": [
+        283,
+        716,
+        314,
+        737
+      ]
+    },
+    {
+      "label": "Bangladesh",
+      "value": "83.7",
+      "value_numeric": 83.7,
+      "element_bbox": [
+        405,
+        172,
+        436,
+        890
+      ],
+      "value_bbox": [
+        405,
+        151,
+        436,
+        172
+      ]
+    },
+    {
+      "label": "Belarus",
+      "value": "69.8",
+      "value_numeric": 69.8,
+      "element_bbox": [
+        528,
+        231,
+        558,
+        890
+      ],
+      "value_bbox": [
+        528,
+        209,
+        558,
+        231
+      ]
+    },
+    {
+      "label": "Belgium",
+      "value": "34.1",
+      "value_numeric": 34.1,
+      "element_bbox": [
+        650,
+        573,
+        681,
+        890
+      ],
+      "value_bbox": [
+        650,
+        551,
+        681,
+        573
+      ]
+    },
+    {
+      "label": "Benin",
+      "value": "59.7",
+      "value_numeric": 59.7,
+      "element_bbox": [
+        773,
+        469,
+        804,
+        890
+      ],
+      "value_bbox": [
+        773,
+        447,
+        804,
+        469
+      ]
+    }
+  ]
+}

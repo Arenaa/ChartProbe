@@ -1,0 +1,265 @@
+{
+  "chart_id": "a5f5fe9c2bdd91b3",
+  "chart_type": "Bar Chart",
+  "image_width": 3552,
+  "image_height": 2346,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "East Africa (EA)",
+      "value": "226",
+      "value_numeric": 226.0,
+      "element_bbox": [
+        193,
+        73,
+        857,
+        95
+      ],
+      "value_bbox": [
+        865,
+        76,
+        887,
+        92
+      ]
+    },
+    {
+      "label": "West Africa (WA)",
+      "value": "187",
+      "value_numeric": 187.0,
+      "element_bbox": [
+        193,
+        129,
+        727,
+        152
+      ],
+      "value_bbox": [
+        735,
+        132,
+        757,
+        149
+      ]
+    },
+    {
+      "label": "Southern Africa (SA)",
+      "value": "172",
+      "value_numeric": 172.0,
+      "element_bbox": [
+        193,
+        186,
+        677,
+        208
+      ],
+      "value_bbox": [
+        685,
+        189,
+        707,
+        205
+      ]
+    },
+    {
+      "label": "Central Africa (CA)",
+      "value": "157",
+      "value_numeric": 157.0,
+      "element_bbox": [
+        193,
+        242,
+        627,
+        265
+      ],
+      "value_bbox": [
+        635,
+        245,
+        657,
+        261
+      ]
+    },
+    {
+      "label": "North Africa (NA)",
+      "value": "138",
+      "value_numeric": 138.0,
+      "element_bbox": [
+        193,
+        298,
+        567,
+        321
+      ],
+      "value_bbox": [
+        575,
+        302,
+        596,
+        318
+      ]
+    },
+    {
+      "label": "West-Central Africa (WCA)",
+      "value": "162",
+      "value_numeric": 162.0,
+      "element_bbox": [
+        193,
+        355,
+        644,
+        377
+      ],
+      "value_bbox": [
+        651,
+        358,
+        673,
+        374
+      ]
+    },
+    {
+      "label": "East-Central Africa (ECA)",
+      "value": "145",
+      "value_numeric": 145.0,
+      "element_bbox": [
+        193,
+        411,
+        590,
+        434
+      ],
+      "value_bbox": [
+        598,
+        414,
+        620,
+        431
+      ]
+    },
+    {
+      "label": "Northern Sahara (NS)",
+      "value": "120",
+      "value_numeric": 120.0,
+      "element_bbox": [
+        193,
+        468,
+        517,
+        490
+      ],
+      "value_bbox": [
+        525,
+        471,
+        547,
+        487
+      ]
+    },
+    {
+      "label": "East-South Africa (ESA)",
+      "value": "137",
+      "value_numeric": 137.0,
+      "element_bbox": [
+        193,
+        524,
+        567,
+        546
+      ],
+      "value_bbox": [
+        575,
+        527,
+        596,
+        543
+      ]
+    },
+    {
+      "label": "Northeastern Africa (NEA)",
+      "value": "126",
+      "value_numeric": 126.0,
+      "element_bbox": [
+        193,
+        580,
+        533,
+        603
+      ],
+      "value_bbox": [
+        541,
+        583,
+        563,
+        600
+      ]
+    },
+    {
+      "label": "Southwest Africa (SWA)",
+      "value": "142",
+      "value_numeric": 142.0,
+      "element_bbox": [
+        193,
+        637,
+        583,
+        659
+      ],
+      "value_bbox": [
+        591,
+        640,
+        613,
+        656
+      ]
+    },
+    {
+      "label": "Lake Victoria Basin",
+      "value": "112",
+      "value_numeric": 112.0,
+      "element_bbox": [
+        193,
+        693,
+        483,
+        716
+      ],
+      "value_bbox": [
+        491,
+        696,
+        513,
+        712
+      ]
+    },
+    {
+      "label": "Great Rift Valley (GRV)",
+      "value": "97",
+      "value_numeric": 97.0,
+      "element_bbox": [
+        193,
+        749,
+        437,
+        772
+      ],
+      "value_bbox": [
+        445,
+        752,
+        459,
+        769
+      ]
+    },
+    {
+      "label": "Savannah Corridor (SC)",
+      "value": "94",
+      "value_numeric": 94.0,
+      "element_bbox": [
+        193,
+        806,
+        420,
+        828
+      ],
+      "value_bbox": [
+        428,
+        809,
+        442,
+        825
+      ]
+    },
+    {
+      "label": "Horn of Africa (HOA)",
+      "value": "138",
+      "value_numeric": 138.0,
+      "element_bbox": [
+        193,
+        862,
+        577,
+        885
+      ],
+      "value_bbox": [
+        585,
+        865,
+        606,
+        881
+      ]
+    }
+  ]
+}

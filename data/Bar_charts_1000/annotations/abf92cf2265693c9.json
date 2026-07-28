@@ -1,0 +1,95 @@
+{
+  "chart_id": "abf92cf2265693c9",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1745,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Family Reunification",
+      "value": "158",
+      "value_numeric": 158.0,
+      "element_bbox": [
+        102,
+        146,
+        174,
+        759
+      ],
+      "value_bbox": [
+        125,
+        124,
+        151,
+        146
+      ]
+    },
+    {
+      "label": "Economic Migration",
+      "value": "149",
+      "value_numeric": 149.0,
+      "element_bbox": [
+        281,
+        202,
+        353,
+        759
+      ],
+      "value_bbox": [
+        304,
+        181,
+        330,
+        202
+      ]
+    },
+    {
+      "label": "Protection",
+      "value": "65",
+      "value_numeric": 65.0,
+      "element_bbox": [
+        461,
+        493,
+        533,
+        759
+      ],
+      "value_bbox": [
+        488,
+        471,
+        506,
+        493
+      ]
+    },
+    {
+      "label": "Labour Migration",
+      "value": "84",
+      "value_numeric": 84.0,
+      "element_bbox": [
+        641,
+        428,
+        713,
+        759
+      ],
+      "value_bbox": [
+        668,
+        407,
+        685,
+        428
+      ]
+    },
+    {
+      "label": "Student Migration",
+      "value": "27",
+      "value_numeric": 27.0,
+      "element_bbox": [
+        820,
+        670,
+        892,
+        759
+      ],
+      "value_bbox": [
+        847,
+        649,
+        865,
+        670
+      ]
+    }
+  ]
+}

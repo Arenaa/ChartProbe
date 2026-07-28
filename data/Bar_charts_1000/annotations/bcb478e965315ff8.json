@@ -1,0 +1,78 @@
+{
+  "chart_id": "bcb478e965315ff8",
+  "chart_type": "Bar Chart",
+  "image_width": 2646,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Other small states",
+      "value": "12.5",
+      "value_numeric": 12.5,
+      "element_bbox": [
+        160,
+        203,
+        309,
+        890
+      ],
+      "value_bbox": [
+        219,
+        181,
+        250,
+        203
+      ]
+    },
+    {
+      "label": "Small states",
+      "value": "9.5",
+      "value_numeric": 9.5,
+      "element_bbox": [
+        346,
+        368,
+        494,
+        890
+      ],
+      "value_bbox": [
+        409,
+        346,
+        431,
+        368
+      ]
+    },
+    {
+      "label": "Sub-Saharan Africa (all income levels)",
+      "value": "5.5",
+      "value_numeric": 5.5,
+      "element_bbox": [
+        531,
+        588,
+        679,
+        890
+      ],
+      "value_bbox": [
+        594,
+        566,
+        616,
+        588
+      ]
+    },
+    {
+      "label": "Sub-Saharan Africa (developing only)",
+      "value": "5.5",
+      "value_numeric": 5.5,
+      "element_bbox": [
+        716,
+        588,
+        865,
+        890
+      ],
+      "value_bbox": [
+        779,
+        566,
+        802,
+        588
+      ]
+    }
+  ]
+}

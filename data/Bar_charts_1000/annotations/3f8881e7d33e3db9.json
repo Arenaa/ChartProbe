@@ -1,0 +1,95 @@
+{
+  "chart_id": "3f8881e7d33e3db9",
+  "chart_type": "Bar Chart",
+  "image_width": 2646,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Cameroon",
+      "value": "87.5",
+      "value_numeric": 87.5,
+      "element_bbox": [
+        100,
+        182,
+        244,
+        884
+      ],
+      "value_bbox": [
+        155,
+        160,
+        189,
+        182
+      ]
+    },
+    {
+      "label": "Japan",
+      "value": "60.1",
+      "value_numeric": 60.1,
+      "element_bbox": [
+        280,
+        402,
+        423,
+        884
+      ],
+      "value_bbox": [
+        335,
+        380,
+        369,
+        402
+      ]
+    },
+    {
+      "label": "Tanzania",
+      "value": "92.8",
+      "value_numeric": 92.8,
+      "element_bbox": [
+        459,
+        140,
+        603,
+        884
+      ],
+      "value_bbox": [
+        514,
+        118,
+        548,
+        140
+      ]
+    },
+    {
+      "label": "Nigeria",
+      "value": "84.0",
+      "value_numeric": 84.0,
+      "element_bbox": [
+        639,
+        210,
+        783,
+        884
+      ],
+      "value_bbox": [
+        694,
+        188,
+        728,
+        210
+      ]
+    },
+    {
+      "label": "Uganda",
+      "value": "94.3",
+      "value_numeric": 94.3,
+      "element_bbox": [
+        818,
+        128,
+        962,
+        884
+      ],
+      "value_bbox": [
+        873,
+        106,
+        907,
+        128
+      ]
+    }
+  ]
+}

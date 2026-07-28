@@ -1,0 +1,95 @@
+{
+  "chart_id": "0db6d3495eadd7aa",
+  "chart_type": "Bar Chart",
+  "image_width": 2646,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Early Childhood",
+      "value": "4.9",
+      "value_numeric": 4.9,
+      "element_bbox": [
+        123,
+        820,
+        259,
+        884
+      ],
+      "value_bbox": [
+        179,
+        798,
+        203,
+        820
+      ]
+    },
+    {
+      "label": "Primary",
+      "value": "51.5",
+      "value_numeric": 51.5,
+      "element_bbox": [
+        293,
+        213,
+        429,
+        884
+      ],
+      "value_bbox": [
+        344,
+        191,
+        378,
+        213
+      ]
+    },
+    {
+      "label": "Secondary",
+      "value": "28.1",
+      "value_numeric": 28.1,
+      "element_bbox": [
+        463,
+        518,
+        599,
+        884
+      ],
+      "value_bbox": [
+        514,
+        496,
+        548,
+        518
+      ]
+    },
+    {
+      "label": "Tertiary",
+      "value": "12.1",
+      "value_numeric": 12.1,
+      "element_bbox": [
+        633,
+        726,
+        769,
+        884
+      ],
+      "value_bbox": [
+        684,
+        705,
+        718,
+        726
+      ]
+    },
+    {
+      "label": "Post-graduate",
+      "value": "2.5",
+      "value_numeric": 2.5,
+      "element_bbox": [
+        803,
+        851,
+        939,
+        884
+      ],
+      "value_bbox": [
+        859,
+        830,
+        884,
+        851
+      ]
+    }
+  ]
+}

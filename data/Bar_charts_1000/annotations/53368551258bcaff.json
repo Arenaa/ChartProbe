@@ -1,0 +1,61 @@
+{
+  "chart_id": "53368551258bcaff",
+  "chart_type": "Bar Chart",
+  "image_width": 1739,
+  "image_height": 1381,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Latvia",
+      "value": "160",
+      "value_numeric": 160.0,
+      "element_bbox": [
+        160,
+        157,
+        224,
+        890
+      ],
+      "value_bbox": [
+        172,
+        130,
+        213,
+        157
+      ]
+    },
+    {
+      "label": "Lebanon",
+      "value": "80",
+      "value_numeric": 80.0,
+      "element_bbox": [
+        416,
+        790,
+        480,
+        890
+      ],
+      "value_bbox": [
+        435,
+        763,
+        462,
+        790
+      ]
+    },
+    {
+      "label": "Libya",
+      "value": "150",
+      "value_numeric": 150.0,
+      "element_bbox": [
+        673,
+        423,
+        737,
+        890
+      ],
+      "value_bbox": [
+        684,
+        396,
+        725,
+        423
+      ]
+    }
+  ]
+}

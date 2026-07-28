@@ -1,0 +1,95 @@
+{
+  "chart_id": "6ff410d1dc5914ff",
+  "chart_type": "Bar Chart",
+  "image_width": 2347,
+  "image_height": 1446,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Azerbaijan",
+      "value": "8.5",
+      "value_numeric": 8.5,
+      "element_bbox": [
+        128,
+        518,
+        267,
+        860
+      ],
+      "value_bbox": [
+        183,
+        492,
+        211,
+        518
+      ]
+    },
+    {
+      "label": "Georgia",
+      "value": "9.0",
+      "value_numeric": 9.0,
+      "element_bbox": [
+        301,
+        498,
+        440,
+        860
+      ],
+      "value_bbox": [
+        357,
+        472,
+        385,
+        498
+      ]
+    },
+    {
+      "label": "Lao PDR",
+      "value": "17.8",
+      "value_numeric": 17.8,
+      "element_bbox": [
+        475,
+        144,
+        613,
+        860
+      ],
+      "value_bbox": [
+        525,
+        118,
+        563,
+        144
+      ]
+    },
+    {
+      "label": "Myanmar",
+      "value": "13.2",
+      "value_numeric": 13.2,
+      "element_bbox": [
+        648,
+        329,
+        787,
+        860
+      ],
+      "value_bbox": [
+        698,
+        303,
+        737,
+        329
+      ]
+    },
+    {
+      "label": "Vietnam",
+      "value": "15.2",
+      "value_numeric": 15.2,
+      "element_bbox": [
+        821,
+        248,
+        960,
+        860
+      ],
+      "value_bbox": [
+        871,
+        222,
+        910,
+        248
+      ]
+    }
+  ]
+}

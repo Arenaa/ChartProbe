@@ -1,0 +1,299 @@
+{
+  "chart_id": "0cf7f6e41891f814",
+  "chart_type": "Bar Chart",
+  "image_width": 2949,
+  "image_height": 2346,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Microloan Recipients",
+      "value": "2",
+      "value_numeric": 2.0,
+      "element_bbox": [
+        337,
+        72,
+        339,
+        112
+      ],
+      "value_bbox": [
+        345,
+        84,
+        354,
+        100
+      ]
+    },
+    {
+      "label": "ESG Investors",
+      "value": "2",
+      "value_numeric": 2.0,
+      "element_bbox": [
+        337,
+        122,
+        339,
+        162
+      ],
+      "value_bbox": [
+        345,
+        134,
+        354,
+        150
+      ]
+    },
+    {
+      "label": "Sustainable Finance Participants",
+      "value": "3",
+      "value_numeric": 3.0,
+      "element_bbox": [
+        337,
+        172,
+        340,
+        212
+      ],
+      "value_bbox": [
+        346,
+        184,
+        355,
+        200
+      ]
+    },
+    {
+      "label": "Community Bank Users",
+      "value": "4",
+      "value_numeric": 4.0,
+      "element_bbox": [
+        337,
+        221,
+        341,
+        261
+      ],
+      "value_bbox": [
+        347,
+        233,
+        356,
+        249
+      ]
+    },
+    {
+      "label": "Neobank Users",
+      "value": "5",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        337,
+        271,
+        342,
+        311
+      ],
+      "value_bbox": [
+        348,
+        283,
+        357,
+        299
+      ]
+    },
+    {
+      "label": "AI Service Users",
+      "value": "12",
+      "value_numeric": 12.0,
+      "element_bbox": [
+        337,
+        321,
+        348,
+        361
+      ],
+      "value_bbox": [
+        355,
+        333,
+        372,
+        349
+      ]
+    },
+    {
+      "label": "Crypto Enthusiasts",
+      "value": "14",
+      "value_numeric": 14.0,
+      "element_bbox": [
+        337,
+        371,
+        350,
+        410
+      ],
+      "value_bbox": [
+        356,
+        382,
+        374,
+        399
+      ]
+    },
+    {
+      "label": "FinTech Users",
+      "value": "27",
+      "value_numeric": 27.0,
+      "element_bbox": [
+        337,
+        420,
+        362,
+        460
+      ],
+      "value_bbox": [
+        369,
+        432,
+        386,
+        448
+      ]
+    },
+    {
+      "label": "New Account Holders",
+      "value": "34",
+      "value_numeric": 34.0,
+      "element_bbox": [
+        337,
+        470,
+        369,
+        510
+      ],
+      "value_bbox": [
+        375,
+        482,
+        392,
+        498
+      ]
+    },
+    {
+      "label": "Mobile App Users",
+      "value": "57",
+      "value_numeric": 57.0,
+      "element_bbox": [
+        337,
+        520,
+        390,
+        560
+      ],
+      "value_bbox": [
+        397,
+        532,
+        414,
+        548
+      ]
+    },
+    {
+      "label": "Online Savers",
+      "value": "68",
+      "value_numeric": 68.0,
+      "element_bbox": [
+        337,
+        570,
+        400,
+        609
+      ],
+      "value_bbox": [
+        407,
+        581,
+        424,
+        598
+      ]
+    },
+    {
+      "label": "Digital Platform Users",
+      "value": "98",
+      "value_numeric": 98.0,
+      "element_bbox": [
+        337,
+        619,
+        428,
+        659
+      ],
+      "value_bbox": [
+        435,
+        631,
+        452,
+        647
+      ]
+    },
+    {
+      "label": "Prospective Customers",
+      "value": "108",
+      "value_numeric": 108.0,
+      "element_bbox": [
+        337,
+        669,
+        438,
+        709
+      ],
+      "value_bbox": [
+        444,
+        681,
+        470,
+        697
+      ]
+    },
+    {
+      "label": "Active Borrowers",
+      "value": "135",
+      "value_numeric": 135.0,
+      "element_bbox": [
+        337,
+        719,
+        463,
+        759
+      ],
+      "value_bbox": [
+        469,
+        731,
+        495,
+        747
+      ]
+    },
+    {
+      "label": "Disinterested Adults",
+      "value": "340",
+      "value_numeric": 340.0,
+      "element_bbox": [
+        337,
+        769,
+        653,
+        808
+      ],
+      "value_bbox": [
+        660,
+        780,
+        686,
+        797
+      ]
+    },
+    {
+      "label": "Depositors",
+      "value": "433",
+      "value_numeric": 433.0,
+      "element_bbox": [
+        337,
+        818,
+        740,
+        858
+      ],
+      "value_bbox": [
+        746,
+        830,
+        772,
+        846
+      ]
+    },
+    {
+      "label": "Potential Customers (incl. prospects)",
+      "value": "660",
+      "value_numeric": 660.0,
+      "element_bbox": [
+        337,
+        868,
+        951,
+        908
+      ],
+      "value_bbox": [
+        958,
+        880,
+        984,
+        896
+      ]
+    }
+  ]
+}

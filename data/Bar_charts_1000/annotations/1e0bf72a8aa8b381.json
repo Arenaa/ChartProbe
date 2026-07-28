@@ -1,0 +1,214 @@
+{
+  "chart_id": "1e0bf72a8aa8b381",
+  "chart_type": "Bar Chart",
+  "image_width": 3036,
+  "image_height": 2046,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Kenya",
+      "value": "1210000",
+      "value_numeric": 1210000.0,
+      "element_bbox": [
+        180,
+        84,
+        357,
+        139
+      ],
+      "value_bbox": [
+        365,
+        102,
+        426,
+        121
+      ]
+    },
+    {
+      "label": "Somalia",
+      "value": "1530000",
+      "value_numeric": 1530000.0,
+      "element_bbox": [
+        180,
+        152,
+        404,
+        207
+      ],
+      "value_bbox": [
+        412,
+        171,
+        473,
+        189
+      ]
+    },
+    {
+      "label": "Eritrea",
+      "value": "970000",
+      "value_numeric": 970000.0,
+      "element_bbox": [
+        180,
+        221,
+        322,
+        276
+      ],
+      "value_bbox": [
+        330,
+        239,
+        382,
+        258
+      ]
+    },
+    {
+      "label": "South Sudan",
+      "value": "860000",
+      "value_numeric": 860000.0,
+      "element_bbox": [
+        180,
+        290,
+        306,
+        345
+      ],
+      "value_bbox": [
+        314,
+        308,
+        366,
+        326
+      ]
+    },
+    {
+      "label": "Ethiopia",
+      "value": "1050000",
+      "value_numeric": 1050000.0,
+      "element_bbox": [
+        180,
+        358,
+        334,
+        413
+      ],
+      "value_bbox": [
+        342,
+        376,
+        403,
+        395
+      ]
+    },
+    {
+      "label": "Sierra Leone",
+      "value": "2470000",
+      "value_numeric": 2470000.0,
+      "element_bbox": [
+        180,
+        427,
+        542,
+        482
+      ],
+      "value_bbox": [
+        550,
+        445,
+        611,
+        464
+      ]
+    },
+    {
+      "label": "Sudan",
+      "value": "3610000",
+      "value_numeric": 3610000.0,
+      "element_bbox": [
+        180,
+        495,
+        709,
+        550
+      ],
+      "value_bbox": [
+        717,
+        514,
+        778,
+        532
+      ]
+    },
+    {
+      "label": "Nigeria",
+      "value": "4020000",
+      "value_numeric": 4020000.0,
+      "element_bbox": [
+        180,
+        564,
+        769,
+        619
+      ],
+      "value_bbox": [
+        777,
+        582,
+        839,
+        601
+      ]
+    },
+    {
+      "label": "Ghana",
+      "value": "950000",
+      "value_numeric": 950000.0,
+      "element_bbox": [
+        180,
+        633,
+        319,
+        688
+      ],
+      "value_bbox": [
+        327,
+        651,
+        379,
+        669
+      ]
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "3660000",
+      "value_numeric": 3660000.0,
+      "element_bbox": [
+        180,
+        701,
+        716,
+        756
+      ],
+      "value_bbox": [
+        725,
+        720,
+        785,
+        738
+      ]
+    },
+    {
+      "label": "Syria",
+      "value": "5210000",
+      "value_numeric": 5210000.0,
+      "element_bbox": [
+        180,
+        770,
+        944,
+        825
+      ],
+      "value_bbox": [
+        952,
+        788,
+        1000,
+        807
+      ]
+    },
+    {
+      "label": "Solomon Islands",
+      "value": "3330000",
+      "value_numeric": 3330000.0,
+      "element_bbox": [
+        180,
+        839,
+        668,
+        893
+      ],
+      "value_bbox": [
+        676,
+        857,
+        737,
+        875
+      ]
+    }
+  ]
+}

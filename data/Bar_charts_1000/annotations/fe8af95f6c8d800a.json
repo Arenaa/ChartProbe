@@ -1,0 +1,248 @@
+{
+  "chart_id": "fe8af95f6c8d800a",
+  "chart_type": "Bar Chart",
+  "image_width": 3546,
+  "image_height": 1748,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Sudan",
+      "value": "13.5",
+      "value_numeric": 13.5,
+      "element_bbox": [
+        68,
+        122,
+        95,
+        653
+      ],
+      "value_bbox": [
+        69,
+        100,
+        94,
+        122
+      ]
+    },
+    {
+      "label": "South Sudan",
+      "value": "2.7",
+      "value_numeric": 2.7,
+      "element_bbox": [
+        134,
+        550,
+        161,
+        653
+      ],
+      "value_bbox": [
+        138,
+        528,
+        157,
+        550
+      ]
+    },
+    {
+      "label": "Lebanon",
+      "value": "9.0",
+      "value_numeric": 9.0,
+      "element_bbox": [
+        200,
+        300,
+        227,
+        653
+      ],
+      "value_bbox": [
+        204,
+        279,
+        223,
+        300
+      ]
+    },
+    {
+      "label": "Egypt",
+      "value": "8.6",
+      "value_numeric": 8.6,
+      "element_bbox": [
+        266,
+        316,
+        293,
+        653
+      ],
+      "value_bbox": [
+        270,
+        295,
+        288,
+        316
+      ]
+    },
+    {
+      "label": "Jordan",
+      "value": "6.2",
+      "value_numeric": 6.2,
+      "element_bbox": [
+        332,
+        411,
+        358,
+        653
+      ],
+      "value_bbox": [
+        336,
+        390,
+        354,
+        411
+      ]
+    },
+    {
+      "label": "Suriname",
+      "value": "5.0",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        398,
+        459,
+        424,
+        653
+      ],
+      "value_bbox": [
+        402,
+        437,
+        420,
+        459
+      ]
+    },
+    {
+      "label": "Tunisia",
+      "value": "6.6",
+      "value_numeric": 6.6,
+      "element_bbox": [
+        464,
+        395,
+        490,
+        653
+      ],
+      "value_bbox": [
+        468,
+        374,
+        486,
+        395
+      ]
+    },
+    {
+      "label": "Algeria",
+      "value": "7.1",
+      "value_numeric": 7.1,
+      "element_bbox": [
+        530,
+        376,
+        556,
+        653
+      ],
+      "value_bbox": [
+        534,
+        354,
+        552,
+        376
+      ]
+    },
+    {
+      "label": "Morocco",
+      "value": "6.5",
+      "value_numeric": 6.5,
+      "element_bbox": [
+        596,
+        399,
+        622,
+        653
+      ],
+      "value_bbox": [
+        600,
+        378,
+        618,
+        399
+      ]
+    },
+    {
+      "label": "Libya",
+      "value": "5.6",
+      "value_numeric": 5.6,
+      "element_bbox": [
+        662,
+        435,
+        688,
+        653
+      ],
+      "value_bbox": [
+        666,
+        413,
+        684,
+        435
+      ]
+    },
+    {
+      "label": "Eritrea",
+      "value": "2.3",
+      "value_numeric": 2.3,
+      "element_bbox": [
+        728,
+        566,
+        754,
+        653
+      ],
+      "value_bbox": [
+        732,
+        544,
+        750,
+        566
+      ]
+    },
+    {
+      "label": "Ethiopia",
+      "value": "2.4",
+      "value_numeric": 2.4,
+      "element_bbox": [
+        794,
+        562,
+        820,
+        653
+      ],
+      "value_bbox": [
+        798,
+        540,
+        816,
+        562
+      ]
+    },
+    {
+      "label": "Somalia",
+      "value": "1.0",
+      "value_numeric": 1.0,
+      "element_bbox": [
+        860,
+        617,
+        886,
+        653
+      ],
+      "value_bbox": [
+        864,
+        596,
+        882,
+        617
+      ]
+    },
+    {
+      "label": "Western Sahara (Territory)",
+      "value": "0.84",
+      "value_numeric": 0.84,
+      "element_bbox": [
+        926,
+        624,
+        952,
+        653
+      ],
+      "value_bbox": [
+        926,
+        602,
+        952,
+        624
+      ]
+    }
+  ]
+}

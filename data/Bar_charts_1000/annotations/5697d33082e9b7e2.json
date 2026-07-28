@@ -1,0 +1,78 @@
+{
+  "chart_id": "5697d33082e9b7e2",
+  "chart_type": "Bar Chart",
+  "image_width": 2547,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Italy",
+      "value": "70",
+      "value_numeric": 70.0,
+      "element_bbox": [
+        160,
+        291,
+        309,
+        890
+      ],
+      "value_bbox": [
+        226,
+        269,
+        243,
+        291
+      ]
+    },
+    {
+      "label": "Spain",
+      "value": "77",
+      "value_numeric": 77.0,
+      "element_bbox": [
+        346,
+        231,
+        494,
+        890
+      ],
+      "value_bbox": [
+        411,
+        210,
+        429,
+        231
+      ]
+    },
+    {
+      "label": "Korea (Republic)",
+      "value": "53",
+      "value_numeric": 53.0,
+      "element_bbox": [
+        531,
+        437,
+        679,
+        890
+      ],
+      "value_bbox": [
+        597,
+        415,
+        614,
+        437
+      ]
+    },
+    {
+      "label": "Norway",
+      "value": "83",
+      "value_numeric": 83.0,
+      "element_bbox": [
+        716,
+        180,
+        865,
+        890
+      ],
+      "value_bbox": [
+        782,
+        158,
+        799,
+        180
+      ]
+    }
+  ]
+}

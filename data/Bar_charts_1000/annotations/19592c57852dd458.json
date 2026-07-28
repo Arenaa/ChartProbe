@@ -1,0 +1,95 @@
+{
+  "chart_id": "19592c57852dd458",
+  "chart_type": "Bar Chart",
+  "image_width": 2650,
+  "image_height": 1754,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Malta",
+      "value": "97.5",
+      "value_numeric": 97.5,
+      "element_bbox": [
+        111,
+        181,
+        253,
+        884
+      ],
+      "value_bbox": [
+        164,
+        160,
+        199,
+        181
+      ]
+    },
+    {
+      "label": "Nicaragua",
+      "value": "54.2",
+      "value_numeric": 54.2,
+      "element_bbox": [
+        288,
+        493,
+        430,
+        884
+      ],
+      "value_bbox": [
+        342,
+        472,
+        376,
+        493
+      ]
+    },
+    {
+      "label": "Norway",
+      "value": "99.9",
+      "value_numeric": 99.9,
+      "element_bbox": [
+        465,
+        164,
+        607,
+        884
+      ],
+      "value_bbox": [
+        519,
+        142,
+        553,
+        164
+      ]
+    },
+    {
+      "label": "Finland",
+      "value": "97.2",
+      "value_numeric": 97.2,
+      "element_bbox": [
+        643,
+        184,
+        785,
+        884
+      ],
+      "value_bbox": [
+        697,
+        162,
+        731,
+        184
+      ]
+    },
+    {
+      "label": "Sweden",
+      "value": "97.0",
+      "value_numeric": 97.0,
+      "element_bbox": [
+        820,
+        185,
+        962,
+        884
+      ],
+      "value_bbox": [
+        874,
+        163,
+        908,
+        185
+      ]
+    }
+  ]
+}

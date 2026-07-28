@@ -1,0 +1,95 @@
+{
+  "chart_id": "38e7d813d38d5ca7",
+  "chart_type": "Bar Chart",
+  "image_width": 2618,
+  "image_height": 1750,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Food & Tobacco",
+      "value": "37.5%",
+      "value_numeric": 37.5,
+      "element_bbox": [
+        109,
+        128,
+        250,
+        870
+      ],
+      "value_bbox": [
+        155,
+        107,
+        203,
+        128
+      ]
+    },
+    {
+      "label": "Chemicals",
+      "value": "5.5%",
+      "value_numeric": 5.5,
+      "element_bbox": [
+        285,
+        761,
+        425,
+        870
+      ],
+      "value_bbox": [
+        336,
+        739,
+        374,
+        761
+      ]
+    },
+    {
+      "label": "Textiles",
+      "value": "12.0%",
+      "value_numeric": 12.0,
+      "element_bbox": [
+        460,
+        633,
+        601,
+        870
+      ],
+      "value_bbox": [
+        506,
+        611,
+        555,
+        633
+      ]
+    },
+    {
+      "label": "Automotive",
+      "value": "20.0%",
+      "value_numeric": 20.0,
+      "element_bbox": [
+        636,
+        474,
+        776,
+        870
+      ],
+      "value_bbox": [
+        682,
+        453,
+        730,
+        474
+      ]
+    },
+    {
+      "label": "Other Manufacturing",
+      "value": "24.5%",
+      "value_numeric": 24.5,
+      "element_bbox": [
+        811,
+        385,
+        952,
+        870
+      ],
+      "value_bbox": [
+        857,
+        364,
+        906,
+        385
+      ]
+    }
+  ]
+}

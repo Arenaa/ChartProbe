@@ -1,0 +1,78 @@
+{
+  "chart_id": "24e1b6ec4959781e",
+  "chart_type": "Bar Chart",
+  "image_width": 2951,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Cameroon",
+      "value": "43",
+      "value_numeric": 43.0,
+      "element_bbox": [
+        185,
+        768,
+        851,
+        847
+      ],
+      "value_bbox": [
+        859,
+        797,
+        876,
+        818
+      ]
+    },
+    {
+      "label": "Congo (Democratic)",
+      "value": "31",
+      "value_numeric": 31.0,
+      "element_bbox": [
+        185,
+        573,
+        650,
+        651
+      ],
+      "value_bbox": [
+        658,
+        601,
+        675,
+        623
+      ]
+    },
+    {
+      "label": "Kyrgyz Republic",
+      "value": "34",
+      "value_numeric": 34.0,
+      "element_bbox": [
+        185,
+        378,
+        743,
+        456
+      ],
+      "value_bbox": [
+        751,
+        406,
+        768,
+        428
+      ]
+    },
+    {
+      "label": "Niger",
+      "value": "45",
+      "value_numeric": 45.0,
+      "element_bbox": [
+        185,
+        182,
+        944,
+        261
+      ],
+      "value_bbox": [
+        952,
+        211,
+        970,
+        232
+      ]
+    }
+  ]
+}

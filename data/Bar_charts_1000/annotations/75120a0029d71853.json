@@ -1,0 +1,44 @@
+{
+  "chart_id": "75120a0029d71853",
+  "chart_type": "Bar Chart",
+  "image_width": 2945,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "World",
+      "value": "64000000",
+      "value_numeric": 64000000.0,
+      "element_bbox": [
+        144,
+        801,
+        144,
+        847
+      ],
+      "value_bbox": [
+        110,
+        779,
+        179,
+        801
+      ]
+    },
+    {
+      "label": "Bangladesh",
+      "value": "400000",
+      "value_numeric": 400000.0,
+      "element_bbox": [
+        144,
+        671,
+        190,
+        716
+      ],
+      "value_bbox": [
+        199,
+        683,
+        251,
+        704
+      ]
+    }
+  ]
+}

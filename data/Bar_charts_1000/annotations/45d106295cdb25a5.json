@@ -1,0 +1,95 @@
+{
+  "chart_id": "45d106295cdb25a5",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "1981-1990",
+      "value": "31.0",
+      "value_numeric": 31.0,
+      "element_bbox": [
+        108,
+        124,
+        166,
+        818
+      ],
+      "value_bbox": [
+        122,
+        103,
+        153,
+        124
+      ]
+    },
+    {
+      "label": "1991-2000",
+      "value": "19.8",
+      "value_numeric": 19.8,
+      "element_bbox": [
+        254,
+        462,
+        313,
+        818
+      ],
+      "value_bbox": [
+        268,
+        440,
+        299,
+        462
+      ]
+    },
+    {
+      "label": "2001-2010",
+      "value": "32.2",
+      "value_numeric": 32.2,
+      "element_bbox": [
+        401,
+        707,
+        459,
+        818
+      ],
+      "value_bbox": [
+        414,
+        685,
+        445,
+        707
+      ]
+    },
+    {
+      "label": "2011-2020",
+      "value": "48.8",
+      "value_numeric": 48.8,
+      "element_bbox": [
+        547,
+        615,
+        606,
+        818
+      ],
+      "value_bbox": [
+        561,
+        593,
+        592,
+        615
+      ]
+    },
+    {
+      "label": "2021-2030",
+      "value": "35.0",
+      "value_numeric": 35.0,
+      "element_bbox": [
+        693,
+        683,
+        752,
+        818
+      ],
+      "value_bbox": [
+        707,
+        662,
+        738,
+        683
+      ]
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "chart_id": "b3a7412dd6eb1140",
+  "chart_type": "Bar Chart",
+  "image_width": 2973,
+  "image_height": 2346,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "EU",
+      "value": "18.73",
+      "value_numeric": 18.73,
+      "element_bbox": [
+        259,
+        72,
+        945,
+        110
+      ],
+      "value_bbox": [
+        952,
+        83,
+        991,
+        99
+      ]
+    },
+    {
+      "label": "Western Europe",
+      "value": "17.66",
+      "value_numeric": 17.66,
+      "element_bbox": [
+        259,
+        119,
+        906,
+        157
+      ],
+      "value_bbox": [
+        913,
+        130,
+        952,
+        146
+      ]
+    },
+    {
+      "label": "Upper-Middle (EU)",
+      "value": "17.56",
+      "value_numeric": 17.56,
+      "element_bbox": [
+        259,
+        166,
+        902,
+        204
+      ],
+      "value_bbox": [
+        909,
+        177,
+        949,
+        193
+      ]
+    },
+    {
+      "label": "High Income",
+      "value": "14.62",
+      "value_numeric": 14.62,
+      "element_bbox": [
+        259,
+        213,
+        794,
+        250
+      ],
+      "value_bbox": [
+        802,
+        224,
+        841,
+        240
+      ]
+    },
+    {
+      "label": "Heavily Indebted Poor",
+      "value": "9.54",
+      "value_numeric": 9.54,
+      "element_bbox": [
+        259,
+        260,
+        608,
+        297
+      ],
+      "value_bbox": [
+        616,
+        271,
+        647,
+        287
+      ]
+    },
+    {
+      "label": "North America (USA)",
+      "value": "9.22",
+      "value_numeric": 9.22,
+      "element_bbox": [
+        259,
+        307,
+        597,
+        344
+      ],
+      "value_bbox": [
+        604,
+        318,
+        635,
+        334
+      ]
+    },
+    {
+      "label": "East Asia",
+      "value": "8.66",
+      "value_numeric": 8.66,
+      "element_bbox": [
+        259,
+        354,
+        576,
+        391
+      ],
+      "value_bbox": [
+        583,
+        364,
+        614,
+        381
+      ]
+    },
+    {
+      "label": "Middle Income (non-EU)",
+      "value": "7.42",
+      "value_numeric": 7.42,
+      "element_bbox": [
+        259,
+        401,
+        531,
+        438
+      ],
+      "value_bbox": [
+        538,
+        411,
+        569,
+        428
+      ]
+    },
+    {
+      "label": "South Asia",
+      "value": "7.05",
+      "value_numeric": 7.05,
+      "element_bbox": [
+        259,
+        448,
+        517,
+        485
+      ],
+      "value_bbox": [
+        525,
+        458,
+        556,
+        475
+      ]
+    },
+    {
+      "label": "Southeast Asia",
+      "value": "6.72",
+      "value_numeric": 6.72,
+      "element_bbox": [
+        259,
+        495,
+        505,
+        532
+      ],
+      "value_bbox": [
+        512,
+        505,
+        543,
+        522
+      ]
+    },
+    {
+      "label": "Low Income",
+      "value": "5.90",
+      "value_numeric": 5.9,
+      "element_bbox": [
+        259,
+        542,
+        475,
+        579
+      ],
+      "value_bbox": [
+        482,
+        552,
+        513,
+        569
+      ]
+    },
+    {
+      "label": "Central Europe",
+      "value": "5.59",
+      "value_numeric": 5.59,
+      "element_bbox": [
+        259,
+        589,
+        464,
+        626
+      ],
+      "value_bbox": [
+        471,
+        599,
+        502,
+        616
+      ]
+    },
+    {
+      "label": "Fragile/Conflict",
+      "value": "5.29",
+      "value_numeric": 5.29,
+      "element_bbox": [
+        259,
+        636,
+        453,
+        673
+      ],
+      "value_bbox": [
+        460,
+        646,
+        491,
+        663
+      ]
+    },
+    {
+      "label": "Latin America",
+      "value": "4.62",
+      "value_numeric": 4.62,
+      "element_bbox": [
+        259,
+        683,
+        428,
+        720
+      ],
+      "value_bbox": [
+        436,
+        693,
+        466,
+        710
+      ]
+    },
+    {
+      "label": "Emerging Markets (Global)",
+      "value": "4.18",
+      "value_numeric": 4.18,
+      "element_bbox": [
+        259,
+        730,
+        412,
+        767
+      ],
+      "value_bbox": [
+        420,
+        740,
+        450,
+        757
+      ]
+    },
+    {
+      "label": "Oceania",
+      "value": "3.56",
+      "value_numeric": 3.56,
+      "element_bbox": [
+        259,
+        777,
+        390,
+        814
+      ],
+      "value_bbox": [
+        397,
+        787,
+        428,
+        804
+      ]
+    },
+    {
+      "label": "North Africa",
+      "value": "2.81",
+      "value_numeric": 2.81,
+      "element_bbox": [
+        259,
+        824,
+        362,
+        861
+      ],
+      "value_bbox": [
+        369,
+        834,
+        400,
+        850
+      ]
+    },
+    {
+      "label": "Sub-Saharan",
+      "value": "2.38",
+      "value_numeric": 2.38,
+      "element_bbox": [
+        259,
+        871,
+        346,
+        908
+      ],
+      "value_bbox": [
+        354,
+        881,
+        384,
+        897
+      ]
+    }
+  ]
+}

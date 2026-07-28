@@ -1,0 +1,435 @@
+{
+  "chart_id": "3b279632b48b8285",
+  "chart_type": "Bar Chart",
+  "image_width": 4146,
+  "image_height": 2346,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Caribbean Aggregate",
+      "value": "11.15",
+      "value_numeric": 11.15,
+      "element_bbox": [
+        95,
+        343,
+        108,
+        974
+      ],
+      "value_bbox": [
+        88,
+        327,
+        116,
+        343
+      ]
+    },
+    {
+      "label": "Cameroon",
+      "value": "6.85",
+      "value_numeric": 6.85,
+      "element_bbox": [
+        130,
+        586,
+        143,
+        974
+      ],
+      "value_bbox": [
+        125,
+        570,
+        147,
+        586
+      ]
+    },
+    {
+      "label": "U.S. Virgin Islands",
+      "value": "10.95",
+      "value_numeric": 10.95,
+      "element_bbox": [
+        164,
+        354,
+        177,
+        974
+      ],
+      "value_bbox": [
+        156,
+        338,
+        185,
+        354
+      ]
+    },
+    {
+      "label": "Barbados",
+      "value": "12.35",
+      "value_numeric": 12.35,
+      "element_bbox": [
+        198,
+        275,
+        211,
+        974
+      ],
+      "value_bbox": [
+        191,
+        259,
+        219,
+        275
+      ]
+    },
+    {
+      "label": "Cayman Islands",
+      "value": "9.65",
+      "value_numeric": 9.65,
+      "element_bbox": [
+        233,
+        428,
+        246,
+        974
+      ],
+      "value_bbox": [
+        228,
+        412,
+        250,
+        428
+      ]
+    },
+    {
+      "label": "Trinidad and Tobago",
+      "value": "11.25",
+      "value_numeric": 11.25,
+      "element_bbox": [
+        267,
+        337,
+        280,
+        974
+      ],
+      "value_bbox": [
+        259,
+        321,
+        288,
+        337
+      ]
+    },
+    {
+      "label": "Bahamas",
+      "value": "11.75",
+      "value_numeric": 11.75,
+      "element_bbox": [
+        301,
+        309,
+        314,
+        974
+      ],
+      "value_bbox": [
+        294,
+        293,
+        322,
+        309
+      ]
+    },
+    {
+      "label": "St. Lucia",
+      "value": "10.45",
+      "value_numeric": 10.45,
+      "element_bbox": [
+        336,
+        383,
+        349,
+        974
+      ],
+      "value_bbox": [
+        328,
+        366,
+        356,
+        383
+      ]
+    },
+    {
+      "label": "Grenada",
+      "value": "10.75",
+      "value_numeric": 10.75,
+      "element_bbox": [
+        370,
+        366,
+        383,
+        974
+      ],
+      "value_bbox": [
+        362,
+        349,
+        391,
+        366
+      ]
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "9.95",
+      "value_numeric": 9.95,
+      "element_bbox": [
+        404,
+        411,
+        417,
+        974
+      ],
+      "value_bbox": [
+        400,
+        395,
+        422,
+        411
+      ]
+    },
+    {
+      "label": "Haiti",
+      "value": "9.35",
+      "value_numeric": 9.35,
+      "element_bbox": [
+        438,
+        445,
+        451,
+        974
+      ],
+      "value_bbox": [
+        434,
+        429,
+        456,
+        445
+      ]
+    },
+    {
+      "label": "Cuba",
+      "value": "10.15",
+      "value_numeric": 10.15,
+      "element_bbox": [
+        473,
+        400,
+        486,
+        974
+      ],
+      "value_bbox": [
+        465,
+        383,
+        493,
+        400
+      ]
+    },
+    {
+      "label": "Jamaica",
+      "value": "11.4",
+      "value_numeric": 11.4,
+      "element_bbox": [
+        507,
+        329,
+        520,
+        974
+      ],
+      "value_bbox": [
+        502,
+        313,
+        525,
+        329
+      ]
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "10.05",
+      "value_numeric": 10.05,
+      "element_bbox": [
+        541,
+        405,
+        554,
+        974
+      ],
+      "value_bbox": [
+        534,
+        389,
+        562,
+        405
+      ]
+    },
+    {
+      "label": "Barbuda",
+      "value": "9.05",
+      "value_numeric": 9.05,
+      "element_bbox": [
+        576,
+        462,
+        589,
+        974
+      ],
+      "value_bbox": [
+        571,
+        446,
+        593,
+        462
+      ]
+    },
+    {
+      "label": "Curaçao",
+      "value": "10.25",
+      "value_numeric": 10.25,
+      "element_bbox": [
+        610,
+        394,
+        623,
+        974
+      ],
+      "value_bbox": [
+        602,
+        378,
+        631,
+        394
+      ]
+    },
+    {
+      "label": "Sint Maarten",
+      "value": "10.55",
+      "value_numeric": 10.55,
+      "element_bbox": [
+        644,
+        377,
+        657,
+        974
+      ],
+      "value_bbox": [
+        637,
+        361,
+        665,
+        377
+      ]
+    },
+    {
+      "label": "Aruba",
+      "value": "10.35",
+      "value_numeric": 10.35,
+      "element_bbox": [
+        679,
+        388,
+        692,
+        974
+      ],
+      "value_bbox": [
+        671,
+        372,
+        699,
+        388
+      ]
+    },
+    {
+      "label": "Bonaire",
+      "value": "9.85",
+      "value_numeric": 9.85,
+      "element_bbox": [
+        713,
+        417,
+        726,
+        974
+      ],
+      "value_bbox": [
+        708,
+        400,
+        730,
+        417
+      ]
+    },
+    {
+      "label": "St. Vincent and the Grenadines",
+      "value": "10.0",
+      "value_numeric": 10.0,
+      "element_bbox": [
+        747,
+        408,
+        760,
+        974
+      ],
+      "value_bbox": [
+        743,
+        392,
+        765,
+        408
+      ]
+    },
+    {
+      "label": "Martinique",
+      "value": "10.2",
+      "value_numeric": 10.2,
+      "element_bbox": [
+        781,
+        397,
+        794,
+        974
+      ],
+      "value_bbox": [
+        777,
+        381,
+        799,
+        397
+      ]
+    },
+    {
+      "label": "Guadeloupe",
+      "value": "10.1",
+      "value_numeric": 10.1,
+      "element_bbox": [
+        816,
+        402,
+        829,
+        974
+      ],
+      "value_bbox": [
+        811,
+        386,
+        833,
+        402
+      ]
+    },
+    {
+      "label": "Montserrat",
+      "value": "9.9",
+      "value_numeric": 9.9,
+      "element_bbox": [
+        850,
+        414,
+        863,
+        974
+      ],
+      "value_bbox": [
+        849,
+        397,
+        864,
+        414
+      ]
+    },
+    {
+      "label": "Anguilla",
+      "value": "9.4",
+      "value_numeric": 9.4,
+      "element_bbox": [
+        884,
+        442,
+        897,
+        974
+      ],
+      "value_bbox": [
+        883,
+        426,
+        899,
+        442
+      ]
+    },
+    {
+      "label": "Saint Kitts and Nevis",
+      "value": "9.8",
+      "value_numeric": 9.8,
+      "element_bbox": [
+        919,
+        419,
+        932,
+        974
+      ],
+      "value_bbox": [
+        917,
+        403,
+        933,
+        419
+      ]
+    }
+  ]
+}

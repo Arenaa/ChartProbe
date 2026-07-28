@@ -1,0 +1,112 @@
+{
+  "chart_id": "64f093c383582e61",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Application",
+      "value": "6",
+      "value_numeric": 6.0,
+      "element_bbox": [
+        89,
+        424,
+        210,
+        884
+      ],
+      "value_bbox": [
+        145,
+        403,
+        154,
+        424
+      ]
+    },
+    {
+      "label": "Interest",
+      "value": "6",
+      "value_numeric": 6.0,
+      "element_bbox": [
+        240,
+        422,
+        362,
+        884
+      ],
+      "value_bbox": [
+        297,
+        400,
+        305,
+        422
+      ]
+    },
+    {
+      "label": "Qualification",
+      "value": "6.4",
+      "value_numeric": 6.4,
+      "element_bbox": [
+        392,
+        402,
+        513,
+        884
+      ],
+      "value_bbox": [
+        441,
+        380,
+        463,
+        402
+      ]
+    },
+    {
+      "label": "Interview",
+      "value": "7.5",
+      "value_numeric": 7.5,
+      "element_bbox": [
+        543,
+        311,
+        664,
+        884
+      ],
+      "value_bbox": [
+        593,
+        290,
+        615,
+        311
+      ]
+    },
+    {
+      "label": "Offer",
+      "value": "8.5",
+      "value_numeric": 8.5,
+      "element_bbox": [
+        694,
+        228,
+        816,
+        884
+      ],
+      "value_bbox": [
+        744,
+        207,
+        766,
+        228
+      ]
+    },
+    {
+      "label": "Training",
+      "value": "9.5",
+      "value_numeric": 9.5,
+      "element_bbox": [
+        846,
+        160,
+        967,
+        884
+      ],
+      "value_bbox": [
+        895,
+        138,
+        917,
+        160
+      ]
+    }
+  ]
+}

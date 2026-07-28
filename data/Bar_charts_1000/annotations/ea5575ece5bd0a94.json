@@ -1,0 +1,214 @@
+{
+  "chart_id": "ea5575ece5bd0a94",
+  "chart_type": "Bar Chart",
+  "image_width": 4270,
+  "image_height": 2472,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "High-income OECD",
+      "value": "53",
+      "value_numeric": 53.0,
+      "element_bbox": [
+        54,
+        136,
+        71,
+        450
+      ],
+      "value_bbox": [
+        56,
+        119,
+        68,
+        136
+      ]
+    },
+    {
+      "label": "High-income OECD",
+      "value": "52",
+      "value_numeric": 52.0,
+      "element_bbox": [
+        75,
+        142,
+        93,
+        450
+      ],
+      "value_bbox": [
+        78,
+        125,
+        90,
+        142
+      ]
+    },
+    {
+      "label": "High-income OECD",
+      "value": "51",
+      "value_numeric": 51.0,
+      "element_bbox": [
+        97,
+        148,
+        114,
+        450
+      ],
+      "value_bbox": [
+        100,
+        131,
+        112,
+        148
+      ]
+    },
+    {
+      "label": "High-income OECD",
+      "value": "50",
+      "value_numeric": 50.0,
+      "element_bbox": [
+        119,
+        154,
+        136,
+        450
+      ],
+      "value_bbox": [
+        121,
+        137,
+        133,
+        154
+      ]
+    },
+    {
+      "label": "High-income OECD",
+      "value": "49",
+      "value_numeric": 49.0,
+      "element_bbox": [
+        140,
+        159,
+        158,
+        450
+      ],
+      "value_bbox": [
+        143,
+        143,
+        155,
+        159
+      ]
+    },
+    {
+      "label": "High-income OECD",
+      "value": "48",
+      "value_numeric": 48.0,
+      "element_bbox": [
+        162,
+        165,
+        179,
+        450
+      ],
+      "value_bbox": [
+        165,
+        149,
+        177,
+        165
+      ]
+    },
+    {
+      "label": "High-income OECD",
+      "value": "47",
+      "value_numeric": 47.0,
+      "element_bbox": [
+        184,
+        171,
+        201,
+        450
+      ],
+      "value_bbox": [
+        186,
+        155,
+        198,
+        171
+      ]
+    },
+    {
+      "label": "High-income OECD",
+      "value": "46",
+      "value_numeric": 46.0,
+      "element_bbox": [
+        205,
+        177,
+        222,
+        450
+      ],
+      "value_bbox": [
+        208,
+        161,
+        220,
+        177
+      ]
+    },
+    {
+      "label": "High-income OECD",
+      "value": "45",
+      "value_numeric": 45.0,
+      "element_bbox": [
+        227,
+        183,
+        244,
+        450
+      ],
+      "value_bbox": [
+        229,
+        167,
+        242,
+        183
+      ]
+    },
+    {
+      "label": "High-income OECD",
+      "value": "44",
+      "value_numeric": 44.0,
+      "element_bbox": [
+        248,
+        189,
+        266,
+        450
+      ],
+      "value_bbox": [
+        251,
+        173,
+        263,
+        189
+      ]
+    },
+    {
+      "label": "High-income OECD",
+      "value": "43",
+      "value_numeric": 43.0,
+      "element_bbox": [
+        270,
+        195,
+        287,
+        450
+      ],
+      "value_bbox": [
+        273,
+        179,
+        285,
+        195
+      ]
+    },
+    {
+      "label": "High-income OECD",
+      "value": "42",
+      "value_numeric": 42.0,
+      "element_bbox": [
+        292,
+        201,
+        309,
+        450
+      ],
+      "value_bbox": [
+        294,
+        185,
+        306,
+        201
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+# Code repo ignores: never commit results / secrets / run artifacts
+
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+*.pem
+credentials.json
+
+# Optional / regenerable (not the packed eval data under data/)
+data_other/
+
+# Results / experiment dumps
+results/
+checkpoints/
+bench_runs/
+logs_finetune/
+wandb/
+hf_cache/
+.cache/
+dist/
+_tmp*/
+*.tar.gz
+*.zip
+
+# Editor / OS
+.cursor/
+.vscode/
+.idea/
+.DS_Store
+*.swp

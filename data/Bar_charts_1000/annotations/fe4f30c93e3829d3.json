@@ -1,0 +1,146 @@
+{
+  "chart_id": "fe4f30c93e3829d3",
+  "chart_type": "Bar Chart",
+  "image_width": 2985,
+  "image_height": 1749,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Agriculture & Food",
+      "value": "5.3",
+      "value_numeric": 5.3,
+      "element_bbox": [
+        92,
+        121,
+        182,
+        717
+      ],
+      "value_bbox": [
+        126,
+        99,
+        148,
+        121
+      ]
+    },
+    {
+      "label": "Technology",
+      "value": "1.6",
+      "value_numeric": 1.6,
+      "element_bbox": [
+        205,
+        515,
+        295,
+        717
+      ],
+      "value_bbox": [
+        239,
+        494,
+        261,
+        515
+      ]
+    },
+    {
+      "label": "AI & Automation",
+      "value": "0.8",
+      "value_numeric": 0.8,
+      "element_bbox": [
+        318,
+        624,
+        408,
+        717
+      ],
+      "value_bbox": [
+        352,
+        602,
+        374,
+        624
+      ]
+    },
+    {
+      "label": "Renewable Energy",
+      "value": "0.6",
+      "value_numeric": 0.6,
+      "element_bbox": [
+        430,
+        647,
+        520,
+        717
+      ],
+      "value_bbox": [
+        529,
+        671,
+        551,
+        692
+      ]
+    },
+    {
+      "label": "Sustainable Energy",
+      "value": "3.6",
+      "value_numeric": 3.6,
+      "element_bbox": [
+        543,
+        302,
+        633,
+        717
+      ],
+      "value_bbox": [
+        577,
+        281,
+        599,
+        302
+      ]
+    },
+    {
+      "label": "Healthcare",
+      "value": "0.9",
+      "value_numeric": 0.9,
+      "element_bbox": [
+        655,
+        612,
+        746,
+        717
+      ],
+      "value_bbox": [
+        689,
+        590,
+        712,
+        612
+      ]
+    },
+    {
+      "label": "Digital Services",
+      "value": "0.3",
+      "value_numeric": 0.3,
+      "element_bbox": [
+        768,
+        674,
+        858,
+        717
+      ],
+      "value_bbox": [
+        867,
+        684,
+        889,
+        706
+      ]
+    },
+    {
+      "label": "Emerging Tech",
+      "value": "0.1",
+      "value_numeric": 0.1,
+      "element_bbox": [
+        881,
+        685,
+        971,
+        717
+      ],
+      "value_bbox": [
+        979,
+        690,
+        1000,
+        711
+      ]
+    }
+  ]
+}

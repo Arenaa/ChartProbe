@@ -1,0 +1,78 @@
+{
+  "chart_id": "75f61eff2388212d",
+  "chart_type": "Bar Chart",
+  "image_width": 2624,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Myanmar",
+      "value": "40",
+      "value_numeric": 40.0,
+      "element_bbox": [
+        160,
+        505,
+        309,
+        890
+      ],
+      "value_bbox": [
+        226,
+        483,
+        243,
+        505
+      ]
+    },
+    {
+      "label": "Namibia",
+      "value": "55",
+      "value_numeric": 55.0,
+      "element_bbox": [
+        346,
+        361,
+        494,
+        890
+      ],
+      "value_bbox": [
+        411,
+        339,
+        429,
+        361
+      ]
+    },
+    {
+      "label": "Nicaragua",
+      "value": "72",
+      "value_numeric": 72.0,
+      "element_bbox": [
+        531,
+        197,
+        679,
+        890
+      ],
+      "value_bbox": [
+        596,
+        175,
+        614,
+        197
+      ]
+    },
+    {
+      "label": "Nigeria",
+      "value": "15",
+      "value_numeric": 15.0,
+      "element_bbox": [
+        716,
+        746,
+        865,
+        890
+      ],
+      "value_bbox": [
+        782,
+        724,
+        799,
+        746
+      ]
+    }
+  ]
+}

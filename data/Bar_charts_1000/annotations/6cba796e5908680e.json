@@ -1,0 +1,61 @@
+{
+  "chart_id": "6cba796e5908680e",
+  "chart_type": "Bar Chart",
+  "image_width": 2025,
+  "image_height": 1381,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Agricultural raw materials",
+      "value": "6",
+      "value_numeric": 6.0,
+      "element_bbox": [
+        160,
+        750,
+        224,
+        890
+      ],
+      "value_bbox": [
+        186,
+        723,
+        199,
+        750
+      ]
+    },
+    {
+      "label": "Food",
+      "value": "13",
+      "value_numeric": 13.0,
+      "element_bbox": [
+        416,
+        157,
+        480,
+        890
+      ],
+      "value_bbox": [
+        435,
+        130,
+        462,
+        157
+      ]
+    },
+    {
+      "label": "Fuel",
+      "value": "15",
+      "value_numeric": 15.0,
+      "element_bbox": [
+        673,
+        261,
+        737,
+        890
+      ],
+      "value_bbox": [
+        691,
+        234,
+        718,
+        261
+      ]
+    }
+  ]
+}

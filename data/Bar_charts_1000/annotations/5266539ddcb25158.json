@@ -1,0 +1,367 @@
+{
+  "chart_id": "5266539ddcb25158",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Africa",
+      "value": "50.0",
+      "value_numeric": 50.0,
+      "element_bbox": [
+        87,
+        209,
+        122,
+        884
+      ],
+      "value_bbox": [
+        89,
+        188,
+        120,
+        209
+      ]
+    },
+    {
+      "label": "Africa",
+      "value": "53.5",
+      "value_numeric": 53.5,
+      "element_bbox": [
+        217,
+        252,
+        251,
+        884
+      ],
+      "value_bbox": [
+        219,
+        230,
+        250,
+        252
+      ]
+    },
+    {
+      "label": "Africa",
+      "value": "56.2",
+      "value_numeric": 56.2,
+      "element_bbox": [
+        346,
+        387,
+        381,
+        884
+      ],
+      "value_bbox": [
+        348,
+        365,
+        379,
+        387
+      ]
+    },
+    {
+      "label": "Asia",
+      "value": "48.0",
+      "value_numeric": 48.0,
+      "element_bbox": [
+        476,
+        687,
+        511,
+        884
+      ],
+      "value_bbox": [
+        478,
+        666,
+        509,
+        687
+      ]
+    },
+    {
+      "label": "Asia",
+      "value": "51.0",
+      "value_numeric": 51.0,
+      "element_bbox": [
+        606,
+        853,
+        640,
+        884
+      ],
+      "value_bbox": [
+        608,
+        831,
+        639,
+        853
+      ]
+    },
+    {
+      "label": "Asia",
+      "value": "53.6",
+      "value_numeric": 53.6,
+      "element_bbox": [
+        736,
+        722,
+        770,
+        884
+      ],
+      "value_bbox": [
+        737,
+        701,
+        768,
+        722
+      ]
+    },
+    {
+      "label": "Europe",
+      "value": "38.0",
+      "value_numeric": 38.0,
+      "element_bbox": [
+        865,
+        881,
+        900,
+        884
+      ],
+      "value_bbox": [
+        908,
+        872,
+        939,
+        893
+      ]
+    },
+    {
+      "label": "Europe",
+      "value": "40.5",
+      "value_numeric": 40.5,
+      "element_bbox": [
+        122,
+        157,
+        156,
+        884
+      ],
+      "value_bbox": [
+        123,
+        135,
+        154,
+        157
+      ]
+    },
+    {
+      "label": "Europe",
+      "value": "42.5",
+      "value_numeric": 42.5,
+      "element_bbox": [
+        251,
+        216,
+        286,
+        884
+      ],
+      "value_bbox": [
+        253,
+        195,
+        284,
+        216
+      ]
+    },
+    {
+      "label": "North America",
+      "value": "15.0",
+      "value_numeric": 15.0,
+      "element_bbox": [
+        381,
+        354,
+        416,
+        884
+      ],
+      "value_bbox": [
+        383,
+        332,
+        414,
+        354
+      ]
+    },
+    {
+      "label": "North America",
+      "value": "16.0",
+      "value_numeric": 16.0,
+      "element_bbox": [
+        511,
+        676,
+        545,
+        884
+      ],
+      "value_bbox": [
+        513,
+        654,
+        544,
+        676
+      ]
+    },
+    {
+      "label": "North America",
+      "value": "16.8",
+      "value_numeric": 16.8,
+      "element_bbox": [
+        640,
+        848,
+        675,
+        884
+      ],
+      "value_bbox": [
+        642,
+        826,
+        673,
+        848
+      ]
+    },
+    {
+      "label": "Oceania",
+      "value": "3.0",
+      "value_numeric": 3.0,
+      "element_bbox": [
+        770,
+        706,
+        805,
+        884
+      ],
+      "value_bbox": [
+        776,
+        685,
+        799,
+        706
+      ]
+    },
+    {
+      "label": "Oceania",
+      "value": "3.5",
+      "value_numeric": 3.5,
+      "element_bbox": [
+        900,
+        880,
+        934,
+        884
+      ],
+      "value_bbox": [
+        906,
+        858,
+        928,
+        880
+      ]
+    },
+    {
+      "label": "Oceania",
+      "value": "3.7",
+      "value_numeric": 3.7,
+      "element_bbox": [
+        156,
+        121,
+        191,
+        884
+      ],
+      "value_bbox": [
+        162,
+        99,
+        185,
+        121
+      ]
+    },
+    {
+      "label": "South America",
+      "value": "13.0",
+      "value_numeric": 13.0,
+      "element_bbox": [
+        286,
+        183,
+        321,
+        884
+      ],
+      "value_bbox": [
+        288,
+        162,
+        319,
+        183
+      ]
+    },
+    {
+      "label": "South America",
+      "value": "14.0",
+      "value_numeric": 14.0,
+      "element_bbox": [
+        416,
+        327,
+        450,
+        884
+      ],
+      "value_bbox": [
+        417,
+        305,
+        448,
+        327
+      ]
+    },
+    {
+      "label": "South America",
+      "value": "14.7",
+      "value_numeric": 14.7,
+      "element_bbox": [
+        545,
+        665,
+        580,
+        884
+      ],
+      "value_bbox": [
+        547,
+        644,
+        578,
+        665
+      ]
+    },
+    {
+      "label": "Antarctica",
+      "value": "0.2",
+      "value_numeric": 0.2,
+      "element_bbox": [
+        675,
+        846,
+        710,
+        884
+      ],
+      "value_bbox": [
+        681,
+        824,
+        703,
+        846
+      ]
+    },
+    {
+      "label": "Antarctica",
+      "value": "0.3",
+      "value_numeric": 0.3,
+      "element_bbox": [
+        805,
+        698,
+        839,
+        884
+      ],
+      "value_bbox": [
+        811,
+        676,
+        833,
+        698
+      ]
+    },
+    {
+      "label": "Antarctica",
+      "value": "0.3",
+      "value_numeric": 0.3,
+      "element_bbox": [
+        934,
+        880,
+        969,
+        884
+      ],
+      "value_bbox": [
+        941,
+        858,
+        963,
+        880
+      ]
+    }
+  ]
+}

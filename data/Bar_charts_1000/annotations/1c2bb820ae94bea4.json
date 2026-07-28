@@ -1,0 +1,95 @@
+{
+  "chart_id": "1c2bb820ae94bea4",
+  "chart_type": "Bar Chart",
+  "image_width": 2577,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Benin",
+      "value": "3.6e+08",
+      "value_numeric": 360000000.0,
+      "element_bbox": [
+        160,
+        779,
+        213,
+        890
+      ],
+      "value_bbox": [
+        157,
+        758,
+        216,
+        779
+      ]
+    },
+    {
+      "label": "Bermuda",
+      "value": "8.5e+08",
+      "value_numeric": 850000000.0,
+      "element_bbox": [
+        310,
+        130,
+        363,
+        890
+      ],
+      "value_bbox": [
+        307,
+        108,
+        366,
+        130
+      ]
+    },
+    {
+      "label": "Bhutan",
+      "value": "6.0e+07",
+      "value_numeric": 60000000.0,
+      "element_bbox": [
+        460,
+        866,
+        512,
+        890
+      ],
+      "value_bbox": [
+        457,
+        844,
+        516,
+        866
+      ]
+    },
+    {
+      "label": "Bolivia",
+      "value": "8.2e+08",
+      "value_numeric": 820000000.0,
+      "element_bbox": [
+        610,
+        563,
+        662,
+        890
+      ],
+      "value_bbox": [
+        607,
+        541,
+        665,
+        563
+      ]
+    },
+    {
+      "label": "Bosnia and Herzegovina",
+      "value": "4.8e+08",
+      "value_numeric": 480000000.0,
+      "element_bbox": [
+        760,
+        337,
+        812,
+        890
+      ],
+      "value_bbox": [
+        757,
+        315,
+        815,
+        337
+      ]
+    }
+  ]
+}

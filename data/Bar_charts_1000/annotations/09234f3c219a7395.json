@@ -1,0 +1,163 @@
+{
+  "chart_id": "09234f3c219a7395",
+  "chart_type": "Bar Chart",
+  "image_width": 2947,
+  "image_height": 1744,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Cereals",
+      "value": "265",
+      "value_numeric": 265.0,
+      "element_bbox": [
+        94,
+        116,
+        173,
+        649
+      ],
+      "value_bbox": [
+        120,
+        95,
+        147,
+        116
+      ]
+    },
+    {
+      "label": "Fruits",
+      "value": "215",
+      "value_numeric": 215.0,
+      "element_bbox": [
+        193,
+        217,
+        273,
+        649
+      ],
+      "value_bbox": [
+        220,
+        195,
+        246,
+        217
+      ]
+    },
+    {
+      "label": "Livestock & Dairy Products",
+      "value": "212",
+      "value_numeric": 212.0,
+      "element_bbox": [
+        293,
+        223,
+        373,
+        649
+      ],
+      "value_bbox": [
+        320,
+        201,
+        346,
+        223
+      ]
+    },
+    {
+      "label": "Vegetables",
+      "value": "160",
+      "value_numeric": 160.0,
+      "element_bbox": [
+        393,
+        327,
+        473,
+        649
+      ],
+      "value_bbox": [
+        420,
+        306,
+        446,
+        327
+      ]
+    },
+    {
+      "label": "Pulses",
+      "value": "95",
+      "value_numeric": 95.0,
+      "element_bbox": [
+        493,
+        458,
+        573,
+        649
+      ],
+      "value_bbox": [
+        524,
+        436,
+        542,
+        458
+      ]
+    },
+    {
+      "label": "Aquaculture",
+      "value": "78",
+      "value_numeric": 78.0,
+      "element_bbox": [
+        593,
+        492,
+        673,
+        649
+      ],
+      "value_bbox": [
+        624,
+        470,
+        641,
+        492
+      ]
+    },
+    {
+      "label": "Spices",
+      "value": "55",
+      "value_numeric": 55.0,
+      "element_bbox": [
+        693,
+        538,
+        772,
+        649
+      ],
+      "value_bbox": [
+        724,
+        517,
+        741,
+        538
+      ]
+    },
+    {
+      "label": "Nuts",
+      "value": "42",
+      "value_numeric": 42.0,
+      "element_bbox": [
+        792,
+        564,
+        872,
+        649
+      ],
+      "value_bbox": [
+        824,
+        543,
+        841,
+        564
+      ]
+    },
+    {
+      "label": "Organic Crops",
+      "value": "30",
+      "value_numeric": 30.0,
+      "element_bbox": [
+        892,
+        588,
+        972,
+        649
+      ],
+      "value_bbox": [
+        923,
+        567,
+        941,
+        588
+      ]
+    }
+  ]
+}

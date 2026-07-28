@@ -1,0 +1,214 @@
+{
+  "chart_id": "53fcb94574197b67",
+  "chart_type": "Bar Chart",
+  "image_width": 3552,
+  "image_height": 2049,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Environmental Stewardship",
+      "value": "4.22",
+      "value_numeric": 4.22,
+      "element_bbox": [
+        122,
+        197,
+        147,
+        694
+      ],
+      "value_bbox": [
+        122,
+        178,
+        147,
+        197
+      ]
+    },
+    {
+      "label": "Governance Effectiveness",
+      "value": "3.92",
+      "value_numeric": 3.92,
+      "element_bbox": [
+        185,
+        227,
+        210,
+        694
+      ],
+      "value_bbox": [
+        185,
+        209,
+        210,
+        227
+      ]
+    },
+    {
+      "label": "Corruption Control",
+      "value": "3.84",
+      "value_numeric": 3.84,
+      "element_bbox": [
+        248,
+        233,
+        273,
+        694
+      ],
+      "value_bbox": [
+        248,
+        214,
+        273,
+        233
+      ]
+    },
+    {
+      "label": "Institutional Capacity",
+      "value": "3.73",
+      "value_numeric": 3.73,
+      "element_bbox": [
+        311,
+        235,
+        336,
+        694
+      ],
+      "value_bbox": [
+        311,
+        217,
+        336,
+        235
+      ]
+    },
+    {
+      "label": "Social Inclusion",
+      "value": "3.62",
+      "value_numeric": 3.62,
+      "element_bbox": [
+        374,
+        247,
+        399,
+        694
+      ],
+      "value_bbox": [
+        374,
+        228,
+        399,
+        247
+      ]
+    },
+    {
+      "label": "Policy Framework",
+      "value": "3.52",
+      "value_numeric": 3.52,
+      "element_bbox": [
+        437,
+        260,
+        462,
+        694
+      ],
+      "value_bbox": [
+        436,
+        242,
+        462,
+        260
+      ]
+    },
+    {
+      "label": "Legal Framework",
+      "value": "3.44",
+      "value_numeric": 3.44,
+      "element_bbox": [
+        500,
+        281,
+        525,
+        694
+      ],
+      "value_bbox": [
+        499,
+        263,
+        525,
+        281
+      ]
+    },
+    {
+      "label": "Financial Oversight",
+      "value": "3.62",
+      "value_numeric": 3.62,
+      "element_bbox": [
+        563,
+        256,
+        588,
+        694
+      ],
+      "value_bbox": [
+        562,
+        238,
+        588,
+        256
+      ]
+    },
+    {
+      "label": "Risk Management",
+      "value": "4.05",
+      "value_numeric": 4.05,
+      "element_bbox": [
+        626,
+        216,
+        651,
+        694
+      ],
+      "value_bbox": [
+        625,
+        197,
+        651,
+        216
+      ]
+    },
+    {
+      "label": "Transparency",
+      "value": "3.82",
+      "value_numeric": 3.82,
+      "element_bbox": [
+        689,
+        240,
+        714,
+        694
+      ],
+      "value_bbox": [
+        688,
+        221,
+        714,
+        240
+      ]
+    },
+    {
+      "label": "Data Transparency",
+      "value": "3.72",
+      "value_numeric": 3.72,
+      "element_bbox": [
+        752,
+        249,
+        777,
+        694
+      ],
+      "value_bbox": [
+        751,
+        231,
+        777,
+        249
+      ]
+    },
+    {
+      "label": "Innovation Capacity",
+      "value": "4.10",
+      "value_numeric": 4.1,
+      "element_bbox": [
+        815,
+        222,
+        840,
+        694
+      ],
+      "value_bbox": [
+        814,
+        203,
+        840,
+        222
+      ]
+    }
+  ]
+}

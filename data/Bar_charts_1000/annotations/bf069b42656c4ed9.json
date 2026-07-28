@@ -1,0 +1,78 @@
+{
+  "chart_id": "bf069b42656c4ed9",
+  "chart_type": "Bar Chart",
+  "image_width": 2843,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Denmark",
+      "value": "3.5",
+      "value_numeric": 3.5,
+      "element_bbox": [
+        125,
+        708,
+        286,
+        855
+      ],
+      "value_bbox": [
+        294,
+        770,
+        316,
+        792
+      ]
+    },
+    {
+      "label": "Czech Republic",
+      "value": "6.5",
+      "value_numeric": 6.5,
+      "element_bbox": [
+        125,
+        523,
+        425,
+        671
+      ],
+      "value_bbox": [
+        433,
+        586,
+        455,
+        608
+      ]
+    },
+    {
+      "label": "Cyprus",
+      "value": "5.0",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        125,
+        339,
+        356,
+        487
+      ],
+      "value_bbox": [
+        363,
+        402,
+        386,
+        424
+      ]
+    },
+    {
+      "label": "Cuba",
+      "value": "16.0",
+      "value_numeric": 16.0,
+      "element_bbox": [
+        125,
+        155,
+        863,
+        302
+      ],
+      "value_bbox": [
+        871,
+        218,
+        902,
+        240
+      ]
+    }
+  ]
+}

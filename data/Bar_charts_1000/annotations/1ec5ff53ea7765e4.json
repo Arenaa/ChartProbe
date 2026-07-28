@@ -1,0 +1,78 @@
+{
+  "chart_id": "1ec5ff53ea7765e4",
+  "chart_type": "Bar Chart",
+  "image_width": 2788,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Barbados",
+      "value": "1e8",
+      "value_numeric": 100000000.0,
+      "element_bbox": [
+        125,
+        708,
+        289,
+        855
+      ],
+      "value_bbox": [
+        297,
+        770,
+        323,
+        792
+      ]
+    },
+    {
+      "label": "Bangladesh",
+      "value": "4.8e8",
+      "value_numeric": 480000000.0,
+      "element_bbox": [
+        125,
+        523,
+        863,
+        671
+      ],
+      "value_bbox": [
+        871,
+        586,
+        910,
+        608
+      ]
+    },
+    {
+      "label": "Bahrain",
+      "value": "2e8",
+      "value_numeric": 200000000.0,
+      "element_bbox": [
+        125,
+        339,
+        453,
+        487
+      ],
+      "value_bbox": [
+        461,
+        402,
+        487,
+        424
+      ]
+    },
+    {
+      "label": "Bahamas",
+      "value": "1.5e8",
+      "value_numeric": 150000000.0,
+      "element_bbox": [
+        125,
+        155,
+        371,
+        302
+      ],
+      "value_bbox": [
+        379,
+        218,
+        418,
+        240
+      ]
+    }
+  ]
+}

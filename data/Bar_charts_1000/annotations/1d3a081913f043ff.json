@@ -1,0 +1,180 @@
+{
+  "chart_id": "1d3a081913f043ff",
+  "chart_type": "Bar Chart",
+  "image_width": 2969,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Malawi",
+      "value": "20.20",
+      "value_numeric": 20.2,
+      "element_bbox": [
+        148,
+        98,
+        942,
+        161
+      ],
+      "value_bbox": [
+        951,
+        119,
+        990,
+        140
+      ]
+    },
+    {
+      "label": "Kenya",
+      "value": "18.00",
+      "value_numeric": 18.0,
+      "element_bbox": [
+        148,
+        177,
+        856,
+        241
+      ],
+      "value_bbox": [
+        864,
+        198,
+        904,
+        220
+      ]
+    },
+    {
+      "label": "South Africa",
+      "value": "15.50",
+      "value_numeric": 15.5,
+      "element_bbox": [
+        148,
+        256,
+        757,
+        320
+      ],
+      "value_bbox": [
+        766,
+        277,
+        806,
+        299
+      ]
+    },
+    {
+      "label": "Nigeria",
+      "value": "14.70",
+      "value_numeric": 14.7,
+      "element_bbox": [
+        148,
+        336,
+        726,
+        399
+      ],
+      "value_bbox": [
+        734,
+        357,
+        774,
+        378
+      ]
+    },
+    {
+      "label": "Uganda",
+      "value": "13.00",
+      "value_numeric": 13.0,
+      "element_bbox": [
+        148,
+        415,
+        659,
+        479
+      ],
+      "value_bbox": [
+        667,
+        436,
+        707,
+        458
+      ]
+    },
+    {
+      "label": "Ghana",
+      "value": "11.40",
+      "value_numeric": 11.4,
+      "element_bbox": [
+        148,
+        495,
+        596,
+        558
+      ],
+      "value_bbox": [
+        604,
+        516,
+        644,
+        537
+      ]
+    },
+    {
+      "label": "Zimbabwe",
+      "value": "9.80",
+      "value_numeric": 9.8,
+      "element_bbox": [
+        148,
+        574,
+        533,
+        638
+      ],
+      "value_bbox": [
+        542,
+        595,
+        572,
+        617
+      ]
+    },
+    {
+      "label": "Eurozone",
+      "value": "2.60",
+      "value_numeric": 2.6,
+      "element_bbox": [
+        148,
+        653,
+        250,
+        717
+      ],
+      "value_bbox": [
+        258,
+        674,
+        289,
+        696
+      ]
+    },
+    {
+      "label": "Latvia",
+      "value": "2.30",
+      "value_numeric": 2.3,
+      "element_bbox": [
+        148,
+        733,
+        238,
+        796
+      ],
+      "value_bbox": [
+        247,
+        754,
+        277,
+        775
+      ]
+    },
+    {
+      "label": "Estonia",
+      "value": "2.00",
+      "value_numeric": 2.0,
+      "element_bbox": [
+        148,
+        812,
+        226,
+        876
+      ],
+      "value_bbox": [
+        235,
+        833,
+        266,
+        855
+      ]
+    }
+  ]
+}

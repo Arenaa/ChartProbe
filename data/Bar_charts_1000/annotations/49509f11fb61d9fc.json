@@ -1,0 +1,95 @@
+{
+  "chart_id": "49509f11fb61d9fc",
+  "chart_type": "Bar Chart",
+  "image_width": 2622,
+  "image_height": 1745,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Sub-Saharan Africa",
+      "value": "41.0",
+      "value_numeric": 41.0,
+      "element_bbox": [
+        115,
+        207,
+        256,
+        783
+      ],
+      "value_bbox": [
+        168,
+        185,
+        203,
+        207
+      ]
+    },
+    {
+      "label": "World Average",
+      "value": "47.0",
+      "value_numeric": 47.0,
+      "element_bbox": [
+        292,
+        123,
+        433,
+        783
+      ],
+      "value_bbox": [
+        345,
+        101,
+        379,
+        123
+      ]
+    },
+    {
+      "label": "Guinea",
+      "value": "32.4",
+      "value_numeric": 32.4,
+      "element_bbox": [
+        468,
+        328,
+        609,
+        783
+      ],
+      "value_bbox": [
+        522,
+        306,
+        556,
+        328
+      ]
+    },
+    {
+      "label": "East Africa",
+      "value": "38.0",
+      "value_numeric": 38.0,
+      "element_bbox": [
+        645,
+        249,
+        786,
+        783
+      ],
+      "value_bbox": [
+        698,
+        227,
+        732,
+        249
+      ]
+    },
+    {
+      "label": "West Africa",
+      "value": "44.0",
+      "value_numeric": 44.0,
+      "element_bbox": [
+        821,
+        165,
+        962,
+        783
+      ],
+      "value_bbox": [
+        875,
+        143,
+        909,
+        165
+      ]
+    }
+  ]
+}

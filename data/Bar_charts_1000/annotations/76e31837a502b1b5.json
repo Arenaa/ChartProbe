@@ -1,0 +1,78 @@
+{
+  "chart_id": "76e31837a502b1b5",
+  "chart_type": "Bar Chart",
+  "image_width": 2963,
+  "image_height": 1764,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Greece",
+      "value": "59000000",
+      "value_numeric": 59000000.0,
+      "element_bbox": [
+        147,
+        780,
+        163,
+        851
+      ],
+      "value_bbox": [
+        172,
+        805,
+        242,
+        827
+      ]
+    },
+    {
+      "label": "Luxembourg",
+      "value": "1200000",
+      "value_numeric": 1200000.0,
+      "element_bbox": [
+        147,
+        578,
+        323,
+        649
+      ],
+      "value_bbox": [
+        331,
+        602,
+        393,
+        624
+      ]
+    },
+    {
+      "label": "Australia",
+      "value": "1200000",
+      "value_numeric": 1200000.0,
+      "element_bbox": [
+        147,
+        375,
+        163,
+        446
+      ],
+      "value_bbox": [
+        172,
+        400,
+        233,
+        421
+      ]
+    },
+    {
+      "label": "Finland",
+      "value": "8500000",
+      "value_numeric": 8500000.0,
+      "element_bbox": [
+        147,
+        172,
+        163,
+        243
+      ],
+      "value_bbox": [
+        172,
+        197,
+        233,
+        219
+      ]
+    }
+  ]
+}

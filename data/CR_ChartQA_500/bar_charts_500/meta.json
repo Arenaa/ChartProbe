@@ -1,0 +1,6 @@
+{
+  "source": "HuggingFaceM4/ChartQA",
+  "chart_type": "bar",
+  "n_samples": 500,
+  "selection": "keyword + CLIP zero-shot; one QA per unique image when possible"
+}

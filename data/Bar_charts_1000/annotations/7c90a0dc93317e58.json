@@ -1,0 +1,61 @@
+{
+  "chart_id": "7c90a0dc93317e58",
+  "chart_type": "Bar Chart",
+  "image_width": 2557,
+  "image_height": 1389,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Algeria",
+      "value": "63.9",
+      "value_numeric": 63.9,
+      "element_bbox": [
+        160,
+        591,
+        252,
+        890
+      ],
+      "value_bbox": [
+        182,
+        563,
+        230,
+        591
+      ]
+    },
+    {
+      "label": "Malawi",
+      "value": "64.1",
+      "value_numeric": 64.1,
+      "element_bbox": [
+        421,
+        613,
+        512,
+        890
+      ],
+      "value_bbox": [
+        443,
+        586,
+        491,
+        613
+      ]
+    },
+    {
+      "label": "Seychelles",
+      "value": "83.7",
+      "value_numeric": 83.7,
+      "element_bbox": [
+        682,
+        157,
+        773,
+        890
+      ],
+      "value_bbox": [
+        704,
+        130,
+        752,
+        157
+      ]
+    }
+  ]
+}

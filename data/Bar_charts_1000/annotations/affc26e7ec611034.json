@@ -1,0 +1,180 @@
+{
+  "chart_id": "affc26e7ec611034",
+  "chart_type": "Bar Chart",
+  "image_width": 2956,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Thailand",
+      "value": "0.07",
+      "value_numeric": 0.07,
+      "element_bbox": [
+        198,
+        98,
+        920,
+        161
+      ],
+      "value_bbox": [
+        543,
+        140,
+        574,
+        161
+      ]
+    },
+    {
+      "label": "Pakistan",
+      "value": "0.07",
+      "value_numeric": 0.07,
+      "element_bbox": [
+        198,
+        177,
+        920,
+        241
+      ],
+      "value_bbox": [
+        543,
+        219,
+        574,
+        241
+      ]
+    },
+    {
+      "label": "South Asia",
+      "value": "0.07",
+      "value_numeric": 0.07,
+      "element_bbox": [
+        198,
+        256,
+        920,
+        320
+      ],
+      "value_bbox": [
+        543,
+        298,
+        574,
+        320
+      ]
+    },
+    {
+      "label": "East Asia (incl. China)",
+      "value": "0.06",
+      "value_numeric": 0.06,
+      "element_bbox": [
+        198,
+        336,
+        817,
+        399
+      ],
+      "value_bbox": [
+        492,
+        378,
+        523,
+        399
+      ]
+    },
+    {
+      "label": "Vietnam",
+      "value": "0.05",
+      "value_numeric": 0.05,
+      "element_bbox": [
+        198,
+        415,
+        713,
+        479
+      ],
+      "value_bbox": [
+        440,
+        457,
+        471,
+        479
+      ]
+    },
+    {
+      "label": "Indonesia",
+      "value": "0.04",
+      "value_numeric": 0.04,
+      "element_bbox": [
+        198,
+        495,
+        610,
+        558
+      ],
+      "value_bbox": [
+        388,
+        537,
+        419,
+        558
+      ]
+    },
+    {
+      "label": "World Average",
+      "value": "0.03",
+      "value_numeric": 0.03,
+      "element_bbox": [
+        198,
+        574,
+        507,
+        638
+      ],
+      "value_bbox": [
+        337,
+        616,
+        368,
+        638
+      ]
+    },
+    {
+      "label": "Central Asia",
+      "value": "0.02",
+      "value_numeric": 0.02,
+      "element_bbox": [
+        198,
+        653,
+        404,
+        717
+      ],
+      "value_bbox": [
+        285,
+        695,
+        316,
+        717
+      ]
+    },
+    {
+      "label": "North Africa",
+      "value": "0.01",
+      "value_numeric": 0.01,
+      "element_bbox": [
+        198,
+        733,
+        301,
+        796
+      ],
+      "value_bbox": [
+        234,
+        775,
+        265,
+        796
+      ]
+    },
+    {
+      "label": "MENA",
+      "value": "0.00",
+      "value_numeric": 0.0,
+      "element_bbox": [
+        198,
+        812,
+        198,
+        876
+      ],
+      "value_bbox": [
+        182,
+        854,
+        213,
+        876
+      ]
+    }
+  ]
+}

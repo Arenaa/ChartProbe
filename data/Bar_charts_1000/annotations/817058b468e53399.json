@@ -1,0 +1,180 @@
+{
+  "chart_id": "817058b468e53399",
+  "chart_type": "Bar Chart",
+  "image_width": 3567,
+  "image_height": 1765,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "LMIC Avg",
+      "value": "135",
+      "value_numeric": 135.0,
+      "element_bbox": [
+        70,
+        524,
+        107,
+        836
+      ],
+      "value_bbox": [
+        78,
+        503,
+        99,
+        524
+      ]
+    },
+    {
+      "label": "Iran",
+      "value": "87",
+      "value_numeric": 87.0,
+      "element_bbox": [
+        163,
+        509,
+        200,
+        836
+      ],
+      "value_bbox": [
+        174,
+        488,
+        189,
+        509
+      ]
+    },
+    {
+      "label": "Kenya",
+      "value": "211",
+      "value_numeric": 211.0,
+      "element_bbox": [
+        255,
+        530,
+        293,
+        836
+      ],
+      "value_bbox": [
+        263,
+        509,
+        285,
+        530
+      ]
+    },
+    {
+      "label": "Nigeria",
+      "value": "141",
+      "value_numeric": 141.0,
+      "element_bbox": [
+        348,
+        548,
+        385,
+        836
+      ],
+      "value_bbox": [
+        356,
+        527,
+        378,
+        548
+      ]
+    },
+    {
+      "label": "Malawi",
+      "value": "239",
+      "value_numeric": 239.0,
+      "element_bbox": [
+        441,
+        515,
+        478,
+        836
+      ],
+      "value_bbox": [
+        449,
+        494,
+        470,
+        515
+      ]
+    },
+    {
+      "label": "Ethiopia",
+      "value": "233",
+      "value_numeric": 233.0,
+      "element_bbox": [
+        534,
+        557,
+        571,
+        836
+      ],
+      "value_bbox": [
+        541,
+        536,
+        563,
+        557
+      ]
+    },
+    {
+      "label": "Uganda",
+      "value": "219",
+      "value_numeric": 219.0,
+      "element_bbox": [
+        626,
+        551,
+        663,
+        836
+      ],
+      "value_bbox": [
+        634,
+        530,
+        656,
+        551
+      ]
+    },
+    {
+      "label": "Ghana",
+      "value": "221",
+      "value_numeric": 221.0,
+      "element_bbox": [
+        719,
+        536,
+        756,
+        836
+      ],
+      "value_bbox": [
+        727,
+        515,
+        749,
+        536
+      ]
+    },
+    {
+      "label": "Tanzania",
+      "value": "214",
+      "value_numeric": 214.0,
+      "element_bbox": [
+        812,
+        545,
+        849,
+        836
+      ],
+      "value_bbox": [
+        819,
+        524,
+        841,
+        545
+      ]
+    },
+    {
+      "label": "Sudan",
+      "value": "205",
+      "value_numeric": 205.0,
+      "element_bbox": [
+        905,
+        533,
+        942,
+        836
+      ],
+      "value_bbox": [
+        912,
+        512,
+        934,
+        533
+      ]
+    }
+  ]
+}

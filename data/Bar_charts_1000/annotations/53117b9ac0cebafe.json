@@ -1,0 +1,95 @@
+{
+  "chart_id": "53117b9ac0cebafe",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1660,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Crop Production",
+      "value": "108",
+      "value_numeric": 108.0,
+      "element_bbox": [
+        102,
+        287,
+        245,
+        884
+      ],
+      "value_bbox": [
+        160,
+        266,
+        187,
+        287
+      ]
+    },
+    {
+      "label": "Export Revenue",
+      "value": "128",
+      "value_numeric": 128.0,
+      "element_bbox": [
+        281,
+        177,
+        425,
+        884
+      ],
+      "value_bbox": [
+        340,
+        155,
+        366,
+        177
+      ]
+    },
+    {
+      "label": "Livestock Index",
+      "value": "89",
+      "value_numeric": 89.0,
+      "element_bbox": [
+        461,
+        392,
+        605,
+        884
+      ],
+      "value_bbox": [
+        524,
+        370,
+        541,
+        392
+      ]
+    },
+    {
+      "label": "Fisheries",
+      "value": "22",
+      "value_numeric": 22.0,
+      "element_bbox": [
+        641,
+        762,
+        784,
+        884
+      ],
+      "value_bbox": [
+        704,
+        741,
+        721,
+        762
+      ]
+    },
+    {
+      "label": "Horticulture",
+      "value": "15",
+      "value_numeric": 15.0,
+      "element_bbox": [
+        820,
+        801,
+        964,
+        884
+      ],
+      "value_bbox": [
+        883,
+        779,
+        901,
+        801
+      ]
+    }
+  ]
+}

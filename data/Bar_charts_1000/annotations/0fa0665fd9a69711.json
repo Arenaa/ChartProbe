@@ -1,0 +1,95 @@
+{
+  "chart_id": "0fa0665fd9a69711",
+  "chart_type": "Bar Chart",
+  "image_width": 2547,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Senegal",
+      "value": "67",
+      "value_numeric": 67.0,
+      "element_bbox": [
+        160,
+        153,
+        278,
+        890
+      ],
+      "value_bbox": [
+        210,
+        131,
+        228,
+        153
+      ]
+    },
+    {
+      "label": "Sudan",
+      "value": "23",
+      "value_numeric": 23.0,
+      "element_bbox": [
+        307,
+        637,
+        424,
+        890
+      ],
+      "value_bbox": [
+        357,
+        615,
+        374,
+        637
+      ]
+    },
+    {
+      "label": "Seychelles",
+      "value": "6",
+      "value_numeric": 6.0,
+      "element_bbox": [
+        454,
+        824,
+        571,
+        890
+      ],
+      "value_bbox": [
+        508,
+        802,
+        517,
+        824
+      ]
+    },
+    {
+      "label": "Singapore",
+      "value": "7",
+      "value_numeric": 7.0,
+      "element_bbox": [
+        601,
+        813,
+        718,
+        890
+      ],
+      "value_bbox": [
+        655,
+        791,
+        664,
+        813
+      ]
+    },
+    {
+      "label": "Slovak Republic",
+      "value": "8",
+      "value_numeric": 8.0,
+      "element_bbox": [
+        747,
+        802,
+        865,
+        890
+      ],
+      "value_bbox": [
+        802,
+        780,
+        810,
+        802
+      ]
+    }
+  ]
+}

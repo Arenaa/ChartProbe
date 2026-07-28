@@ -1,0 +1,61 @@
+{
+  "chart_id": "07474643517a951f",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Indigenous Areas",
+      "value": "0.68",
+      "value_numeric": 0.68,
+      "element_bbox": [
+        104,
+        845,
+        346,
+        884
+      ],
+      "value_bbox": [
+        354,
+        854,
+        385,
+        875
+      ]
+    },
+    {
+      "label": "Rural Areas",
+      "value": "5.15",
+      "value_numeric": 5.15,
+      "element_bbox": [
+        407,
+        589,
+        649,
+        884
+      ],
+      "value_bbox": [
+        512,
+        568,
+        544,
+        589
+      ]
+    },
+    {
+      "label": "Urban Areas",
+      "value": "13.21",
+      "value_numeric": 13.21,
+      "element_bbox": [
+        710,
+        128,
+        952,
+        884
+      ],
+      "value_bbox": [
+        811,
+        106,
+        850,
+        128
+      ]
+    }
+  ]
+}

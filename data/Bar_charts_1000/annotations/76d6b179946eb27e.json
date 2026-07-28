@@ -1,0 +1,163 @@
+{
+  "chart_id": "76d6b179946eb27e",
+  "chart_type": "Bar Chart",
+  "image_width": 3564,
+  "image_height": 2067,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Australia",
+      "value": "16.1",
+      "value_numeric": 16.1,
+      "element_bbox": [
+        109,
+        674,
+        185,
+        787
+      ],
+      "value_bbox": [
+        134,
+        656,
+        160,
+        674
+      ]
+    },
+    {
+      "label": "Canada",
+      "value": "22.2",
+      "value_numeric": 22.2,
+      "element_bbox": [
+        204,
+        632,
+        280,
+        787
+      ],
+      "value_bbox": [
+        229,
+        613,
+        255,
+        632
+      ]
+    },
+    {
+      "label": "Germany",
+      "value": "68.2",
+      "value_numeric": 68.2,
+      "element_bbox": [
+        299,
+        310,
+        375,
+        787
+      ],
+      "value_bbox": [
+        324,
+        291,
+        350,
+        310
+      ]
+    },
+    {
+      "label": "Kuwait",
+      "value": "14.1",
+      "value_numeric": 14.1,
+      "element_bbox": [
+        394,
+        688,
+        470,
+        787
+      ],
+      "value_bbox": [
+        419,
+        670,
+        445,
+        688
+      ]
+    },
+    {
+      "label": "Namibia",
+      "value": "60.2",
+      "value_numeric": 60.2,
+      "element_bbox": [
+        489,
+        366,
+        565,
+        787
+      ],
+      "value_bbox": [
+        514,
+        348,
+        540,
+        366
+      ]
+    },
+    {
+      "label": "Netherlands",
+      "value": "78.1",
+      "value_numeric": 78.1,
+      "element_bbox": [
+        584,
+        241,
+        660,
+        787
+      ],
+      "value_bbox": [
+        610,
+        223,
+        635,
+        241
+      ]
+    },
+    {
+      "label": "New Zealand",
+      "value": "99.6",
+      "value_numeric": 99.6,
+      "element_bbox": [
+        679,
+        91,
+        756,
+        787
+      ],
+      "value_bbox": [
+        705,
+        72,
+        730,
+        91
+      ]
+    },
+    {
+      "label": "Sweden",
+      "value": "84.7",
+      "value_numeric": 84.7,
+      "element_bbox": [
+        775,
+        195,
+        851,
+        787
+      ],
+      "value_bbox": [
+        800,
+        176,
+        825,
+        195
+      ]
+    },
+    {
+      "label": "United Kingdom",
+      "value": "52.7",
+      "value_numeric": 52.7,
+      "element_bbox": [
+        870,
+        418,
+        946,
+        787
+      ],
+      "value_bbox": [
+        895,
+        400,
+        921,
+        418
+      ]
+    }
+  ]
+}

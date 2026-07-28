@@ -1,0 +1,61 @@
+{
+  "chart_id": "c8640842fbbd69f0",
+  "chart_type": "Bar Chart",
+  "image_width": 1725,
+  "image_height": 1381,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Malaysia",
+      "value": "2600000000",
+      "value_numeric": 2600000000.0,
+      "element_bbox": [
+        160,
+        467,
+        224,
+        890
+      ],
+      "value_bbox": [
+        124,
+        440,
+        261,
+        467
+      ]
+    },
+    {
+      "label": "Macedonia",
+      "value": "700000000",
+      "value_numeric": 700000000.0,
+      "element_bbox": [
+        416,
+        749,
+        480,
+        890
+      ],
+      "value_bbox": [
+        387,
+        722,
+        510,
+        749
+      ]
+    },
+    {
+      "label": "Malta",
+      "value": "2100000000",
+      "value_numeric": 2100000000.0,
+      "element_bbox": [
+        673,
+        552,
+        737,
+        890
+      ],
+      "value_bbox": [
+        636,
+        524,
+        773,
+        552
+      ]
+    }
+  ]
+}

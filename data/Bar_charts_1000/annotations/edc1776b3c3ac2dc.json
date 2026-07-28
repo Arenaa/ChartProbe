@@ -1,0 +1,95 @@
+{
+  "chart_id": "edc1776b3c3ac2dc",
+  "chart_type": "Bar Chart",
+  "image_width": 2346,
+  "image_height": 1452,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Industrial",
+      "value": "40.5",
+      "value_numeric": 40.5,
+      "element_bbox": [
+        110,
+        466,
+        252,
+        908
+      ],
+      "value_bbox": [
+        162,
+        440,
+        201,
+        466
+      ]
+    },
+    {
+      "label": "Services",
+      "value": "61.2",
+      "value_numeric": 61.2,
+      "element_bbox": [
+        287,
+        241,
+        429,
+        908
+      ],
+      "value_bbox": [
+        339,
+        215,
+        377,
+        241
+      ]
+    },
+    {
+      "label": "Agriculture",
+      "value": "14.3",
+      "value_numeric": 14.3,
+      "element_bbox": [
+        464,
+        752,
+        606,
+        908
+      ],
+      "value_bbox": [
+        516,
+        726,
+        554,
+        752
+      ]
+    },
+    {
+      "label": "Tech",
+      "value": "5.0",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        641,
+        853,
+        783,
+        908
+      ],
+      "value_bbox": [
+        698,
+        827,
+        726,
+        853
+      ]
+    },
+    {
+      "label": "Energy",
+      "value": "7.5",
+      "value_numeric": 7.5,
+      "element_bbox": [
+        818,
+        826,
+        960,
+        908
+      ],
+      "value_bbox": [
+        875,
+        800,
+        903,
+        826
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "chart_id": "ca8afea668f5555b",
+  "chart_type": "Bar Chart",
+  "image_width": 2722,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Niger",
+      "value": "60",
+      "value_numeric": 60.0,
+      "element_bbox": [
+        125,
+        738,
+        617,
+        855
+      ],
+      "value_bbox": [
+        625,
+        786,
+        642,
+        808
+      ]
+    },
+    {
+      "label": "Nicaragua",
+      "value": "20",
+      "value_numeric": 20.0,
+      "element_bbox": [
+        125,
+        593,
+        289,
+        709
+      ],
+      "value_bbox": [
+        297,
+        640,
+        314,
+        662
+      ]
+    },
+    {
+      "label": "Morocco",
+      "value": "55",
+      "value_numeric": 55.0,
+      "element_bbox": [
+        125,
+        447,
+        576,
+        563
+      ],
+      "value_bbox": [
+        584,
+        494,
+        601,
+        516
+      ]
+    },
+    {
+      "label": "Mexico",
+      "value": "65",
+      "value_numeric": 65.0,
+      "element_bbox": [
+        125,
+        301,
+        658,
+        418
+      ],
+      "value_bbox": [
+        666,
+        348,
+        683,
+        370
+      ]
+    },
+    {
+      "label": "Malta",
+      "value": "90",
+      "value_numeric": 90.0,
+      "element_bbox": [
+        125,
+        155,
+        863,
+        272
+      ],
+      "value_bbox": [
+        871,
+        203,
+        888,
+        224
+      ]
+    }
+  ]
+}

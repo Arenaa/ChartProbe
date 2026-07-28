@@ -1,0 +1,78 @@
+{
+  "chart_id": "80453ebec073750f",
+  "chart_type": "Bar Chart",
+  "image_width": 2351,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "All Countries",
+      "value": "22",
+      "value_numeric": 22.0,
+      "element_bbox": [
+        195,
+        88,
+        940,
+        251
+      ],
+      "value_bbox": [
+        948,
+        158,
+        970,
+        180
+      ]
+    },
+    {
+      "label": "Coverage ≥30%",
+      "value": "17",
+      "value_numeric": 17.0,
+      "element_bbox": [
+        195,
+        292,
+        771,
+        455
+      ],
+      "value_bbox": [
+        779,
+        363,
+        801,
+        384
+      ]
+    },
+    {
+      "label": "Coverage ≥35%",
+      "value": "10",
+      "value_numeric": 10.0,
+      "element_bbox": [
+        195,
+        496,
+        534,
+        659
+      ],
+      "value_bbox": [
+        542,
+        567,
+        564,
+        588
+      ]
+    },
+    {
+      "label": "Coverage ≥40%",
+      "value": "5",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        195,
+        700,
+        365,
+        863
+      ],
+      "value_bbox": [
+        373,
+        771,
+        383,
+        793
+      ]
+    }
+  ]
+}

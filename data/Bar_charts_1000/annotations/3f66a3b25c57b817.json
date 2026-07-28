@@ -1,0 +1,78 @@
+{
+  "chart_id": "3f66a3b25c57b817",
+  "chart_type": "Bar Chart",
+  "image_width": 2562,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "2006",
+      "value": "650000",
+      "value_numeric": 650000.0,
+      "element_bbox": [
+        160,
+        390,
+        309,
+        890
+      ],
+      "value_bbox": [
+        208,
+        368,
+        261,
+        390
+      ]
+    },
+    {
+      "label": "2007",
+      "value": "400000",
+      "value_numeric": 400000.0,
+      "element_bbox": [
+        346,
+        582,
+        494,
+        890
+      ],
+      "value_bbox": [
+        394,
+        560,
+        446,
+        582
+      ]
+    },
+    {
+      "label": "2008",
+      "value": "950000",
+      "value_numeric": 950000.0,
+      "element_bbox": [
+        531,
+        159,
+        679,
+        890
+      ],
+      "value_bbox": [
+        579,
+        137,
+        631,
+        159
+      ]
+    },
+    {
+      "label": "2009",
+      "value": "550000",
+      "value_numeric": 550000.0,
+      "element_bbox": [
+        716,
+        466,
+        865,
+        890
+      ],
+      "value_bbox": [
+        764,
+        445,
+        817,
+        466
+      ]
+    }
+  ]
+}

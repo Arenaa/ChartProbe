@@ -1,0 +1,8 @@
+{
+  "dataset": "CR_CLEVR_500",
+  "source": "CLEVR_val_questions_new.json (bbox-linked question per scene)",
+  "num_samples": 500,
+  "bundle_dir": "data/CR_CLEVR_500",
+  "samples_jsonl": "data/CR_CLEVR_500/samples.jsonl",
+  "images": "data/CR_CLEVR_500/images"
+}

@@ -1,0 +1,61 @@
+{
+  "chart_id": "de781f46b49e02d2",
+  "chart_type": "Bar Chart",
+  "image_width": 2828,
+  "image_height": 1736,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Mali",
+      "value": "73",
+      "value_numeric": 73.0,
+      "element_bbox": [
+        125,
+        655,
+        863,
+        855
+      ],
+      "value_bbox": [
+        871,
+        744,
+        888,
+        766
+      ]
+    },
+    {
+      "label": "Maldives",
+      "value": "44",
+      "value_numeric": 44.0,
+      "element_bbox": [
+        125,
+        405,
+        570,
+        605
+      ],
+      "value_bbox": [
+        578,
+        494,
+        595,
+        516
+      ]
+    },
+    {
+      "label": "Gabon",
+      "value": "35",
+      "value_numeric": 35.0,
+      "element_bbox": [
+        125,
+        155,
+        479,
+        355
+      ],
+      "value_bbox": [
+        487,
+        244,
+        504,
+        266
+      ]
+    }
+  ]
+}

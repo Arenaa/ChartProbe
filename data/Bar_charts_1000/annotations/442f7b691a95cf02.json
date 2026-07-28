@@ -1,0 +1,44 @@
+{
+  "chart_id": "442f7b691a95cf02",
+  "chart_type": "Bar Chart",
+  "image_width": 2710,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Gabon",
+      "value": "16.5",
+      "value_numeric": 16.5,
+      "element_bbox": [
+        125,
+        797,
+        639,
+        855
+      ],
+      "value_bbox": [
+        647,
+        815,
+        678,
+        837
+      ]
+    },
+    {
+      "label": "Indonesia",
+      "value": "2.0",
+      "value_numeric": 2.0,
+      "element_bbox": [
+        125,
+        651,
+        129,
+        709
+      ],
+      "value_bbox": [
+        116,
+        629,
+        138,
+        651
+      ]
+    }
+  ]
+}

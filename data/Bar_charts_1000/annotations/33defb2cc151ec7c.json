@@ -1,0 +1,78 @@
+{
+  "chart_id": "33defb2cc151ec7c",
+  "chart_type": "Bar Chart",
+  "image_width": 2646,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Refusal of Sex",
+      "value": "23.3",
+      "value_numeric": 23.3,
+      "element_bbox": [
+        105,
+        446,
+        284,
+        884
+      ],
+      "value_bbox": [
+        177,
+        425,
+        212,
+        446
+      ]
+    },
+    {
+      "label": "Negligence towards Kids",
+      "value": "40.3",
+      "value_numeric": 40.3,
+      "element_bbox": [
+        329,
+        128,
+        509,
+        884
+      ],
+      "value_bbox": [
+        402,
+        106,
+        436,
+        128
+      ]
+    },
+    {
+      "label": "Other Justification",
+      "value": "31.5",
+      "value_numeric": 31.5,
+      "element_bbox": [
+        554,
+        294,
+        733,
+        884
+      ],
+      "value_bbox": [
+        626,
+        272,
+        661,
+        294
+      ]
+    },
+    {
+      "label": "Cultural Norms",
+      "value": "31.9",
+      "value_numeric": 31.9,
+      "element_bbox": [
+        778,
+        286,
+        958,
+        884
+      ],
+      "value_bbox": [
+        851,
+        264,
+        885,
+        286
+      ]
+    }
+  ]
+}

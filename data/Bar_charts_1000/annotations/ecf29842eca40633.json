@@ -1,0 +1,78 @@
+{
+  "chart_id": "ecf29842eca40633",
+  "chart_type": "Bar Chart",
+  "image_width": 2562,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "CO2 damage",
+      "value": "300000000",
+      "value_numeric": 300000000.0,
+      "element_bbox": [
+        160,
+        638,
+        227,
+        890
+      ],
+      "value_bbox": [
+        154,
+        616,
+        233,
+        638
+      ]
+    },
+    {
+      "label": "Minerals",
+      "value": "0",
+      "value_numeric": 0.0,
+      "element_bbox": [
+        351,
+        157,
+        417,
+        890
+      ],
+      "value_bbox": [
+        380,
+        135,
+        388,
+        157
+      ]
+    },
+    {
+      "label": "Energy",
+      "value": "400000000",
+      "value_numeric": 400000000.0,
+      "element_bbox": [
+        541,
+        363,
+        608,
+        890
+      ],
+      "value_bbox": [
+        535,
+        341,
+        614,
+        363
+      ]
+    },
+    {
+      "label": "Forest",
+      "value": "400000000",
+      "value_numeric": 400000000.0,
+      "element_bbox": [
+        731,
+        730,
+        798,
+        890
+      ],
+      "value_bbox": [
+        725,
+        708,
+        804,
+        730
+      ]
+    }
+  ]
+}

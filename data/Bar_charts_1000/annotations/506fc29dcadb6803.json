@@ -1,0 +1,180 @@
+{
+  "chart_id": "506fc29dcadb6803",
+  "chart_type": "Bar Chart",
+  "image_width": 3550,
+  "image_height": 2356,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Emerging Market Economies",
+      "value": "993",
+      "value_numeric": 993.0,
+      "element_bbox": [
+        209,
+        77,
+        638,
+        144
+      ],
+      "value_bbox": [
+        646,
+        103,
+        667,
+        119
+      ]
+    },
+    {
+      "label": "Emerging Upper Income",
+      "value": "750",
+      "value_numeric": 750.0,
+      "element_bbox": [
+        209,
+        161,
+        529,
+        229
+      ],
+      "value_bbox": [
+        537,
+        187,
+        559,
+        203
+      ]
+    },
+    {
+      "label": "High Income",
+      "value": "810",
+      "value_numeric": 810.0,
+      "element_bbox": [
+        209,
+        246,
+        553,
+        313
+      ],
+      "value_bbox": [
+        561,
+        271,
+        582,
+        287
+      ]
+    },
+    {
+      "label": "Least Developed",
+      "value": "1710",
+      "value_numeric": 1710.0,
+      "element_bbox": [
+        209,
+        330,
+        948,
+        397
+      ],
+      "value_bbox": [
+        956,
+        355,
+        985,
+        372
+      ]
+    },
+    {
+      "label": "Low Income",
+      "value": "1520",
+      "value_numeric": 1520.0,
+      "element_bbox": [
+        209,
+        414,
+        857,
+        482
+      ],
+      "value_bbox": [
+        864,
+        440,
+        894,
+        456
+      ]
+    },
+    {
+      "label": "Lower Middle Income",
+      "value": "1360",
+      "value_numeric": 1360.0,
+      "element_bbox": [
+        209,
+        498,
+        795,
+        566
+      ],
+      "value_bbox": [
+        803,
+        524,
+        832,
+        540
+      ]
+    },
+    {
+      "label": "Middle Income",
+      "value": "1260",
+      "value_numeric": 1260.0,
+      "element_bbox": [
+        209,
+        583,
+        746,
+        650
+      ],
+      "value_bbox": [
+        754,
+        608,
+        783,
+        625
+      ]
+    },
+    {
+      "label": "Upper High Income",
+      "value": "630",
+      "value_numeric": 630.0,
+      "element_bbox": [
+        209,
+        667,
+        478,
+        735
+      ],
+      "value_bbox": [
+        485,
+        693,
+        507,
+        709
+      ]
+    },
+    {
+      "label": "Upper Middle Income",
+      "value": "970",
+      "value_numeric": 970.0,
+      "element_bbox": [
+        209,
+        751,
+        609,
+        819
+      ],
+      "value_bbox": [
+        617,
+        777,
+        639,
+        793
+      ]
+    },
+    {
+      "label": "Very High Income",
+      "value": "590",
+      "value_numeric": 590.0,
+      "element_bbox": [
+        209,
+        836,
+        456,
+        903
+      ],
+      "value_bbox": [
+        464,
+        861,
+        486,
+        878
+      ]
+    }
+  ]
+}

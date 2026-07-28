@@ -1,0 +1,95 @@
+{
+  "chart_id": "ead8f1874db6b558",
+  "chart_type": "Bar Chart",
+  "image_width": 2576,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Guinea",
+      "value": "160",
+      "value_numeric": 160.0,
+      "element_bbox": [
+        160,
+        666,
+        278,
+        890
+      ],
+      "value_bbox": [
+        206,
+        644,
+        232,
+        666
+      ]
+    },
+    {
+      "label": "Guinea-Bissau",
+      "value": "140",
+      "value_numeric": 140.0,
+      "element_bbox": [
+        307,
+        694,
+        424,
+        890
+      ],
+      "value_bbox": [
+        353,
+        672,
+        379,
+        694
+      ]
+    },
+    {
+      "label": "Guyana",
+      "value": "150",
+      "value_numeric": 150.0,
+      "element_bbox": [
+        454,
+        680,
+        571,
+        890
+      ],
+      "value_bbox": [
+        499,
+        658,
+        526,
+        680
+      ]
+    },
+    {
+      "label": "Haiti",
+      "value": "520",
+      "value_numeric": 520.0,
+      "element_bbox": [
+        601,
+        162,
+        718,
+        890
+      ],
+      "value_bbox": [
+        646,
+        140,
+        672,
+        162
+      ]
+    },
+    {
+      "label": "Honduras",
+      "value": "150",
+      "value_numeric": 150.0,
+      "element_bbox": [
+        747,
+        680,
+        865,
+        890
+      ],
+      "value_bbox": [
+        793,
+        658,
+        819,
+        680
+      ]
+    }
+  ]
+}

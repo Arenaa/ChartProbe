@@ -1,0 +1,129 @@
+{
+  "chart_id": "6a7697b9d03ef3cd",
+  "chart_type": "Bar Chart",
+  "image_width": 2940,
+  "image_height": 1750,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Middle East",
+      "value": "2.20",
+      "value_numeric": 2.2,
+      "element_bbox": [
+        120,
+        103,
+        393,
+        193
+      ],
+      "value_bbox": [
+        402,
+        137,
+        433,
+        159
+      ]
+    },
+    {
+      "label": "Africa",
+      "value": "2.40",
+      "value_numeric": 2.4,
+      "element_bbox": [
+        120,
+        216,
+        418,
+        306
+      ],
+      "value_bbox": [
+        427,
+        250,
+        458,
+        272
+      ]
+    },
+    {
+      "label": "Americas",
+      "value": "2.56",
+      "value_numeric": 2.56,
+      "element_bbox": [
+        120,
+        329,
+        438,
+        420
+      ],
+      "value_bbox": [
+        447,
+        364,
+        477,
+        385
+      ]
+    },
+    {
+      "label": "Oceania",
+      "value": "3.10",
+      "value_numeric": 3.1,
+      "element_bbox": [
+        120,
+        442,
+        505,
+        533
+      ],
+      "value_bbox": [
+        514,
+        477,
+        545,
+        498
+      ]
+    },
+    {
+      "label": "Other",
+      "value": "3.60",
+      "value_numeric": 3.6,
+      "element_bbox": [
+        120,
+        555,
+        567,
+        646
+      ],
+      "value_bbox": [
+        576,
+        590,
+        607,
+        612
+      ]
+    },
+    {
+      "label": "Europe",
+      "value": "4.15",
+      "value_numeric": 4.15,
+      "element_bbox": [
+        120,
+        669,
+        636,
+        759
+      ],
+      "value_bbox": [
+        645,
+        703,
+        676,
+        725
+      ]
+    },
+    {
+      "label": "Asia",
+      "value": "6.57",
+      "value_numeric": 6.57,
+      "element_bbox": [
+        120,
+        782,
+        937,
+        872
+      ],
+      "value_bbox": [
+        946,
+        816,
+        977,
+        838
+      ]
+    }
+  ]
+}

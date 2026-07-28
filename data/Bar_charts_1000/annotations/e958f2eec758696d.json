@@ -1,0 +1,95 @@
+{
+  "chart_id": "e958f2eec758696d",
+  "chart_type": "Bar Chart",
+  "image_width": 2951,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Committed Capital",
+      "value": "125000000",
+      "value_numeric": 125000000.0,
+      "element_bbox": [
+        198,
+        106,
+        890,
+        233
+      ],
+      "value_bbox": [
+        897,
+        158,
+        976,
+        180
+      ]
+    },
+    {
+      "label": "Disbursed Funds",
+      "value": "92000000",
+      "value_numeric": 92000000.0,
+      "element_bbox": [
+        198,
+        264,
+        707,
+        391
+      ],
+      "value_bbox": [
+        714,
+        317,
+        784,
+        339
+      ]
+    },
+    {
+      "label": "Utilized Funds",
+      "value": "79000000",
+      "value_numeric": 79000000.0,
+      "element_bbox": [
+        198,
+        423,
+        635,
+        550
+      ],
+      "value_bbox": [
+        643,
+        476,
+        712,
+        498
+      ]
+    },
+    {
+      "label": "Net Remaining",
+      "value": "55000000",
+      "value_numeric": 55000000.0,
+      "element_bbox": [
+        198,
+        582,
+        503,
+        709
+      ],
+      "value_bbox": [
+        510,
+        635,
+        580,
+        656
+      ]
+    },
+    {
+      "label": "Projected Growth",
+      "value": "30000000",
+      "value_numeric": 30000000.0,
+      "element_bbox": [
+        198,
+        741,
+        364,
+        868
+      ],
+      "value_bbox": [
+        372,
+        794,
+        442,
+        815
+      ]
+    }
+  ]
+}

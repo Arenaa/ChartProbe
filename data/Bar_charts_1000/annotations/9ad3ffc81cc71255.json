@@ -1,0 +1,78 @@
+{
+  "chart_id": "9ad3ffc81cc71255",
+  "chart_type": "Bar Chart",
+  "image_width": 3053,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Burundi",
+      "value": "2.88e+07",
+      "value_numeric": 28800000.0,
+      "element_bbox": [
+        152,
+        690,
+        187,
+        847
+      ],
+      "value_bbox": [
+        195,
+        758,
+        262,
+        779
+      ]
+    },
+    {
+      "label": "Burkina Faso",
+      "value": "3.46e+07",
+      "value_numeric": 34600000.0,
+      "element_bbox": [
+        152,
+        495,
+        194,
+        651
+      ],
+      "value_bbox": [
+        202,
+        562,
+        269,
+        584
+      ]
+    },
+    {
+      "label": "Bulgaria",
+      "value": "6.62e+08",
+      "value_numeric": 662000000.0,
+      "element_bbox": [
+        152,
+        300,
+        942,
+        456
+      ],
+      "value_bbox": [
+        951,
+        367,
+        1000,
+        389
+      ]
+    },
+    {
+      "label": "Botswana",
+      "value": "5.31e+07",
+      "value_numeric": 53100000.0,
+      "element_bbox": [
+        152,
+        104,
+        216,
+        261
+      ],
+      "value_bbox": [
+        224,
+        172,
+        292,
+        193
+      ]
+    }
+  ]
+}

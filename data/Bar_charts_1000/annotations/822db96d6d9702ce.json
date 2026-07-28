@@ -1,0 +1,95 @@
+{
+  "chart_id": "822db96d6d9702ce",
+  "chart_type": "Bar Chart",
+  "image_width": 2939,
+  "image_height": 1700,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Total Population (100%)",
+      "value": "100",
+      "value_numeric": 100.0,
+      "element_bbox": [
+        485,
+        121,
+        921,
+        237
+      ],
+      "value_bbox": [
+        925,
+        168,
+        954,
+        190
+      ]
+    },
+    {
+      "label": "Access to Sanitation Services",
+      "value": "88",
+      "value_numeric": 88.0,
+      "element_bbox": [
+        485,
+        266,
+        868,
+        382
+      ],
+      "value_bbox": [
+        873,
+        314,
+        892,
+        335
+      ]
+    },
+    {
+      "label": "Access to Drinking‑Water Services",
+      "value": "91",
+      "value_numeric": 91.0,
+      "element_bbox": [
+        485,
+        412,
+        881,
+        528
+      ],
+      "value_bbox": [
+        886,
+        459,
+        905,
+        480
+      ]
+    },
+    {
+      "label": "Safe‑managed Water & Sanitation",
+      "value": "84",
+      "value_numeric": 84.0,
+      "element_bbox": [
+        485,
+        557,
+        851,
+        673
+      ],
+      "value_bbox": [
+        855,
+        604,
+        875,
+        626
+      ]
+    },
+    {
+      "label": "Improved Hygiene Facilities",
+      "value": "78",
+      "value_numeric": 78.0,
+      "element_bbox": [
+        485,
+        702,
+        825,
+        818
+      ],
+      "value_bbox": [
+        829,
+        749,
+        849,
+        771
+      ]
+    }
+  ]
+}

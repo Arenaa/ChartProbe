@@ -1,0 +1,95 @@
+{
+  "chart_id": "6369d3778f024a1a",
+  "chart_type": "Bar Chart",
+  "image_width": 3520,
+  "image_height": 2340,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Middle East & North Africa (all income levels)",
+      "value": "98.5",
+      "value_numeric": 98.5,
+      "element_bbox": [
+        176,
+        223,
+        216,
+        612
+      ],
+      "value_bbox": [
+        183,
+        207,
+        209,
+        223
+      ]
+    },
+    {
+      "label": "Middle East & North Africa (developing only)",
+      "value": "94.3",
+      "value_numeric": 94.3,
+      "element_bbox": [
+        338,
+        229,
+        379,
+        612
+      ],
+      "value_bbox": [
+        345,
+        212,
+        371,
+        229
+      ]
+    },
+    {
+      "label": "Middle income",
+      "value": "123.7",
+      "value_numeric": 123.7,
+      "element_bbox": [
+        500,
+        126,
+        541,
+        612
+      ],
+      "value_bbox": [
+        504,
+        110,
+        537,
+        126
+      ]
+    },
+    {
+      "label": "North America",
+      "value": "109.2",
+      "value_numeric": 109.2,
+      "element_bbox": [
+        662,
+        165,
+        703,
+        612
+      ],
+      "value_bbox": [
+        666,
+        148,
+        699,
+        165
+      ]
+    },
+    {
+      "label": "OECD members",
+      "value": "123.1",
+      "value_numeric": 123.1,
+      "element_bbox": [
+        825,
+        112,
+        865,
+        612
+      ],
+      "value_bbox": [
+        829,
+        96,
+        862,
+        112
+      ]
+    }
+  ]
+}

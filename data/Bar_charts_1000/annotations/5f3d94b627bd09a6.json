@@ -1,0 +1,95 @@
+{
+  "chart_id": "5f3d94b627bd09a6",
+  "chart_type": "Bar Chart",
+  "image_width": 2646,
+  "image_height": 1674,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Agriculture",
+      "value": "60.0",
+      "value_numeric": 60.0,
+      "element_bbox": [
+        100,
+        166,
+        244,
+        884
+      ],
+      "value_bbox": [
+        155,
+        144,
+        189,
+        166
+      ]
+    },
+    {
+      "label": "Manufacturing",
+      "value": "8.0",
+      "value_numeric": 8.0,
+      "element_bbox": [
+        280,
+        788,
+        423,
+        884
+      ],
+      "value_bbox": [
+        339,
+        766,
+        364,
+        788
+      ]
+    },
+    {
+      "label": "Services",
+      "value": "22.0",
+      "value_numeric": 22.0,
+      "element_bbox": [
+        459,
+        620,
+        603,
+        884
+      ],
+      "value_bbox": [
+        514,
+        599,
+        548,
+        620
+      ]
+    },
+    {
+      "label": "Construction",
+      "value": "5.0",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        639,
+        824,
+        783,
+        884
+      ],
+      "value_bbox": [
+        698,
+        802,
+        723,
+        824
+      ]
+    },
+    {
+      "label": "Informal Trade",
+      "value": "5.0",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        818,
+        824,
+        962,
+        884
+      ],
+      "value_bbox": [
+        878,
+        802,
+        903,
+        824
+      ]
+    }
+  ]
+}

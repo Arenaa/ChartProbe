@@ -1,0 +1,78 @@
+{
+  "chart_id": "150935ce8e1b0ec1",
+  "chart_type": "Bar Chart",
+  "image_width": 2518,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Burundi",
+      "value": "3.5",
+      "value_numeric": 3.5,
+      "element_bbox": [
+        160,
+        553,
+        309,
+        890
+      ],
+      "value_bbox": [
+        223,
+        531,
+        245,
+        553
+      ]
+    },
+    {
+      "label": "India",
+      "value": "4",
+      "value_numeric": 4.0,
+      "element_bbox": [
+        346,
+        505,
+        494,
+        890
+      ],
+      "value_bbox": [
+        415,
+        483,
+        424,
+        505
+      ]
+    },
+    {
+      "label": "Malawi",
+      "value": "7.2",
+      "value_numeric": 7.2,
+      "element_bbox": [
+        531,
+        197,
+        679,
+        890
+      ],
+      "value_bbox": [
+        594,
+        175,
+        616,
+        197
+      ]
+    },
+    {
+      "label": "Bahamas",
+      "value": "2.5",
+      "value_numeric": 2.5,
+      "element_bbox": [
+        716,
+        649,
+        865,
+        890
+      ],
+      "value_bbox": [
+        779,
+        628,
+        802,
+        649
+      ]
+    }
+  ]
+}

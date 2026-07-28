@@ -1,0 +1,180 @@
+{
+  "chart_id": "647170cd18316f2c",
+  "chart_type": "Bar Chart",
+  "image_width": 3546,
+  "image_height": 2051,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Barbados",
+      "value": "4.30e+09",
+      "value_numeric": 4300000000.0,
+      "element_bbox": [
+        97,
+        900,
+        133,
+        900
+      ],
+      "value_bbox": [
+        142,
+        891,
+        198,
+        910
+      ]
+    },
+    {
+      "label": "Brazil",
+      "value": "4.86e+12",
+      "value_numeric": 4860000000000.0,
+      "element_bbox": [
+        187,
+        863,
+        223,
+        900
+      ],
+      "value_bbox": [
+        177,
+        844,
+        233,
+        863
+      ]
+    },
+    {
+      "label": "Italy",
+      "value": "1.48e+12",
+      "value_numeric": 1480000000000.0,
+      "element_bbox": [
+        277,
+        691,
+        312,
+        900
+      ],
+      "value_bbox": [
+        266,
+        672,
+        323,
+        691
+      ]
+    },
+    {
+      "label": "Japan",
+      "value": "4.31e+12",
+      "value_numeric": 4310000000000.0,
+      "element_bbox": [
+        366,
+        398,
+        402,
+        900
+      ],
+      "value_bbox": [
+        356,
+        380,
+        412,
+        398
+      ]
+    },
+    {
+      "label": "Germany",
+      "value": "1.75e+12",
+      "value_numeric": 1750000000000.0,
+      "element_bbox": [
+        456,
+        821,
+        492,
+        900
+      ],
+      "value_bbox": [
+        446,
+        802,
+        502,
+        821
+      ]
+    },
+    {
+      "label": "Canada",
+      "value": "1.04e+12",
+      "value_numeric": 1040000000000.0,
+      "element_bbox": [
+        546,
+        790,
+        582,
+        900
+      ],
+      "value_bbox": [
+        535,
+        772,
+        592,
+        790
+      ]
+    },
+    {
+      "label": "France",
+      "value": "1.31e+12",
+      "value_numeric": 1310000000000.0,
+      "element_bbox": [
+        635,
+        767,
+        671,
+        900
+      ],
+      "value_bbox": [
+        625,
+        748,
+        681,
+        767
+      ]
+    },
+    {
+      "label": "India",
+      "value": "6.30e+11",
+      "value_numeric": 630000000000.0,
+      "element_bbox": [
+        725,
+        624,
+        761,
+        900
+      ],
+      "value_bbox": [
+        715,
+        605,
+        771,
+        624
+      ]
+    },
+    {
+      "label": "South Korea",
+      "value": "8.86e+11",
+      "value_numeric": 886000000000.0,
+      "element_bbox": [
+        815,
+        826,
+        850,
+        900
+      ],
+      "value_bbox": [
+        805,
+        807,
+        861,
+        826
+      ]
+    },
+    {
+      "label": "Australia",
+      "value": "1.20e+12",
+      "value_numeric": 1200000000000.0,
+      "element_bbox": [
+        904,
+        799,
+        940,
+        900
+      ],
+      "value_bbox": [
+        894,
+        781,
+        950,
+        799
+      ]
+    }
+  ]
+}

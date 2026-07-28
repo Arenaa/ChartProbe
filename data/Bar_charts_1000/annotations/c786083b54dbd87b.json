@@ -1,0 +1,163 @@
+{
+  "chart_id": "c786083b54dbd87b",
+  "chart_type": "Bar Chart",
+  "image_width": 2947,
+  "image_height": 1745,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "EU Average",
+      "value": "10385",
+      "value_numeric": 10385.0,
+      "element_bbox": [
+        113,
+        123,
+        191,
+        781
+      ],
+      "value_bbox": [
+        130,
+        101,
+        173,
+        123
+      ]
+    },
+    {
+      "label": "Ethiopia",
+      "value": "3875",
+      "value_numeric": 3875.0,
+      "element_bbox": [
+        210,
+        536,
+        288,
+        781
+      ],
+      "value_bbox": [
+        232,
+        514,
+        267,
+        536
+      ]
+    },
+    {
+      "label": "Ghana",
+      "value": "4805",
+      "value_numeric": 4805.0,
+      "element_bbox": [
+        308,
+        477,
+        386,
+        781
+      ],
+      "value_bbox": [
+        330,
+        455,
+        365,
+        477
+      ]
+    },
+    {
+      "label": "Kenya",
+      "value": "5425",
+      "value_numeric": 5425.0,
+      "element_bbox": [
+        406,
+        437,
+        484,
+        781
+      ],
+      "value_bbox": [
+        427,
+        416,
+        462,
+        437
+      ]
+    },
+    {
+      "label": "Nigeria",
+      "value": "5425",
+      "value_numeric": 5425.0,
+      "element_bbox": [
+        503,
+        437,
+        582,
+        781
+      ],
+      "value_bbox": [
+        525,
+        416,
+        560,
+        437
+      ]
+    },
+    {
+      "label": "Rwanda",
+      "value": "3720",
+      "value_numeric": 3720.0,
+      "element_bbox": [
+        601,
+        545,
+        679,
+        781
+      ],
+      "value_bbox": [
+        623,
+        524,
+        658,
+        545
+      ]
+    },
+    {
+      "label": "South Africa",
+      "value": "6200",
+      "value_numeric": 6200.0,
+      "element_bbox": [
+        699,
+        388,
+        777,
+        781
+      ],
+      "value_bbox": [
+        720,
+        366,
+        755,
+        388
+      ]
+    },
+    {
+      "label": "Tanzania",
+      "value": "5053",
+      "value_numeric": 5053.0,
+      "element_bbox": [
+        796,
+        461,
+        875,
+        781
+      ],
+      "value_bbox": [
+        818,
+        439,
+        853,
+        461
+      ]
+    },
+    {
+      "label": "Uganda",
+      "value": "4650",
+      "value_numeric": 4650.0,
+      "element_bbox": [
+        894,
+        486,
+        972,
+        781
+      ],
+      "value_bbox": [
+        916,
+        465,
+        951,
+        486
+      ]
+    }
+  ]
+}

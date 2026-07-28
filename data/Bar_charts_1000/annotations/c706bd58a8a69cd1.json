@@ -1,0 +1,95 @@
+{
+  "chart_id": "c706bd58a8a69cd1",
+  "chart_type": "Bar Chart",
+  "image_width": 2945,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Senegal",
+      "value": "6.5",
+      "value_numeric": 6.5,
+      "element_bbox": [
+        148,
+        723,
+        320,
+        847
+      ],
+      "value_bbox": [
+        328,
+        774,
+        350,
+        796
+      ]
+    },
+    {
+      "label": "Romania",
+      "value": "0",
+      "value_numeric": 0.0,
+      "element_bbox": [
+        148,
+        568,
+        148,
+        692
+      ],
+      "value_bbox": [
+        143,
+        547,
+        152,
+        568
+      ]
+    },
+    {
+      "label": "Niger",
+      "value": "2.5",
+      "value_numeric": 2.5,
+      "element_bbox": [
+        148,
+        414,
+        214,
+        537
+      ],
+      "value_bbox": [
+        222,
+        465,
+        245,
+        486
+      ]
+    },
+    {
+      "label": "Malaysia",
+      "value": "3.5",
+      "value_numeric": 3.5,
+      "element_bbox": [
+        148,
+        259,
+        240,
+        383
+      ],
+      "value_bbox": [
+        249,
+        310,
+        271,
+        332
+      ]
+    },
+    {
+      "label": "Madagascar",
+      "value": "29.5",
+      "value_numeric": 29.5,
+      "element_bbox": [
+        148,
+        104,
+        942,
+        228
+      ],
+      "value_bbox": [
+        951,
+        155,
+        981,
+        177
+      ]
+    }
+  ]
+}

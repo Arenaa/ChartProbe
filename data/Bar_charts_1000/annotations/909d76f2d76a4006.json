@@ -1,0 +1,78 @@
+{
+  "chart_id": "909d76f2d76a4006",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "East Asia (EA)",
+      "value": "97.6",
+      "value_numeric": 97.6,
+      "element_bbox": [
+        106,
+        225,
+        286,
+        1000
+      ],
+      "value_bbox": [
+        181,
+        204,
+        211,
+        225
+      ]
+    },
+    {
+      "label": "Southeast Asia (ASEAN)",
+      "value": "92.9",
+      "value_numeric": 92.9,
+      "element_bbox": [
+        331,
+        313,
+        510,
+        1000
+      ],
+      "value_bbox": [
+        405,
+        291,
+        436,
+        313
+      ]
+    },
+    {
+      "label": "Oceania (Pac)",
+      "value": "91.0",
+      "value_numeric": 91.0,
+      "element_bbox": [
+        555,
+        349,
+        735,
+        1000
+      ],
+      "value_bbox": [
+        630,
+        327,
+        661,
+        349
+      ]
+    },
+    {
+      "label": "South Asia",
+      "value": "84.1",
+      "value_numeric": 84.1,
+      "element_bbox": [
+        780,
+        476,
+        960,
+        1000
+      ],
+      "value_bbox": [
+        854,
+        454,
+        885,
+        476
+      ]
+    }
+  ]
+}

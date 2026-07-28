@@ -1,0 +1,95 @@
+{
+  "chart_id": "095dff091aa780b1",
+  "chart_type": "Bar Chart",
+  "image_width": 2376,
+  "image_height": 1446,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "All youth (15-24 yr)",
+      "value": "10000",
+      "value_numeric": 10000.0,
+      "element_bbox": [
+        263,
+        122,
+        913,
+        240
+      ],
+      "value_bbox": [
+        920,
+        168,
+        974,
+        194
+      ]
+    },
+    {
+      "label": "Aware of condoms",
+      "value": "7200",
+      "value_numeric": 7200.0,
+      "element_bbox": [
+        263,
+        270,
+        731,
+        387
+      ],
+      "value_bbox": [
+        738,
+        316,
+        782,
+        342
+      ]
+    },
+    {
+      "label": "Reached with services",
+      "value": "4300",
+      "value_numeric": 4300.0,
+      "element_bbox": [
+        263,
+        417,
+        543,
+        535
+      ],
+      "value_bbox": [
+        549,
+        463,
+        593,
+        489
+      ]
+    },
+    {
+      "label": "Consistent condom use",
+      "value": "2600",
+      "value_numeric": 2600.0,
+      "element_bbox": [
+        263,
+        564,
+        432,
+        682
+      ],
+      "value_bbox": [
+        439,
+        610,
+        483,
+        636
+      ]
+    },
+    {
+      "label": "Dual-method use",
+      "value": "1500",
+      "value_numeric": 1500.0,
+      "element_bbox": [
+        263,
+        711,
+        361,
+        829
+      ],
+      "value_bbox": [
+        367,
+        757,
+        411,
+        783
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "chart_id": "cc6a233ba3e0199c",
+  "chart_type": "Bar Chart",
+  "image_width": 2265,
+  "image_height": 1381,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "European Union",
+      "value": "18",
+      "value_numeric": 18.0,
+      "element_bbox": [
+        125,
+        655,
+        863,
+        855
+      ],
+      "value_bbox": [
+        871,
+        741,
+        898,
+        769
+      ]
+    },
+    {
+      "label": "Argentina",
+      "value": "6",
+      "value_numeric": 6.0,
+      "element_bbox": [
+        125,
+        405,
+        371,
+        605
+      ],
+      "value_bbox": [
+        379,
+        491,
+        392,
+        519
+      ]
+    },
+    {
+      "label": "Bangladesh",
+      "value": "10",
+      "value_numeric": 10.0,
+      "element_bbox": [
+        125,
+        155,
+        535,
+        355
+      ],
+      "value_bbox": [
+        543,
+        241,
+        570,
+        269
+      ]
+    }
+  ]
+}

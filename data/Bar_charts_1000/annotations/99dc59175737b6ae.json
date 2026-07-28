@@ -1,0 +1,61 @@
+{
+  "chart_id": "99dc59175737b6ae",
+  "chart_type": "Bar Chart",
+  "image_width": 2658,
+  "image_height": 1381,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Comoros",
+      "value": "2.2",
+      "value_numeric": 2.2,
+      "element_bbox": [
+        160,
+        209,
+        261,
+        890
+      ],
+      "value_bbox": [
+        193,
+        182,
+        228,
+        209
+      ]
+    },
+    {
+      "label": "Costa Rica",
+      "value": "2.8",
+      "value_numeric": 2.8,
+      "element_bbox": [
+        412,
+        261,
+        513,
+        890
+      ],
+      "value_bbox": [
+        445,
+        234,
+        479,
+        261
+      ]
+    },
+    {
+      "label": "Cote d'Ivoire",
+      "value": "2.5",
+      "value_numeric": 2.5,
+      "element_bbox": [
+        663,
+        288,
+        764,
+        890
+      ],
+      "value_bbox": [
+        696,
+        261,
+        731,
+        288
+      ]
+    }
+  ]
+}

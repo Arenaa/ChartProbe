@@ -1,0 +1,690 @@
+{
+  "chart_id": "7822bf3f2acf174d",
+  "chart_type": "Bar Chart",
+  "image_width": 4146,
+  "image_height": 2350,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Barbados",
+      "value": "24.1",
+      "value_numeric": 24.1,
+      "element_bbox": [
+        55,
+        99,
+        73,
+        729
+      ],
+      "value_bbox": [
+        53,
+        83,
+        75,
+        99
+      ]
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "15.1",
+      "value_numeric": 15.1,
+      "element_bbox": [
+        77,
+        297,
+        95,
+        729
+      ],
+      "value_bbox": [
+        75,
+        281,
+        97,
+        297
+      ]
+    },
+    {
+      "label": "Cuba",
+      "value": "13.2",
+      "value_numeric": 13.2,
+      "element_bbox": [
+        100,
+        334,
+        117,
+        729
+      ],
+      "value_bbox": [
+        97,
+        318,
+        119,
+        334
+      ]
+    },
+    {
+      "label": "Jamaica",
+      "value": "12.6",
+      "value_numeric": 12.6,
+      "element_bbox": [
+        122,
+        384,
+        140,
+        729
+      ],
+      "value_bbox": [
+        120,
+        367,
+        142,
+        384
+      ]
+    },
+    {
+      "label": "Trinidad & Tobago",
+      "value": "12.5",
+      "value_numeric": 12.5,
+      "element_bbox": [
+        144,
+        399,
+        162,
+        729
+      ],
+      "value_bbox": [
+        142,
+        383,
+        164,
+        399
+      ]
+    },
+    {
+      "label": "Dominica",
+      "value": "12.1",
+      "value_numeric": 12.1,
+      "element_bbox": [
+        166,
+        402,
+        184,
+        729
+      ],
+      "value_bbox": [
+        164,
+        386,
+        186,
+        402
+      ]
+    },
+    {
+      "label": "Suriname",
+      "value": "11.9",
+      "value_numeric": 11.9,
+      "element_bbox": [
+        189,
+        412,
+        206,
+        729
+      ],
+      "value_bbox": [
+        186,
+        396,
+        208,
+        412
+      ]
+    },
+    {
+      "label": "St. Kitts & Nevis",
+      "value": "11.6",
+      "value_numeric": 11.6,
+      "element_bbox": [
+        211,
+        418,
+        229,
+        729
+      ],
+      "value_bbox": [
+        209,
+        401,
+        231,
+        418
+      ]
+    },
+    {
+      "label": "Belize",
+      "value": "11.6",
+      "value_numeric": 11.6,
+      "element_bbox": [
+        233,
+        426,
+        251,
+        729
+      ],
+      "value_bbox": [
+        231,
+        409,
+        253,
+        426
+      ]
+    },
+    {
+      "label": "Guyana",
+      "value": "10.8",
+      "value_numeric": 10.8,
+      "element_bbox": [
+        255,
+        446,
+        273,
+        729
+      ],
+      "value_bbox": [
+        253,
+        430,
+        275,
+        446
+      ]
+    },
+    {
+      "label": "Bahamas",
+      "value": "10.8",
+      "value_numeric": 10.8,
+      "element_bbox": [
+        278,
+        454,
+        295,
+        729
+      ],
+      "value_bbox": [
+        275,
+        438,
+        297,
+        454
+      ]
+    },
+    {
+      "label": "Grenada",
+      "value": "10.2",
+      "value_numeric": 10.2,
+      "element_bbox": [
+        300,
+        457,
+        318,
+        729
+      ],
+      "value_bbox": [
+        298,
+        441,
+        320,
+        457
+      ]
+    },
+    {
+      "label": "St. Vincent & Grenadines",
+      "value": "9.9",
+      "value_numeric": 9.9,
+      "element_bbox": [
+        322,
+        462,
+        340,
+        729
+      ],
+      "value_bbox": [
+        323,
+        446,
+        339,
+        462
+      ]
+    },
+    {
+      "label": "Antigua & Barbuda",
+      "value": "9.3",
+      "value_numeric": 9.3,
+      "element_bbox": [
+        344,
+        470,
+        362,
+        729
+      ],
+      "value_bbox": [
+        345,
+        454,
+        361,
+        470
+      ]
+    },
+    {
+      "label": "Cabo Verde",
+      "value": "9.0",
+      "value_numeric": 9.0,
+      "element_bbox": [
+        367,
+        486,
+        384,
+        729
+      ],
+      "value_bbox": [
+        368,
+        469,
+        383,
+        486
+      ]
+    },
+    {
+      "label": "St. Lucia",
+      "value": "8.8",
+      "value_numeric": 8.8,
+      "element_bbox": [
+        389,
+        494,
+        407,
+        729
+      ],
+      "value_bbox": [
+        390,
+        477,
+        406,
+        494
+      ]
+    },
+    {
+      "label": "Haiti",
+      "value": "8.7",
+      "value_numeric": 8.7,
+      "element_bbox": [
+        411,
+        499,
+        429,
+        729
+      ],
+      "value_bbox": [
+        412,
+        482,
+        428,
+        499
+      ]
+    },
+    {
+      "label": "Martinique",
+      "value": "8.5",
+      "value_numeric": 8.5,
+      "element_bbox": [
+        433,
+        501,
+        451,
+        729
+      ],
+      "value_bbox": [
+        434,
+        485,
+        450,
+        501
+      ]
+    },
+    {
+      "label": "Saint Barthélemy",
+      "value": "7.9",
+      "value_numeric": 7.9,
+      "element_bbox": [
+        455,
+        507,
+        473,
+        729
+      ],
+      "value_bbox": [
+        456,
+        490,
+        472,
+        507
+      ]
+    },
+    {
+      "label": "Botswana",
+      "value": "14.5",
+      "value_numeric": 14.5,
+      "element_bbox": [
+        478,
+        522,
+        496,
+        729
+      ],
+      "value_bbox": [
+        476,
+        506,
+        498,
+        522
+      ]
+    },
+    {
+      "label": "Nigeria",
+      "value": "13.9",
+      "value_numeric": 13.9,
+      "element_bbox": [
+        500,
+        350,
+        518,
+        729
+      ],
+      "value_bbox": [
+        498,
+        333,
+        520,
+        350
+      ]
+    },
+    {
+      "label": "Côte d'Ivoire",
+      "value": "13.0",
+      "value_numeric": 13.0,
+      "element_bbox": [
+        522,
+        365,
+        540,
+        729
+      ],
+      "value_bbox": [
+        520,
+        349,
+        542,
+        365
+      ]
+    },
+    {
+      "label": "Kenya",
+      "value": "12.8",
+      "value_numeric": 12.8,
+      "element_bbox": [
+        544,
+        389,
+        562,
+        729
+      ],
+      "value_bbox": [
+        542,
+        373,
+        564,
+        389
+      ]
+    },
+    {
+      "label": "Ghana",
+      "value": "12.3",
+      "value_numeric": 12.3,
+      "element_bbox": [
+        567,
+        394,
+        585,
+        729
+      ],
+      "value_bbox": [
+        565,
+        378,
+        587,
+        394
+      ]
+    },
+    {
+      "label": "Mauritius",
+      "value": "12.3",
+      "value_numeric": 12.3,
+      "element_bbox": [
+        589,
+        407,
+        607,
+        729
+      ],
+      "value_bbox": [
+        587,
+        391,
+        609,
+        407
+      ]
+    },
+    {
+      "label": "Uganda",
+      "value": "11.4",
+      "value_numeric": 11.4,
+      "element_bbox": [
+        611,
+        407,
+        629,
+        729
+      ],
+      "value_bbox": [
+        609,
+        391,
+        631,
+        407
+      ]
+    },
+    {
+      "label": "Lesotho",
+      "value": "10.2",
+      "value_numeric": 10.2,
+      "element_bbox": [
+        633,
+        431,
+        651,
+        729
+      ],
+      "value_bbox": [
+        631,
+        415,
+        653,
+        431
+      ]
+    },
+    {
+      "label": "Ethiopia",
+      "value": "10.1",
+      "value_numeric": 10.1,
+      "element_bbox": [
+        656,
+        454,
+        673,
+        729
+      ],
+      "value_bbox": [
+        654,
+        438,
+        676,
+        454
+      ]
+    },
+    {
+      "label": "Rwanda",
+      "value": "10.0",
+      "value_numeric": 10.0,
+      "element_bbox": [
+        678,
+        462,
+        696,
+        729
+      ],
+      "value_bbox": [
+        676,
+        446,
+        698,
+        462
+      ]
+    },
+    {
+      "label": "Gabon",
+      "value": "9.9",
+      "value_numeric": 9.9,
+      "element_bbox": [
+        700,
+        465,
+        718,
+        729
+      ],
+      "value_bbox": [
+        701,
+        449,
+        717,
+        465
+      ]
+    },
+    {
+      "label": "Republic of the Congo",
+      "value": "9.6",
+      "value_numeric": 9.6,
+      "element_bbox": [
+        722,
+        467,
+        740,
+        729
+      ],
+      "value_bbox": [
+        723,
+        451,
+        739,
+        467
+      ]
+    },
+    {
+      "label": "Sierra Leone",
+      "value": "9.6",
+      "value_numeric": 9.6,
+      "element_bbox": [
+        745,
+        470,
+        762,
+        729
+      ],
+      "value_bbox": [
+        746,
+        454,
+        761,
+        470
+      ]
+    },
+    {
+      "label": "Burundi",
+      "value": "9.1",
+      "value_numeric": 9.1,
+      "element_bbox": [
+        767,
+        473,
+        785,
+        729
+      ],
+      "value_bbox": [
+        768,
+        456,
+        784,
+        473
+      ]
+    },
+    {
+      "label": "Chad",
+      "value": "9.0",
+      "value_numeric": 9.0,
+      "element_bbox": [
+        789,
+        478,
+        807,
+        729
+      ],
+      "value_bbox": [
+        790,
+        462,
+        806,
+        478
+      ]
+    },
+    {
+      "label": "Mozambique",
+      "value": "8.8",
+      "value_numeric": 8.8,
+      "element_bbox": [
+        811,
+        483,
+        829,
+        729
+      ],
+      "value_bbox": [
+        812,
+        467,
+        828,
+        483
+      ]
+    },
+    {
+      "label": "Sao Tome & Principe",
+      "value": "8.3",
+      "value_numeric": 8.3,
+      "element_bbox": [
+        834,
+        491,
+        851,
+        729
+      ],
+      "value_bbox": [
+        835,
+        475,
+        850,
+        491
+      ]
+    },
+    {
+      "label": "Madagascar",
+      "value": "7.6",
+      "value_numeric": 7.6,
+      "element_bbox": [
+        856,
+        494,
+        874,
+        729
+      ],
+      "value_bbox": [
+        857,
+        477,
+        873,
+        494
+      ]
+    },
+    {
+      "label": "Comoros",
+      "value": "7.5",
+      "value_numeric": 7.5,
+      "element_bbox": [
+        878,
+        512,
+        896,
+        729
+      ],
+      "value_bbox": [
+        879,
+        496,
+        895,
+        512
+      ]
+    },
+    {
+      "label": "Gambia",
+      "value": "7.1",
+      "value_numeric": 7.1,
+      "element_bbox": [
+        900,
+        514,
+        918,
+        729
+      ],
+      "value_bbox": [
+        901,
+        498,
+        917,
+        514
+      ]
+    },
+    {
+      "label": "Eritrea",
+      "value": "6.8",
+      "value_numeric": 6.8,
+      "element_bbox": [
+        923,
+        530,
+        940,
+        729
+      ],
+      "value_bbox": [
+        924,
+        514,
+        939,
+        530
+      ]
+    }
+  ]
+}

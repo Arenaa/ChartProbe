@@ -1,0 +1,95 @@
+{
+  "chart_id": "7b1923c24f3c021d",
+  "chart_type": "Bar Chart",
+  "image_width": 2777,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Romania",
+      "value": "550",
+      "value_numeric": 550.0,
+      "element_bbox": [
+        125,
+        738,
+        863,
+        855
+      ],
+      "value_bbox": [
+        871,
+        786,
+        897,
+        808
+      ]
+    },
+    {
+      "label": "Rwanda",
+      "value": "80",
+      "value_numeric": 80.0,
+      "element_bbox": [
+        125,
+        593,
+        232,
+        709
+      ],
+      "value_bbox": [
+        240,
+        640,
+        257,
+        662
+      ]
+    },
+    {
+      "label": "Samoa",
+      "value": "50",
+      "value_numeric": 50.0,
+      "element_bbox": [
+        125,
+        447,
+        192,
+        563
+      ],
+      "value_bbox": [
+        200,
+        494,
+        217,
+        516
+      ]
+    },
+    {
+      "label": "Seychelles",
+      "value": "150",
+      "value_numeric": 150.0,
+      "element_bbox": [
+        125,
+        301,
+        326,
+        418
+      ],
+      "value_bbox": [
+        334,
+        348,
+        360,
+        370
+      ]
+    },
+    {
+      "label": "Sierra Leone",
+      "value": "220",
+      "value_numeric": 220.0,
+      "element_bbox": [
+        125,
+        155,
+        420,
+        272
+      ],
+      "value_bbox": [
+        428,
+        203,
+        454,
+        224
+      ]
+    }
+  ]
+}

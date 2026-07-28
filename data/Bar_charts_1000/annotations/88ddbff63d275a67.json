@@ -1,0 +1,61 @@
+{
+  "chart_id": "88ddbff63d275a67",
+  "chart_type": "Bar Chart",
+  "image_width": 1685,
+  "image_height": 1353,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Grants",
+      "value": "8",
+      "value_numeric": 8.0,
+      "element_bbox": [
+        160,
+        727,
+        211,
+        890
+      ],
+      "value_bbox": [
+        179,
+        700,
+        192,
+        727
+      ]
+    },
+    {
+      "label": "Interest",
+      "value": "18",
+      "value_numeric": 18.0,
+      "element_bbox": [
+        412,
+        768,
+        462,
+        890
+      ],
+      "value_bbox": [
+        423,
+        741,
+        451,
+        768
+      ]
+    },
+    {
+      "label": "Taxes",
+      "value": "3",
+      "value_numeric": 3.0,
+      "element_bbox": [
+        663,
+        849,
+        714,
+        890
+      ],
+      "value_bbox": [
+        682,
+        822,
+        695,
+        849
+      ]
+    }
+  ]
+}

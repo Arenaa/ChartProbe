@@ -1,0 +1,78 @@
+{
+  "chart_id": "94dd07dece7cc471",
+  "chart_type": "Bar Chart",
+  "image_width": 2945,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Mexico",
+      "value": "7.5",
+      "value_numeric": 7.5,
+      "element_bbox": [
+        150,
+        690,
+        379,
+        847
+      ],
+      "value_bbox": [
+        387,
+        758,
+        409,
+        779
+      ]
+    },
+    {
+      "label": "Macao",
+      "value": "8.5",
+      "value_numeric": 8.5,
+      "element_bbox": [
+        150,
+        495,
+        409,
+        651
+      ],
+      "value_bbox": [
+        417,
+        562,
+        440,
+        584
+      ]
+    },
+    {
+      "label": "Luxembourg",
+      "value": "7.0",
+      "value_numeric": 7.0,
+      "element_bbox": [
+        150,
+        300,
+        363,
+        456
+      ],
+      "value_bbox": [
+        372,
+        367,
+        394,
+        389
+      ]
+    },
+    {
+      "label": "Lithuania",
+      "value": "26.0",
+      "value_numeric": 26.0,
+      "element_bbox": [
+        150,
+        104,
+        942,
+        261
+      ],
+      "value_bbox": [
+        951,
+        172,
+        982,
+        193
+      ]
+    }
+  ]
+}

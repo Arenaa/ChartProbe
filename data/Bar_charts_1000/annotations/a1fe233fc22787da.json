@@ -1,0 +1,95 @@
+{
+  "chart_id": "a1fe233fc22787da",
+  "chart_type": "Bar Chart",
+  "image_width": 2592,
+  "image_height": 1394,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Bolivia",
+      "value": "63.1",
+      "value_numeric": 63.1,
+      "element_bbox": [
+        141,
+        398,
+        276,
+        818
+      ],
+      "value_bbox": [
+        191,
+        372,
+        226,
+        398
+      ]
+    },
+    {
+      "label": "Finland",
+      "value": "76.0",
+      "value_numeric": 76.0,
+      "element_bbox": [
+        310,
+        312,
+        445,
+        818
+      ],
+      "value_bbox": [
+        361,
+        286,
+        395,
+        312
+      ]
+    },
+    {
+      "label": "Kazakhstan",
+      "value": "98.7",
+      "value_numeric": 98.7,
+      "element_bbox": [
+        479,
+        161,
+        615,
+        818
+      ],
+      "value_bbox": [
+        530,
+        135,
+        564,
+        161
+      ]
+    },
+    {
+      "label": "Sweden",
+      "value": "88.0",
+      "value_numeric": 88.0,
+      "element_bbox": [
+        648,
+        232,
+        784,
+        818
+      ],
+      "value_bbox": [
+        699,
+        206,
+        733,
+        232
+      ]
+    },
+    {
+      "label": "Norway",
+      "value": "85.3",
+      "value_numeric": 85.3,
+      "element_bbox": [
+        818,
+        250,
+        953,
+        818
+      ],
+      "value_bbox": [
+        868,
+        224,
+        902,
+        250
+      ]
+    }
+  ]
+}

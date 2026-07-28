@@ -1,0 +1,95 @@
+{
+  "chart_id": "0c07283da5781df1",
+  "chart_type": "Bar Chart",
+  "image_width": 2658,
+  "image_height": 1660,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "All EU Enterprises (2023)",
+      "value": "100",
+      "value_numeric": 100.0,
+      "element_bbox": [
+        290,
+        156,
+        947,
+        275
+      ],
+      "value_bbox": [
+        954,
+        205,
+        983,
+        226
+      ]
+    },
+    {
+      "label": "Registered Enterprises (2023)",
+      "value": "90",
+      "value_numeric": 90.0,
+      "element_bbox": [
+        290,
+        305,
+        881,
+        423
+      ],
+      "value_bbox": [
+        888,
+        353,
+        908,
+        375
+      ]
+    },
+    {
+      "label": "Active Enterprises (2023)",
+      "value": "78",
+      "value_numeric": 78.0,
+      "element_bbox": [
+        290,
+        453,
+        802,
+        572
+      ],
+      "value_bbox": [
+        809,
+        502,
+        829,
+        523
+      ]
+    },
+    {
+      "label": "Emerging Enterprises (2023)",
+      "value": "7",
+      "value_numeric": 7.0,
+      "element_bbox": [
+        290,
+        602,
+        336,
+        720
+      ],
+      "value_bbox": [
+        342,
+        650,
+        352,
+        672
+      ]
+    },
+    {
+      "label": "Fraudulent Enterprises (2023)",
+      "value": "3",
+      "value_numeric": 3.0,
+      "element_bbox": [
+        290,
+        750,
+        309,
+        869
+      ],
+      "value_bbox": [
+        316,
+        799,
+        326,
+        820
+      ]
+    }
+  ]
+}

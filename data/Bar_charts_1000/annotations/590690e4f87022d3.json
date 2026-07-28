@@ -1,0 +1,112 @@
+{
+  "chart_id": "590690e4f87022d3",
+  "chart_type": "Bar Chart",
+  "image_width": 2646,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Bangladesh",
+      "value": "3110",
+      "value_numeric": 3110.0,
+      "element_bbox": [
+        118,
+        128,
+        235,
+        884
+      ],
+      "value_bbox": [
+        157,
+        106,
+        196,
+        128
+      ]
+    },
+    {
+      "label": "Greece",
+      "value": "172",
+      "value_numeric": 172.0,
+      "element_bbox": [
+        264,
+        842,
+        381,
+        884
+      ],
+      "value_bbox": [
+        308,
+        820,
+        337,
+        842
+      ]
+    },
+    {
+      "label": "India",
+      "value": "2025",
+      "value_numeric": 2025.0,
+      "element_bbox": [
+        410,
+        391,
+        527,
+        884
+      ],
+      "value_bbox": [
+        449,
+        370,
+        488,
+        391
+      ]
+    },
+    {
+      "label": "Nepal",
+      "value": "645",
+      "value_numeric": 645.0,
+      "element_bbox": [
+        556,
+        727,
+        673,
+        884
+      ],
+      "value_bbox": [
+        600,
+        705,
+        629,
+        727
+      ]
+    },
+    {
+      "label": "Pakistan",
+      "value": "1312",
+      "value_numeric": 1312.0,
+      "element_bbox": [
+        703,
+        565,
+        819,
+        884
+      ],
+      "value_bbox": [
+        742,
+        543,
+        780,
+        565
+      ]
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "912",
+      "value_numeric": 912.0,
+      "element_bbox": [
+        849,
+        662,
+        965,
+        884
+      ],
+      "value_bbox": [
+        892,
+        640,
+        921,
+        662
+      ]
+    }
+  ]
+}

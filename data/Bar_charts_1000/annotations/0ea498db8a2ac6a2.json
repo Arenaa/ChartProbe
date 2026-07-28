@@ -1,0 +1,197 @@
+{
+  "chart_id": "0ea498db8a2ac6a2",
+  "chart_type": "Bar Chart",
+  "image_width": 2956,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Hydrogen",
+      "value": "0.04",
+      "value_numeric": 0.04,
+      "element_bbox": [
+        219,
+        97,
+        240,
+        155
+      ],
+      "value_bbox": [
+        214,
+        133,
+        245,
+        155
+      ]
+    },
+    {
+      "label": "Electric",
+      "value": "0.04",
+      "value_numeric": 0.04,
+      "element_bbox": [
+        219,
+        169,
+        241,
+        227
+      ],
+      "value_bbox": [
+        215,
+        205,
+        246,
+        227
+      ]
+    },
+    {
+      "label": "Bioethanol",
+      "value": "0.10",
+      "value_numeric": 0.1,
+      "element_bbox": [
+        219,
+        241,
+        276,
+        299
+      ],
+      "value_bbox": [
+        232,
+        277,
+        263,
+        299
+      ]
+    },
+    {
+      "label": "E-fuel",
+      "value": "0.17",
+      "value_numeric": 0.17,
+      "element_bbox": [
+        219,
+        313,
+        318,
+        371
+      ],
+      "value_bbox": [
+        253,
+        350,
+        284,
+        371
+      ]
+    },
+    {
+      "label": "Synthetic",
+      "value": "0.20",
+      "value_numeric": 0.2,
+      "element_bbox": [
+        219,
+        386,
+        332,
+        443
+      ],
+      "value_bbox": [
+        260,
+        422,
+        291,
+        443
+      ]
+    },
+    {
+      "label": "CNG",
+      "value": "0.23",
+      "value_numeric": 0.23,
+      "element_bbox": [
+        219,
+        458,
+        354,
+        516
+      ],
+      "value_bbox": [
+        271,
+        494,
+        302,
+        516
+      ]
+    },
+    {
+      "label": "LPG",
+      "value": "0.36",
+      "value_numeric": 0.36,
+      "element_bbox": [
+        219,
+        530,
+        427,
+        588
+      ],
+      "value_bbox": [
+        308,
+        566,
+        339,
+        588
+      ]
+    },
+    {
+      "label": "Renewable Biofuel (RBF)",
+      "value": "1.10",
+      "value_numeric": 1.1,
+      "element_bbox": [
+        219,
+        602,
+        849,
+        660
+      ],
+      "value_bbox": [
+        856,
+        620,
+        887,
+        642
+      ]
+    },
+    {
+      "label": "Diesel",
+      "value": "1.15",
+      "value_numeric": 1.15,
+      "element_bbox": [
+        219,
+        674,
+        878,
+        732
+      ],
+      "value_bbox": [
+        885,
+        692,
+        916,
+        714
+      ]
+    },
+    {
+      "label": "Kerosene",
+      "value": "1.20",
+      "value_numeric": 1.2,
+      "element_bbox": [
+        219,
+        747,
+        903,
+        804
+      ],
+      "value_bbox": [
+        910,
+        765,
+        941,
+        786
+      ]
+    },
+    {
+      "label": "Gasoline",
+      "value": "1.22",
+      "value_numeric": 1.22,
+      "element_bbox": [
+        219,
+        819,
+        915,
+        877
+      ],
+      "value_bbox": [
+        922,
+        837,
+        953,
+        858
+      ]
+    }
+  ]
+}

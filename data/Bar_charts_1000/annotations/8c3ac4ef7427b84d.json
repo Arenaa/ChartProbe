@@ -1,0 +1,146 @@
+{
+  "chart_id": "8c3ac4ef7427b84d",
+  "chart_type": "Bar Chart",
+  "image_width": 2930,
+  "image_height": 1764,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Corruption Perception",
+      "value": "2.77",
+      "value_numeric": 2.77,
+      "element_bbox": [
+        114,
+        327,
+        199,
+        637
+      ],
+      "value_bbox": [
+        141,
+        306,
+        172,
+        327
+      ]
+    },
+    {
+      "label": "Digital Inclusion",
+      "value": "3.20",
+      "value_numeric": 3.2,
+      "element_bbox": [
+        220,
+        280,
+        305,
+        637
+      ],
+      "value_bbox": [
+        247,
+        258,
+        278,
+        280
+      ]
+    },
+    {
+      "label": "Environmental Sustainability",
+      "value": "3.27",
+      "value_numeric": 3.27,
+      "element_bbox": [
+        327,
+        272,
+        412,
+        637
+      ],
+      "value_bbox": [
+        354,
+        250,
+        385,
+        272
+      ]
+    },
+    {
+      "label": "Governance Quality",
+      "value": "3.55",
+      "value_numeric": 3.55,
+      "element_bbox": [
+        433,
+        240,
+        518,
+        637
+      ],
+      "value_bbox": [
+        460,
+        218,
+        491,
+        240
+      ]
+    },
+    {
+      "label": "Institutional Transparency",
+      "value": "3.33",
+      "value_numeric": 3.33,
+      "element_bbox": [
+        539,
+        265,
+        624,
+        637
+      ],
+      "value_bbox": [
+        567,
+        244,
+        597,
+        265
+      ]
+    },
+    {
+      "label": "Public Participation",
+      "value": "3.29",
+      "value_numeric": 3.29,
+      "element_bbox": [
+        646,
+        269,
+        731,
+        637
+      ],
+      "value_bbox": [
+        673,
+        247,
+        704,
+        269
+      ]
+    },
+    {
+      "label": "Social Equity & Inclusion",
+      "value": "3.38",
+      "value_numeric": 3.38,
+      "element_bbox": [
+        752,
+        260,
+        837,
+        637
+      ],
+      "value_bbox": [
+        779,
+        238,
+        810,
+        260
+      ]
+    },
+    {
+      "label": "Structural Policies",
+      "value": "3.67",
+      "value_numeric": 3.67,
+      "element_bbox": [
+        858,
+        227,
+        944,
+        637
+      ],
+      "value_bbox": [
+        886,
+        205,
+        916,
+        227
+      ]
+    }
+  ]
+}

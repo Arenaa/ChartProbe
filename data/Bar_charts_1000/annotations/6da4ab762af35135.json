@@ -1,0 +1,78 @@
+{
+  "chart_id": "6da4ab762af35135",
+  "chart_type": "Bar Chart",
+  "image_width": 2582,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Colombia",
+      "value": "5",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        160,
+        615,
+        309,
+        890
+      ],
+      "value_bbox": [
+        230,
+        593,
+        239,
+        615
+      ]
+    },
+    {
+      "label": "Kenya",
+      "value": "12.5",
+      "value_numeric": 12.5,
+      "element_bbox": [
+        346,
+        203,
+        494,
+        890
+      ],
+      "value_bbox": [
+        404,
+        181,
+        435,
+        203
+      ]
+    },
+    {
+      "label": "Kyrgyz Republic",
+      "value": "12.5",
+      "value_numeric": 12.5,
+      "element_bbox": [
+        531,
+        203,
+        679,
+        890
+      ],
+      "value_bbox": [
+        590,
+        181,
+        621,
+        203
+      ]
+    },
+    {
+      "label": "Lao PDR",
+      "value": "9",
+      "value_numeric": 9.0,
+      "element_bbox": [
+        716,
+        395,
+        865,
+        890
+      ],
+      "value_bbox": [
+        786,
+        373,
+        795,
+        395
+      ]
+    }
+  ]
+}

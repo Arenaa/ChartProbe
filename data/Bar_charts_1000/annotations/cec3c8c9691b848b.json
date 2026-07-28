@@ -1,0 +1,112 @@
+{
+  "chart_id": "cec3c8c9691b848b",
+  "chart_type": "Bar Chart",
+  "image_width": 3548,
+  "image_height": 2342,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Low income",
+      "value": "36",
+      "value_numeric": 36.0,
+      "element_bbox": [
+        334,
+        847,
+        824,
+        874
+      ],
+      "value_bbox": [
+        830,
+        852,
+        844,
+        868
+      ]
+    },
+    {
+      "label": "Lower middle income",
+      "value": "34",
+      "value_numeric": 34.0,
+      "element_bbox": [
+        334,
+        711,
+        862,
+        738
+      ],
+      "value_bbox": [
+        869,
+        717,
+        883,
+        733
+      ]
+    },
+    {
+      "label": "Middle East & North Africa (all income levels)",
+      "value": "33",
+      "value_numeric": 33.0,
+      "element_bbox": [
+        334,
+        576,
+        849,
+        603
+      ],
+      "value_bbox": [
+        856,
+        582,
+        870,
+        598
+      ]
+    },
+    {
+      "label": "Middle East & North Africa (developing only)",
+      "value": "33",
+      "value_numeric": 33.0,
+      "element_bbox": [
+        334,
+        441,
+        875,
+        468
+      ],
+      "value_bbox": [
+        881,
+        446,
+        896,
+        463
+      ]
+    },
+    {
+      "label": "Middle income",
+      "value": "45",
+      "value_numeric": 45.0,
+      "element_bbox": [
+        334,
+        306,
+        939,
+        333
+      ],
+      "value_bbox": [
+        946,
+        311,
+        960,
+        328
+      ]
+    },
+    {
+      "label": "OECD members",
+      "value": "46",
+      "value_numeric": 46.0,
+      "element_bbox": [
+        334,
+        171,
+        952,
+        198
+      ],
+      "value_bbox": [
+        959,
+        176,
+        973,
+        192
+      ]
+    }
+  ]
+}

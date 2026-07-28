@@ -1,0 +1,95 @@
+{
+  "chart_id": "fcaab6f77e4fe886",
+  "chart_type": "Bar Chart",
+  "image_width": 2605,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Cuba",
+      "value": "300",
+      "value_numeric": 300.0,
+      "element_bbox": [
+        160,
+        827,
+        278,
+        890
+      ],
+      "value_bbox": [
+        206,
+        805,
+        232,
+        827
+      ]
+    },
+    {
+      "label": "Colombia",
+      "value": "3500",
+      "value_numeric": 3500.0,
+      "element_bbox": [
+        307,
+        157,
+        424,
+        890
+      ],
+      "value_bbox": [
+        348,
+        135,
+        383,
+        157
+      ]
+    },
+    {
+      "label": "Comoros",
+      "value": "700",
+      "value_numeric": 700.0,
+      "element_bbox": [
+        454,
+        743,
+        571,
+        890
+      ],
+      "value_bbox": [
+        499,
+        722,
+        526,
+        743
+      ]
+    },
+    {
+      "label": "Congo (Democratic)",
+      "value": "200",
+      "value_numeric": 200.0,
+      "element_bbox": [
+        601,
+        848,
+        718,
+        890
+      ],
+      "value_bbox": [
+        646,
+        826,
+        672,
+        848
+      ]
+    },
+    {
+      "label": "Congo (Republic)",
+      "value": "500",
+      "value_numeric": 500.0,
+      "element_bbox": [
+        747,
+        785,
+        865,
+        890
+      ],
+      "value_bbox": [
+        793,
+        764,
+        819,
+        785
+      ]
+    }
+  ]
+}

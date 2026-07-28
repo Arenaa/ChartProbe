@@ -1,0 +1,129 @@
+{
+  "chart_id": "0b346e11bd763e62",
+  "chart_type": "Bar Chart",
+  "image_width": 2495,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "1980",
+      "value": "71.2",
+      "value_numeric": 71.2,
+      "element_bbox": [
+        83,
+        108,
+        120,
+        884
+      ],
+      "value_bbox": [
+        86,
+        86,
+        117,
+        108
+      ]
+    },
+    {
+      "label": "1982",
+      "value": "68.5",
+      "value_numeric": 68.5,
+      "element_bbox": [
+        175,
+        139,
+        211,
+        884
+      ],
+      "value_bbox": [
+        178,
+        118,
+        208,
+        139
+      ]
+    },
+    {
+      "label": "1985",
+      "value": "68.5",
+      "value_numeric": 68.5,
+      "element_bbox": [
+        266,
+        139,
+        303,
+        884
+      ],
+      "value_bbox": [
+        269,
+        118,
+        300,
+        139
+      ]
+    },
+    {
+      "label": "1990",
+      "value": "66.1",
+      "value_numeric": 66.1,
+      "element_bbox": [
+        357,
+        167,
+        394,
+        884
+      ],
+      "value_bbox": [
+        360,
+        146,
+        391,
+        167
+      ]
+    },
+    {
+      "label": "1995",
+      "value": "63.8",
+      "value_numeric": 63.8,
+      "element_bbox": [
+        449,
+        195,
+        485,
+        884
+      ],
+      "value_bbox": [
+        452,
+        173,
+        482,
+        195
+      ]
+    },
+    {
+      "label": "2000",
+      "value": "62.0",
+      "value_numeric": 62.0,
+      "element_bbox": [
+        540,
+        214,
+        577,
+        884
+      ],
+      "value_bbox": [
+        543,
+        192,
+        574,
+        214
+      ]
+    },
+    {
+      "label": "2005",
+      "value": "60.9",
+      "value_numeric": 60.9,
+      "element_bbox": [
+        632,
+        228,
+        668,
+        884
+      ],
+      "value_bbox": [
+        635,
+        206,
+        665,
+        228
+      ]
+    }
+  ]
+}

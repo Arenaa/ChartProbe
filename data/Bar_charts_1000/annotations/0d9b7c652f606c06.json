@@ -1,0 +1,78 @@
+{
+  "chart_id": "0d9b7c652f606c06",
+  "chart_type": "Bar Chart",
+  "image_width": 2947,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Eastern Europe",
+      "value": "13.20",
+      "value_numeric": 13.2,
+      "element_bbox": [
+        111,
+        393,
+        290,
+        884
+      ],
+      "value_bbox": [
+        180,
+        371,
+        220,
+        393
+      ]
+    },
+    {
+      "label": "Northern Europe",
+      "value": "20.34",
+      "value_numeric": 20.34,
+      "element_bbox": [
+        334,
+        128,
+        513,
+        884
+      ],
+      "value_bbox": [
+        404,
+        106,
+        443,
+        128
+      ]
+    },
+    {
+      "label": "Southern Europe",
+      "value": "14.16",
+      "value_numeric": 14.16,
+      "element_bbox": [
+        558,
+        357,
+        736,
+        884
+      ],
+      "value_bbox": [
+        627,
+        336,
+        667,
+        357
+      ]
+    },
+    {
+      "label": "Western Europe",
+      "value": "17.08",
+      "value_numeric": 17.08,
+      "element_bbox": [
+        781,
+        249,
+        960,
+        884
+      ],
+      "value_bbox": [
+        850,
+        227,
+        890,
+        249
+      ]
+    }
+  ]
+}

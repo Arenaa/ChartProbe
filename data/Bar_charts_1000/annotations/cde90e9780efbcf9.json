@@ -1,0 +1,112 @@
+{
+  "chart_id": "cde90e9780efbcf9",
+  "chart_type": "Bar Chart",
+  "image_width": 2576,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Sudan",
+      "value": "35.8",
+      "value_numeric": 35.8,
+      "element_bbox": [
+        160,
+        661,
+        191,
+        890
+      ],
+      "value_bbox": [
+        160,
+        640,
+        191,
+        661
+      ]
+    },
+    {
+      "label": "Suriname",
+      "value": "93.8",
+      "value_numeric": 93.8,
+      "element_bbox": [
+        283,
+        157,
+        313,
+        890
+      ],
+      "value_bbox": [
+        283,
+        135,
+        313,
+        157
+      ]
+    },
+    {
+      "label": "Swaziland",
+      "value": "94.2",
+      "value_numeric": 94.2,
+      "element_bbox": [
+        405,
+        212,
+        436,
+        890
+      ],
+      "value_bbox": [
+        405,
+        191,
+        436,
+        212
+      ]
+    },
+    {
+      "label": "Sweden",
+      "value": "35.2",
+      "value_numeric": 35.2,
+      "element_bbox": [
+        528,
+        632,
+        558,
+        890
+      ],
+      "value_bbox": [
+        528,
+        610,
+        559,
+        632
+      ]
+    },
+    {
+      "label": "Thailand",
+      "value": "32.7",
+      "value_numeric": 32.7,
+      "element_bbox": [
+        650,
+        662,
+        681,
+        890
+      ],
+      "value_bbox": [
+        650,
+        641,
+        681,
+        662
+      ]
+    },
+    {
+      "label": "Togo",
+      "value": "34.9",
+      "value_numeric": 34.9,
+      "element_bbox": [
+        773,
+        647,
+        804,
+        890
+      ],
+      "value_bbox": [
+        773,
+        626,
+        804,
+        647
+      ]
+    }
+  ]
+}

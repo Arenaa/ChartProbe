@@ -1,0 +1,95 @@
+{
+  "chart_id": "2e5379a46a137889",
+  "chart_type": "Bar Chart",
+  "image_width": 2347,
+  "image_height": 1446,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Northern",
+      "value": "0.51",
+      "value_numeric": 0.51,
+      "element_bbox": [
+        134,
+        860,
+        272,
+        860
+      ],
+      "value_bbox": [
+        279,
+        847,
+        318,
+        873
+      ]
+    },
+    {
+      "label": "Western",
+      "value": "436.99",
+      "value_numeric": 436.99,
+      "element_bbox": [
+        306,
+        545,
+        444,
+        860
+      ],
+      "value_bbox": [
+        345,
+        519,
+        405,
+        545
+      ]
+    },
+    {
+      "label": "Central Region",
+      "value": "278.49",
+      "value_numeric": 278.49,
+      "element_bbox": [
+        478,
+        659,
+        616,
+        860
+      ],
+      "value_bbox": [
+        517,
+        633,
+        577,
+        659
+      ]
+    },
+    {
+      "label": "Eastern",
+      "value": "589.37",
+      "value_numeric": 589.37,
+      "element_bbox": [
+        650,
+        434,
+        788,
+        860
+      ],
+      "value_bbox": [
+        689,
+        408,
+        749,
+        434
+      ]
+    },
+    {
+      "label": "Southern",
+      "value": "991.76",
+      "value_numeric": 991.76,
+      "element_bbox": [
+        823,
+        144,
+        960,
+        860
+      ],
+      "value_bbox": [
+        861,
+        118,
+        921,
+        144
+      ]
+    }
+  ]
+}

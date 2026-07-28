@@ -1,0 +1,112 @@
+{
+  "chart_id": "1f8d0c8a67cc355b",
+  "chart_type": "Bar Chart",
+  "image_width": 2944,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Monaco",
+      "value": "66.7",
+      "value_numeric": 66.7,
+      "element_bbox": [
+        152,
+        814,
+        940,
+        847
+      ],
+      "value_bbox": [
+        949,
+        820,
+        979,
+        841
+      ]
+    },
+    {
+      "label": "Mongolia",
+      "value": "0.2",
+      "value_numeric": 0.2,
+      "element_bbox": [
+        152,
+        685,
+        155,
+        718
+      ],
+      "value_bbox": [
+        142,
+        664,
+        165,
+        685
+      ]
+    },
+    {
+      "label": "Morocco",
+      "value": "1.3",
+      "value_numeric": 1.3,
+      "element_bbox": [
+        152,
+        556,
+        185,
+        588
+      ],
+      "value_bbox": [
+        193,
+        561,
+        216,
+        583
+      ]
+    },
+    {
+      "label": "Mozambique",
+      "value": "0",
+      "value_numeric": 0.0,
+      "element_bbox": [
+        152,
+        427,
+        154,
+        459
+      ],
+      "value_bbox": [
+        149,
+        405,
+        157,
+        427
+      ]
+    },
+    {
+      "label": "Myanmar",
+      "value": "1.0",
+      "value_numeric": 1.0,
+      "element_bbox": [
+        152,
+        298,
+        164,
+        330
+      ],
+      "value_bbox": [
+        172,
+        303,
+        195,
+        325
+      ]
+    },
+    {
+      "label": "Namibia",
+      "value": "6.3",
+      "value_numeric": 6.3,
+      "element_bbox": [
+        152,
+        169,
+        220,
+        201
+      ],
+      "value_bbox": [
+        229,
+        174,
+        251,
+        196
+      ]
+    }
+  ]
+}

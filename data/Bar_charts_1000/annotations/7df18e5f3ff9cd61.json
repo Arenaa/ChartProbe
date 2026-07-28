@@ -1,0 +1,95 @@
+{
+  "chart_id": "7df18e5f3ff9cd61",
+  "chart_type": "Bar Chart",
+  "image_width": 2568,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Low & middle income",
+      "value": "2.5e7",
+      "value_numeric": 25000000.0,
+      "element_bbox": [
+        160,
+        855,
+        278,
+        1000
+      ],
+      "value_bbox": [
+        199,
+        833,
+        239,
+        855
+      ]
+    },
+    {
+      "label": "Middle income",
+      "value": "2.5e7",
+      "value_numeric": 25000000.0,
+      "element_bbox": [
+        307,
+        855,
+        424,
+        1000
+      ],
+      "value_bbox": [
+        346,
+        833,
+        385,
+        855
+      ]
+    },
+    {
+      "label": "North America",
+      "value": "1.5e8",
+      "value_numeric": 150000000.0,
+      "element_bbox": [
+        454,
+        605,
+        571,
+        1000
+      ],
+      "value_bbox": [
+        493,
+        583,
+        532,
+        605
+      ]
+    },
+    {
+      "label": "OECD members",
+      "value": "3.75e9",
+      "value_numeric": 3750000000.0,
+      "element_bbox": [
+        601,
+        155,
+        718,
+        1000
+      ],
+      "value_bbox": [
+        635,
+        133,
+        683,
+        155
+      ]
+    },
+    {
+      "label": "Upper middle income",
+      "value": "2.5e7",
+      "value_numeric": 25000000.0,
+      "element_bbox": [
+        747,
+        855,
+        865,
+        1000
+      ],
+      "value_bbox": [
+        786,
+        833,
+        826,
+        855
+      ]
+    }
+  ]
+}

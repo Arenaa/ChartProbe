@@ -1,0 +1,282 @@
+{
+  "chart_id": "39a8857d6dc42874",
+  "chart_type": "Bar Chart",
+  "image_width": 3546,
+  "image_height": 2344,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Japan",
+      "value": "930.0",
+      "value_numeric": 930.0,
+      "element_bbox": [
+        111,
+        101,
+        154,
+        780
+      ],
+      "value_bbox": [
+        116,
+        85,
+        149,
+        101
+      ]
+    },
+    {
+      "label": "Germany",
+      "value": "815.0",
+      "value_numeric": 815.0,
+      "element_bbox": [
+        164,
+        185,
+        206,
+        780
+      ],
+      "value_bbox": [
+        169,
+        169,
+        202,
+        185
+      ]
+    },
+    {
+      "label": "France",
+      "value": "802.5",
+      "value_numeric": 802.5,
+      "element_bbox": [
+        217,
+        194,
+        259,
+        780
+      ],
+      "value_bbox": [
+        221,
+        178,
+        254,
+        194
+      ]
+    },
+    {
+      "label": "United Kingdom",
+      "value": "777.5",
+      "value_numeric": 777.5,
+      "element_bbox": [
+        269,
+        212,
+        311,
+        780
+      ],
+      "value_bbox": [
+        274,
+        196,
+        307,
+        212
+      ]
+    },
+    {
+      "label": "Canada",
+      "value": "725.0",
+      "value_numeric": 725.0,
+      "element_bbox": [
+        322,
+        251,
+        364,
+        780
+      ],
+      "value_bbox": [
+        327,
+        235,
+        360,
+        251
+      ]
+    },
+    {
+      "label": "New Zealand",
+      "value": "635.0",
+      "value_numeric": 635.0,
+      "element_bbox": [
+        375,
+        316,
+        417,
+        780
+      ],
+      "value_bbox": [
+        379,
+        300,
+        412,
+        316
+      ]
+    },
+    {
+      "label": "Australia",
+      "value": "615.0",
+      "value_numeric": 615.0,
+      "element_bbox": [
+        427,
+        331,
+        469,
+        780
+      ],
+      "value_bbox": [
+        432,
+        315,
+        465,
+        331
+      ]
+    },
+    {
+      "label": "Norway",
+      "value": "558.8",
+      "value_numeric": 558.8,
+      "element_bbox": [
+        480,
+        372,
+        522,
+        780
+      ],
+      "value_bbox": [
+        485,
+        356,
+        518,
+        372
+      ]
+    },
+    {
+      "label": "Botswana",
+      "value": "339.8",
+      "value_numeric": 339.8,
+      "element_bbox": [
+        533,
+        532,
+        575,
+        780
+      ],
+      "value_bbox": [
+        537,
+        516,
+        570,
+        532
+      ]
+    },
+    {
+      "label": "South Africa",
+      "value": "303.8",
+      "value_numeric": 303.8,
+      "element_bbox": [
+        585,
+        558,
+        627,
+        780
+      ],
+      "value_bbox": [
+        590,
+        542,
+        623,
+        558
+      ]
+    },
+    {
+      "label": "Iceland",
+      "value": "218.5",
+      "value_numeric": 218.5,
+      "element_bbox": [
+        638,
+        620,
+        680,
+        780
+      ],
+      "value_bbox": [
+        643,
+        604,
+        676,
+        620
+      ]
+    },
+    {
+      "label": "Sweden",
+      "value": "163.8",
+      "value_numeric": 163.8,
+      "element_bbox": [
+        691,
+        660,
+        733,
+        780
+      ],
+      "value_bbox": [
+        695,
+        644,
+        728,
+        660
+      ]
+    },
+    {
+      "label": "Denmark",
+      "value": "154.8",
+      "value_numeric": 154.8,
+      "element_bbox": [
+        743,
+        667,
+        785,
+        780
+      ],
+      "value_bbox": [
+        748,
+        651,
+        781,
+        667
+      ]
+    },
+    {
+      "label": "Finland",
+      "value": "152.2",
+      "value_numeric": 152.2,
+      "element_bbox": [
+        796,
+        669,
+        838,
+        780
+      ],
+      "value_bbox": [
+        800,
+        652,
+        834,
+        669
+      ]
+    },
+    {
+      "label": "Kenya",
+      "value": "63.2",
+      "value_numeric": 63.2,
+      "element_bbox": [
+        849,
+        734,
+        891,
+        780
+      ],
+      "value_bbox": [
+        857,
+        717,
+        882,
+        734
+      ]
+    },
+    {
+      "label": "Sao Tome & Principe",
+      "value": "0.5",
+      "value_numeric": 0.5,
+      "element_bbox": [
+        901,
+        779,
+        943,
+        780
+      ],
+      "value_bbox": [
+        952,
+        771,
+        970,
+        788
+      ]
+    }
+  ]
+}

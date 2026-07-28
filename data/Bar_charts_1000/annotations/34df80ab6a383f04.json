@@ -1,0 +1,78 @@
+{
+  "chart_id": "34df80ab6a383f04",
+  "chart_type": "Bar Chart",
+  "image_width": 2547,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "North America",
+      "value": "16",
+      "value_numeric": 16.0,
+      "element_bbox": [
+        160,
+        294,
+        207,
+        890
+      ],
+      "value_bbox": [
+        175,
+        273,
+        192,
+        294
+      ]
+    },
+    {
+      "label": "Australia",
+      "value": "14.5",
+      "value_numeric": 14.5,
+      "element_bbox": [
+        348,
+        248,
+        395,
+        890
+      ],
+      "value_bbox": [
+        356,
+        227,
+        387,
+        248
+      ]
+    },
+    {
+      "label": "Canada",
+      "value": "15.5",
+      "value_numeric": 15.5,
+      "element_bbox": [
+        536,
+        340,
+        583,
+        890
+      ],
+      "value_bbox": [
+        544,
+        318,
+        575,
+        340
+      ]
+    },
+    {
+      "label": "Finland",
+      "value": "10",
+      "value_numeric": 10.0,
+      "element_bbox": [
+        724,
+        500,
+        771,
+        890
+      ],
+      "value_bbox": [
+        739,
+        479,
+        756,
+        500
+      ]
+    }
+  ]
+}

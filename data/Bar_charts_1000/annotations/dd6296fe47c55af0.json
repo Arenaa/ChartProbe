@@ -1,0 +1,282 @@
+{
+  "chart_id": "dd6296fe47c55af0",
+  "chart_type": "Bar Chart",
+  "image_width": 3546,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "2009",
+      "value": "390",
+      "value_numeric": 390.0,
+      "element_bbox": [
+        82,
+        129,
+        105,
+        832
+      ],
+      "value_bbox": [
+        83,
+        108,
+        105,
+        129
+      ]
+    },
+    {
+      "label": "2010",
+      "value": "368",
+      "value_numeric": 368.0,
+      "element_bbox": [
+        139,
+        170,
+        162,
+        832
+      ],
+      "value_bbox": [
+        140,
+        148,
+        161,
+        170
+      ]
+    },
+    {
+      "label": "2011",
+      "value": "350",
+      "value_numeric": 350.0,
+      "element_bbox": [
+        196,
+        203,
+        219,
+        832
+      ],
+      "value_bbox": [
+        196,
+        181,
+        218,
+        203
+      ]
+    },
+    {
+      "label": "2012",
+      "value": "330",
+      "value_numeric": 330.0,
+      "element_bbox": [
+        253,
+        243,
+        275,
+        832
+      ],
+      "value_bbox": [
+        253,
+        221,
+        275,
+        243
+      ]
+    },
+    {
+      "label": "2013",
+      "value": "312",
+      "value_numeric": 312.0,
+      "element_bbox": [
+        309,
+        276,
+        332,
+        832
+      ],
+      "value_bbox": [
+        310,
+        254,
+        332,
+        276
+      ]
+    },
+    {
+      "label": "2014",
+      "value": "294",
+      "value_numeric": 294.0,
+      "element_bbox": [
+        366,
+        305,
+        389,
+        832
+      ],
+      "value_bbox": [
+        367,
+        283,
+        388,
+        305
+      ]
+    },
+    {
+      "label": "2015",
+      "value": "270",
+      "value_numeric": 270.0,
+      "element_bbox": [
+        423,
+        353,
+        446,
+        832
+      ],
+      "value_bbox": [
+        423,
+        331,
+        445,
+        353
+      ]
+    },
+    {
+      "label": "2016",
+      "value": "250",
+      "value_numeric": 250.0,
+      "element_bbox": [
+        480,
+        389,
+        502,
+        832
+      ],
+      "value_bbox": [
+        480,
+        367,
+        502,
+        389
+      ]
+    },
+    {
+      "label": "2017",
+      "value": "230",
+      "value_numeric": 230.0,
+      "element_bbox": [
+        537,
+        426,
+        559,
+        832
+      ],
+      "value_bbox": [
+        537,
+        404,
+        559,
+        426
+      ]
+    },
+    {
+      "label": "2018",
+      "value": "210",
+      "value_numeric": 210.0,
+      "element_bbox": [
+        593,
+        462,
+        616,
+        832
+      ],
+      "value_bbox": [
+        594,
+        441,
+        616,
+        462
+      ]
+    },
+    {
+      "label": "2019",
+      "value": "190",
+      "value_numeric": 190.0,
+      "element_bbox": [
+        650,
+        499,
+        673,
+        832
+      ],
+      "value_bbox": [
+        651,
+        477,
+        672,
+        499
+      ]
+    },
+    {
+      "label": "2020",
+      "value": "176",
+      "value_numeric": 176.0,
+      "element_bbox": [
+        707,
+        524,
+        730,
+        832
+      ],
+      "value_bbox": [
+        707,
+        503,
+        729,
+        524
+      ]
+    },
+    {
+      "label": "2021",
+      "value": "160",
+      "value_numeric": 160.0,
+      "element_bbox": [
+        764,
+        554,
+        786,
+        832
+      ],
+      "value_bbox": [
+        764,
+        532,
+        786,
+        554
+      ]
+    },
+    {
+      "label": "2022",
+      "value": "150",
+      "value_numeric": 150.0,
+      "element_bbox": [
+        820,
+        572,
+        843,
+        832
+      ],
+      "value_bbox": [
+        821,
+        550,
+        843,
+        572
+      ]
+    },
+    {
+      "label": "2023",
+      "value": "140",
+      "value_numeric": 140.0,
+      "element_bbox": [
+        877,
+        590,
+        900,
+        832
+      ],
+      "value_bbox": [
+        878,
+        569,
+        899,
+        590
+      ]
+    },
+    {
+      "label": "2024",
+      "value": "135",
+      "value_numeric": 135.0,
+      "element_bbox": [
+        934,
+        603,
+        957,
+        832
+      ],
+      "value_bbox": [
+        934,
+        581,
+        956,
+        603
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "chart_id": "d0222e306a366459",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1745,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Fiji",
+      "value": "37.19",
+      "value_numeric": 37.19,
+      "element_bbox": [
+        115,
+        235,
+        212,
+        794
+      ],
+      "value_bbox": [
+        144,
+        214,
+        184,
+        235
+      ]
+    },
+    {
+      "label": "Gambia",
+      "value": "44.66",
+      "value_numeric": 44.66,
+      "element_bbox": [
+        237,
+        123,
+        334,
+        794
+      ],
+      "value_bbox": [
+        266,
+        102,
+        305,
+        123
+      ]
+    },
+    {
+      "label": "Mauritius",
+      "value": "38.29",
+      "value_numeric": 38.29,
+      "element_bbox": [
+        358,
+        219,
+        455,
+        794
+      ],
+      "value_bbox": [
+        387,
+        197,
+        426,
+        219
+      ]
+    },
+    {
+      "label": "Seychelles",
+      "value": "41.30",
+      "value_numeric": 41.3,
+      "element_bbox": [
+        480,
+        174,
+        577,
+        794
+      ],
+      "value_bbox": [
+        508,
+        152,
+        548,
+        174
+      ]
+    },
+    {
+      "label": "St. Kitts",
+      "value": "42.50",
+      "value_numeric": 42.5,
+      "element_bbox": [
+        601,
+        156,
+        698,
+        794
+      ],
+      "value_bbox": [
+        630,
+        134,
+        669,
+        156
+      ]
+    },
+    {
+      "label": "Turks & Caicos",
+      "value": "36.37",
+      "value_numeric": 36.37,
+      "element_bbox": [
+        722,
+        248,
+        819,
+        794
+      ],
+      "value_bbox": [
+        751,
+        226,
+        790,
+        248
+      ]
+    },
+    {
+      "label": "Vanuatu",
+      "value": "36.24",
+      "value_numeric": 36.24,
+      "element_bbox": [
+        844,
+        250,
+        941,
+        794
+      ],
+      "value_bbox": [
+        872,
+        228,
+        912,
+        250
+      ]
+    }
+  ]
+}

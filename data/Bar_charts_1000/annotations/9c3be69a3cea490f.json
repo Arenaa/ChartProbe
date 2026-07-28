@@ -1,0 +1,163 @@
+{
+  "chart_id": "9c3be69a3cea490f",
+  "chart_type": "Bar Chart",
+  "image_width": 3546,
+  "image_height": 2052,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Andorra",
+      "value": "98.38",
+      "value_numeric": 98.38,
+      "element_bbox": [
+        80,
+        181,
+        161,
+        833
+      ],
+      "value_bbox": [
+        104,
+        163,
+        137,
+        181
+      ]
+    },
+    {
+      "label": "Namibia",
+      "value": "99.22",
+      "value_numeric": 99.22,
+      "element_bbox": [
+        182,
+        176,
+        263,
+        833
+      ],
+      "value_bbox": [
+        206,
+        157,
+        239,
+        176
+      ]
+    },
+    {
+      "label": "Kenya (East Africa)",
+      "value": "92.92",
+      "value_numeric": 92.92,
+      "element_bbox": [
+        283,
+        217,
+        365,
+        833
+      ],
+      "value_bbox": [
+        307,
+        199,
+        340,
+        217
+      ]
+    },
+    {
+      "label": "Ethiopia",
+      "value": "82.00",
+      "value_numeric": 82.0,
+      "element_bbox": [
+        385,
+        290,
+        466,
+        833
+      ],
+      "value_bbox": [
+        409,
+        271,
+        442,
+        290
+      ]
+    },
+    {
+      "label": "Sweden",
+      "value": "93.67",
+      "value_numeric": 93.67,
+      "element_bbox": [
+        487,
+        212,
+        568,
+        833
+      ],
+      "value_bbox": [
+        511,
+        194,
+        544,
+        212
+      ]
+    },
+    {
+      "label": "Portugal",
+      "value": "89.71",
+      "value_numeric": 89.71,
+      "element_bbox": [
+        588,
+        239,
+        670,
+        833
+      ],
+      "value_bbox": [
+        613,
+        220,
+        646,
+        239
+      ]
+    },
+    {
+      "label": "Germany",
+      "value": "92.80",
+      "value_numeric": 92.8,
+      "element_bbox": [
+        690,
+        218,
+        771,
+        833
+      ],
+      "value_bbox": [
+        714,
+        200,
+        747,
+        218
+      ]
+    },
+    {
+      "label": "France",
+      "value": "93.21",
+      "value_numeric": 93.21,
+      "element_bbox": [
+        792,
+        215,
+        873,
+        833
+      ],
+      "value_bbox": [
+        816,
+        197,
+        849,
+        215
+      ]
+    },
+    {
+      "label": "Canada",
+      "value": "91.59",
+      "value_numeric": 91.59,
+      "element_bbox": [
+        893,
+        226,
+        975,
+        833
+      ],
+      "value_bbox": [
+        918,
+        208,
+        951,
+        226
+      ]
+    }
+  ]
+}

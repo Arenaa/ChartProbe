@@ -1,0 +1,95 @@
+{
+  "chart_id": "aa4e326de9311789",
+  "chart_type": "Bar Chart",
+  "image_width": 2589,
+  "image_height": 1701,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Slovenia",
+      "value": "32",
+      "value_numeric": 32.0,
+      "element_bbox": [
+        160,
+        463,
+        197,
+        890
+      ],
+      "value_bbox": [
+        170,
+        442,
+        187,
+        463
+      ]
+    },
+    {
+      "label": "South Africa",
+      "value": "28",
+      "value_numeric": 28.0,
+      "element_bbox": [
+        309,
+        517,
+        346,
+        890
+      ],
+      "value_bbox": [
+        318,
+        495,
+        336,
+        517
+      ]
+    },
+    {
+      "label": "Spain",
+      "value": "22",
+      "value_numeric": 22.0,
+      "element_bbox": [
+        457,
+        597,
+        494,
+        890
+      ],
+      "value_bbox": [
+        467,
+        575,
+        484,
+        597
+      ]
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "15",
+      "value_numeric": 15.0,
+      "element_bbox": [
+        605,
+        690,
+        642,
+        890
+      ],
+      "value_bbox": [
+        615,
+        668,
+        632,
+        690
+      ]
+    },
+    {
+      "label": "Sudan",
+      "value": "44",
+      "value_numeric": 44.0,
+      "element_bbox": [
+        754,
+        303,
+        791,
+        890
+      ],
+      "value_bbox": [
+        763,
+        282,
+        781,
+        303
+      ]
+    }
+  ]
+}

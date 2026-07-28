@@ -1,0 +1,95 @@
+{
+  "chart_id": "0b48825116c3281c",
+  "chart_type": "Bar Chart",
+  "image_width": 3035,
+  "image_height": 1674,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Africa",
+      "value": "0.037",
+      "value_numeric": 0.037,
+      "element_bbox": [
+        106,
+        655,
+        249,
+        884
+      ],
+      "value_bbox": [
+        257,
+        759,
+        297,
+        780
+      ]
+    },
+    {
+      "label": "Asia",
+      "value": "0.048",
+      "value_numeric": 0.048,
+      "element_bbox": [
+        285,
+        592,
+        428,
+        884
+      ],
+      "value_bbox": [
+        436,
+        727,
+        476,
+        749
+      ]
+    },
+    {
+      "label": "Europe",
+      "value": "0.118",
+      "value_numeric": 0.118,
+      "element_bbox": [
+        464,
+        166,
+        607,
+        884
+      ],
+      "value_bbox": [
+        615,
+        514,
+        654,
+        536
+      ]
+    },
+    {
+      "label": "Latin America & Caribbean",
+      "value": "0.016",
+      "value_numeric": 0.016,
+      "element_bbox": [
+        643,
+        788,
+        785,
+        884
+      ],
+      "value_bbox": [
+        793,
+        825,
+        833,
+        847
+      ]
+    },
+    {
+      "label": "Other",
+      "value": "0.012",
+      "value_numeric": 0.012,
+      "element_bbox": [
+        821,
+        808,
+        964,
+        884
+      ],
+      "value_bbox": [
+        972,
+        835,
+        1000,
+        857
+      ]
+    }
+  ]
+}

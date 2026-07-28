@@ -1,0 +1,95 @@
+{
+  "chart_id": "795b7df32b8d5950",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1741,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Djibouti",
+      "value": "50000000",
+      "value_numeric": 50000000.0,
+      "element_bbox": [
+        106,
+        706,
+        221,
+        712
+      ],
+      "value_bbox": [
+        129,
+        684,
+        199,
+        706
+      ]
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "1100000000",
+      "value_numeric": 1100000000.0,
+      "element_bbox": [
+        250,
+        712,
+        365,
+        712
+      ],
+      "value_bbox": [
+        264,
+        690,
+        351,
+        712
+      ]
+    },
+    {
+      "label": "Ecuador",
+      "value": "2500000000",
+      "value_numeric": 2500000000.0,
+      "element_bbox": [
+        394,
+        574,
+        509,
+        712
+      ],
+      "value_bbox": [
+        408,
+        552,
+        495,
+        574
+      ]
+    },
+    {
+      "label": "Egypt Arab Rep.",
+      "value": "4900000000",
+      "value_numeric": 4900000000.0,
+      "element_bbox": [
+        538,
+        399,
+        653,
+        712
+      ],
+      "value_bbox": [
+        551,
+        377,
+        639,
+        399
+      ]
+    },
+    {
+      "label": "El Salvador",
+      "value": "800000000",
+      "value_numeric": 800000000.0,
+      "element_bbox": [
+        681,
+        98,
+        796,
+        712
+      ],
+      "value_bbox": [
+        700,
+        76,
+        778,
+        98
+      ]
+    }
+  ]
+}

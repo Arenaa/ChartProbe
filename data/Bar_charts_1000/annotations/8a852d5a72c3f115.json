@@ -1,0 +1,95 @@
+{
+  "chart_id": "8a852d5a72c3f115",
+  "chart_type": "Bar Chart",
+  "image_width": 2631,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Male",
+      "value": "302.0",
+      "value_numeric": 302.0,
+      "element_bbox": [
+        142,
+        127,
+        274,
+        870
+      ],
+      "value_bbox": [
+        186,
+        105,
+        230,
+        127
+      ]
+    },
+    {
+      "label": "Female",
+      "value": "294.0",
+      "value_numeric": 294.0,
+      "element_bbox": [
+        307,
+        146,
+        439,
+        870
+      ],
+      "value_bbox": [
+        351,
+        125,
+        395,
+        146
+      ]
+    },
+    {
+      "label": "Other",
+      "value": "5.5",
+      "value_numeric": 5.5,
+      "element_bbox": [
+        472,
+        856,
+        604,
+        870
+      ],
+      "value_bbox": [
+        526,
+        835,
+        551,
+        856
+      ]
+    },
+    {
+      "label": "Nonbinary",
+      "value": "9.5",
+      "value_numeric": 9.5,
+      "element_bbox": [
+        637,
+        847,
+        770,
+        870
+      ],
+      "value_bbox": [
+        691,
+        825,
+        716,
+        847
+      ]
+    },
+    {
+      "label": "Gender-Nonconforming",
+      "value": "4.0",
+      "value_numeric": 4.0,
+      "element_bbox": [
+        803,
+        860,
+        935,
+        870
+      ],
+      "value_bbox": [
+        856,
+        838,
+        881,
+        860
+      ]
+    }
+  ]
+}

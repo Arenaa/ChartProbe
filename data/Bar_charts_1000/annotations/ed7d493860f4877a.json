@@ -1,0 +1,112 @@
+{
+  "chart_id": "ed7d493860f4877a",
+  "chart_type": "Bar Chart",
+  "image_width": 2562,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Sao Tome and Principe",
+      "value": "3.0",
+      "value_numeric": 3.0,
+      "element_bbox": [
+        160,
+        312,
+        257,
+        890
+      ],
+      "value_bbox": [
+        198,
+        291,
+        220,
+        312
+      ]
+    },
+    {
+      "label": "Somalia",
+      "value": "3.5",
+      "value_numeric": 3.5,
+      "element_bbox": [
+        282,
+        216,
+        379,
+        890
+      ],
+      "value_bbox": [
+        319,
+        195,
+        341,
+        216
+      ]
+    },
+    {
+      "label": "Sierra Leone",
+      "value": "3.1",
+      "value_numeric": 3.1,
+      "element_bbox": [
+        403,
+        293,
+        500,
+        890
+      ],
+      "value_bbox": [
+        441,
+        272,
+        463,
+        293
+      ]
+    },
+    {
+      "label": "Solomon Islands",
+      "value": "2.8",
+      "value_numeric": 2.8,
+      "element_bbox": [
+        525,
+        351,
+        622,
+        890
+      ],
+      "value_bbox": [
+        562,
+        329,
+        584,
+        351
+      ]
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "3.3",
+      "value_numeric": 3.3,
+      "element_bbox": [
+        646,
+        255,
+        743,
+        890
+      ],
+      "value_bbox": [
+        684,
+        233,
+        706,
+        255
+      ]
+    },
+    {
+      "label": "St. Lucia",
+      "value": "3.9",
+      "value_numeric": 3.9,
+      "element_bbox": [
+        768,
+        139,
+        865,
+        890
+      ],
+      "value_bbox": [
+        805,
+        118,
+        827,
+        139
+      ]
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "chart_id": "fc8030589b8f8238",
+  "chart_type": "Bar Chart",
+  "image_width": 4147,
+  "image_height": 2349,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Argentina",
+      "value": "11.6",
+      "value_numeric": 11.6,
+      "element_bbox": [
+        67,
+        256,
+        82,
+        784
+      ],
+      "value_bbox": [
+        64,
+        240,
+        86,
+        256
+      ]
+    },
+    {
+      "label": "Bolivia",
+      "value": "12.8",
+      "value_numeric": 12.8,
+      "element_bbox": [
+        106,
+        220,
+        121,
+        784
+      ],
+      "value_bbox": [
+        102,
+        203,
+        124,
+        220
+      ]
+    },
+    {
+      "label": "Brazil",
+      "value": "10.8",
+      "value_numeric": 10.8,
+      "element_bbox": [
+        144,
+        304,
+        159,
+        784
+      ],
+      "value_bbox": [
+        141,
+        288,
+        163,
+        304
+      ]
+    },
+    {
+      "label": "Chile",
+      "value": "13.1",
+      "value_numeric": 13.1,
+      "element_bbox": [
+        183,
+        204,
+        198,
+        784
+      ],
+      "value_bbox": [
+        179,
+        187,
+        201,
+        204
+      ]
+    },
+    {
+      "label": "Colombia",
+      "value": "15.6",
+      "value_numeric": 15.6,
+      "element_bbox": [
+        221,
+        88,
+        236,
+        784
+      ],
+      "value_bbox": [
+        218,
+        71,
+        240,
+        88
+      ]
+    },
+    {
+      "label": "Costa Rica",
+      "value": "8.7",
+      "value_numeric": 8.7,
+      "element_bbox": [
+        260,
+        408,
+        275,
+        784
+      ],
+      "value_bbox": [
+        259,
+        392,
+        275,
+        408
+      ]
+    },
+    {
+      "label": "Croatia",
+      "value": "8.4",
+      "value_numeric": 8.4,
+      "element_bbox": [
+        298,
+        388,
+        313,
+        784
+      ],
+      "value_bbox": [
+        298,
+        372,
+        314,
+        388
+      ]
+    },
+    {
+      "label": "Cuba",
+      "value": "4.9",
+      "value_numeric": 4.9,
+      "element_bbox": [
+        337,
+        568,
+        352,
+        784
+      ],
+      "value_bbox": [
+        336,
+        552,
+        352,
+        568
+      ]
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "9.9",
+      "value_numeric": 9.9,
+      "element_bbox": [
+        375,
+        352,
+        390,
+        784
+      ],
+      "value_bbox": [
+        375,
+        336,
+        391,
+        352
+      ]
+    },
+    {
+      "label": "Ecuador",
+      "value": "12.3",
+      "value_numeric": 12.3,
+      "element_bbox": [
+        414,
+        236,
+        429,
+        784
+      ],
+      "value_bbox": [
+        410,
+        219,
+        432,
+        236
+      ]
+    },
+    {
+      "label": "El Salvador",
+      "value": "9.2",
+      "value_numeric": 9.2,
+      "element_bbox": [
+        452,
+        372,
+        467,
+        784
+      ],
+      "value_bbox": [
+        452,
+        356,
+        468,
+        372
+      ]
+    },
+    {
+      "label": "Guatemala",
+      "value": "11.0",
+      "value_numeric": 11.0,
+      "element_bbox": [
+        491,
+        292,
+        506,
+        784
+      ],
+      "value_bbox": [
+        487,
+        276,
+        509,
+        292
+      ]
+    },
+    {
+      "label": "Honduras",
+      "value": "9.9",
+      "value_numeric": 9.9,
+      "element_bbox": [
+        529,
+        340,
+        544,
+        784
+      ],
+      "value_bbox": [
+        529,
+        324,
+        545,
+        340
+      ]
+    },
+    {
+      "label": "Mexico",
+      "value": "10.3",
+      "value_numeric": 10.3,
+      "element_bbox": [
+        568,
+        324,
+        583,
+        784
+      ],
+      "value_bbox": [
+        564,
+        308,
+        586,
+        324
+      ]
+    },
+    {
+      "label": "Morocco",
+      "value": "14.8",
+      "value_numeric": 14.8,
+      "element_bbox": [
+        606,
+        164,
+        621,
+        784
+      ],
+      "value_bbox": [
+        603,
+        147,
+        625,
+        164
+      ]
+    },
+    {
+      "label": "Nicaragua",
+      "value": "11.4",
+      "value_numeric": 11.4,
+      "element_bbox": [
+        645,
+        280,
+        660,
+        784
+      ],
+      "value_bbox": [
+        641,
+        264,
+        663,
+        280
+      ]
+    },
+    {
+      "label": "Panama",
+      "value": "8.2",
+      "value_numeric": 8.2,
+      "element_bbox": [
+        683,
+        420,
+        698,
+        784
+      ],
+      "value_bbox": [
+        683,
+        404,
+        699,
+        420
+      ]
+    },
+    {
+      "label": "Paraguay",
+      "value": "10.7",
+      "value_numeric": 10.7,
+      "element_bbox": [
+        722,
+        312,
+        737,
+        784
+      ],
+      "value_bbox": [
+        718,
+        296,
+        740,
+        312
+      ]
+    },
+    {
+      "label": "Peru",
+      "value": "8.4",
+      "value_numeric": 8.4,
+      "element_bbox": [
+        760,
+        392,
+        775,
+        784
+      ],
+      "value_bbox": [
+        760,
+        376,
+        776,
+        392
+      ]
+    },
+    {
+      "label": "Portugal",
+      "value": "8.4",
+      "value_numeric": 8.4,
+      "element_bbox": [
+        799,
+        416,
+        814,
+        784
+      ],
+      "value_bbox": [
+        798,
+        400,
+        814,
+        416
+      ]
+    },
+    {
+      "label": "Romania",
+      "value": "4.3",
+      "value_numeric": 4.3,
+      "element_bbox": [
+        837,
+        576,
+        852,
+        784
+      ],
+      "value_bbox": [
+        837,
+        560,
+        853,
+        576
+      ]
+    },
+    {
+      "label": "Spain",
+      "value": "6.9",
+      "value_numeric": 6.9,
+      "element_bbox": [
+        876,
+        484,
+        891,
+        784
+      ],
+      "value_bbox": [
+        875,
+        468,
+        891,
+        484
+      ]
+    },
+    {
+      "label": "Uruguay",
+      "value": "9.2",
+      "value_numeric": 9.2,
+      "element_bbox": [
+        914,
+        360,
+        929,
+        784
+      ],
+      "value_bbox": [
+        914,
+        344,
+        930,
+        360
+      ]
+    },
+    {
+      "label": "Venezuela",
+      "value": "12.2",
+      "value_numeric": 12.2,
+      "element_bbox": [
+        952,
+        256,
+        968,
+        784
+      ],
+      "value_bbox": [
+        949,
+        240,
+        971,
+        256
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "chart_id": "6d78aa1e826c0cb5",
+  "chart_type": "Bar Chart",
+  "image_width": 2719,
+  "image_height": 1381,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Pre-primary schools",
+      "value": "37.5",
+      "value_numeric": 37.5,
+      "element_bbox": [
+        160,
+        459,
+        227,
+        890
+      ],
+      "value_bbox": [
+        169,
+        432,
+        218,
+        459
+      ]
+    },
+    {
+      "label": "Primary schools",
+      "value": "83.8",
+      "value_numeric": 83.8,
+      "element_bbox": [
+        351,
+        157,
+        417,
+        890
+      ],
+      "value_bbox": [
+        360,
+        130,
+        408,
+        157
+      ]
+    },
+    {
+      "label": "Secondary schools",
+      "value": "61.5",
+      "value_numeric": 61.5,
+      "element_bbox": [
+        541,
+        226,
+        608,
+        890
+      ],
+      "value_bbox": [
+        550,
+        199,
+        599,
+        226
+      ]
+    },
+    {
+      "label": "Tertiary schools",
+      "value": "6.1",
+      "value_numeric": 6.1,
+      "element_bbox": [
+        731,
+        436,
+        798,
+        890
+      ],
+      "value_bbox": [
+        748,
+        409,
+        782,
+        436
+      ]
+    }
+  ]
+}

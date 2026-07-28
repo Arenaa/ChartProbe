@@ -1,0 +1,112 @@
+{
+  "chart_id": "8a92f2ae47d700a8",
+  "chart_type": "Bar Chart",
+  "image_width": 2731,
+  "image_height": 1666,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Bahrain",
+      "value": "2.0",
+      "value_numeric": 2.0,
+      "element_bbox": [
+        160,
+        868,
+        257,
+        890
+      ],
+      "value_bbox": [
+        198,
+        846,
+        220,
+        868
+      ]
+    },
+    {
+      "label": "Belgium",
+      "value": "10.0",
+      "value_numeric": 10.0,
+      "element_bbox": [
+        282,
+        780,
+        379,
+        890
+      ],
+      "value_bbox": [
+        315,
+        758,
+        346,
+        780
+      ]
+    },
+    {
+      "label": "Bhutan",
+      "value": "68.0",
+      "value_numeric": 68.0,
+      "element_bbox": [
+        403,
+        142,
+        500,
+        890
+      ],
+      "value_bbox": [
+        436,
+        120,
+        467,
+        142
+      ]
+    },
+    {
+      "label": "Bolivia",
+      "value": "61.0",
+      "value_numeric": 61.0,
+      "element_bbox": [
+        525,
+        219,
+        622,
+        890
+      ],
+      "value_bbox": [
+        558,
+        197,
+        589,
+        219
+      ]
+    },
+    {
+      "label": "Botswana",
+      "value": "35.0",
+      "value_numeric": 35.0,
+      "element_bbox": [
+        646,
+        505,
+        743,
+        890
+      ],
+      "value_bbox": [
+        679,
+        483,
+        710,
+        505
+      ]
+    },
+    {
+      "label": "Brazil",
+      "value": "26.0",
+      "value_numeric": 26.0,
+      "element_bbox": [
+        768,
+        604,
+        865,
+        890
+      ],
+      "value_bbox": [
+        801,
+        582,
+        832,
+        604
+      ]
+    }
+  ]
+}

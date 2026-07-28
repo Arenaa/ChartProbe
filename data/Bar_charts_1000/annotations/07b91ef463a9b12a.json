@@ -1,0 +1,299 @@
+{
+  "chart_id": "07b91ef463a9b12a",
+  "chart_type": "Bar Chart",
+  "image_width": 3546,
+  "image_height": 2046,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Philippines",
+      "value": "17.8",
+      "value_numeric": 17.8,
+      "element_bbox": [
+        79,
+        107,
+        122,
+        711
+      ],
+      "value_bbox": [
+        88,
+        89,
+        113,
+        107
+      ]
+    },
+    {
+      "label": "Russian Federation",
+      "value": "6.6",
+      "value_numeric": 6.6,
+      "element_bbox": [
+        133,
+        495,
+        176,
+        711
+      ],
+      "value_bbox": [
+        145,
+        476,
+        163,
+        495
+      ]
+    },
+    {
+      "label": "São Tomé and Príncipe",
+      "value": "3.2",
+      "value_numeric": 3.2,
+      "element_bbox": [
+        186,
+        608,
+        229,
+        711
+      ],
+      "value_bbox": [
+        199,
+        590,
+        217,
+        608
+      ]
+    },
+    {
+      "label": "Indonesia",
+      "value": "8.8",
+      "value_numeric": 8.8,
+      "element_bbox": [
+        240,
+        431,
+        283,
+        711
+      ],
+      "value_bbox": [
+        252,
+        412,
+        271,
+        431
+      ]
+    },
+    {
+      "label": "Vietnam",
+      "value": "10.8",
+      "value_numeric": 10.8,
+      "element_bbox": [
+        294,
+        360,
+        336,
+        711
+      ],
+      "value_bbox": [
+        302,
+        341,
+        328,
+        360
+      ]
+    },
+    {
+      "label": "Malaysia",
+      "value": "7.8",
+      "value_numeric": 7.8,
+      "element_bbox": [
+        347,
+        463,
+        390,
+        711
+      ],
+      "value_bbox": [
+        359,
+        444,
+        378,
+        463
+      ]
+    },
+    {
+      "label": "Thailand",
+      "value": "13.2",
+      "value_numeric": 13.2,
+      "element_bbox": [
+        401,
+        285,
+        444,
+        711
+      ],
+      "value_bbox": [
+        409,
+        266,
+        435,
+        285
+      ]
+    },
+    {
+      "label": "Cambodia",
+      "value": "11.4",
+      "value_numeric": 11.4,
+      "element_bbox": [
+        454,
+        349,
+        497,
+        711
+      ],
+      "value_bbox": [
+        463,
+        330,
+        489,
+        349
+      ]
+    },
+    {
+      "label": "Myanmar",
+      "value": "11.2",
+      "value_numeric": 11.2,
+      "element_bbox": [
+        508,
+        363,
+        551,
+        711
+      ],
+      "value_bbox": [
+        516,
+        344,
+        542,
+        363
+      ]
+    },
+    {
+      "label": "Laos",
+      "value": "10.8",
+      "value_numeric": 10.8,
+      "element_bbox": [
+        562,
+        384,
+        604,
+        711
+      ],
+      "value_bbox": [
+        570,
+        366,
+        596,
+        384
+      ]
+    },
+    {
+      "label": "Brunei",
+      "value": "9.2",
+      "value_numeric": 9.2,
+      "element_bbox": [
+        615,
+        423,
+        658,
+        711
+      ],
+      "value_bbox": [
+        627,
+        405,
+        646,
+        423
+      ]
+    },
+    {
+      "label": "Singapore",
+      "value": "10.4",
+      "value_numeric": 10.4,
+      "element_bbox": [
+        669,
+        384,
+        712,
+        711
+      ],
+      "value_bbox": [
+        677,
+        366,
+        703,
+        384
+      ]
+    },
+    {
+      "label": "Timor-Leste",
+      "value": "5.4",
+      "value_numeric": 5.4,
+      "element_bbox": [
+        722,
+        534,
+        765,
+        711
+      ],
+      "value_bbox": [
+        735,
+        515,
+        753,
+        534
+      ]
+    },
+    {
+      "label": "Papua New Guinea (PNG)",
+      "value": "7.6",
+      "value_numeric": 7.6,
+      "element_bbox": [
+        776,
+        463,
+        819,
+        711
+      ],
+      "value_bbox": [
+        788,
+        444,
+        807,
+        463
+      ]
+    },
+    {
+      "label": "East Malaysia",
+      "value": "10.8",
+      "value_numeric": 10.8,
+      "element_bbox": [
+        830,
+        374,
+        872,
+        711
+      ],
+      "value_bbox": [
+        838,
+        355,
+        864,
+        374
+      ]
+    },
+    {
+      "label": "Sabah East",
+      "value": "10.6",
+      "value_numeric": 10.6,
+      "element_bbox": [
+        883,
+        391,
+        926,
+        711
+      ],
+      "value_bbox": [
+        892,
+        373,
+        917,
+        391
+      ]
+    },
+    {
+      "label": "Northern Territory",
+      "value": "5.6",
+      "value_numeric": 5.6,
+      "element_bbox": [
+        937,
+        534,
+        980,
+        711
+      ],
+      "value_bbox": [
+        949,
+        515,
+        967,
+        534
+      ]
+    }
+  ]
+}

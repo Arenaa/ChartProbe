@@ -1,0 +1,78 @@
+{
+  "chart_id": "f24e5d7c9f754db7",
+  "chart_type": "Bar Chart",
+  "image_width": 2945,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Island Nations",
+      "value": "32.49",
+      "value_numeric": 32.49,
+      "element_bbox": [
+        179,
+        110,
+        875,
+        268
+      ],
+      "value_bbox": [
+        883,
+        178,
+        922,
+        200
+      ]
+    },
+    {
+      "label": "Caribbean",
+      "value": "31.98",
+      "value_numeric": 31.98,
+      "element_bbox": [
+        179,
+        308,
+        864,
+        467
+      ],
+      "value_bbox": [
+        872,
+        377,
+        911,
+        398
+      ]
+    },
+    {
+      "label": "South America",
+      "value": "31.70",
+      "value_numeric": 31.7,
+      "element_bbox": [
+        179,
+        507,
+        858,
+        665
+      ],
+      "value_bbox": [
+        866,
+        575,
+        906,
+        597
+      ]
+    },
+    {
+      "label": "Central America",
+      "value": "30.77",
+      "value_numeric": 30.77,
+      "element_bbox": [
+        179,
+        705,
+        838,
+        864
+      ],
+      "value_bbox": [
+        846,
+        774,
+        886,
+        795
+      ]
+    }
+  ]
+}

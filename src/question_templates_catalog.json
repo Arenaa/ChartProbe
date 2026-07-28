@@ -1,0 +1,446 @@
+{
+  "version": 2,
+  "description": "Summary catalog derived from question_templates.json",
+  "source_templates": "src/question_templates.json",
+  "generator": "src/build_question_templates_catalog.py",
+  "selection_rule": "Each 9-Q sample uses exactly one fixed template per stage category (3 Perception + 3 Grounding + 3 Reasoning).",
+  "template_families": {
+    "bar": {
+      "questions_per_sample": 9,
+      "templates": [
+        {
+          "template_id": "P-COUNT-ABOVE-AVG",
+          "stage": "Perception",
+          "category": "count",
+          "question_template": "How many bars appear to be above the average height?",
+          "answer_type": "count",
+          "answer_rule": "count of bar values strictly greater than mean"
+        },
+        {
+          "template_id": "P-HEIGHT-2X",
+          "stage": "Perception",
+          "category": "height",
+          "question_template": "Is the largest bar more than twice the size of the smallest bar?",
+          "answer_type": "binary",
+          "answer_rule": "Yes if max > 2 * min, else No"
+        },
+        {
+          "template_id": "P-TREND-PATTERN",
+          "stage": "Perception",
+          "category": "trend",
+          "question_template": "What is the overall trend of the bars from left to right?",
+          "answer_type": "open",
+          "answer_rule": "Consistently increasing | Consistently decreasing | Neither consistently increasing nor decreasing"
+        },
+        {
+          "template_id": "G-BBOX-ELEMENT",
+          "stage": "Grounding",
+          "category": "bbox",
+          "question_template": "What is the bounding box of the bar for {label}?",
+          "answer_type": "bbox",
+          "answer_rule": "[x0,y0,x1,y1] xyxy_1000 of tallest bar by value"
+        },
+        {
+          "template_id": "G-VT-LEFTMOST",
+          "stage": "Grounding",
+          "category": "value_to_label",
+          "question_template": "What is the {label_col} of the leftmost bar?",
+          "answer_type": "label",
+          "answer_rule": "label of leftmost bar (bbox sort)"
+        },
+        {
+          "template_id": "G-TV-VALUE-B",
+          "stage": "Grounding",
+          "category": "value_lookup",
+          "question_template": "What is the {value_col} for {label}?",
+          "answer_type": "value",
+          "answer_rule": "numeric value of 2nd-largest bar"
+        },
+        {
+          "template_id": "R-RANK-TOP3",
+          "stage": "Reasoning",
+          "category": "rank",
+          "question_template": "What are the top 3 {label_col_plural} by {value_col}?",
+          "answer_type": "open",
+          "answer_rule": "comma-separated top-3 labels by value"
+        },
+        {
+          "template_id": "R-ARITH-TOTAL",
+          "stage": "Reasoning",
+          "category": "arithmetic",
+          "question_template": "What is the total {value_col} across all bars combined?",
+          "answer_type": "value",
+          "answer_rule": "sum of all bar values"
+        },
+        {
+          "template_id": "R-MULTI-DIFF-MEAN",
+          "stage": "Reasoning",
+          "category": "multi_step",
+          "question_template": "How much higher is {top_label} compared to the average {value_col}?",
+          "answer_type": "value",
+          "answer_rule": "top_value - mean(values)"
+        }
+      ]
+    },
+    "pie": {
+      "questions_per_sample": 9,
+      "templates": [
+        {
+          "template_id": "P-COUNT-ABOVE-AVG",
+          "stage": "Perception",
+          "category": "count",
+          "question_template": "How many segments appear to be above the average size?",
+          "answer_type": "count",
+          "answer_rule": "count of wedge values strictly greater than mean"
+        },
+        {
+          "template_id": "P-HEIGHT-2X",
+          "stage": "Perception",
+          "category": "height",
+          "question_template": "Is the largest segment more than twice the size of the smallest segment?",
+          "answer_type": "binary",
+          "answer_rule": "Yes if max > 2 * min, else No"
+        },
+        {
+          "template_id": "P-TREND-PATTERN",
+          "stage": "Perception",
+          "category": "trend",
+          "question_template": "What is the overall trend of the segments clockwise from the top?",
+          "answer_type": "open",
+          "answer_rule": "same trend labels as bar charts on clockwise wedge order"
+        },
+        {
+          "template_id": "G-BBOX-ELEMENT",
+          "stage": "Grounding",
+          "category": "bbox",
+          "question_template": "What is the bounding box of the pie segment for {label}?",
+          "answer_type": "bbox",
+          "answer_rule": "[x0,y0,x1,y1] xyxy_1000 of largest wedge"
+        },
+        {
+          "template_id": "G-VT-LARGEST",
+          "stage": "Grounding",
+          "category": "value_to_label",
+          "question_template": "What is the {label_col} of the largest segment?",
+          "answer_type": "label",
+          "answer_rule": "label of largest wedge by value"
+        },
+        {
+          "template_id": "G-TV-VALUE-B",
+          "stage": "Grounding",
+          "category": "value_lookup",
+          "question_template": "What is the {value_col} for {label}?",
+          "answer_type": "value",
+          "answer_rule": "numeric value of 2nd-largest wedge"
+        },
+        {
+          "template_id": "R-RANK-TOP3",
+          "stage": "Reasoning",
+          "category": "rank",
+          "question_template": "What are the top 3 {label_col_plural} by {value_col}?",
+          "answer_type": "open",
+          "answer_rule": "comma-separated top-3 labels by value"
+        },
+        {
+          "template_id": "R-ARITH-TOTAL",
+          "stage": "Reasoning",
+          "category": "arithmetic",
+          "question_template": "What is the total {value_col} across all segments combined?",
+          "answer_type": "value",
+          "answer_rule": "sum of all wedge values"
+        },
+        {
+          "template_id": "R-MULTI-DIFF-MEAN",
+          "stage": "Reasoning",
+          "category": "multi_step",
+          "question_template": "How much higher is {top_label} compared to the average {value_col}?",
+          "answer_type": "value",
+          "answer_rule": "top_value - mean(values)"
+        }
+      ]
+    },
+    "clevr": {
+      "questions_per_sample": 9,
+      "test_set_selection": {
+        "Perception": {
+          "count_total": "P-COUNT-TOTAL",
+          "count_size": "P-COUNT-LARGE",
+          "count_shape": "P-COUNT-{SHAPE}"
+        },
+        "Grounding": {
+          "bbox": "G-BBOX-ELEMENT",
+          "attribute": "G-ATTR-COLOR",
+          "spatial": "G-SPATIAL-LR"
+        },
+        "Reasoning": {
+          "compare": "R-COMPARE-LARGE-SMALL",
+          "open_count": "R-MATERIAL-COUNT",
+          "relation": "R-SAME-MATERIAL"
+        }
+      },
+      "active_templates": [
+        {
+          "stage": "Perception",
+          "category": "count_total",
+          "template_id": "P-COUNT-TOTAL",
+          "resolved_template_id": "P-COUNT-TOTAL"
+        },
+        {
+          "stage": "Perception",
+          "category": "count_size",
+          "template_id": "P-COUNT-LARGE",
+          "resolved_template_id": "P-COUNT-LARGE"
+        },
+        {
+          "stage": "Perception",
+          "category": "count_shape",
+          "template_id": "P-COUNT-{SHAPE}",
+          "resolved_template_id": "P-COUNT-CUBE|SPHERE|CYLINDER (most frequent shape)"
+        },
+        {
+          "stage": "Grounding",
+          "category": "bbox",
+          "template_id": "G-BBOX-ELEMENT",
+          "resolved_template_id": "G-BBOX-ELEMENT"
+        },
+        {
+          "stage": "Grounding",
+          "category": "attribute",
+          "template_id": "G-ATTR-COLOR",
+          "resolved_template_id": "G-ATTR-COLOR"
+        },
+        {
+          "stage": "Grounding",
+          "category": "spatial",
+          "template_id": "G-SPATIAL-LR",
+          "resolved_template_id": "G-SPATIAL-LR"
+        },
+        {
+          "stage": "Reasoning",
+          "category": "compare",
+          "template_id": "R-COMPARE-LARGE-SMALL",
+          "resolved_template_id": "R-COMPARE-LARGE-SMALL"
+        },
+        {
+          "stage": "Reasoning",
+          "category": "open_count",
+          "template_id": "R-MATERIAL-COUNT",
+          "resolved_template_id": "R-MATERIAL-COUNT"
+        },
+        {
+          "stage": "Reasoning",
+          "category": "relation",
+          "template_id": "R-SAME-MATERIAL",
+          "resolved_template_id": "R-SAME-MATERIAL"
+        }
+      ],
+      "templates": [
+        {
+          "template_id": "P-COUNT-TOTAL",
+          "stage": "Perception",
+          "category": "count_total",
+          "question_template": "How many objects are in the scene?",
+          "answer_type": "count"
+        },
+        {
+          "template_id": "P-COUNT-LARGE",
+          "stage": "Perception",
+          "category": "count_size",
+          "question_template": "How many large objects are in the scene?",
+          "answer_type": "count"
+        },
+        {
+          "template_id": "P-COUNT-CUBE",
+          "stage": "Perception",
+          "category": "count_shape",
+          "question_template": "How many cubes are in the scene?",
+          "answer_type": "count"
+        },
+        {
+          "template_id": "P-COUNT-SPHERE",
+          "stage": "Perception",
+          "category": "count_shape",
+          "question_template": "How many spheres are in the scene?",
+          "answer_type": "count"
+        },
+        {
+          "template_id": "P-COUNT-CYLINDER",
+          "stage": "Perception",
+          "category": "count_shape",
+          "question_template": "How many cylinders are in the scene?",
+          "answer_type": "count"
+        },
+        {
+          "template_id": "P-COUNT-{SHAPE}",
+          "stage": "Perception",
+          "category": "count_shape",
+          "question_template": "How many {shape}s are in the scene?",
+          "answer_type": "count",
+          "notes": "Resolved at generation time to the most frequent shape"
+        },
+        {
+          "template_id": "G-BBOX-ELEMENT",
+          "stage": "Grounding",
+          "category": "bbox",
+          "question_template": "What is the bounding box of the {target}?",
+          "answer_type": "bbox"
+        },
+        {
+          "template_id": "G-ATTR-COLOR",
+          "stage": "Grounding",
+          "category": "attribute",
+          "question_template": "What color is the {anchor}?",
+          "answer_type": "label"
+        },
+        {
+          "template_id": "G-SPATIAL-LR",
+          "stage": "Grounding",
+          "category": "spatial",
+          "question_template": "Is the {obj_a} to the left or to the right of the {obj_b}?",
+          "answer_type": "open"
+        },
+        {
+          "template_id": "R-COMPARE-LARGE-SMALL",
+          "stage": "Reasoning",
+          "category": "compare",
+          "question_template": "Are there more large objects than small objects?",
+          "answer_type": "binary"
+        },
+        {
+          "template_id": "R-MATERIAL-COUNT",
+          "stage": "Reasoning",
+          "category": "open_count",
+          "question_template": "Are there more metal objects or rubber objects?",
+          "answer_type": "open"
+        },
+        {
+          "template_id": "R-SAME-MATERIAL",
+          "stage": "Reasoning",
+          "category": "relation",
+          "question_template": "Is the {anchor_a} made of the same material as the {anchor_b}?",
+          "answer_type": "binary"
+        }
+      ]
+    }
+  },
+  "datasets_9q": [
+    {
+      "dataset": "bar_charts_1000",
+      "path": "data/bar_charts_1000",
+      "role": "train",
+      "samples": 1000,
+      "questions_per_sample": 9,
+      "total_questions": 9000,
+      "chart_type": "bar",
+      "template_family": "bar",
+      "active_template_ids": [
+        "P-COUNT-ABOVE-AVG",
+        "P-HEIGHT-2X",
+        "P-TREND-PATTERN",
+        "G-BBOX-ELEMENT",
+        "G-VT-LEFTMOST",
+        "G-TV-VALUE-B",
+        "R-RANK-TOP3",
+        "R-ARITH-TOTAL",
+        "R-MULTI-DIFF-MEAN"
+      ],
+      "notes": "Stage LoRA / SFT training source"
+    },
+    {
+      "dataset": "bar_charts_500",
+      "path": "data/bar_charts_500",
+      "role": "test",
+      "samples": 500,
+      "questions_per_sample": 9,
+      "total_questions": 4500,
+      "chart_type": "bar",
+      "template_family": "bar",
+      "active_template_ids": [
+        "P-COUNT-ABOVE-AVG",
+        "P-HEIGHT-2X",
+        "P-TREND-PATTERN",
+        "G-BBOX-ELEMENT",
+        "G-VT-LEFTMOST",
+        "G-TV-VALUE-B",
+        "R-RANK-TOP3",
+        "R-ARITH-TOTAL",
+        "R-MULTI-DIFF-MEAN"
+      ],
+      "notes": ""
+    },
+    {
+      "dataset": "pie_charts_500",
+      "path": "data/pie_charts_500",
+      "role": "test",
+      "samples": 500,
+      "questions_per_sample": 9,
+      "total_questions": 4500,
+      "chart_type": "pie",
+      "template_family": "pie",
+      "active_template_ids": [
+        "P-COUNT-ABOVE-AVG",
+        "P-HEIGHT-2X",
+        "P-TREND-PATTERN",
+        "G-BBOX-ELEMENT",
+        "G-VT-LARGEST",
+        "G-TV-VALUE-B",
+        "R-RANK-TOP3",
+        "R-ARITH-TOTAL",
+        "R-MULTI-DIFF-MEAN"
+      ],
+      "notes": ""
+    },
+    {
+      "dataset": "clevr_500",
+      "path": "data/clevr_500",
+      "role": "test",
+      "samples": 500,
+      "questions_per_sample": 9,
+      "total_questions": 4500,
+      "chart_type": "clevr",
+      "template_family": "clevr",
+      "active_template_ids": [
+        "P-COUNT-TOTAL",
+        "P-COUNT-LARGE",
+        "P-COUNT-{SHAPE}",
+        "G-BBOX-ELEMENT",
+        "G-ATTR-COLOR",
+        "G-SPATIAL-LR",
+        "R-COMPARE-LARGE-SMALL",
+        "R-MATERIAL-COUNT",
+        "R-SAME-MATERIAL"
+      ],
+      "notes": "Active set from families.clevr.test_set_selection"
+    }
+  ],
+  "datasets_complex_reasoning": [
+    {
+      "dataset": "clevr_complex_reasoning_500",
+      "path": "data/clevr_complex_reasoning_500",
+      "parent_9q": "clevr_500",
+      "questions_per_sample": 1,
+      "template_mode": "free_form",
+      "description": "One original CLEVR val question per scene (bbox-linked); no fixed template ID"
+    },
+    {
+      "dataset": "complex_reasoning_bar_500",
+      "path": "data/complex_reasoning_bar_500",
+      "questions_per_sample": 1,
+      "template_mode": "free_form",
+      "description": "ChartNet reasoning split; complex_question field per chart"
+    },
+    {
+      "dataset": "complex_reasoning_pie_500",
+      "path": "data/complex_reasoning_pie_500",
+      "questions_per_sample": 1,
+      "template_mode": "free_form",
+      "description": "ChartNet reasoning split; complex_question field per chart"
+    }
+  ],
+  "stage_category_matrix": {
+    "bar_charts": "Perception: count|height|trend — Grounding: bbox|value_to_label|value_lookup — Reasoning: rank|arithmetic|multi_step",
+    "pie_charts": "Perception: count|height|trend — Grounding: bbox|value_to_label|value_lookup — Reasoning: rank|arithmetic|multi_step",
+    "clevr": "Perception: count_total|count_size|count_shape — Grounding: bbox|attribute|spatial — Reasoning: compare|open_count|relation"
+  },
+  "customize": "Edit src/question_templates.json (or pass --templates) then re-run generate_probe_questions.py / build_question_templates_catalog.py."
+}

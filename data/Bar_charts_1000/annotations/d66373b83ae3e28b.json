@@ -1,0 +1,163 @@
+{
+  "chart_id": "d66373b83ae3e28b",
+  "chart_type": "Bar Chart",
+  "image_width": 2954,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "South America",
+      "value": "5229",
+      "value_numeric": 5229.0,
+      "element_bbox": [
+        168,
+        78,
+        889,
+        150
+      ],
+      "value_bbox": [
+        897,
+        103,
+        932,
+        125
+      ]
+    },
+    {
+      "label": "Central America",
+      "value": "5218",
+      "value_numeric": 5218.0,
+      "element_bbox": [
+        168,
+        168,
+        888,
+        241
+      ],
+      "value_bbox": [
+        895,
+        194,
+        930,
+        216
+      ]
+    },
+    {
+      "label": "North America",
+      "value": "4448",
+      "value_numeric": 4448.0,
+      "element_bbox": [
+        168,
+        259,
+        782,
+        331
+      ],
+      "value_bbox": [
+        789,
+        284,
+        824,
+        306
+      ]
+    },
+    {
+      "label": "West Africa",
+      "value": "3921",
+      "value_numeric": 3921.0,
+      "element_bbox": [
+        168,
+        350,
+        709,
+        422
+      ],
+      "value_bbox": [
+        717,
+        375,
+        751,
+        397
+      ]
+    },
+    {
+      "label": "Caribbean Islands",
+      "value": "3730",
+      "value_numeric": 3730.0,
+      "element_bbox": [
+        168,
+        440,
+        683,
+        513
+      ],
+      "value_bbox": [
+        690,
+        465,
+        725,
+        487
+      ]
+    },
+    {
+      "label": "East Africa",
+      "value": "3180",
+      "value_numeric": 3180.0,
+      "element_bbox": [
+        168,
+        531,
+        607,
+        603
+      ],
+      "value_bbox": [
+        614,
+        556,
+        649,
+        578
+      ]
+    },
+    {
+      "label": "Southern Africa",
+      "value": "2984",
+      "value_numeric": 2984.0,
+      "element_bbox": [
+        168,
+        621,
+        580,
+        694
+      ],
+      "value_bbox": [
+        587,
+        647,
+        622,
+        668
+      ]
+    },
+    {
+      "label": "Central Africa",
+      "value": "2776",
+      "value_numeric": 2776.0,
+      "element_bbox": [
+        168,
+        712,
+        551,
+        784
+      ],
+      "value_bbox": [
+        559,
+        737,
+        594,
+        759
+      ]
+    },
+    {
+      "label": "North Africa",
+      "value": "2625",
+      "value_numeric": 2625.0,
+      "element_bbox": [
+        168,
+        802,
+        530,
+        875
+      ],
+      "value_bbox": [
+        538,
+        828,
+        573,
+        849
+      ]
+    }
+  ]
+}

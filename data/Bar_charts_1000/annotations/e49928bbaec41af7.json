@@ -1,0 +1,197 @@
+{
+  "chart_id": "e49928bbaec41af7",
+  "chart_type": "Bar Chart",
+  "image_width": 3546,
+  "image_height": 2049,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "South Asia",
+      "value": "51.5",
+      "value_numeric": 51.5,
+      "element_bbox": [
+        77,
+        113,
+        144,
+        796
+      ],
+      "value_bbox": [
+        97,
+        94,
+        123,
+        113
+      ]
+    },
+    {
+      "label": "Namibia",
+      "value": "51",
+      "value_numeric": 51.0,
+      "element_bbox": [
+        160,
+        117,
+        227,
+        796
+      ],
+      "value_bbox": [
+        186,
+        98,
+        201,
+        117
+      ]
+    },
+    {
+      "label": "Kenya",
+      "value": "49",
+      "value_numeric": 49.0,
+      "element_bbox": [
+        244,
+        136,
+        310,
+        796
+      ],
+      "value_bbox": [
+        270,
+        118,
+        284,
+        136
+      ]
+    },
+    {
+      "label": "Nigeria",
+      "value": "43.5",
+      "value_numeric": 43.5,
+      "element_bbox": [
+        327,
+        215,
+        394,
+        796
+      ],
+      "value_bbox": [
+        347,
+        196,
+        373,
+        215
+      ]
+    },
+    {
+      "label": "Uganda",
+      "value": "41",
+      "value_numeric": 41.0,
+      "element_bbox": [
+        410,
+        243,
+        477,
+        796
+      ],
+      "value_bbox": [
+        436,
+        224,
+        451,
+        243
+      ]
+    },
+    {
+      "label": "Ghana",
+      "value": "38",
+      "value_numeric": 38.0,
+      "element_bbox": [
+        494,
+        283,
+        560,
+        796
+      ],
+      "value_bbox": [
+        520,
+        264,
+        534,
+        283
+      ]
+    },
+    {
+      "label": "Ethiopia",
+      "value": "36",
+      "value_numeric": 36.0,
+      "element_bbox": [
+        577,
+        310,
+        643,
+        796
+      ],
+      "value_bbox": [
+        603,
+        291,
+        617,
+        310
+      ]
+    },
+    {
+      "label": "Tanzania",
+      "value": "32",
+      "value_numeric": 32.0,
+      "element_bbox": [
+        660,
+        365,
+        727,
+        796
+      ],
+      "value_bbox": [
+        686,
+        346,
+        701,
+        365
+      ]
+    },
+    {
+      "label": "Mozambique",
+      "value": "31.5",
+      "value_numeric": 31.5,
+      "element_bbox": [
+        743,
+        376,
+        810,
+        796
+      ],
+      "value_bbox": [
+        764,
+        358,
+        790,
+        376
+      ]
+    },
+    {
+      "label": "Czechia",
+      "value": "31",
+      "value_numeric": 31.0,
+      "element_bbox": [
+        827,
+        391,
+        893,
+        796
+      ],
+      "value_bbox": [
+        853,
+        373,
+        867,
+        391
+      ]
+    },
+    {
+      "label": "Rwanda",
+      "value": "30.5",
+      "value_numeric": 30.5,
+      "element_bbox": [
+        910,
+        393,
+        977,
+        796
+      ],
+      "value_bbox": [
+        930,
+        374,
+        956,
+        393
+      ]
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "chart_id": "d410e5b98f1a3b2a",
+  "chart_type": "Bar Chart",
+  "image_width": 2929,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Hungary",
+      "value": "98.5",
+      "value_numeric": 98.5,
+      "element_bbox": [
+        136,
+        77,
+        828,
+        118
+      ],
+      "value_bbox": [
+        835,
+        87,
+        866,
+        109
+      ]
+    },
+    {
+      "label": "Hungary",
+      "value": "99.2",
+      "value_numeric": 99.2,
+      "element_bbox": [
+        136,
+        179,
+        246,
+        220
+      ],
+      "value_bbox": [
+        253,
+        189,
+        284,
+        211
+      ]
+    },
+    {
+      "label": "Mauritania",
+      "value": "15.6",
+      "value_numeric": 15.6,
+      "element_bbox": [
+        136,
+        282,
+        496,
+        322
+      ],
+      "value_bbox": [
+        503,
+        291,
+        534,
+        313
+      ]
+    },
+    {
+      "label": "Mauritania",
+      "value": "5.3",
+      "value_numeric": 5.3,
+      "element_bbox": [
+        136,
+        384,
+        630,
+        424
+      ],
+      "value_bbox": [
+        637,
+        393,
+        659,
+        415
+      ]
+    },
+    {
+      "label": "Paraguay",
+      "value": "51.2",
+      "value_numeric": 51.2,
+      "element_bbox": [
+        136,
+        486,
+        733,
+        527
+      ],
+      "value_bbox": [
+        740,
+        495,
+        771,
+        517
+      ]
+    },
+    {
+      "label": "Paraguay",
+      "value": "48.1",
+      "value_numeric": 48.1,
+      "element_bbox": [
+        136,
+        588,
+        783,
+        629
+      ],
+      "value_bbox": [
+        790,
+        597,
+        821,
+        619
+      ]
+    },
+    {
+      "label": "Kenya",
+      "value": "70.3",
+      "value_numeric": 70.3,
+      "element_bbox": [
+        136,
+        690,
+        581,
+        731
+      ],
+      "value_bbox": [
+        589,
+        699,
+        620,
+        721
+      ]
+    },
+    {
+      "label": "Kenya",
+      "value": "68.9",
+      "value_numeric": 68.9,
+      "element_bbox": [
+        136,
+        792,
+        685,
+        833
+      ],
+      "value_bbox": [
+        693,
+        801,
+        723,
+        823
+      ]
+    },
+    {
+      "label": "Ghana",
+      "value": "85.0",
+      "value_numeric": 85.0,
+      "element_bbox": [
+        136,
+        118,
+        833,
+        159
+      ],
+      "value_bbox": [
+        840,
+        128,
+        871,
+        150
+      ]
+    },
+    {
+      "label": "Ghana",
+      "value": "82.5",
+      "value_numeric": 82.5,
+      "element_bbox": [
+        136,
+        220,
+        173,
+        261
+      ],
+      "value_bbox": [
+        181,
+        230,
+        212,
+        252
+      ]
+    },
+    {
+      "label": "Vietnam",
+      "value": "92.1",
+      "value_numeric": 92.1,
+      "element_bbox": [
+        136,
+        322,
+        474,
+        363
+      ],
+      "value_bbox": [
+        481,
+        332,
+        512,
+        354
+      ]
+    },
+    {
+      "label": "Vietnam",
+      "value": "93.5",
+      "value_numeric": 93.5,
+      "element_bbox": [
+        136,
+        424,
+        620,
+        465
+      ],
+      "value_bbox": [
+        627,
+        434,
+        658,
+        456
+      ]
+    },
+    {
+      "label": "Bolivia",
+      "value": "63.4",
+      "value_numeric": 63.4,
+      "element_bbox": [
+        136,
+        527,
+        715,
+        567
+      ],
+      "value_bbox": [
+        723,
+        536,
+        754,
+        558
+      ]
+    },
+    {
+      "label": "Bolivia",
+      "value": "60.7",
+      "value_numeric": 60.7,
+      "element_bbox": [
+        136,
+        629,
+        793,
+        669
+      ],
+      "value_bbox": [
+        800,
+        638,
+        831,
+        660
+      ]
+    },
+    {
+      "label": "Ethiopia",
+      "value": "78.2",
+      "value_numeric": 78.2,
+      "element_bbox": [
+        136,
+        731,
+        562,
+        771
+      ],
+      "value_bbox": [
+        570,
+        740,
+        601,
+        762
+      ]
+    },
+    {
+      "label": "Ethiopia",
+      "value": "79.8",
+      "value_numeric": 79.8,
+      "element_bbox": [
+        136,
+        833,
+        696,
+        874
+      ],
+      "value_bbox": [
+        704,
+        842,
+        735,
+        864
+      ]
+    }
+  ]
+}

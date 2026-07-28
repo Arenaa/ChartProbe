@@ -1,0 +1,95 @@
+{
+  "chart_id": "bf5330750441890c",
+  "chart_type": "Bar Chart",
+  "image_width": 2857,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Kyrgyz Republic",
+      "value": "12.5",
+      "value_numeric": 12.5,
+      "element_bbox": [
+        125,
+        738,
+        808,
+        855
+      ],
+      "value_bbox": [
+        816,
+        786,
+        847,
+        808
+      ]
+    },
+    {
+      "label": "Kazakhstan",
+      "value": "13.5",
+      "value_numeric": 13.5,
+      "element_bbox": [
+        125,
+        593,
+        863,
+        709
+      ],
+      "value_bbox": [
+        871,
+        640,
+        902,
+        662
+      ]
+    },
+    {
+      "label": "Italy",
+      "value": "7.5",
+      "value_numeric": 7.5,
+      "element_bbox": [
+        125,
+        447,
+        535,
+        563
+      ],
+      "value_bbox": [
+        543,
+        494,
+        565,
+        516
+      ]
+    },
+    {
+      "label": "Israel",
+      "value": "6.3",
+      "value_numeric": 6.3,
+      "element_bbox": [
+        125,
+        301,
+        469,
+        418
+      ],
+      "value_bbox": [
+        477,
+        348,
+        499,
+        370
+      ]
+    },
+    {
+      "label": "Ireland",
+      "value": "7",
+      "value_numeric": 7.0,
+      "element_bbox": [
+        125,
+        155,
+        508,
+        272
+      ],
+      "value_bbox": [
+        515,
+        203,
+        524,
+        224
+      ]
+    }
+  ]
+}

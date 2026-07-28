@@ -1,0 +1,78 @@
+{
+  "chart_id": "43c81a70255ba283",
+  "chart_type": "Bar Chart",
+  "image_width": 2959,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "High income: OECD",
+      "value": "11.8",
+      "value_numeric": 11.8,
+      "element_bbox": [
+        301,
+        741,
+        881,
+        847
+      ],
+      "value_bbox": [
+        888,
+        783,
+        918,
+        804
+      ]
+    },
+    {
+      "label": "High income: nonOECD",
+      "value": "13.2",
+      "value_numeric": 13.2,
+      "element_bbox": [
+        301,
+        529,
+        950,
+        635
+      ],
+      "value_bbox": [
+        956,
+        571,
+        987,
+        592
+      ]
+    },
+    {
+      "label": "High income",
+      "value": "12.1",
+      "value_numeric": 12.1,
+      "element_bbox": [
+        301,
+        316,
+        895,
+        422
+      ],
+      "value_bbox": [
+        902,
+        359,
+        933,
+        380
+      ]
+    },
+    {
+      "label": "Heavily indebted poor countries",
+      "value": "12.5",
+      "value_numeric": 12.5,
+      "element_bbox": [
+        301,
+        104,
+        915,
+        210
+      ],
+      "value_bbox": [
+        922,
+        147,
+        953,
+        168
+      ]
+    }
+  ]
+}

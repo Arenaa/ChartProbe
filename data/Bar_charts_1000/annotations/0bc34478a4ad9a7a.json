@@ -1,0 +1,95 @@
+{
+  "chart_id": "0bc34478a4ad9a7a",
+  "chart_type": "Bar Chart",
+  "image_width": 2125,
+  "image_height": 1381,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Cabo Verde",
+      "value": "11.5",
+      "value_numeric": 11.5,
+      "element_bbox": [
+        125,
+        738,
+        863,
+        855
+      ],
+      "value_bbox": [
+        871,
+        783,
+        919,
+        810
+      ]
+    },
+    {
+      "label": "Burundi",
+      "value": "7.8",
+      "value_numeric": 7.8,
+      "element_bbox": [
+        125,
+        593,
+        626,
+        709
+      ],
+      "value_bbox": [
+        633,
+        637,
+        668,
+        664
+      ]
+    },
+    {
+      "label": "Burkina Faso",
+      "value": "2.6",
+      "value_numeric": 2.6,
+      "element_bbox": [
+        125,
+        447,
+        292,
+        563
+      ],
+      "value_bbox": [
+        300,
+        491,
+        334,
+        519
+      ]
+    },
+    {
+      "label": "Bulgaria",
+      "value": "7.3",
+      "value_numeric": 7.3,
+      "element_bbox": [
+        125,
+        301,
+        594,
+        418
+      ],
+      "value_bbox": [
+        601,
+        346,
+        636,
+        373
+      ]
+    },
+    {
+      "label": "Brunei Darussalam",
+      "value": "3.7",
+      "value_numeric": 3.7,
+      "element_bbox": [
+        125,
+        155,
+        362,
+        272
+      ],
+      "value_bbox": [
+        370,
+        200,
+        405,
+        227
+      ]
+    }
+  ]
+}

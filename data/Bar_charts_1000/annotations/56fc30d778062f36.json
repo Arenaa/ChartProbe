@@ -1,0 +1,61 @@
+{
+  "chart_id": "56fc30d778062f36",
+  "chart_type": "Bar Chart",
+  "image_width": 2961,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "West Bank and Gaza",
+      "value": "87.2",
+      "value_numeric": 87.2,
+      "element_bbox": [
+        213,
+        635,
+        949,
+        847
+      ],
+      "value_bbox": [
+        956,
+        730,
+        987,
+        751
+      ]
+    },
+    {
+      "label": "Qatar",
+      "value": "83.1",
+      "value_numeric": 83.1,
+      "element_bbox": [
+        213,
+        369,
+        914,
+        582
+      ],
+      "value_bbox": [
+        922,
+        465,
+        952,
+        486
+      ]
+    },
+    {
+      "label": "Mozambique",
+      "value": "38.8",
+      "value_numeric": 38.8,
+      "element_bbox": [
+        213,
+        104,
+        540,
+        316
+      ],
+      "value_bbox": [
+        548,
+        200,
+        578,
+        221
+      ]
+    }
+  ]
+}

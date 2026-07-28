@@ -1,0 +1,95 @@
+{
+  "chart_id": "5f225f7b7eb181a6",
+  "chart_type": "Bar Chart",
+  "image_width": 2591,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Slovak Republic",
+      "value": "0",
+      "value_numeric": 0.0,
+      "element_bbox": [
+        160,
+        890,
+        278,
+        890
+      ],
+      "value_bbox": [
+        284,
+        879,
+        293,
+        901
+      ]
+    },
+    {
+      "label": "Slovenia",
+      "value": "0.3",
+      "value_numeric": 0.3,
+      "element_bbox": [
+        307,
+        878,
+        424,
+        890
+      ],
+      "value_bbox": [
+        431,
+        873,
+        453,
+        895
+      ]
+    },
+    {
+      "label": "South Africa",
+      "value": "4.5",
+      "value_numeric": 4.5,
+      "element_bbox": [
+        454,
+        717,
+        571,
+        890
+      ],
+      "value_bbox": [
+        501,
+        695,
+        524,
+        717
+      ]
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "9.3",
+      "value_numeric": 9.3,
+      "element_bbox": [
+        601,
+        532,
+        718,
+        890
+      ],
+      "value_bbox": [
+        648,
+        510,
+        670,
+        532
+      ]
+    },
+    {
+      "label": "St. Kitts and Nevis",
+      "value": "19.6",
+      "value_numeric": 19.6,
+      "element_bbox": [
+        747,
+        135,
+        865,
+        890
+      ],
+      "value_bbox": [
+        791,
+        114,
+        821,
+        135
+      ]
+    }
+  ]
+}

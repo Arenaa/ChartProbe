@@ -1,0 +1,95 @@
+{
+  "chart_id": "1af4241d9c190a24",
+  "chart_type": "Bar Chart",
+  "image_width": 2591,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "High income",
+      "value": "13.5",
+      "value_numeric": 13.5,
+      "element_bbox": [
+        160,
+        324,
+        278,
+        890
+      ],
+      "value_bbox": [
+        204,
+        303,
+        234,
+        324
+      ]
+    },
+    {
+      "label": "High income: OECD",
+      "value": "15.5",
+      "value_numeric": 15.5,
+      "element_bbox": [
+        307,
+        240,
+        424,
+        890
+      ],
+      "value_bbox": [
+        350,
+        219,
+        381,
+        240
+      ]
+    },
+    {
+      "label": "North America",
+      "value": "9.5",
+      "value_numeric": 9.5,
+      "element_bbox": [
+        454,
+        492,
+        571,
+        890
+      ],
+      "value_bbox": [
+        501,
+        470,
+        524,
+        492
+      ]
+    },
+    {
+      "label": "OECD members",
+      "value": "14.5",
+      "value_numeric": 14.5,
+      "element_bbox": [
+        601,
+        282,
+        718,
+        890
+      ],
+      "value_bbox": [
+        644,
+        261,
+        675,
+        282
+      ]
+    },
+    {
+      "label": "Other small states",
+      "value": "17.5",
+      "value_numeric": 17.5,
+      "element_bbox": [
+        747,
+        157,
+        865,
+        890
+      ],
+      "value_bbox": [
+        791,
+        135,
+        822,
+        157
+      ]
+    }
+  ]
+}

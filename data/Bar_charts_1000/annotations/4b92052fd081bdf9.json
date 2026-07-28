@@ -1,0 +1,112 @@
+{
+  "chart_id": "4b92052fd081bdf9",
+  "chart_type": "Bar Chart",
+  "image_width": 2576,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Cote d'Ivoire",
+      "value": "70",
+      "value_numeric": 70.0,
+      "element_bbox": [
+        160,
+        748,
+        191,
+        890
+      ],
+      "value_bbox": [
+        167,
+        726,
+        184,
+        748
+      ]
+    },
+    {
+      "label": "Costa Rica",
+      "value": "35",
+      "value_numeric": 35.0,
+      "element_bbox": [
+        283,
+        824,
+        313,
+        890
+      ],
+      "value_bbox": [
+        289,
+        803,
+        307,
+        824
+      ]
+    },
+    {
+      "label": "Congo (Republic)",
+      "value": "335",
+      "value_numeric": 335.0,
+      "element_bbox": [
+        405,
+        168,
+        436,
+        890
+      ],
+      "value_bbox": [
+        408,
+        146,
+        434,
+        168
+      ]
+    },
+    {
+      "label": "Colombia",
+      "value": "140",
+      "value_numeric": 140.0,
+      "element_bbox": [
+        528,
+        562,
+        558,
+        890
+      ],
+      "value_bbox": [
+        530,
+        540,
+        556,
+        562
+      ]
+    },
+    {
+      "label": "China",
+      "value": "185",
+      "value_numeric": 185.0,
+      "element_bbox": [
+        650,
+        474,
+        681,
+        890
+      ],
+      "value_bbox": [
+        653,
+        452,
+        679,
+        474
+      ]
+    },
+    {
+      "label": "Chile",
+      "value": "45",
+      "value_numeric": 45.0,
+      "element_bbox": [
+        773,
+        759,
+        804,
+        890
+      ],
+      "value_bbox": [
+        779,
+        737,
+        797,
+        759
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "chart_id": "e85ac980dba99c15",
+  "chart_type": "Bar Chart",
+  "image_width": 2664,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Albania",
+      "value": "60000",
+      "value_numeric": 60000.0,
+      "element_bbox": [
+        160,
+        646,
+        309,
+        890
+      ],
+      "value_bbox": [
+        213,
+        624,
+        256,
+        646
+      ]
+    },
+    {
+      "label": "Algeria",
+      "value": "180000",
+      "value_numeric": 180000.0,
+      "element_bbox": [
+        346,
+        157,
+        494,
+        890
+      ],
+      "value_bbox": [
+        394,
+        135,
+        446,
+        157
+      ]
+    },
+    {
+      "label": "American Samoa",
+      "value": "15000",
+      "value_numeric": 15000.0,
+      "element_bbox": [
+        531,
+        829,
+        679,
+        890
+      ],
+      "value_bbox": [
+        583,
+        807,
+        627,
+        829
+      ]
+    },
+    {
+      "label": "Andorra",
+      "value": "30000",
+      "value_numeric": 30000.0,
+      "element_bbox": [
+        716,
+        768,
+        865,
+        890
+      ],
+      "value_bbox": [
+        769,
+        746,
+        812,
+        768
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "chart_id": "34eee32a29496077",
+  "chart_type": "Bar Chart",
+  "image_width": 2352,
+  "image_height": 1447,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "2004",
+      "value": "13.5",
+      "value_numeric": 13.5,
+      "element_bbox": [
+        98,
+        368,
+        141,
+        868
+      ],
+      "value_bbox": [
+        100,
+        342,
+        139,
+        368
+      ]
+    },
+    {
+      "label": "2005",
+      "value": "13.7",
+      "value_numeric": 13.7,
+      "element_bbox": [
+        204,
+        353,
+        247,
+        868
+      ],
+      "value_bbox": [
+        206,
+        327,
+        245,
+        353
+      ]
+    },
+    {
+      "label": "2006",
+      "value": "13.6",
+      "value_numeric": 13.6,
+      "element_bbox": [
+        310,
+        363,
+        353,
+        868
+      ],
+      "value_bbox": [
+        312,
+        337,
+        351,
+        363
+      ]
+    },
+    {
+      "label": "2007",
+      "value": "13.8",
+      "value_numeric": 13.8,
+      "element_bbox": [
+        416,
+        358,
+        459,
+        868
+      ],
+      "value_bbox": [
+        418,
+        332,
+        457,
+        358
+      ]
+    },
+    {
+      "label": "2008",
+      "value": "13.4",
+      "value_numeric": 13.4,
+      "element_bbox": [
+        522,
+        374,
+        565,
+        868
+      ],
+      "value_bbox": [
+        524,
+        348,
+        563,
+        374
+      ]
+    },
+    {
+      "label": "2009",
+      "value": "13.5",
+      "value_numeric": 13.5,
+      "element_bbox": [
+        628,
+        368,
+        671,
+        868
+      ],
+      "value_bbox": [
+        630,
+        342,
+        669,
+        368
+      ]
+    },
+    {
+      "label": "2010",
+      "value": "13.7",
+      "value_numeric": 13.7,
+      "element_bbox": [
+        735,
+        363,
+        777,
+        868
+      ],
+      "value_bbox": [
+        736,
+        337,
+        775,
+        363
+      ]
+    }
+  ]
+}

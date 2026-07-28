@@ -1,0 +1,95 @@
+{
+  "chart_id": "a3e28765945592c0",
+  "chart_type": "Bar Chart",
+  "image_width": 2292,
+  "image_height": 1390,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Andorra",
+      "value": "-1",
+      "value_numeric": -1.0,
+      "element_bbox": [
+        144,
+        579,
+        278,
+        659
+      ],
+      "value_bbox": [
+        202,
+        633,
+        220,
+        659
+      ]
+    },
+    {
+      "label": "Greenland",
+      "value": "2",
+      "value_numeric": 2.0,
+      "element_bbox": [
+        312,
+        420,
+        446,
+        579
+      ],
+      "value_bbox": [
+        373,
+        394,
+        384,
+        420
+      ]
+    },
+    {
+      "label": "Netherlands",
+      "value": "0",
+      "value_numeric": 0.0,
+      "element_bbox": [
+        647,
+        499,
+        782,
+        579
+      ],
+      "value_bbox": [
+        709,
+        473,
+        720,
+        499
+      ]
+    },
+    {
+      "label": "Switzerland",
+      "value": "1",
+      "value_numeric": 1.0,
+      "element_bbox": [
+        815,
+        260,
+        949,
+        579
+      ],
+      "value_bbox": [
+        877,
+        234,
+        888,
+        260
+      ]
+    },
+    {
+      "label": "Austria",
+      "value": "4",
+      "value_numeric": 4.0,
+      "element_bbox": [
+        479,
+        579,
+        614,
+        579
+      ],
+      "value_bbox": [
+        621,
+        566,
+        632,
+        592
+      ]
+    }
+  ]
+}

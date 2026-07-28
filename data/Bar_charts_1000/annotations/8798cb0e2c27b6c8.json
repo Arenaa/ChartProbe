@@ -1,0 +1,78 @@
+{
+  "chart_id": "8798cb0e2c27b6c8",
+  "chart_type": "Bar Chart",
+  "image_width": 3132,
+  "image_height": 2365,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Sub-Saharan Africa (developing only)",
+      "value": "1000000000",
+      "value_numeric": 1000000000.0,
+      "element_bbox": [
+        337,
+        802,
+        346,
+        877
+      ],
+      "value_bbox": [
+        353,
+        832,
+        440,
+        848
+      ]
+    },
+    {
+      "label": "Upper middle income",
+      "value": "11000000000",
+      "value_numeric": 11000000000.0,
+      "element_bbox": [
+        337,
+        589,
+        346,
+        664
+      ],
+      "value_bbox": [
+        353,
+        618,
+        449,
+        634
+      ]
+    },
+    {
+      "label": "Algeria",
+      "value": "0",
+      "value_numeric": 0.0,
+      "element_bbox": [
+        337,
+        376,
+        954,
+        450
+      ],
+      "value_bbox": [
+        961,
+        405,
+        969,
+        421
+      ]
+    },
+    {
+      "label": "Bangladesh",
+      "value": "0",
+      "value_numeric": 0.0,
+      "element_bbox": [
+        337,
+        162,
+        482,
+        237
+      ],
+      "value_bbox": [
+        489,
+        191,
+        497,
+        208
+      ]
+    }
+  ]
+}

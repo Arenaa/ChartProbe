@@ -1,0 +1,146 @@
+{
+  "chart_id": "6c5a0f43e623a6db",
+  "chart_type": "Bar Chart",
+  "image_width": 2965,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Algeria",
+      "value": "24.0",
+      "value_numeric": 24.0,
+      "element_bbox": [
+        346,
+        77,
+        787,
+        159
+      ],
+      "value_bbox": [
+        793,
+        107,
+        824,
+        129
+      ]
+    },
+    {
+      "label": "Albania",
+      "value": "33.0",
+      "value_numeric": 33.0,
+      "element_bbox": [
+        346,
+        179,
+        952,
+        261
+      ],
+      "value_bbox": [
+        958,
+        209,
+        989,
+        231
+      ]
+    },
+    {
+      "label": "World",
+      "value": "22.0",
+      "value_numeric": 22.0,
+      "element_bbox": [
+        346,
+        282,
+        750,
+        363
+      ],
+      "value_bbox": [
+        756,
+        312,
+        787,
+        333
+      ]
+    },
+    {
+      "label": "Upper middle income",
+      "value": "23.0",
+      "value_numeric": 23.0,
+      "element_bbox": [
+        346,
+        384,
+        768,
+        465
+      ],
+      "value_bbox": [
+        775,
+        414,
+        806,
+        435
+      ]
+    },
+    {
+      "label": "Sub-Saharan Africa (developing only)",
+      "value": "30.0",
+      "value_numeric": 30.0,
+      "element_bbox": [
+        346,
+        486,
+        897,
+        567
+      ],
+      "value_bbox": [
+        903,
+        516,
+        934,
+        537
+      ]
+    },
+    {
+      "label": "Sub-Saharan Africa (all income levels)",
+      "value": "32.0",
+      "value_numeric": 32.0,
+      "element_bbox": [
+        346,
+        588,
+        933,
+        669
+      ],
+      "value_bbox": [
+        940,
+        618,
+        971,
+        639
+      ]
+    },
+    {
+      "label": "East Asia",
+      "value": "27.0",
+      "value_numeric": 27.0,
+      "element_bbox": [
+        346,
+        690,
+        842,
+        771
+      ],
+      "value_bbox": [
+        848,
+        720,
+        879,
+        741
+      ]
+    },
+    {
+      "label": "Latin America",
+      "value": "24.5",
+      "value_numeric": 24.5,
+      "element_bbox": [
+        346,
+        792,
+        796,
+        874
+      ],
+      "value_bbox": [
+        802,
+        822,
+        833,
+        844
+      ]
+    }
+  ]
+}

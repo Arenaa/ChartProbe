@@ -1,0 +1,78 @@
+{
+  "chart_id": "5b7561262ae80c06",
+  "chart_type": "Bar Chart",
+  "image_width": 2710,
+  "image_height": 1381,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Mauritania",
+      "value": "45",
+      "value_numeric": 45.0,
+      "element_bbox": [
+        160,
+        620,
+        234,
+        890
+      ],
+      "value_bbox": [
+        184,
+        593,
+        211,
+        620
+      ]
+    },
+    {
+      "label": "Mexico",
+      "value": "90",
+      "value_numeric": 90.0,
+      "element_bbox": [
+        346,
+        157,
+        420,
+        890
+      ],
+      "value_bbox": [
+        369,
+        130,
+        396,
+        157
+      ]
+    },
+    {
+      "label": "Mongolia",
+      "value": "75",
+      "value_numeric": 75.0,
+      "element_bbox": [
+        531,
+        272,
+        605,
+        890
+      ],
+      "value_bbox": [
+        554,
+        245,
+        582,
+        272
+      ]
+    },
+    {
+      "label": "Morocco",
+      "value": "80",
+      "value_numeric": 80.0,
+      "element_bbox": [
+        716,
+        350,
+        791,
+        890
+      ],
+      "value_bbox": [
+        740,
+        323,
+        767,
+        350
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "chart_id": "40fae4b7248a2464",
+  "chart_type": "Bar Chart",
+  "image_width": 2346,
+  "image_height": 1446,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Central America",
+      "value": "21.50",
+      "value_numeric": 21.5,
+      "element_bbox": [
+        122,
+        377,
+        358,
+        860
+      ],
+      "value_bbox": [
+        215,
+        351,
+        265,
+        377
+      ]
+    },
+    {
+      "label": "North America",
+      "value": "27.10",
+      "value_numeric": 27.1,
+      "element_bbox": [
+        417,
+        252,
+        653,
+        860
+      ],
+      "value_bbox": [
+        510,
+        226,
+        560,
+        252
+      ]
+    },
+    {
+      "label": "South America",
+      "value": "26.84",
+      "value_numeric": 26.84,
+      "element_bbox": [
+        712,
+        257,
+        948,
+        860
+      ],
+      "value_bbox": [
+        805,
+        231,
+        855,
+        257
+      ]
+    }
+  ]
+}

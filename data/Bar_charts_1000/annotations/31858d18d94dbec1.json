@@ -1,0 +1,163 @@
+{
+  "chart_id": "31858d18d94dbec1",
+  "chart_type": "Bar Chart",
+  "image_width": 3546,
+  "image_height": 2045,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Myanmar",
+      "value": "15.85",
+      "value_numeric": 15.85,
+      "element_bbox": [
+        104,
+        159,
+        180,
+        808
+      ],
+      "value_bbox": [
+        125,
+        140,
+        158,
+        159
+      ]
+    },
+    {
+      "label": "Morocco",
+      "value": "15.65",
+      "value_numeric": 15.65,
+      "element_bbox": [
+        199,
+        167,
+        275,
+        808
+      ],
+      "value_bbox": [
+        221,
+        148,
+        254,
+        167
+      ]
+    },
+    {
+      "label": "Nepal",
+      "value": "13.35",
+      "value_numeric": 13.35,
+      "element_bbox": [
+        294,
+        261,
+        371,
+        808
+      ],
+      "value_bbox": [
+        316,
+        243,
+        349,
+        261
+      ]
+    },
+    {
+      "label": "Ghana",
+      "value": "11.52",
+      "value_numeric": 11.52,
+      "element_bbox": [
+        390,
+        336,
+        466,
+        808
+      ],
+      "value_bbox": [
+        411,
+        317,
+        445,
+        336
+      ]
+    },
+    {
+      "label": "Kenya",
+      "value": "10.20",
+      "value_numeric": 10.2,
+      "element_bbox": [
+        485,
+        390,
+        562,
+        808
+      ],
+      "value_bbox": [
+        507,
+        372,
+        540,
+        390
+      ]
+    },
+    {
+      "label": "Tanzania",
+      "value": "7.52",
+      "value_numeric": 7.52,
+      "element_bbox": [
+        581,
+        500,
+        657,
+        808
+      ],
+      "value_bbox": [
+        606,
+        481,
+        632,
+        500
+      ]
+    },
+    {
+      "label": "Ethiopia",
+      "value": "5.85",
+      "value_numeric": 5.85,
+      "element_bbox": [
+        676,
+        568,
+        752,
+        808
+      ],
+      "value_bbox": [
+        701,
+        550,
+        727,
+        568
+      ]
+    },
+    {
+      "label": "Mozambique",
+      "value": "3.31",
+      "value_numeric": 3.31,
+      "element_bbox": [
+        771,
+        664,
+        848,
+        808
+      ],
+      "value_bbox": [
+        797,
+        646,
+        822,
+        664
+      ]
+    },
+    {
+      "label": "Namibia",
+      "value": "0.90",
+      "value_numeric": 0.9,
+      "element_bbox": [
+        867,
+        771,
+        943,
+        808
+      ],
+      "value_bbox": [
+        892,
+        753,
+        918,
+        771
+      ]
+    }
+  ]
+}

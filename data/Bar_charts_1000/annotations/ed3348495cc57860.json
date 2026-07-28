@@ -1,0 +1,112 @@
+{
+  "chart_id": "ed3348495cc57860",
+  "chart_type": "Bar Chart",
+  "image_width": 2646,
+  "image_height": 1745,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Services",
+      "value": "112.3",
+      "value_numeric": 112.3,
+      "element_bbox": [
+        108,
+        124,
+        226,
+        816
+      ],
+      "value_bbox": [
+        145,
+        103,
+        189,
+        124
+      ]
+    },
+    {
+      "label": "Industry",
+      "value": "68.9",
+      "value_numeric": 68.9,
+      "element_bbox": [
+        256,
+        391,
+        374,
+        816
+      ],
+      "value_bbox": [
+        298,
+        370,
+        332,
+        391
+      ]
+    },
+    {
+      "label": "Agriculture",
+      "value": "22.1",
+      "value_numeric": 22.1,
+      "element_bbox": [
+        403,
+        680,
+        522,
+        816
+      ],
+      "value_bbox": [
+        445,
+        658,
+        480,
+        680
+      ]
+    },
+    {
+      "label": "Energy",
+      "value": "15",
+      "value_numeric": 15.0,
+      "element_bbox": [
+        551,
+        723,
+        670,
+        816
+      ],
+      "value_bbox": [
+        601,
+        702,
+        620,
+        723
+      ]
+    },
+    {
+      "label": "Mining",
+      "value": "8.5",
+      "value_numeric": 8.5,
+      "element_bbox": [
+        699,
+        763,
+        817,
+        816
+      ],
+      "value_bbox": [
+        746,
+        742,
+        771,
+        763
+      ]
+    },
+    {
+      "label": "Technology",
+      "value": "6.5",
+      "value_numeric": 6.5,
+      "element_bbox": [
+        847,
+        776,
+        965,
+        816
+      ],
+      "value_bbox": [
+        894,
+        754,
+        918,
+        776
+      ]
+    }
+  ]
+}

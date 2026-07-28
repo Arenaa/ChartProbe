@@ -1,0 +1,61 @@
+{
+  "chart_id": "b8efe8be19d27241",
+  "chart_type": "Bar Chart",
+  "image_width": 2562,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Guatemala",
+      "value": "290000",
+      "value_numeric": 290000.0,
+      "element_bbox": [
+        160,
+        876,
+        224,
+        890
+      ],
+      "value_bbox": [
+        166,
+        854,
+        218,
+        876
+      ]
+    },
+    {
+      "label": "Honduras",
+      "value": "170000",
+      "value_numeric": 170000.0,
+      "element_bbox": [
+        416,
+        882,
+        480,
+        890
+      ],
+      "value_bbox": [
+        422,
+        860,
+        475,
+        882
+      ]
+    },
+    {
+      "label": "Hungary",
+      "value": "12000000",
+      "value_numeric": 12000000.0,
+      "element_bbox": [
+        673,
+        157,
+        737,
+        890
+      ],
+      "value_bbox": [
+        670,
+        135,
+        740,
+        157
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "version": 6,
+  "description": "Packed data/: Bar_charts_1000 (train), three CoT CR-500 sets, ChartQA 500+500.",
+  "datasets": {
+    "Bar_charts_1000": {
+      "role": "train",
+      "task": "chartprobe_9q",
+      "path": "data/Bar_charts_1000",
+      "samples": 1000,
+      "questions_per_sample": 9,
+      "chart_type": "bar",
+      "eval_bundle": "data/Bar_charts_1000/eval_bundle"
+    },
+    "CR_bar_500": {
+      "role": "test",
+      "task": "complex_reasoning_qa",
+      "path": "data/CR_bar_500",
+      "samples": 500,
+      "questions_per_sample": 1,
+      "chart_type": "bar",
+      "eval_bundle": "data/CR_bar_500"
+    },
+    "CR_pie_500": {
+      "role": "test",
+      "task": "complex_reasoning_qa",
+      "path": "data/CR_pie_500",
+      "samples": 500,
+      "questions_per_sample": 1,
+      "chart_type": "pie",
+      "eval_bundle": "data/CR_pie_500"
+    },
+    "CR_CLEVR_500": {
+      "role": "test",
+      "task": "complex_reasoning_qa",
+      "path": "data/CR_CLEVR_500",
+      "samples": 500,
+      "questions_per_sample": 1,
+      "chart_type": "clevr",
+      "eval_bundle": "data/CR_CLEVR_500"
+    },
+    "CR_ChartQA_500": {
+      "role": "test",
+      "task": "chartqa",
+      "path": "data/CR_ChartQA_500",
+      "samples": 1000,
+      "notes": "500 bar + 500 pie ChartQA (not CoT complex-reasoning)",
+      "bar": "data/CR_ChartQA_500/bar_charts_500",
+      "pie": "data/CR_ChartQA_500/pie_charts_500"
+    }
+  }
+}

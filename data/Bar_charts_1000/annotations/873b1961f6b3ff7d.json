@@ -1,0 +1,61 @@
+{
+  "chart_id": "873b1961f6b3ff7d",
+  "chart_type": "Bar Chart",
+  "image_width": 2056,
+  "image_height": 1389,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Ores and metals",
+      "value": "3",
+      "value_numeric": 3.0,
+      "element_bbox": [
+        160,
+        826,
+        224,
+        890
+      ],
+      "value_bbox": [
+        186,
+        799,
+        199,
+        826
+      ]
+    },
+    {
+      "label": "Manufactures",
+      "value": "42",
+      "value_numeric": 42.0,
+      "element_bbox": [
+        416,
+        157,
+        480,
+        890
+      ],
+      "value_bbox": [
+        435,
+        130,
+        462,
+        157
+      ]
+    },
+    {
+      "label": "Fuel",
+      "value": "3",
+      "value_numeric": 3.0,
+      "element_bbox": [
+        673,
+        800,
+        737,
+        890
+      ],
+      "value_bbox": [
+        698,
+        773,
+        711,
+        800
+      ]
+    }
+  ]
+}

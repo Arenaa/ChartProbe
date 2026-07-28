@@ -1,0 +1,180 @@
+{
+  "chart_id": "d08c19891e3d9b89",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1749,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Europe",
+      "value": "87",
+      "value_numeric": 87.0,
+      "element_bbox": [
+        83,
+        123,
+        156,
+        745
+      ],
+      "value_bbox": [
+        111,
+        101,
+        128,
+        123
+      ]
+    },
+    {
+      "label": "Asia",
+      "value": "73",
+      "value_numeric": 73.0,
+      "element_bbox": [
+        174,
+        223,
+        247,
+        745
+      ],
+      "value_bbox": [
+        202,
+        201,
+        219,
+        223
+      ]
+    },
+    {
+      "label": "Americas",
+      "value": "54",
+      "value_numeric": 54.0,
+      "element_bbox": [
+        265,
+        359,
+        337,
+        745
+      ],
+      "value_bbox": [
+        292,
+        337,
+        310,
+        359
+      ]
+    },
+    {
+      "label": "Africa",
+      "value": "42",
+      "value_numeric": 42.0,
+      "element_bbox": [
+        356,
+        445,
+        428,
+        745
+      ],
+      "value_bbox": [
+        383,
+        423,
+        401,
+        445
+      ]
+    },
+    {
+      "label": "MENA",
+      "value": "39",
+      "value_numeric": 39.0,
+      "element_bbox": [
+        446,
+        466,
+        519,
+        745
+      ],
+      "value_bbox": [
+        474,
+        444,
+        491,
+        466
+      ]
+    },
+    {
+      "label": "South America",
+      "value": "36",
+      "value_numeric": 36.0,
+      "element_bbox": [
+        537,
+        487,
+        610,
+        745
+      ],
+      "value_bbox": [
+        565,
+        466,
+        582,
+        487
+      ]
+    },
+    {
+      "label": "Oceania",
+      "value": "33",
+      "value_numeric": 33.0,
+      "element_bbox": [
+        628,
+        509,
+        701,
+        745
+      ],
+      "value_bbox": [
+        656,
+        487,
+        673,
+        509
+      ]
+    },
+    {
+      "label": "Central America",
+      "value": "26",
+      "value_numeric": 26.0,
+      "element_bbox": [
+        719,
+        559,
+        791,
+        745
+      ],
+      "value_bbox": [
+        746,
+        537,
+        764,
+        559
+      ]
+    },
+    {
+      "label": "Caribbean",
+      "value": "22",
+      "value_numeric": 22.0,
+      "element_bbox": [
+        810,
+        588,
+        882,
+        745
+      ],
+      "value_bbox": [
+        837,
+        566,
+        855,
+        588
+      ]
+    },
+    {
+      "label": "Antarctica",
+      "value": "1",
+      "value_numeric": 1.0,
+      "element_bbox": [
+        900,
+        738,
+        973,
+        745
+      ],
+      "value_bbox": [
+        932,
+        716,
+        941,
+        738
+      ]
+    }
+  ]
+}

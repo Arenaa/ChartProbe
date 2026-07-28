@@ -1,0 +1,95 @@
+{
+  "chart_id": "af92e425a78257ed",
+  "chart_type": "Bar Chart",
+  "image_width": 1768,
+  "image_height": 1381,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Ireland",
+      "value": "400",
+      "value_numeric": 400.0,
+      "element_bbox": [
+        160,
+        841,
+        213,
+        890
+      ],
+      "value_bbox": [
+        166,
+        814,
+        207,
+        841
+      ]
+    },
+    {
+      "label": "Israel",
+      "value": "800",
+      "value_numeric": 800.0,
+      "element_bbox": [
+        310,
+        776,
+        363,
+        890
+      ],
+      "value_bbox": [
+        316,
+        749,
+        357,
+        776
+      ]
+    },
+    {
+      "label": "Italy",
+      "value": "2600",
+      "value_numeric": 2600.0,
+      "element_bbox": [
+        460,
+        531,
+        512,
+        890
+      ],
+      "value_bbox": [
+        459,
+        504,
+        514,
+        531
+      ]
+    },
+    {
+      "label": "Jamaica",
+      "value": "1100",
+      "value_numeric": 1100.0,
+      "element_bbox": [
+        610,
+        743,
+        662,
+        890
+      ],
+      "value_bbox": [
+        609,
+        716,
+        664,
+        743
+      ]
+    },
+    {
+      "label": "Japan",
+      "value": "4500",
+      "value_numeric": 4500.0,
+      "element_bbox": [
+        760,
+        352,
+        812,
+        890
+      ],
+      "value_bbox": [
+        759,
+        325,
+        813,
+        352
+      ]
+    }
+  ]
+}

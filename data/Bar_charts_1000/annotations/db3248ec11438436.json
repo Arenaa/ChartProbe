@@ -1,0 +1,78 @@
+{
+  "chart_id": "db3248ec11438436",
+  "chart_type": "Bar Chart",
+  "image_width": 1895,
+  "image_height": 1379,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Tracking ability",
+      "value": "2.5",
+      "value_numeric": 2.5,
+      "element_bbox": [
+        162,
+        100,
+        235,
+        424
+      ],
+      "value_bbox": [
+        181,
+        73,
+        216,
+        100
+      ]
+    },
+    {
+      "label": "Quality of logistics services",
+      "value": "2.5",
+      "value_numeric": 2.5,
+      "element_bbox": [
+        370,
+        120,
+        443,
+        424
+      ],
+      "value_bbox": [
+        390,
+        93,
+        424,
+        120
+      ]
+    },
+    {
+      "label": "Ease of arranging shipments",
+      "value": "2.7",
+      "value_numeric": 2.7,
+      "element_bbox": [
+        579,
+        120,
+        652,
+        424
+      ],
+      "value_bbox": [
+        598,
+        93,
+        633,
+        120
+      ]
+    },
+    {
+      "label": "Efficiency of custom clearance process",
+      "value": "2.4",
+      "value_numeric": 2.4,
+      "element_bbox": [
+        787,
+        130,
+        860,
+        424
+      ],
+      "value_bbox": [
+        806,
+        103,
+        841,
+        130
+      ]
+    }
+  ]
+}

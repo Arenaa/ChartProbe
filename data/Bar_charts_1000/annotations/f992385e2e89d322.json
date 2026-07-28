@@ -1,0 +1,61 @@
+{
+  "chart_id": "f992385e2e89d322",
+  "chart_type": "Bar Chart",
+  "image_width": 2562,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Euro area",
+      "value": "0.45",
+      "value_numeric": 0.45,
+      "element_bbox": [
+        160,
+        386,
+        224,
+        890
+      ],
+      "value_bbox": [
+        177,
+        364,
+        208,
+        386
+      ]
+    },
+    {
+      "label": "European Union",
+      "value": "0.63",
+      "value_numeric": 0.63,
+      "element_bbox": [
+        416,
+        157,
+        480,
+        890
+      ],
+      "value_bbox": [
+        433,
+        135,
+        464,
+        157
+      ]
+    },
+    {
+      "label": "Heavily indebted poor countries",
+      "value": "0.28",
+      "value_numeric": 0.28,
+      "element_bbox": [
+        673,
+        569,
+        737,
+        890
+      ],
+      "value_bbox": [
+        689,
+        548,
+        720,
+        569
+      ]
+    }
+  ]
+}

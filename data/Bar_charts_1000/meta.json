@@ -1,0 +1,14 @@
+{
+  "dataset": "bar_charts_1000",
+  "charts": 1000,
+  "charts_with_questions": 1000,
+  "charts_skipped": 0,
+  "question_structure": "9_per_chart",
+  "questions_per_chart": 9,
+  "total_questions": 9000,
+  "charts_with_bbox_annotations": 830,
+  "charts_with_csv_fallback": 170,
+  "questions_json": "bar_charts_1000/dataset/questions.json",
+  "eval_bundle": "bar_charts_1000/eval_bundle/samples.jsonl",
+  "replacement_log": "bar_charts_1000/replacement_log.json"
+}

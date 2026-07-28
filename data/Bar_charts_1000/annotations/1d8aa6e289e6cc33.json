@@ -1,0 +1,146 @@
+{
+  "chart_id": "1d8aa6e289e6cc33",
+  "chart_type": "Bar Chart",
+  "image_width": 3252,
+  "image_height": 1752,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "North",
+      "value": "51.5",
+      "value_numeric": 51.5,
+      "element_bbox": [
+        77,
+        130,
+        169,
+        800
+      ],
+      "value_bbox": [
+        109,
+        110,
+        137,
+        130
+      ]
+    },
+    {
+      "label": "Center",
+      "value": "51.6",
+      "value_numeric": 51.6,
+      "element_bbox": [
+        421,
+        146,
+        513,
+        800
+      ],
+      "value_bbox": [
+        453,
+        126,
+        481,
+        146
+      ]
+    },
+    {
+      "label": "South",
+      "value": "52.1",
+      "value_numeric": 52.1,
+      "element_bbox": [
+        880,
+        131,
+        972,
+        800
+      ],
+      "value_bbox": [
+        912,
+        111,
+        940,
+        131
+      ]
+    },
+    {
+      "label": "Island Regions",
+      "value": "50.4",
+      "value_numeric": 50.4,
+      "element_bbox": [
+        192,
+        129,
+        284,
+        800
+      ],
+      "value_bbox": [
+        224,
+        109,
+        252,
+        129
+      ]
+    },
+    {
+      "label": "Northeast",
+      "value": "51.9",
+      "value_numeric": 51.9,
+      "element_bbox": [
+        307,
+        124,
+        398,
+        800
+      ],
+      "value_bbox": [
+        338,
+        104,
+        367,
+        124
+      ]
+    },
+    {
+      "label": "Northwest",
+      "value": "51.8",
+      "value_numeric": 51.8,
+      "element_bbox": [
+        536,
+        126,
+        628,
+        800
+      ],
+      "value_bbox": [
+        568,
+        106,
+        596,
+        126
+      ]
+    },
+    {
+      "label": "Southwest",
+      "value": "52",
+      "value_numeric": 52.0,
+      "element_bbox": [
+        651,
+        127,
+        743,
+        800
+      ],
+      "value_bbox": [
+        689,
+        107,
+        705,
+        127
+      ]
+    },
+    {
+      "label": "Southeast",
+      "value": "51.5",
+      "value_numeric": 51.5,
+      "element_bbox": [
+        766,
+        125,
+        857,
+        800
+      ],
+      "value_bbox": [
+        797,
+        105,
+        826,
+        125
+      ]
+    }
+  ]
+}

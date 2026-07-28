@@ -1,0 +1,231 @@
+{
+  "chart_id": "a56567afdf9338d9",
+  "chart_type": "Bar Chart",
+  "image_width": 3645,
+  "image_height": 1745,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Honduras",
+      "value": "0.53",
+      "value_numeric": 0.53,
+      "element_bbox": [
+        73,
+        121,
+        129,
+        751
+      ],
+      "value_bbox": [
+        138,
+        425,
+        164,
+        447
+      ]
+    },
+    {
+      "label": "Guyana",
+      "value": "0.49",
+      "value_numeric": 0.49,
+      "element_bbox": [
+        144,
+        155,
+        200,
+        751
+      ],
+      "value_bbox": [
+        209,
+        442,
+        235,
+        464
+      ]
+    },
+    {
+      "label": "Nigeria",
+      "value": "0.45",
+      "value_numeric": 0.45,
+      "element_bbox": [
+        214,
+        205,
+        271,
+        751
+      ],
+      "value_bbox": [
+        280,
+        467,
+        306,
+        489
+      ]
+    },
+    {
+      "label": "Zimbabwe",
+      "value": "0.41",
+      "value_numeric": 0.41,
+      "element_bbox": [
+        285,
+        265,
+        342,
+        751
+      ],
+      "value_bbox": [
+        350,
+        497,
+        376,
+        519
+      ]
+    },
+    {
+      "label": "Ecuador",
+      "value": "0.35",
+      "value_numeric": 0.35,
+      "element_bbox": [
+        356,
+        325,
+        412,
+        751
+      ],
+      "value_bbox": [
+        421,
+        527,
+        447,
+        549
+      ]
+    },
+    {
+      "label": "Kenya",
+      "value": "0.35",
+      "value_numeric": 0.35,
+      "element_bbox": [
+        426,
+        325,
+        483,
+        751
+      ],
+      "value_bbox": [
+        492,
+        527,
+        518,
+        549
+      ]
+    },
+    {
+      "label": "Peru",
+      "value": "0.32",
+      "value_numeric": 0.32,
+      "element_bbox": [
+        497,
+        361,
+        554,
+        751
+      ],
+      "value_bbox": [
+        563,
+        545,
+        588,
+        567
+      ]
+    },
+    {
+      "label": "Bolivia",
+      "value": "0.30",
+      "value_numeric": 0.3,
+      "element_bbox": [
+        568,
+        385,
+        624,
+        751
+      ],
+      "value_bbox": [
+        633,
+        557,
+        659,
+        579
+      ]
+    },
+    {
+      "label": "Guinea-Bissau",
+      "value": "0.28",
+      "value_numeric": 0.28,
+      "element_bbox": [
+        639,
+        408,
+        695,
+        751
+      ],
+      "value_bbox": [
+        704,
+        569,
+        730,
+        590
+      ]
+    },
+    {
+      "label": "Gambia",
+      "value": "0.24",
+      "value_numeric": 0.24,
+      "element_bbox": [
+        709,
+        458,
+        766,
+        751
+      ],
+      "value_bbox": [
+        775,
+        593,
+        800,
+        615
+      ]
+    },
+    {
+      "label": "Argentina",
+      "value": "0.19",
+      "value_numeric": 0.19,
+      "element_bbox": [
+        780,
+        519,
+        837,
+        751
+      ],
+      "value_bbox": [
+        845,
+        624,
+        871,
+        646
+      ]
+    },
+    {
+      "label": "Haiti",
+      "value": "0.15",
+      "value_numeric": 0.15,
+      "element_bbox": [
+        851,
+        567,
+        907,
+        751
+      ],
+      "value_bbox": [
+        916,
+        648,
+        942,
+        670
+      ]
+    },
+    {
+      "label": "Hong Kong SAR",
+      "value": "0.01",
+      "value_numeric": 0.01,
+      "element_bbox": [
+        921,
+        750,
+        978,
+        751
+      ],
+      "value_bbox": [
+        987,
+        739,
+        1000,
+        761
+      ]
+    }
+  ]
+}

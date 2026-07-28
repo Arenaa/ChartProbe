@@ -1,0 +1,197 @@
+{
+  "chart_id": "01f5c9daecee2b96",
+  "chart_type": "Bar Chart",
+  "image_width": 4146,
+  "image_height": 2349,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Crop Production (tonnes)",
+      "value": "710",
+      "value_numeric": 710.0,
+      "element_bbox": [
+        89,
+        163,
+        101,
+        705
+      ],
+      "value_bbox": [
+        86,
+        146,
+        104,
+        163
+      ]
+    },
+    {
+      "label": "Food Processing (tonnes)",
+      "value": "580",
+      "value_numeric": 580.0,
+      "element_bbox": [
+        164,
+        268,
+        176,
+        705
+      ],
+      "value_bbox": [
+        161,
+        251,
+        179,
+        268
+      ]
+    },
+    {
+      "label": "Aquaculture (tons)",
+      "value": "525",
+      "value_numeric": 525.0,
+      "element_bbox": [
+        239,
+        320,
+        251,
+        705
+      ],
+      "value_bbox": [
+        236,
+        304,
+        254,
+        320
+      ]
+    },
+    {
+      "label": "Livestock Farming (tons)",
+      "value": "660",
+      "value_numeric": 660.0,
+      "element_bbox": [
+        314,
+        215,
+        326,
+        705
+      ],
+      "value_bbox": [
+        311,
+        199,
+        329,
+        215
+      ]
+    },
+    {
+      "label": "Eco-Tourism Services (1k visits)",
+      "value": "495",
+      "value_numeric": 495.0,
+      "element_bbox": [
+        389,
+        338,
+        401,
+        705
+      ],
+      "value_bbox": [
+        385,
+        321,
+        404,
+        338
+      ]
+    },
+    {
+      "label": "Renewable Energy (MWh)",
+      "value": "440",
+      "value_numeric": 440.0,
+      "element_bbox": [
+        464,
+        399,
+        476,
+        705
+      ],
+      "value_bbox": [
+        460,
+        383,
+        479,
+        399
+      ]
+    },
+    {
+      "label": "Forestry (10³ m³)",
+      "value": "385",
+      "value_numeric": 385.0,
+      "element_bbox": [
+        539,
+        434,
+        551,
+        705
+      ],
+      "value_bbox": [
+        535,
+        418,
+        554,
+        434
+      ]
+    },
+    {
+      "label": "Bioenergy (MWh)",
+      "value": "240",
+      "value_numeric": 240.0,
+      "element_bbox": [
+        614,
+        547,
+        626,
+        705
+      ],
+      "value_bbox": [
+        610,
+        531,
+        629,
+        547
+      ]
+    },
+    {
+      "label": "Agri-Tech Services (US$ M)",
+      "value": "365",
+      "value_numeric": 365.0,
+      "element_bbox": [
+        689,
+        477,
+        700,
+        705
+      ],
+      "value_bbox": [
+        685,
+        461,
+        704,
+        477
+      ]
+    },
+    {
+      "label": "Vertical Farming (ha)",
+      "value": "230",
+      "value_numeric": 230.0,
+      "element_bbox": [
+        763,
+        574,
+        775,
+        705
+      ],
+      "value_bbox": [
+        760,
+        557,
+        779,
+        574
+      ]
+    },
+    {
+      "label": "Hydroponics (ha)",
+      "value": "155",
+      "value_numeric": 155.0,
+      "element_bbox": [
+        838,
+        635,
+        850,
+        705
+      ],
+      "value_bbox": [
+        835,
+        619,
+        854,
+        635
+      ]
+    }
+  ]
+}

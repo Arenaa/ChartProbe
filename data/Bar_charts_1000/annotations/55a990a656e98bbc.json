@@ -1,0 +1,350 @@
+{
+  "chart_id": "55a990a656e98bbc",
+  "chart_type": "Bar Chart",
+  "image_width": 3546,
+  "image_height": 2046,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "North",
+      "value": "74",
+      "value_numeric": 74.0,
+      "element_bbox": [
+        66,
+        163,
+        103,
+        799
+      ],
+      "value_bbox": [
+        78,
+        144,
+        92,
+        163
+      ]
+    },
+    {
+      "label": "South",
+      "value": "50",
+      "value_numeric": 50.0,
+      "element_bbox": [
+        113,
+        369,
+        149,
+        799
+      ],
+      "value_bbox": [
+        124,
+        351,
+        138,
+        369
+      ]
+    },
+    {
+      "label": "East",
+      "value": "63",
+      "value_numeric": 63.0,
+      "element_bbox": [
+        159,
+        257,
+        196,
+        799
+      ],
+      "value_bbox": [
+        170,
+        239,
+        184,
+        257
+      ]
+    },
+    {
+      "label": "West",
+      "value": "80",
+      "value_numeric": 80.0,
+      "element_bbox": [
+        205,
+        111,
+        242,
+        799
+      ],
+      "value_bbox": [
+        216,
+        93,
+        231,
+        111
+      ]
+    },
+    {
+      "label": "Central",
+      "value": "47",
+      "value_numeric": 47.0,
+      "element_bbox": [
+        251,
+        395,
+        288,
+        799
+      ],
+      "value_bbox": [
+        262,
+        376,
+        277,
+        395
+      ]
+    },
+    {
+      "label": "Northeast",
+      "value": "45",
+      "value_numeric": 45.0,
+      "element_bbox": [
+        297,
+        412,
+        334,
+        799
+      ],
+      "value_bbox": [
+        308,
+        394,
+        323,
+        412
+      ]
+    },
+    {
+      "label": "Northwest",
+      "value": "45",
+      "value_numeric": 45.0,
+      "element_bbox": [
+        343,
+        412,
+        380,
+        799
+      ],
+      "value_bbox": [
+        355,
+        394,
+        369,
+        412
+      ]
+    },
+    {
+      "label": "Southeast",
+      "value": "56",
+      "value_numeric": 56.0,
+      "element_bbox": [
+        390,
+        318,
+        426,
+        799
+      ],
+      "value_bbox": [
+        401,
+        299,
+        415,
+        318
+      ]
+    },
+    {
+      "label": "Southwest",
+      "value": "41",
+      "value_numeric": 41.0,
+      "element_bbox": [
+        436,
+        447,
+        473,
+        799
+      ],
+      "value_bbox": [
+        447,
+        428,
+        461,
+        447
+      ]
+    },
+    {
+      "label": "Midwest",
+      "value": "64",
+      "value_numeric": 64.0,
+      "element_bbox": [
+        482,
+        249,
+        519,
+        799
+      ],
+      "value_bbox": [
+        493,
+        230,
+        508,
+        249
+      ]
+    },
+    {
+      "label": "Upper East",
+      "value": "38",
+      "value_numeric": 38.0,
+      "element_bbox": [
+        528,
+        472,
+        565,
+        799
+      ],
+      "value_bbox": [
+        539,
+        454,
+        554,
+        472
+      ]
+    },
+    {
+      "label": "Lower West",
+      "value": "37",
+      "value_numeric": 37.0,
+      "element_bbox": [
+        574,
+        481,
+        611,
+        799
+      ],
+      "value_bbox": [
+        585,
+        462,
+        600,
+        481
+      ]
+    },
+    {
+      "label": "Coastal",
+      "value": "52",
+      "value_numeric": 52.0,
+      "element_bbox": [
+        620,
+        352,
+        657,
+        799
+      ],
+      "value_bbox": [
+        631,
+        333,
+        646,
+        352
+      ]
+    },
+    {
+      "label": "Highland",
+      "value": "41",
+      "value_numeric": 41.0,
+      "element_bbox": [
+        666,
+        447,
+        703,
+        799
+      ],
+      "value_bbox": [
+        678,
+        428,
+        692,
+        447
+      ]
+    },
+    {
+      "label": "Island",
+      "value": "29",
+      "value_numeric": 29.0,
+      "element_bbox": [
+        713,
+        550,
+        750,
+        799
+      ],
+      "value_bbox": [
+        724,
+        531,
+        738,
+        550
+      ]
+    },
+    {
+      "label": "Mountain",
+      "value": "36",
+      "value_numeric": 36.0,
+      "element_bbox": [
+        759,
+        489,
+        796,
+        799
+      ],
+      "value_bbox": [
+        770,
+        471,
+        784,
+        489
+      ]
+    },
+    {
+      "label": "Coastal Plains",
+      "value": "34",
+      "value_numeric": 34.0,
+      "element_bbox": [
+        805,
+        507,
+        842,
+        799
+      ],
+      "value_bbox": [
+        816,
+        488,
+        831,
+        507
+      ]
+    },
+    {
+      "label": "River Delta",
+      "value": "35",
+      "value_numeric": 35.0,
+      "element_bbox": [
+        851,
+        498,
+        888,
+        799
+      ],
+      "value_bbox": [
+        862,
+        480,
+        877,
+        498
+      ]
+    },
+    {
+      "label": "Lake Region",
+      "value": "28",
+      "value_numeric": 28.0,
+      "element_bbox": [
+        897,
+        558,
+        934,
+        799
+      ],
+      "value_bbox": [
+        909,
+        540,
+        923,
+        558
+      ]
+    },
+    {
+      "label": "Desert",
+      "value": "24",
+      "value_numeric": 24.0,
+      "element_bbox": [
+        943,
+        593,
+        980,
+        799
+      ],
+      "value_bbox": [
+        955,
+        574,
+        969,
+        593
+      ]
+    }
+  ]
+}

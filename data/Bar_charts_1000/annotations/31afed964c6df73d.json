@@ -1,0 +1,95 @@
+{
+  "chart_id": "31afed964c6df73d",
+  "chart_type": "Bar Chart",
+  "image_width": 2962,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "General Ward (Adults)",
+      "value": "106.05",
+      "value_numeric": 106.05,
+      "element_bbox": [
+        200,
+        106,
+        930,
+        233
+      ],
+      "value_bbox": [
+        938,
+        158,
+        986,
+        180
+      ]
+    },
+    {
+      "label": "Intensive Care Unit",
+      "value": "23.68",
+      "value_numeric": 23.68,
+      "element_bbox": [
+        200,
+        264,
+        363,
+        391
+      ],
+      "value_bbox": [
+        371,
+        317,
+        410,
+        339
+      ]
+    },
+    {
+      "label": "Maternity Ward",
+      "value": "11.36",
+      "value_numeric": 11.36,
+      "element_bbox": [
+        200,
+        423,
+        278,
+        550
+      ],
+      "value_bbox": [
+        286,
+        476,
+        326,
+        498
+      ]
+    },
+    {
+      "label": "Pediatric Ward",
+      "value": "10.11",
+      "value_numeric": 10.11,
+      "element_bbox": [
+        200,
+        582,
+        270,
+        709
+      ],
+      "value_bbox": [
+        278,
+        635,
+        317,
+        656
+      ]
+    },
+    {
+      "label": "Surgical Ward",
+      "value": "6.37",
+      "value_numeric": 6.37,
+      "element_bbox": [
+        200,
+        741,
+        244,
+        868
+      ],
+      "value_bbox": [
+        252,
+        794,
+        283,
+        815
+      ]
+    }
+  ]
+}

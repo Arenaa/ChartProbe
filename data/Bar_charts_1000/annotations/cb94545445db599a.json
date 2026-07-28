@@ -1,0 +1,112 @@
+{
+  "chart_id": "cb94545445db599a",
+  "chart_type": "Bar Chart",
+  "image_width": 3117,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Puerto Rico",
+      "value": "600000000",
+      "value_numeric": 600000000.0,
+      "element_bbox": [
+        199,
+        744,
+        343,
+        847
+      ],
+      "value_bbox": [
+        351,
+        785,
+        430,
+        806
+      ]
+    },
+    {
+      "label": "Portugal",
+      "value": "3100000000",
+      "value_numeric": 3100000000.0,
+      "element_bbox": [
+        199,
+        616,
+        945,
+        719
+      ],
+      "value_bbox": [
+        953,
+        657,
+        1000,
+        678
+      ]
+    },
+    {
+      "label": "Philippines",
+      "value": "1400000000",
+      "value_numeric": 1400000000.0,
+      "element_bbox": [
+        199,
+        488,
+        536,
+        591
+      ],
+      "value_bbox": [
+        544,
+        529,
+        631,
+        550
+      ]
+    },
+    {
+      "label": "Peru",
+      "value": "1300000000",
+      "value_numeric": 1300000000.0,
+      "element_bbox": [
+        199,
+        360,
+        512,
+        463
+      ],
+      "value_bbox": [
+        519,
+        401,
+        607,
+        422
+      ]
+    },
+    {
+      "label": "Paraguay",
+      "value": "100000000",
+      "value_numeric": 100000000.0,
+      "element_bbox": [
+        199,
+        232,
+        223,
+        335
+      ],
+      "value_bbox": [
+        231,
+        273,
+        310,
+        294
+      ]
+    },
+    {
+      "label": "Papua New Guinea",
+      "value": "100000000",
+      "value_numeric": 100000000.0,
+      "element_bbox": [
+        199,
+        104,
+        223,
+        207
+      ],
+      "value_bbox": [
+        231,
+        145,
+        310,
+        166
+      ]
+    }
+  ]
+}

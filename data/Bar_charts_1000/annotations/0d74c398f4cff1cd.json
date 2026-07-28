@@ -1,0 +1,112 @@
+{
+  "chart_id": "0d74c398f4cff1cd",
+  "chart_type": "Bar Chart",
+  "image_width": 2547,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Suriname",
+      "value": "19.5",
+      "value_numeric": 19.5,
+      "element_bbox": [
+        160,
+        640,
+        257,
+        890
+      ],
+      "value_bbox": [
+        193,
+        618,
+        224,
+        640
+      ]
+    },
+    {
+      "label": "Sweden",
+      "value": "11.2",
+      "value_numeric": 11.2,
+      "element_bbox": [
+        282,
+        746,
+        379,
+        890
+      ],
+      "value_bbox": [
+        315,
+        725,
+        346,
+        746
+      ]
+    },
+    {
+      "label": "Switzerland",
+      "value": "11.2",
+      "value_numeric": 11.2,
+      "element_bbox": [
+        403,
+        746,
+        500,
+        890
+      ],
+      "value_bbox": [
+        436,
+        725,
+        467,
+        746
+      ]
+    },
+    {
+      "label": "Thailand",
+      "value": "54.7",
+      "value_numeric": 54.7,
+      "element_bbox": [
+        525,
+        188,
+        622,
+        890
+      ],
+      "value_bbox": [
+        558,
+        166,
+        589,
+        188
+      ]
+    },
+    {
+      "label": "Tonga",
+      "value": "54.7",
+      "value_numeric": 54.7,
+      "element_bbox": [
+        646,
+        188,
+        743,
+        890
+      ],
+      "value_bbox": [
+        679,
+        166,
+        710,
+        188
+      ]
+    },
+    {
+      "label": "Trinidad and Tobago",
+      "value": "20.5",
+      "value_numeric": 20.5,
+      "element_bbox": [
+        768,
+        627,
+        865,
+        890
+      ],
+      "value_bbox": [
+        801,
+        605,
+        832,
+        627
+      ]
+    }
+  ]
+}

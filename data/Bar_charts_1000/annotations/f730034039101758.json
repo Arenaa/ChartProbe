@@ -1,0 +1,197 @@
+{
+  "chart_id": "f730034039101758",
+  "chart_type": "Bar Chart",
+  "image_width": 2945,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "UK",
+      "value": "37.0",
+      "value_numeric": 37.0,
+      "element_bbox": [
+        148,
+        97,
+        942,
+        155
+      ],
+      "value_bbox": [
+        951,
+        115,
+        982,
+        137
+      ]
+    },
+    {
+      "label": "Germany",
+      "value": "38.0",
+      "value_numeric": 38.0,
+      "element_bbox": [
+        148,
+        169,
+        923,
+        227
+      ],
+      "value_bbox": [
+        932,
+        187,
+        962,
+        209
+      ]
+    },
+    {
+      "label": "USA",
+      "value": "39.0",
+      "value_numeric": 39.0,
+      "element_bbox": [
+        148,
+        241,
+        904,
+        299
+      ],
+      "value_bbox": [
+        913,
+        259,
+        944,
+        281
+      ]
+    },
+    {
+      "label": "France",
+      "value": "41.0",
+      "value_numeric": 41.0,
+      "element_bbox": [
+        148,
+        313,
+        886,
+        371
+      ],
+      "value_bbox": [
+        894,
+        332,
+        925,
+        353
+      ]
+    },
+    {
+      "label": "Canada",
+      "value": "36.0",
+      "value_numeric": 36.0,
+      "element_bbox": [
+        148,
+        386,
+        867,
+        443
+      ],
+      "value_bbox": [
+        875,
+        404,
+        906,
+        425
+      ]
+    },
+    {
+      "label": "Australia",
+      "value": "33.0",
+      "value_numeric": 33.0,
+      "element_bbox": [
+        148,
+        458,
+        848,
+        516
+      ],
+      "value_bbox": [
+        856,
+        476,
+        887,
+        498
+      ]
+    },
+    {
+      "label": "Netherlands",
+      "value": "34.0",
+      "value_numeric": 34.0,
+      "element_bbox": [
+        148,
+        530,
+        829,
+        588
+      ],
+      "value_bbox": [
+        837,
+        548,
+        868,
+        570
+      ]
+    },
+    {
+      "label": "Sweden",
+      "value": "35.0",
+      "value_numeric": 35.0,
+      "element_bbox": [
+        148,
+        602,
+        810,
+        660
+      ],
+      "value_bbox": [
+        818,
+        620,
+        849,
+        642
+      ]
+    },
+    {
+      "label": "Spain",
+      "value": "42.0",
+      "value_numeric": 42.0,
+      "element_bbox": [
+        148,
+        674,
+        791,
+        732
+      ],
+      "value_bbox": [
+        799,
+        692,
+        830,
+        714
+      ]
+    },
+    {
+      "label": "Portugal",
+      "value": "40.0",
+      "value_numeric": 40.0,
+      "element_bbox": [
+        148,
+        747,
+        772,
+        804
+      ],
+      "value_bbox": [
+        780,
+        765,
+        811,
+        786
+      ]
+    },
+    {
+      "label": "Uruguay",
+      "value": "31.0",
+      "value_numeric": 31.0,
+      "element_bbox": [
+        148,
+        819,
+        734,
+        877
+      ],
+      "value_bbox": [
+        743,
+        837,
+        774,
+        858
+      ]
+    }
+  ]
+}

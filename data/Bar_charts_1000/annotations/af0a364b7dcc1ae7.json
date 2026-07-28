@@ -1,0 +1,78 @@
+{
+  "chart_id": "af0a364b7dcc1ae7",
+  "chart_type": "Bar Chart",
+  "image_width": 2292,
+  "image_height": 1695,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Rural",
+      "value": "16.6",
+      "value_numeric": 16.6,
+      "element_bbox": [
+        142,
+        744,
+        311,
+        888
+      ],
+      "value_bbox": [
+        208,
+        722,
+        246,
+        744
+      ]
+    },
+    {
+      "label": "Suburban",
+      "value": "5.0",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        354,
+        844,
+        523,
+        888
+      ],
+      "value_bbox": [
+        424,
+        823,
+        452,
+        844
+      ]
+    },
+    {
+      "label": "Urban",
+      "value": "75.4",
+      "value_numeric": 75.4,
+      "element_bbox": [
+        565,
+        235,
+        734,
+        888
+      ],
+      "value_bbox": [
+        630,
+        214,
+        669,
+        235
+      ]
+    },
+    {
+      "label": "Exurban",
+      "value": "3.0",
+      "value_numeric": 3.0,
+      "element_bbox": [
+        776,
+        862,
+        945,
+        888
+      ],
+      "value_bbox": [
+        847,
+        840,
+        874,
+        862
+      ]
+    }
+  ]
+}

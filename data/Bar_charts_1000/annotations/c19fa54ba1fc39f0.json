@@ -1,0 +1,197 @@
+{
+  "chart_id": "c19fa54ba1fc39f0",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1745,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Oil",
+      "value": "155",
+      "value_numeric": 155.0,
+      "element_bbox": [
+        125,
+        121,
+        185,
+        743
+      ],
+      "value_bbox": [
+        142,
+        99,
+        168,
+        121
+      ]
+    },
+    {
+      "label": "Nuclear",
+      "value": "30",
+      "value_numeric": 30.0,
+      "element_bbox": [
+        200,
+        622,
+        261,
+        743
+      ],
+      "value_bbox": [
+        222,
+        601,
+        239,
+        622
+      ]
+    },
+    {
+      "label": "Wind",
+      "value": "27",
+      "value_numeric": 27.0,
+      "element_bbox": [
+        276,
+        634,
+        336,
+        743
+      ],
+      "value_bbox": [
+        297,
+        613,
+        315,
+        634
+      ]
+    },
+    {
+      "label": "Solar PV",
+      "value": "22",
+      "value_numeric": 22.0,
+      "element_bbox": [
+        351,
+        654,
+        412,
+        743
+      ],
+      "value_bbox": [
+        373,
+        633,
+        390,
+        654
+      ]
+    },
+    {
+      "label": "Hydro",
+      "value": "13",
+      "value_numeric": 13.0,
+      "element_bbox": [
+        427,
+        691,
+        488,
+        743
+      ],
+      "value_bbox": [
+        449,
+        669,
+        466,
+        691
+      ]
+    },
+    {
+      "label": "Biomass",
+      "value": "11",
+      "value_numeric": 11.0,
+      "element_bbox": [
+        503,
+        699,
+        563,
+        743
+      ],
+      "value_bbox": [
+        524,
+        677,
+        542,
+        699
+      ]
+    },
+    {
+      "label": "Coal",
+      "value": "8",
+      "value_numeric": 8.0,
+      "element_bbox": [
+        578,
+        711,
+        639,
+        743
+      ],
+      "value_bbox": [
+        604,
+        689,
+        613,
+        711
+      ]
+    },
+    {
+      "label": "Green Hydrogen",
+      "value": "7",
+      "value_numeric": 7.0,
+      "element_bbox": [
+        654,
+        715,
+        714,
+        743
+      ],
+      "value_bbox": [
+        680,
+        693,
+        688,
+        715
+      ]
+    },
+    {
+      "label": "Tidal",
+      "value": "6",
+      "value_numeric": 6.0,
+      "element_bbox": [
+        729,
+        719,
+        790,
+        743
+      ],
+      "value_bbox": [
+        755,
+        697,
+        764,
+        719
+      ]
+    },
+    {
+      "label": "Ocean Energy",
+      "value": "5",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        805,
+        723,
+        866,
+        743
+      ],
+      "value_bbox": [
+        831,
+        701,
+        840,
+        723
+      ]
+    },
+    {
+      "label": "Geothermal",
+      "value": "4",
+      "value_numeric": 4.0,
+      "element_bbox": [
+        881,
+        727,
+        941,
+        743
+      ],
+      "value_bbox": [
+        907,
+        705,
+        915,
+        727
+      ]
+    }
+  ]
+}

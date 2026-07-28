@@ -1,0 +1,61 @@
+{
+  "chart_id": "876f74c44b2d1dab",
+  "chart_type": "Bar Chart",
+  "image_width": 2562,
+  "image_height": 1666,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Togo",
+      "value": "30000",
+      "value_numeric": 30000.0,
+      "element_bbox": [
+        160,
+        884,
+        224,
+        890
+      ],
+      "value_bbox": [
+        170,
+        862,
+        214,
+        884
+      ]
+    },
+    {
+      "label": "Uganda",
+      "value": "1200000",
+      "value_numeric": 1200000.0,
+      "element_bbox": [
+        416,
+        340,
+        480,
+        890
+      ],
+      "value_bbox": [
+        418,
+        318,
+        479,
+        340
+      ]
+    },
+    {
+      "label": "Ukraine",
+      "value": "3000",
+      "value_numeric": 3000.0,
+      "element_bbox": [
+        673,
+        889,
+        737,
+        890
+      ],
+      "value_bbox": [
+        687,
+        868,
+        722,
+        889
+      ]
+    }
+  ]
+}

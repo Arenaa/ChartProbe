@@ -1,0 +1,112 @@
+{
+  "chart_id": "f99186dacd027b72",
+  "chart_type": "Bar Chart",
+  "image_width": 3041,
+  "image_height": 1889,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "1972",
+      "value": "10",
+      "value_numeric": 10.0,
+      "element_bbox": [
+        160,
+        523,
+        191,
+        890
+      ],
+      "value_bbox": [
+        168,
+        505,
+        183,
+        523
+      ]
+    },
+    {
+      "label": "1973",
+      "value": "10",
+      "value_numeric": 10.0,
+      "element_bbox": [
+        283,
+        421,
+        313,
+        890
+      ],
+      "value_bbox": [
+        291,
+        402,
+        305,
+        421
+      ]
+    },
+    {
+      "label": "1974",
+      "value": "10",
+      "value_numeric": 10.0,
+      "element_bbox": [
+        405,
+        289,
+        436,
+        890
+      ],
+      "value_bbox": [
+        413,
+        270,
+        428,
+        289
+      ]
+    },
+    {
+      "label": "1975",
+      "value": "10",
+      "value_numeric": 10.0,
+      "element_bbox": [
+        528,
+        215,
+        558,
+        890
+      ],
+      "value_bbox": [
+        536,
+        197,
+        550,
+        215
+      ]
+    },
+    {
+      "label": "1976",
+      "value": "10",
+      "value_numeric": 10.0,
+      "element_bbox": [
+        650,
+        201,
+        681,
+        890
+      ],
+      "value_bbox": [
+        658,
+        182,
+        673,
+        201
+      ]
+    },
+    {
+      "label": "1977",
+      "value": "10",
+      "value_numeric": 10.0,
+      "element_bbox": [
+        773,
+        157,
+        804,
+        890
+      ],
+      "value_bbox": [
+        781,
+        138,
+        795,
+        157
+      ]
+    }
+  ]
+}

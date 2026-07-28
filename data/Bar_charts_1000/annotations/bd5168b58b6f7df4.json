@@ -1,0 +1,180 @@
+{
+  "chart_id": "bd5168b58b6f7df4",
+  "chart_type": "Bar Chart",
+  "image_width": 2947,
+  "image_height": 1745,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Indonesia",
+      "value": "572472",
+      "value_numeric": 572472.0,
+      "element_bbox": [
+        121,
+        155,
+        191,
+        720
+      ],
+      "value_bbox": [
+        130,
+        133,
+        182,
+        155
+      ]
+    },
+    {
+      "label": "Antigua & Barbuda",
+      "value": "495360",
+      "value_numeric": 495360.0,
+      "element_bbox": [
+        208,
+        231,
+        278,
+        720
+      ],
+      "value_bbox": [
+        217,
+        209,
+        269,
+        231
+      ]
+    },
+    {
+      "label": "Seychelles",
+      "value": "440852",
+      "value_numeric": 440852.0,
+      "element_bbox": [
+        295,
+        285,
+        365,
+        720
+      ],
+      "value_bbox": [
+        304,
+        263,
+        356,
+        285
+      ]
+    },
+    {
+      "label": "Mauritius",
+      "value": "424145",
+      "value_numeric": 424145.0,
+      "element_bbox": [
+        382,
+        301,
+        452,
+        720
+      ],
+      "value_bbox": [
+        391,
+        279,
+        443,
+        301
+      ]
+    },
+    {
+      "label": "Maldives",
+      "value": "389898",
+      "value_numeric": 389898.0,
+      "element_bbox": [
+        469,
+        335,
+        539,
+        720
+      ],
+      "value_bbox": [
+        478,
+        313,
+        530,
+        335
+      ]
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "361094",
+      "value_numeric": 361094.0,
+      "element_bbox": [
+        556,
+        363,
+        626,
+        720
+      ],
+      "value_bbox": [
+        565,
+        342,
+        617,
+        363
+      ]
+    },
+    {
+      "label": "Bhutan",
+      "value": "267653",
+      "value_numeric": 267653.0,
+      "element_bbox": [
+        643,
+        455,
+        712,
+        720
+      ],
+      "value_bbox": [
+        652,
+        434,
+        704,
+        455
+      ]
+    },
+    {
+      "label": "Papua New Guinea",
+      "value": "249358",
+      "value_numeric": 249358.0,
+      "element_bbox": [
+        730,
+        474,
+        799,
+        720
+      ],
+      "value_bbox": [
+        739,
+        452,
+        791,
+        474
+      ]
+    },
+    {
+      "label": "Fiji",
+      "value": "211860",
+      "value_numeric": 211860.0,
+      "element_bbox": [
+        817,
+        511,
+        886,
+        720
+      ],
+      "value_bbox": [
+        825,
+        489,
+        878,
+        511
+      ]
+    },
+    {
+      "label": "Malta",
+      "value": "194850",
+      "value_numeric": 194850.0,
+      "element_bbox": [
+        904,
+        527,
+        973,
+        720
+      ],
+      "value_bbox": [
+        912,
+        506,
+        965,
+        527
+      ]
+    }
+  ]
+}

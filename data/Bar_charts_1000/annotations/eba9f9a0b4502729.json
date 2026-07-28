@@ -1,0 +1,78 @@
+{
+  "chart_id": "eba9f9a0b4502729",
+  "chart_type": "Bar Chart",
+  "image_width": 2945,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Iraq",
+      "value": "19",
+      "value_numeric": 19.0,
+      "element_bbox": [
+        129,
+        690,
+        923,
+        847
+      ],
+      "value_bbox": [
+        932,
+        758,
+        949,
+        779
+      ]
+    },
+    {
+      "label": "Iran",
+      "value": "10.5",
+      "value_numeric": 10.5,
+      "element_bbox": [
+        129,
+        495,
+        568,
+        651
+      ],
+      "value_bbox": [
+        576,
+        562,
+        607,
+        584
+      ]
+    },
+    {
+      "label": "Indonesia",
+      "value": "9",
+      "value_numeric": 9.0,
+      "element_bbox": [
+        129,
+        300,
+        505,
+        456
+      ],
+      "value_bbox": [
+        513,
+        367,
+        522,
+        389
+      ]
+    },
+    {
+      "label": "India",
+      "value": "4",
+      "value_numeric": 4.0,
+      "element_bbox": [
+        129,
+        104,
+        296,
+        261
+      ],
+      "value_bbox": [
+        304,
+        172,
+        313,
+        193
+      ]
+    }
+  ]
+}

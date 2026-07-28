@@ -1,0 +1,401 @@
+{
+  "chart_id": "f54cae313538cd45",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 2342,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Barbados",
+      "value": "17.7",
+      "value_numeric": 17.7,
+      "element_bbox": [
+        148,
+        54,
+        924,
+        84
+      ],
+      "value_bbox": [
+        932,
+        61,
+        963,
+        77
+      ]
+    },
+    {
+      "label": "Slovakia",
+      "value": "10.5",
+      "value_numeric": 10.5,
+      "element_bbox": [
+        148,
+        92,
+        608,
+        122
+      ],
+      "value_bbox": [
+        616,
+        99,
+        647,
+        115
+      ]
+    },
+    {
+      "label": "Czech Republic",
+      "value": "10.3",
+      "value_numeric": 10.3,
+      "element_bbox": [
+        148,
+        129,
+        599,
+        159
+      ],
+      "value_bbox": [
+        608,
+        136,
+        638,
+        152
+      ]
+    },
+    {
+      "label": "Austria",
+      "value": "10.1",
+      "value_numeric": 10.1,
+      "element_bbox": [
+        148,
+        242,
+        582,
+        272
+      ],
+      "value_bbox": [
+        590,
+        249,
+        621,
+        265
+      ]
+    },
+    {
+      "label": "Norway",
+      "value": "9.9",
+      "value_numeric": 9.9,
+      "element_bbox": [
+        148,
+        279,
+        577,
+        309
+      ],
+      "value_bbox": [
+        586,
+        286,
+        608,
+        302
+      ]
+    },
+    {
+      "label": "Hungary",
+      "value": "9.9",
+      "value_numeric": 9.9,
+      "element_bbox": [
+        148,
+        617,
+        556,
+        647
+      ],
+      "value_bbox": [
+        564,
+        623,
+        586,
+        640
+      ]
+    },
+    {
+      "label": "Poland",
+      "value": "9.8",
+      "value_numeric": 9.8,
+      "element_bbox": [
+        148,
+        167,
+        591,
+        197
+      ],
+      "value_bbox": [
+        599,
+        174,
+        621,
+        190
+      ]
+    },
+    {
+      "label": "Denmark",
+      "value": "9.6",
+      "value_numeric": 9.6,
+      "element_bbox": [
+        148,
+        354,
+        564,
+        384
+      ],
+      "value_bbox": [
+        572,
+        361,
+        594,
+        377
+      ]
+    },
+    {
+      "label": "France",
+      "value": "9.5",
+      "value_numeric": 9.5,
+      "element_bbox": [
+        148,
+        429,
+        564,
+        459
+      ],
+      "value_bbox": [
+        572,
+        436,
+        595,
+        452
+      ]
+    },
+    {
+      "label": "Greece",
+      "value": "9.5",
+      "value_numeric": 9.5,
+      "element_bbox": [
+        148,
+        467,
+        560,
+        497
+      ],
+      "value_bbox": [
+        568,
+        473,
+        590,
+        490
+      ]
+    },
+    {
+      "label": "Belgium",
+      "value": "9.5",
+      "value_numeric": 9.5,
+      "element_bbox": [
+        148,
+        504,
+        560,
+        534
+      ],
+      "value_bbox": [
+        568,
+        511,
+        590,
+        527
+      ]
+    },
+    {
+      "label": "Luxembourg",
+      "value": "9.4",
+      "value_numeric": 9.4,
+      "element_bbox": [
+        148,
+        542,
+        560,
+        572
+      ],
+      "value_bbox": [
+        568,
+        548,
+        590,
+        565
+      ]
+    },
+    {
+      "label": "Switzerland",
+      "value": "9.4",
+      "value_numeric": 9.4,
+      "element_bbox": [
+        148,
+        579,
+        560,
+        609
+      ],
+      "value_bbox": [
+        568,
+        586,
+        590,
+        602
+      ]
+    },
+    {
+      "label": "Netherlands",
+      "value": "9.4",
+      "value_numeric": 9.4,
+      "element_bbox": [
+        148,
+        729,
+        547,
+        759
+      ],
+      "value_bbox": [
+        555,
+        736,
+        577,
+        752
+      ]
+    },
+    {
+      "label": "Germany",
+      "value": "9.4",
+      "value_numeric": 9.4,
+      "element_bbox": [
+        148,
+        204,
+        582,
+        234
+      ],
+      "value_bbox": [
+        590,
+        211,
+        612,
+        227
+      ]
+    },
+    {
+      "label": "Estonia",
+      "value": "9.3",
+      "value_numeric": 9.3,
+      "element_bbox": [
+        148,
+        317,
+        569,
+        347
+      ],
+      "value_bbox": [
+        577,
+        324,
+        599,
+        340
+      ]
+    },
+    {
+      "label": "Iceland",
+      "value": "9.2",
+      "value_numeric": 9.2,
+      "element_bbox": [
+        148,
+        654,
+        551,
+        684
+      ],
+      "value_bbox": [
+        559,
+        661,
+        581,
+        677
+      ]
+    },
+    {
+      "label": "Sweden",
+      "value": "9.2",
+      "value_numeric": 9.2,
+      "element_bbox": [
+        148,
+        692,
+        551,
+        722
+      ],
+      "value_bbox": [
+        559,
+        698,
+        581,
+        715
+      ]
+    },
+    {
+      "label": "Ireland",
+      "value": "9.1",
+      "value_numeric": 9.1,
+      "element_bbox": [
+        148,
+        392,
+        564,
+        422
+      ],
+      "value_bbox": [
+        572,
+        398,
+        595,
+        415
+      ]
+    },
+    {
+      "label": "Portugal",
+      "value": "9.0",
+      "value_numeric": 9.0,
+      "element_bbox": [
+        148,
+        767,
+        542,
+        797
+      ],
+      "value_bbox": [
+        551,
+        773,
+        573,
+        790
+      ]
+    },
+    {
+      "label": "Italy",
+      "value": "9.0",
+      "value_numeric": 9.0,
+      "element_bbox": [
+        148,
+        804,
+        538,
+        834
+      ],
+      "value_bbox": [
+        546,
+        811,
+        568,
+        827
+      ]
+    },
+    {
+      "label": "Spain",
+      "value": "9.0",
+      "value_numeric": 9.0,
+      "element_bbox": [
+        148,
+        842,
+        538,
+        872
+      ],
+      "value_bbox": [
+        546,
+        848,
+        568,
+        865
+      ]
+    },
+    {
+      "label": "EU Overall",
+      "value": "8.6",
+      "value_numeric": 8.6,
+      "element_bbox": [
+        148,
+        879,
+        525,
+        909
+      ],
+      "value_bbox": [
+        533,
+        886,
+        555,
+        902
+      ]
+    }
+  ]
+}

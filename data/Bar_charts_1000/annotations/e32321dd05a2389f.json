@@ -1,0 +1,78 @@
+{
+  "chart_id": "e32321dd05a2389f",
+  "chart_type": "Bar Chart",
+  "image_width": 2892,
+  "image_height": 1689,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "EU",
+      "value": "33151",
+      "value_numeric": 33151.0,
+      "element_bbox": [
+        161,
+        120,
+        328,
+        848
+      ],
+      "value_bbox": [
+        223,
+        99,
+        266,
+        120
+      ]
+    },
+    {
+      "label": "CIS",
+      "value": "22396",
+      "value_numeric": 22396.0,
+      "element_bbox": [
+        370,
+        357,
+        536,
+        848
+      ],
+      "value_bbox": [
+        431,
+        335,
+        474,
+        357
+      ]
+    },
+    {
+      "label": "Caucasus",
+      "value": "4770",
+      "value_numeric": 4770.0,
+      "element_bbox": [
+        578,
+        744,
+        744,
+        848
+      ],
+      "value_bbox": [
+        643,
+        722,
+        678,
+        744
+      ]
+    },
+    {
+      "label": "Balkans",
+      "value": "2332",
+      "value_numeric": 2332.0,
+      "element_bbox": [
+        786,
+        797,
+        952,
+        848
+      ],
+      "value_bbox": [
+        852,
+        776,
+        886,
+        797
+      ]
+    }
+  ]
+}

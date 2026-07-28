@@ -1,0 +1,95 @@
+{
+  "chart_id": "fb1c1e8adcd3f3f5",
+  "chart_type": "Bar Chart",
+  "image_width": 2738,
+  "image_height": 1751,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Urban",
+      "value": "0.450",
+      "value_numeric": 0.45,
+      "element_bbox": [
+        106,
+        320,
+        248,
+        855
+      ],
+      "value_bbox": [
+        256,
+        577,
+        301,
+        598
+      ]
+    },
+    {
+      "label": "Rural",
+      "value": "0.385",
+      "value_numeric": 0.385,
+      "element_bbox": [
+        284,
+        397,
+        427,
+        855
+      ],
+      "value_bbox": [
+        435,
+        615,
+        479,
+        637
+      ]
+    },
+    {
+      "label": "Industrial Processes",
+      "value": "0.613",
+      "value_numeric": 0.613,
+      "element_bbox": [
+        463,
+        126,
+        605,
+        855
+      ],
+      "value_bbox": [
+        613,
+        480,
+        657,
+        501
+      ]
+    },
+    {
+      "label": "Transport & Logistics",
+      "value": "0.453",
+      "value_numeric": 0.453,
+      "element_bbox": [
+        641,
+        316,
+        784,
+        855
+      ],
+      "value_bbox": [
+        792,
+        575,
+        836,
+        596
+      ]
+    },
+    {
+      "label": "Energy",
+      "value": "0.565",
+      "value_numeric": 0.565,
+      "element_bbox": [
+        819,
+        183,
+        962,
+        855
+      ],
+      "value_bbox": [
+        970,
+        508,
+        1000,
+        530
+      ]
+    }
+  ]
+}

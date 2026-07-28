@@ -1,0 +1,78 @@
+{
+  "chart_id": "3de28f051c5be998",
+  "chart_type": "Bar Chart",
+  "image_width": 2947,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "East Africa",
+      "value": "4014",
+      "value_numeric": 4014.0,
+      "element_bbox": [
+        125,
+        832,
+        301,
+        884
+      ],
+      "value_bbox": [
+        195,
+        810,
+        230,
+        832
+      ]
+    },
+    {
+      "label": "Europe",
+      "value": "4429",
+      "value_numeric": 4429.0,
+      "element_bbox": [
+        345,
+        826,
+        521,
+        884
+      ],
+      "value_bbox": [
+        415,
+        805,
+        450,
+        826
+      ]
+    },
+    {
+      "label": "Middle East",
+      "value": "58257",
+      "value_numeric": 58257.0,
+      "element_bbox": [
+        564,
+        128,
+        740,
+        884
+      ],
+      "value_bbox": [
+        631,
+        106,
+        674,
+        128
+      ]
+    },
+    {
+      "label": "Southern Africa",
+      "value": "3158",
+      "value_numeric": 3158.0,
+      "element_bbox": [
+        784,
+        843,
+        960,
+        884
+      ],
+      "value_bbox": [
+        855,
+        821,
+        890,
+        843
+      ]
+    }
+  ]
+}

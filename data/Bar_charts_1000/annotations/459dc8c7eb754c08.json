@@ -1,0 +1,44 @@
+{
+  "chart_id": "459dc8c7eb754c08",
+  "chart_type": "Bar Chart",
+  "image_width": 2925,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Infant",
+      "value": "5",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        134,
+        764,
+        200,
+        847
+      ],
+      "value_bbox": [
+        207,
+        795,
+        216,
+        816
+      ]
+    },
+    {
+      "label": "Under five",
+      "value": "6",
+      "value_numeric": 6.0,
+      "element_bbox": [
+        134,
+        352,
+        222,
+        434
+      ],
+      "value_bbox": [
+        229,
+        382,
+        238,
+        404
+      ]
+    }
+  ]
+}

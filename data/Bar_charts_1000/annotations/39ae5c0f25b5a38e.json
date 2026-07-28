@@ -1,0 +1,78 @@
+{
+  "chart_id": "39ae5c0f25b5a38e",
+  "chart_type": "Bar Chart",
+  "image_width": 2352,
+  "image_height": 1447,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Private Credit",
+      "value": "67.7",
+      "value_numeric": 67.7,
+      "element_bbox": [
+        110,
+        127,
+        288,
+        721
+      ],
+      "value_bbox": [
+        180,
+        101,
+        218,
+        127
+      ]
+    },
+    {
+      "label": "Public Credit",
+      "value": "16.1",
+      "value_numeric": 16.1,
+      "element_bbox": [
+        332,
+        580,
+        510,
+        721
+      ],
+      "value_bbox": [
+        402,
+        554,
+        441,
+        580
+      ]
+    },
+    {
+      "label": "Digital Credit",
+      "value": "17.0",
+      "value_numeric": 17.0,
+      "element_bbox": [
+        555,
+        572,
+        733,
+        721
+      ],
+      "value_bbox": [
+        624,
+        546,
+        663,
+        572
+      ]
+    },
+    {
+      "label": "FinTech Credit",
+      "value": "9.3",
+      "value_numeric": 9.3,
+      "element_bbox": [
+        777,
+        639,
+        955,
+        721
+      ],
+      "value_bbox": [
+        853,
+        613,
+        880,
+        639
+      ]
+    }
+  ]
+}

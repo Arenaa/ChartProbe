@@ -1,0 +1,316 @@
+{
+  "chart_id": "069cf91d4f801069",
+  "chart_type": "Bar Chart",
+  "image_width": 3547,
+  "image_height": 1965,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Asia",
+      "value": "46",
+      "value_numeric": 46.0,
+      "element_bbox": [
+        83,
+        586,
+        123,
+        813
+      ],
+      "value_bbox": [
+        96,
+        568,
+        110,
+        586
+      ]
+    },
+    {
+      "label": "Asia",
+      "value": "31",
+      "value_numeric": 31.0,
+      "element_bbox": [
+        133,
+        647,
+        173,
+        813
+      ],
+      "value_bbox": [
+        146,
+        629,
+        161,
+        647
+      ]
+    },
+    {
+      "label": "Asia",
+      "value": "35",
+      "value_numeric": 35.0,
+      "element_bbox": [
+        184,
+        417,
+        224,
+        813
+      ],
+      "value_bbox": [
+        196,
+        398,
+        211,
+        417
+      ]
+    },
+    {
+      "label": "Asia",
+      "value": "28",
+      "value_numeric": 28.0,
+      "element_bbox": [
+        234,
+        282,
+        274,
+        813
+      ],
+      "value_bbox": [
+        247,
+        263,
+        261,
+        282
+      ]
+    },
+    {
+      "label": "Asia",
+      "value": "28",
+      "value_numeric": 28.0,
+      "element_bbox": [
+        284,
+        325,
+        325,
+        813
+      ],
+      "value_bbox": [
+        297,
+        307,
+        312,
+        325
+      ]
+    },
+    {
+      "label": "Asia",
+      "value": "21",
+      "value_numeric": 21.0,
+      "element_bbox": [
+        335,
+        617,
+        375,
+        813
+      ],
+      "value_bbox": [
+        348,
+        598,
+        362,
+        617
+      ]
+    },
+    {
+      "label": "Africa",
+      "value": "45",
+      "value_numeric": 45.0,
+      "element_bbox": [
+        385,
+        547,
+        426,
+        813
+      ],
+      "value_bbox": [
+        398,
+        529,
+        413,
+        547
+      ]
+    },
+    {
+      "label": "Africa",
+      "value": "41",
+      "value_numeric": 41.0,
+      "element_bbox": [
+        436,
+        456,
+        476,
+        813
+      ],
+      "value_bbox": [
+        448,
+        437,
+        463,
+        456
+      ]
+    },
+    {
+      "label": "Africa",
+      "value": "39",
+      "value_numeric": 39.0,
+      "element_bbox": [
+        486,
+        613,
+        526,
+        813
+      ],
+      "value_bbox": [
+        499,
+        594,
+        513,
+        613
+      ]
+    },
+    {
+      "label": "Africa",
+      "value": "36",
+      "value_numeric": 36.0,
+      "element_bbox": [
+        536,
+        634,
+        577,
+        813
+      ],
+      "value_bbox": [
+        549,
+        616,
+        564,
+        634
+      ]
+    },
+    {
+      "label": "Africa",
+      "value": "35",
+      "value_numeric": 35.0,
+      "element_bbox": [
+        587,
+        417,
+        627,
+        813
+      ],
+      "value_bbox": [
+        600,
+        398,
+        614,
+        417
+      ]
+    },
+    {
+      "label": "Africa",
+      "value": "33",
+      "value_numeric": 33.0,
+      "element_bbox": [
+        637,
+        495,
+        678,
+        813
+      ],
+      "value_bbox": [
+        650,
+        477,
+        665,
+        495
+      ]
+    },
+    {
+      "label": "Africa",
+      "value": "34",
+      "value_numeric": 34.0,
+      "element_bbox": [
+        688,
+        439,
+        728,
+        813
+      ],
+      "value_bbox": [
+        701,
+        420,
+        715,
+        439
+      ]
+    },
+    {
+      "label": "Africa",
+      "value": "34",
+      "value_numeric": 34.0,
+      "element_bbox": [
+        738,
+        678,
+        778,
+        813
+      ],
+      "value_bbox": [
+        751,
+        659,
+        765,
+        678
+      ]
+    },
+    {
+      "label": "Africa",
+      "value": "30",
+      "value_numeric": 30.0,
+      "element_bbox": [
+        788,
+        569,
+        829,
+        813
+      ],
+      "value_bbox": [
+        801,
+        550,
+        816,
+        569
+      ]
+    },
+    {
+      "label": "Africa",
+      "value": "29",
+      "value_numeric": 29.0,
+      "element_bbox": [
+        839,
+        656,
+        879,
+        813
+      ],
+      "value_bbox": [
+        852,
+        637,
+        866,
+        656
+      ]
+    },
+    {
+      "label": "Africa",
+      "value": "32",
+      "value_numeric": 32.0,
+      "element_bbox": [
+        889,
+        151,
+        930,
+        813
+      ],
+      "value_bbox": [
+        902,
+        133,
+        917,
+        151
+      ]
+    },
+    {
+      "label": "Africa",
+      "value": "36",
+      "value_numeric": 36.0,
+      "element_bbox": [
+        940,
+        160,
+        980,
+        813
+      ],
+      "value_bbox": [
+        953,
+        142,
+        967,
+        160
+      ]
+    }
+  ]
+}

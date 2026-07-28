@@ -1,0 +1,112 @@
+{
+  "chart_id": "79286cfc21fcbf23",
+  "chart_type": "Bar Chart",
+  "image_width": 3006,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Philippines",
+      "value": "500000",
+      "value_numeric": 500000.0,
+      "element_bbox": [
+        137,
+        801,
+        942,
+        847
+      ],
+      "value_bbox": [
+        950,
+        813,
+        1000,
+        835
+      ]
+    },
+    {
+      "label": "Rwanda",
+      "value": "800000",
+      "value_numeric": 800000.0,
+      "element_bbox": [
+        137,
+        671,
+        191,
+        716
+      ],
+      "value_bbox": [
+        199,
+        683,
+        252,
+        704
+      ]
+    },
+    {
+      "label": "Samoa",
+      "value": "50000",
+      "value_numeric": 50000.0,
+      "element_bbox": [
+        137,
+        541,
+        727,
+        586
+      ],
+      "value_bbox": [
+        736,
+        553,
+        779,
+        574
+      ]
+    },
+    {
+      "label": "Senegal",
+      "value": "50000",
+      "value_numeric": 50000.0,
+      "element_bbox": [
+        137,
+        410,
+        143,
+        456
+      ],
+      "value_bbox": [
+        151,
+        422,
+        195,
+        444
+      ]
+    },
+    {
+      "label": "Singapore",
+      "value": "50000",
+      "value_numeric": 50000.0,
+      "element_bbox": [
+        137,
+        280,
+        352,
+        326
+      ],
+      "value_bbox": [
+        360,
+        292,
+        404,
+        314
+      ]
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "0",
+      "value_numeric": 0.0,
+      "element_bbox": [
+        137,
+        150,
+        191,
+        195
+      ],
+      "value_bbox": [
+        199,
+        162,
+        208,
+        184
+      ]
+    }
+  ]
+}

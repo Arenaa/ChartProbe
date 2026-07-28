@@ -1,0 +1,180 @@
+{
+  "chart_id": "f1ec7f236f9f037f",
+  "chart_type": "Bar Chart",
+  "image_width": 2646,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Small States",
+      "value": "58",
+      "value_numeric": 58.0,
+      "element_bbox": [
+        100,
+        303,
+        172,
+        884
+      ],
+      "value_bbox": [
+        127,
+        281,
+        146,
+        303
+      ]
+    },
+    {
+      "label": "Small States",
+      "value": "63",
+      "value_numeric": 63.0,
+      "element_bbox": [
+        280,
+        233,
+        352,
+        884
+      ],
+      "value_bbox": [
+        306,
+        211,
+        325,
+        233
+      ]
+    },
+    {
+      "label": "Belarus",
+      "value": "65",
+      "value_numeric": 65.0,
+      "element_bbox": [
+        459,
+        273,
+        531,
+        884
+      ],
+      "value_bbox": [
+        486,
+        251,
+        505,
+        273
+      ]
+    },
+    {
+      "label": "Belarus",
+      "value": "72",
+      "value_numeric": 72.0,
+      "element_bbox": [
+        639,
+        223,
+        711,
+        884
+      ],
+      "value_bbox": [
+        665,
+        201,
+        685,
+        223
+      ]
+    },
+    {
+      "label": "Cabo Verde",
+      "value": "61",
+      "value_numeric": 61.0,
+      "element_bbox": [
+        818,
+        243,
+        890,
+        884
+      ],
+      "value_bbox": [
+        845,
+        221,
+        864,
+        243
+      ]
+    },
+    {
+      "label": "Cabo Verde",
+      "value": "64",
+      "value_numeric": 64.0,
+      "element_bbox": [
+        172,
+        253,
+        244,
+        884
+      ],
+      "value_bbox": [
+        198,
+        231,
+        218,
+        253
+      ]
+    },
+    {
+      "label": "Estonia",
+      "value": "66",
+      "value_numeric": 66.0,
+      "element_bbox": [
+        352,
+        163,
+        423,
+        884
+      ],
+      "value_bbox": [
+        378,
+        141,
+        397,
+        163
+      ]
+    },
+    {
+      "label": "Estonia",
+      "value": "70",
+      "value_numeric": 70.0,
+      "element_bbox": [
+        531,
+        243,
+        603,
+        884
+      ],
+      "value_bbox": [
+        557,
+        221,
+        577,
+        243
+      ]
+    },
+    {
+      "label": "Latvia",
+      "value": "64",
+      "value_numeric": 64.0,
+      "element_bbox": [
+        711,
+        183,
+        783,
+        884
+      ],
+      "value_bbox": [
+        737,
+        161,
+        756,
+        183
+      ]
+    },
+    {
+      "label": "Latvia",
+      "value": "69",
+      "value_numeric": 69.0,
+      "element_bbox": [
+        890,
+        193,
+        962,
+        884
+      ],
+      "value_bbox": [
+        917,
+        171,
+        936,
+        193
+      ]
+    }
+  ]
+}

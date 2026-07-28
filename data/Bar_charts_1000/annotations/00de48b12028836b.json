@@ -1,0 +1,163 @@
+{
+  "chart_id": "00de48b12028836b",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "India (ASIA)",
+      "value": "63.5",
+      "value_numeric": 63.5,
+      "element_bbox": [
+        84,
+        122,
+        165,
+        764
+      ],
+      "value_bbox": [
+        109,
+        100,
+        140,
+        122
+      ]
+    },
+    {
+      "label": "France (EU)",
+      "value": "32",
+      "value_numeric": 32.0,
+      "element_bbox": [
+        185,
+        440,
+        266,
+        764
+      ],
+      "value_bbox": [
+        217,
+        419,
+        234,
+        440
+      ]
+    },
+    {
+      "label": "Germany (EU)",
+      "value": "30.2",
+      "value_numeric": 30.2,
+      "element_bbox": [
+        286,
+        459,
+        367,
+        764
+      ],
+      "value_bbox": [
+        311,
+        437,
+        342,
+        459
+      ]
+    },
+    {
+      "label": "Czechia (EU)",
+      "value": "28.7",
+      "value_numeric": 28.7,
+      "element_bbox": [
+        387,
+        474,
+        468,
+        764
+      ],
+      "value_bbox": [
+        412,
+        452,
+        443,
+        474
+      ]
+    },
+    {
+      "label": "Poland (EU)",
+      "value": "27.8",
+      "value_numeric": 27.8,
+      "element_bbox": [
+        488,
+        483,
+        568,
+        764
+      ],
+      "value_bbox": [
+        513,
+        461,
+        544,
+        483
+      ]
+    },
+    {
+      "label": "Hungary (EU)",
+      "value": "26.9",
+      "value_numeric": 26.9,
+      "element_bbox": [
+        589,
+        492,
+        669,
+        764
+      ],
+      "value_bbox": [
+        614,
+        470,
+        644,
+        492
+      ]
+    },
+    {
+      "label": "Slovakia (EU)",
+      "value": "26.3",
+      "value_numeric": 26.3,
+      "element_bbox": [
+        689,
+        498,
+        770,
+        764
+      ],
+      "value_bbox": [
+        714,
+        476,
+        745,
+        498
+      ]
+    },
+    {
+      "label": "Romania (EU)",
+      "value": "25.5",
+      "value_numeric": 25.5,
+      "element_bbox": [
+        790,
+        506,
+        871,
+        764
+      ],
+      "value_bbox": [
+        815,
+        484,
+        846,
+        506
+      ]
+    },
+    {
+      "label": "Bulgaria (EU)",
+      "value": "22",
+      "value_numeric": 22.0,
+      "element_bbox": [
+        891,
+        541,
+        972,
+        764
+      ],
+      "value_bbox": [
+        923,
+        520,
+        940,
+        541
+      ]
+    }
+  ]
+}

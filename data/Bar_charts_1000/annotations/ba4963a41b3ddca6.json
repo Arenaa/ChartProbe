@@ -1,0 +1,78 @@
+{
+  "chart_id": "ba4963a41b3ddca6",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Adults (15-44)",
+      "value": "37.0",
+      "value_numeric": 37.0,
+      "element_bbox": [
+        97,
+        124,
+        278,
+        818
+      ],
+      "value_bbox": [
+        172,
+        103,
+        203,
+        124
+      ]
+    },
+    {
+      "label": "Children (0-14)",
+      "value": "4.0",
+      "value_numeric": 4.0,
+      "element_bbox": [
+        324,
+        748,
+        505,
+        818
+      ],
+      "value_bbox": [
+        403,
+        727,
+        426,
+        748
+      ]
+    },
+    {
+      "label": "Middle-aged (45-64)",
+      "value": "22.0",
+      "value_numeric": 22.0,
+      "element_bbox": [
+        551,
+        420,
+        732,
+        818
+      ],
+      "value_bbox": [
+        626,
+        398,
+        657,
+        420
+      ]
+    },
+    {
+      "label": "Seniors (65+)",
+      "value": "9.0",
+      "value_numeric": 9.0,
+      "element_bbox": [
+        778,
+        661,
+        959,
+        818
+      ],
+      "value_bbox": [
+        857,
+        639,
+        880,
+        661
+      ]
+    }
+  ]
+}

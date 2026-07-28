@@ -1,0 +1,95 @@
+{
+  "chart_id": "a5a5ca869eb41002",
+  "chart_type": "Bar Chart",
+  "image_width": 2281,
+  "image_height": 1390,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Regulatory Score",
+      "value": "3.7941176470588234",
+      "value_numeric": 3.7941176470588234,
+      "element_bbox": [
+        120,
+        282,
+        251,
+        818
+      ],
+      "value_bbox": [
+        90,
+        256,
+        281,
+        282
+      ]
+    },
+    {
+      "label": "HR Score",
+      "value": "3.764705882352941",
+      "value_numeric": 3.764705882352941,
+      "element_bbox": [
+        284,
+        286,
+        415,
+        818
+      ],
+      "value_bbox": [
+        259,
+        260,
+        439,
+        286
+      ]
+    },
+    {
+      "label": "Debt Score",
+      "value": "3.911764705882353",
+      "value_numeric": 3.911764705882353,
+      "element_bbox": [
+        448,
+        277,
+        579,
+        818
+      ],
+      "value_bbox": [
+        423,
+        251,
+        603,
+        277
+      ]
+    },
+    {
+      "label": "Mgmt Score",
+      "value": "3.9411764705882355",
+      "value_numeric": 3.9411764705882355,
+      "element_bbox": [
+        612,
+        274,
+        743,
+        818
+      ],
+      "value_bbox": [
+        582,
+        248,
+        773,
+        274
+      ]
+    },
+    {
+      "label": "Innovation Score",
+      "value": "3.9886454644554512",
+      "value_numeric": 3.988645464455451,
+      "element_bbox": [
+        776,
+        263,
+        907,
+        818
+      ],
+      "value_bbox": [
+        746,
+        237,
+        937,
+        263
+      ]
+    }
+  ]
+}

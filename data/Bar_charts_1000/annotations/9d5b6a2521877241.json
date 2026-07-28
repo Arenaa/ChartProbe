@@ -1,0 +1,95 @@
+{
+  "chart_id": "9d5b6a2521877241",
+  "chart_type": "Bar Chart",
+  "image_width": 2389,
+  "image_height": 1446,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Peru",
+      "value": "80.0",
+      "value_numeric": 80.0,
+      "element_bbox": [
+        110,
+        244,
+        252,
+        860
+      ],
+      "value_bbox": [
+        162,
+        218,
+        200,
+        244
+      ]
+    },
+    {
+      "label": "Portugal",
+      "value": "94.0",
+      "value_numeric": 94.0,
+      "element_bbox": [
+        287,
+        136,
+        429,
+        860
+      ],
+      "value_bbox": [
+        339,
+        110,
+        377,
+        136
+      ]
+    },
+    {
+      "label": "Germany",
+      "value": "79.1",
+      "value_numeric": 79.1,
+      "element_bbox": [
+        464,
+        250,
+        606,
+        860
+      ],
+      "value_bbox": [
+        516,
+        224,
+        554,
+        250
+      ]
+    },
+    {
+      "label": "Sweden",
+      "value": "68.3",
+      "value_numeric": 68.3,
+      "element_bbox": [
+        641,
+        334,
+        783,
+        860
+      ],
+      "value_bbox": [
+        693,
+        308,
+        731,
+        334
+      ]
+    },
+    {
+      "label": "France",
+      "value": "90.5",
+      "value_numeric": 90.5,
+      "element_bbox": [
+        818,
+        163,
+        960,
+        860
+      ],
+      "value_bbox": [
+        870,
+        137,
+        908,
+        163
+      ]
+    }
+  ]
+}

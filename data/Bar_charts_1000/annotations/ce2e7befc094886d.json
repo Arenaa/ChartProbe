@@ -1,0 +1,95 @@
+{
+  "chart_id": "ce2e7befc094886d",
+  "chart_type": "Bar Chart",
+  "image_width": 2915,
+  "image_height": 1751,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Full-time Employed",
+      "value": "2",
+      "value_numeric": 2.0,
+      "element_bbox": [
+        104,
+        158,
+        248,
+        859
+      ],
+      "value_bbox": [
+        172,
+        137,
+        180,
+        158
+      ]
+    },
+    {
+      "label": "Part-time Employed",
+      "value": "1.5",
+      "value_numeric": 1.5,
+      "element_bbox": [
+        284,
+        508,
+        427,
+        859
+      ],
+      "value_bbox": [
+        344,
+        486,
+        366,
+        508
+      ]
+    },
+    {
+      "label": "Unemployed",
+      "value": "0",
+      "value_numeric": 0.0,
+      "element_bbox": [
+        463,
+        859,
+        606,
+        859
+      ],
+      "value_bbox": [
+        614,
+        848,
+        623,
+        869
+      ]
+    },
+    {
+      "label": "Retired",
+      "value": "1",
+      "value_numeric": 1.0,
+      "element_bbox": [
+        642,
+        767,
+        785,
+        859
+      ],
+      "value_bbox": [
+        709,
+        745,
+        718,
+        767
+      ]
+    },
+    {
+      "label": "Self-Employed",
+      "value": "2",
+      "value_numeric": 2.0,
+      "element_bbox": [
+        821,
+        245,
+        964,
+        859
+      ],
+      "value_bbox": [
+        888,
+        223,
+        897,
+        245
+      ]
+    }
+  ]
+}

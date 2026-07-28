@@ -1,0 +1,61 @@
+{
+  "chart_id": "bb7e2e7ab302f4ec",
+  "chart_type": "Bar Chart",
+  "image_width": 2346,
+  "image_height": 1446,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Low Income",
+      "value": "10.5",
+      "value_numeric": 10.5,
+      "element_bbox": [
+        144,
+        798,
+        371,
+        860
+      ],
+      "value_bbox": [
+        238,
+        772,
+        277,
+        798
+      ]
+    },
+    {
+      "label": "Middle Income",
+      "value": "57.4",
+      "value_numeric": 57.4,
+      "element_bbox": [
+        428,
+        521,
+        654,
+        860
+      ],
+      "value_bbox": [
+        522,
+        495,
+        560,
+        521
+      ]
+    },
+    {
+      "label": "High Income",
+      "value": "102.8",
+      "value_numeric": 102.8,
+      "element_bbox": [
+        711,
+        252,
+        938,
+        860
+      ],
+      "value_bbox": [
+        800,
+        226,
+        849,
+        252
+      ]
+    }
+  ]
+}

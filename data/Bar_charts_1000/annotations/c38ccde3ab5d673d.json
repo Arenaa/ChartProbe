@@ -1,0 +1,146 @@
+{
+  "chart_id": "c38ccde3ab5d673d",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Africa",
+      "value": "3.34",
+      "value_numeric": 3.34,
+      "element_bbox": [
+        106,
+        547,
+        192,
+        884
+      ],
+      "value_bbox": [
+        134,
+        525,
+        164,
+        547
+      ]
+    },
+    {
+      "label": "Americas",
+      "value": "4.82",
+      "value_numeric": 4.82,
+      "element_bbox": [
+        213,
+        398,
+        299,
+        884
+      ],
+      "value_bbox": [
+        240,
+        376,
+        271,
+        398
+      ]
+    },
+    {
+      "label": "Asia",
+      "value": "5.72",
+      "value_numeric": 5.72,
+      "element_bbox": [
+        320,
+        306,
+        406,
+        884
+      ],
+      "value_bbox": [
+        347,
+        284,
+        378,
+        306
+      ]
+    },
+    {
+      "label": "Caribbean",
+      "value": "2.90",
+      "value_numeric": 2.9,
+      "element_bbox": [
+        427,
+        591,
+        513,
+        884
+      ],
+      "value_bbox": [
+        454,
+        569,
+        485,
+        591
+      ]
+    },
+    {
+      "label": "Emerging",
+      "value": "1.45",
+      "value_numeric": 1.45,
+      "element_bbox": [
+        534,
+        737,
+        619,
+        884
+      ],
+      "value_bbox": [
+        561,
+        716,
+        592,
+        737
+      ]
+    },
+    {
+      "label": "Europe",
+      "value": "6.78",
+      "value_numeric": 6.78,
+      "element_bbox": [
+        641,
+        199,
+        726,
+        884
+      ],
+      "value_bbox": [
+        668,
+        178,
+        699,
+        199
+      ]
+    },
+    {
+      "label": "MENA",
+      "value": "6.90",
+      "value_numeric": 6.9,
+      "element_bbox": [
+        748,
+        187,
+        833,
+        884
+      ],
+      "value_bbox": [
+        775,
+        166,
+        806,
+        187
+      ]
+    },
+    {
+      "label": "Oceania",
+      "value": "4.21",
+      "value_numeric": 4.21,
+      "element_bbox": [
+        855,
+        459,
+        940,
+        884
+      ],
+      "value_bbox": [
+        882,
+        437,
+        913,
+        459
+      ]
+    }
+  ]
+}

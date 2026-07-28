@@ -1,0 +1,78 @@
+{
+  "chart_id": "8688d5854bd3bf05",
+  "chart_type": "Bar Chart",
+  "image_width": 2646,
+  "image_height": 1752,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Refugees",
+      "value": "428.4",
+      "value_numeric": 428.4,
+      "element_bbox": [
+        124,
+        129,
+        300,
+        923
+      ],
+      "value_bbox": [
+        190,
+        108,
+        234,
+        129
+      ]
+    },
+    {
+      "label": "Asylum Seekers",
+      "value": "102.2",
+      "value_numeric": 102.2,
+      "element_bbox": [
+        344,
+        734,
+        519,
+        923
+      ],
+      "value_bbox": [
+        409,
+        712,
+        454,
+        734
+      ]
+    },
+    {
+      "label": "Internally Displaced Persons",
+      "value": "210.2",
+      "value_numeric": 210.2,
+      "element_bbox": [
+        563,
+        534,
+        739,
+        923
+      ],
+      "value_bbox": [
+        629,
+        512,
+        673,
+        534
+      ]
+    },
+    {
+      "label": "Stateless Persons",
+      "value": "9.5",
+      "value_numeric": 9.5,
+      "element_bbox": [
+        783,
+        905,
+        958,
+        923
+      ],
+      "value_bbox": [
+        858,
+        884,
+        883,
+        905
+      ]
+    }
+  ]
+}

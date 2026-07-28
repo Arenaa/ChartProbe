@@ -1,0 +1,112 @@
+{
+  "chart_id": "8606ad87c78299d0",
+  "chart_type": "Bar Chart",
+  "image_width": 2973,
+  "image_height": 1773,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Germany",
+      "value": "98.8",
+      "value_numeric": 98.8,
+      "element_bbox": [
+        104,
+        812,
+        931,
+        866
+      ],
+      "value_bbox": [
+        940,
+        828,
+        970,
+        850
+      ]
+    },
+    {
+      "label": "Georgia",
+      "value": "99.0",
+      "value_numeric": 99.0,
+      "element_bbox": [
+        104,
+        679,
+        933,
+        732
+      ],
+      "value_bbox": [
+        942,
+        695,
+        972,
+        717
+      ]
+    },
+    {
+      "label": "Gambia, The",
+      "value": "81.0",
+      "value_numeric": 81.0,
+      "element_bbox": [
+        104,
+        546,
+        704,
+        599
+      ],
+      "value_bbox": [
+        713,
+        562,
+        744,
+        583
+      ]
+    },
+    {
+      "label": "France",
+      "value": "77.0",
+      "value_numeric": 77.0,
+      "element_bbox": [
+        104,
+        413,
+        944,
+        466
+      ],
+      "value_bbox": [
+        952,
+        429,
+        983,
+        450
+      ]
+    },
+    {
+      "label": "Finland",
+      "value": "91.0",
+      "value_numeric": 91.0,
+      "element_bbox": [
+        104,
+        280,
+        942,
+        333
+      ],
+      "value_bbox": [
+        951,
+        295,
+        982,
+        317
+      ]
+    },
+    {
+      "label": "Fiji",
+      "value": "92.0",
+      "value_numeric": 92.0,
+      "element_bbox": [
+        104,
+        146,
+        910,
+        200
+      ],
+      "value_bbox": [
+        919,
+        162,
+        950,
+        184
+      ]
+    }
+  ]
+}

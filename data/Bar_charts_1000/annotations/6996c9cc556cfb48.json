@@ -1,0 +1,78 @@
+{
+  "chart_id": "6996c9cc556cfb48",
+  "chart_type": "Bar Chart",
+  "image_width": 2547,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Finland",
+      "value": "3.1",
+      "value_numeric": 3.1,
+      "element_bbox": [
+        160,
+        720,
+        309,
+        890
+      ],
+      "value_bbox": [
+        223,
+        698,
+        245,
+        720
+      ]
+    },
+    {
+      "label": "Lesotho",
+      "value": "10.5",
+      "value_numeric": 10.5,
+      "element_bbox": [
+        346,
+        312,
+        494,
+        890
+      ],
+      "value_bbox": [
+        404,
+        291,
+        435,
+        312
+      ]
+    },
+    {
+      "label": "Malta",
+      "value": "1.1",
+      "value_numeric": 1.1,
+      "element_bbox": [
+        531,
+        830,
+        679,
+        890
+      ],
+      "value_bbox": [
+        594,
+        808,
+        616,
+        830
+      ]
+    },
+    {
+      "label": "Mauritius",
+      "value": "13.8",
+      "value_numeric": 13.8,
+      "element_bbox": [
+        716,
+        131,
+        865,
+        890
+      ],
+      "value_bbox": [
+        775,
+        109,
+        806,
+        131
+      ]
+    }
+  ]
+}

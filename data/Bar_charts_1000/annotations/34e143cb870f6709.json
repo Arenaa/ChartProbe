@@ -1,0 +1,129 @@
+{
+  "chart_id": "34e143cb870f6709",
+  "chart_type": "Bar Chart",
+  "image_width": 3013,
+  "image_height": 2056,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Coastal Area",
+      "value": "37.88",
+      "value_numeric": 37.88,
+      "element_bbox": [
+        72,
+        313,
+        88,
+        899
+      ],
+      "value_bbox": [
+        64,
+        295,
+        97,
+        313
+      ]
+    },
+    {
+      "label": "Metropolitan",
+      "value": "38.0",
+      "value_numeric": 38.0,
+      "element_bbox": [
+        171,
+        305,
+        186,
+        899
+      ],
+      "value_bbox": [
+        166,
+        287,
+        191,
+        305
+      ]
+    },
+    {
+      "label": "Mountain Area",
+      "value": "38.5",
+      "value_numeric": 38.5,
+      "element_bbox": [
+        269,
+        289,
+        285,
+        899
+      ],
+      "value_bbox": [
+        264,
+        271,
+        290,
+        289
+      ]
+    },
+    {
+      "label": "Rural Area",
+      "value": "38.44",
+      "value_numeric": 38.44,
+      "element_bbox": [
+        367,
+        283,
+        383,
+        899
+      ],
+      "value_bbox": [
+        359,
+        264,
+        392,
+        283
+      ]
+    },
+    {
+      "label": "Semi-Urban",
+      "value": "36.95",
+      "value_numeric": 36.95,
+      "element_bbox": [
+        466,
+        303,
+        481,
+        899
+      ],
+      "value_bbox": [
+        457,
+        285,
+        490,
+        303
+      ]
+    },
+    {
+      "label": "Suburban Area",
+      "value": "38.2",
+      "value_numeric": 38.2,
+      "element_bbox": [
+        564,
+        292,
+        580,
+        899
+      ],
+      "value_bbox": [
+        559,
+        274,
+        584,
+        292
+      ]
+    },
+    {
+      "label": "Urban Core",
+      "value": "35.8",
+      "value_numeric": 35.8,
+      "element_bbox": [
+        662,
+        325,
+        678,
+        899
+      ],
+      "value_bbox": [
+        657,
+        307,
+        683,
+        325
+      ]
+    }
+  ]
+}

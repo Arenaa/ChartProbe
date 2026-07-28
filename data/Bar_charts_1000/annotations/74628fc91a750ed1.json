@@ -1,0 +1,180 @@
+{
+  "chart_id": "74628fc91a750ed1",
+  "chart_type": "Bar Chart",
+  "image_width": 3576,
+  "image_height": 2067,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Communicable (Infectious) diseases",
+      "value": "61.5",
+      "value_numeric": 61.5,
+      "element_bbox": [
+        158,
+        104,
+        226,
+        698
+      ],
+      "value_bbox": [
+        179,
+        85,
+        205,
+        104
+      ]
+    },
+    {
+      "label": "Communicable (Infectious) diseases",
+      "value": "60.5",
+      "value_numeric": 60.5,
+      "element_bbox": [
+        327,
+        648,
+        395,
+        698
+      ],
+      "value_bbox": [
+        348,
+        629,
+        374,
+        648
+      ]
+    },
+    {
+      "label": "Injuries",
+      "value": "5.5",
+      "value_numeric": 5.5,
+      "element_bbox": [
+        497,
+        690,
+        564,
+        698
+      ],
+      "value_bbox": [
+        521,
+        672,
+        540,
+        690
+      ]
+    },
+    {
+      "label": "Injuries",
+      "value": "4.5",
+      "value_numeric": 4.5,
+      "element_bbox": [
+        666,
+        410,
+        734,
+        698
+      ],
+      "value_bbox": [
+        691,
+        391,
+        709,
+        410
+      ]
+    },
+    {
+      "label": "Maternal & Neonatal health",
+      "value": "0.5",
+      "value_numeric": 0.5,
+      "element_bbox": [
+        835,
+        687,
+        903,
+        698
+      ],
+      "value_bbox": [
+        860,
+        668,
+        878,
+        687
+      ]
+    },
+    {
+      "label": "Maternal & Neonatal health",
+      "value": "0",
+      "value_numeric": 0.0,
+      "element_bbox": [
+        226,
+        113,
+        294,
+        698
+      ],
+      "value_bbox": [
+        256,
+        95,
+        263,
+        113
+      ]
+    },
+    {
+      "label": "Non-communicable diseases",
+      "value": "30.5",
+      "value_numeric": 30.5,
+      "element_bbox": [
+        395,
+        657,
+        463,
+        698
+      ],
+      "value_bbox": [
+        416,
+        639,
+        442,
+        657
+      ]
+    },
+    {
+      "label": "Non-communicable diseases",
+      "value": "29.5",
+      "value_numeric": 29.5,
+      "element_bbox": [
+        564,
+        697,
+        632,
+        698
+      ],
+      "value_bbox": [
+        640,
+        688,
+        665,
+        706
+      ]
+    },
+    {
+      "label": "Nutritional deficiencies",
+      "value": "1",
+      "value_numeric": 1.0,
+      "element_bbox": [
+        734,
+        419,
+        801,
+        698
+      ],
+      "value_bbox": [
+        764,
+        401,
+        771,
+        419
+      ]
+    },
+    {
+      "label": "Nutritional deficiencies",
+      "value": "0.5",
+      "value_numeric": 0.5,
+      "element_bbox": [
+        903,
+        694,
+        971,
+        698
+      ],
+      "value_bbox": [
+        978,
+        687,
+        997,
+        705
+      ]
+    }
+  ]
+}

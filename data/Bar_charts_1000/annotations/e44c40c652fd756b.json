@@ -1,0 +1,95 @@
+{
+  "chart_id": "e44c40c652fd756b",
+  "chart_type": "Bar Chart",
+  "image_width": 2646,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Infectious Diseases",
+      "value": "56.0",
+      "value_numeric": 56.0,
+      "element_bbox": [
+        100,
+        128,
+        244,
+        884
+      ],
+      "value_bbox": [
+        155,
+        106,
+        189,
+        128
+      ]
+    },
+    {
+      "label": "Accidental Injuries",
+      "value": "50.0",
+      "value_numeric": 50.0,
+      "element_bbox": [
+        280,
+        209,
+        423,
+        884
+      ],
+      "value_bbox": [
+        334,
+        187,
+        369,
+        209
+      ]
+    },
+    {
+      "label": "Chronic Conditions",
+      "value": "55.0",
+      "value_numeric": 55.0,
+      "element_bbox": [
+        459,
+        141,
+        603,
+        884
+      ],
+      "value_bbox": [
+        514,
+        119,
+        548,
+        141
+      ]
+    },
+    {
+      "label": "Other Causes",
+      "value": "49.0",
+      "value_numeric": 49.0,
+      "element_bbox": [
+        639,
+        222,
+        783,
+        884
+      ],
+      "value_bbox": [
+        694,
+        200,
+        728,
+        222
+      ]
+    },
+    {
+      "label": "Maternal Deaths",
+      "value": "23.0",
+      "value_numeric": 23.0,
+      "element_bbox": [
+        818,
+        573,
+        962,
+        884
+      ],
+      "value_bbox": [
+        873,
+        551,
+        907,
+        573
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "chart_id": "5598385dbe5dea15",
+  "chart_type": "Bar Chart",
+  "image_width": 2948,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Uruguay",
+      "value": "2.6",
+      "value_numeric": 2.6,
+      "element_bbox": [
+        106,
+        101,
+        291,
+        146
+      ],
+      "value_bbox": [
+        299,
+        113,
+        321,
+        135
+      ]
+    },
+    {
+      "label": "Chile",
+      "value": "1.5",
+      "value_numeric": 1.5,
+      "element_bbox": [
+        106,
+        214,
+        246,
+        260
+      ],
+      "value_bbox": [
+        254,
+        226,
+        276,
+        248
+      ]
+    },
+    {
+      "label": "Peru",
+      "value": "1.3",
+      "value_numeric": 1.3,
+      "element_bbox": [
+        106,
+        328,
+        230,
+        373
+      ],
+      "value_bbox": [
+        237,
+        340,
+        259,
+        361
+      ]
+    },
+    {
+      "label": "Argentina",
+      "value": "1.15",
+      "value_numeric": 1.15,
+      "element_bbox": [
+        106,
+        441,
+        215,
+        487
+      ],
+      "value_bbox": [
+        145,
+        465,
+        176,
+        487
+      ]
+    },
+    {
+      "label": "Ecuador",
+      "value": "0.9",
+      "value_numeric": 0.9,
+      "element_bbox": [
+        106,
+        555,
+        182,
+        600
+      ],
+      "value_bbox": [
+        133,
+        579,
+        155,
+        600
+      ]
+    },
+    {
+      "label": "Bolivia",
+      "value": "0.57",
+      "value_numeric": 0.57,
+      "element_bbox": [
+        106,
+        668,
+        193,
+        714
+      ],
+      "value_bbox": [
+        134,
+        692,
+        165,
+        714
+      ]
+    },
+    {
+      "label": "Honduras",
+      "value": "0.19",
+      "value_numeric": 0.19,
+      "element_bbox": [
+        106,
+        782,
+        170,
+        827
+      ],
+      "value_bbox": [
+        123,
+        805,
+        154,
+        827
+      ]
+    }
+  ]
+}

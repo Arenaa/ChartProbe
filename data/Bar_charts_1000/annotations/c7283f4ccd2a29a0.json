@@ -1,0 +1,316 @@
+{
+  "chart_id": "c7283f4ccd2a29a0",
+  "chart_type": "Bar Chart",
+  "image_width": 3546,
+  "image_height": 2044,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Armenia",
+      "value": "48.6",
+      "value_numeric": 48.6,
+      "element_bbox": [
+        72,
+        541,
+        113,
+        1000
+      ],
+      "value_bbox": [
+        80,
+        522,
+        105,
+        541
+      ]
+    },
+    {
+      "label": "Armenia",
+      "value": "50.6",
+      "value_numeric": 50.6,
+      "element_bbox": [
+        175,
+        413,
+        216,
+        1000
+      ],
+      "value_bbox": [
+        182,
+        394,
+        208,
+        413
+      ]
+    },
+    {
+      "label": "Brazil",
+      "value": "60.0",
+      "value_numeric": 60.0,
+      "element_bbox": [
+        277,
+        325,
+        318,
+        1000
+      ],
+      "value_bbox": [
+        285,
+        306,
+        311,
+        325
+      ]
+    },
+    {
+      "label": "Brazil",
+      "value": "60.5",
+      "value_numeric": 60.5,
+      "element_bbox": [
+        380,
+        301,
+        421,
+        1000
+      ],
+      "value_bbox": [
+        387,
+        282,
+        413,
+        301
+      ]
+    },
+    {
+      "label": "Chile",
+      "value": "67.8",
+      "value_numeric": 67.8,
+      "element_bbox": [
+        482,
+        496,
+        523,
+        1000
+      ],
+      "value_bbox": [
+        490,
+        477,
+        516,
+        496
+      ]
+    },
+    {
+      "label": "Chile",
+      "value": "68.4",
+      "value_numeric": 68.4,
+      "element_bbox": [
+        585,
+        158,
+        626,
+        1000
+      ],
+      "value_bbox": [
+        593,
+        140,
+        618,
+        158
+      ]
+    },
+    {
+      "label": "Costa Rica",
+      "value": "70.0",
+      "value_numeric": 70.0,
+      "element_bbox": [
+        688,
+        482,
+        729,
+        1000
+      ],
+      "value_bbox": [
+        695,
+        464,
+        721,
+        482
+      ]
+    },
+    {
+      "label": "Costa Rica",
+      "value": "70.5",
+      "value_numeric": 70.5,
+      "element_bbox": [
+        790,
+        675,
+        831,
+        1000
+      ],
+      "value_bbox": [
+        798,
+        656,
+        824,
+        675
+      ]
+    },
+    {
+      "label": "Global Avg",
+      "value": "52.6",
+      "value_numeric": 52.6,
+      "element_bbox": [
+        893,
+        563,
+        934,
+        1000
+      ],
+      "value_bbox": [
+        900,
+        544,
+        926,
+        563
+      ]
+    },
+    {
+      "label": "Global Avg",
+      "value": "54.6",
+      "value_numeric": 54.6,
+      "element_bbox": [
+        113,
+        518,
+        154,
+        1000
+      ],
+      "value_bbox": [
+        121,
+        500,
+        146,
+        518
+      ]
+    },
+    {
+      "label": "High income",
+      "value": "82.7",
+      "value_numeric": 82.7,
+      "element_bbox": [
+        216,
+        407,
+        257,
+        1000
+      ],
+      "value_bbox": [
+        223,
+        388,
+        249,
+        407
+      ]
+    },
+    {
+      "label": "High income",
+      "value": "83.7",
+      "value_numeric": 83.7,
+      "element_bbox": [
+        318,
+        319,
+        359,
+        1000
+      ],
+      "value_bbox": [
+        326,
+        300,
+        352,
+        319
+      ]
+    },
+    {
+      "label": "Peru",
+      "value": "53.8",
+      "value_numeric": 53.8,
+      "element_bbox": [
+        421,
+        295,
+        462,
+        1000
+      ],
+      "value_bbox": [
+        429,
+        277,
+        454,
+        295
+      ]
+    },
+    {
+      "label": "Peru",
+      "value": "54.6",
+      "value_numeric": 54.6,
+      "element_bbox": [
+        523,
+        473,
+        564,
+        1000
+      ],
+      "value_bbox": [
+        531,
+        455,
+        557,
+        473
+      ]
+    },
+    {
+      "label": "Samoa",
+      "value": "36.6",
+      "value_numeric": 36.6,
+      "element_bbox": [
+        626,
+        147,
+        667,
+        1000
+      ],
+      "value_bbox": [
+        634,
+        128,
+        659,
+        147
+      ]
+    },
+    {
+      "label": "Samoa",
+      "value": "38.6",
+      "value_numeric": 38.6,
+      "element_bbox": [
+        729,
+        473,
+        770,
+        1000
+      ],
+      "value_bbox": [
+        736,
+        455,
+        762,
+        473
+      ]
+    },
+    {
+      "label": "Sao Tome & Principe",
+      "value": "46.6",
+      "value_numeric": 46.6,
+      "element_bbox": [
+        831,
+        652,
+        872,
+        1000
+      ],
+      "value_bbox": [
+        839,
+        634,
+        864,
+        652
+      ]
+    },
+    {
+      "label": "Sao Tome & Principe",
+      "value": "47.6",
+      "value_numeric": 47.6,
+      "element_bbox": [
+        934,
+        552,
+        975,
+        1000
+      ],
+      "value_bbox": [
+        941,
+        533,
+        967,
+        552
+      ]
+    }
+  ]
+}

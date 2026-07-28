@@ -1,0 +1,95 @@
+{
+  "chart_id": "38cd237efc49c7ef",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Asia-Pacific",
+      "value": "95.93",
+      "value_numeric": 95.93,
+      "element_bbox": [
+        102,
+        158,
+        245,
+        884
+      ],
+      "value_bbox": [
+        154,
+        137,
+        193,
+        158
+      ]
+    },
+    {
+      "label": "Eastern Europe",
+      "value": "95.13",
+      "value_numeric": 95.13,
+      "element_bbox": [
+        281,
+        164,
+        425,
+        884
+      ],
+      "value_bbox": [
+        333,
+        143,
+        373,
+        164
+      ]
+    },
+    {
+      "label": "Nordic Countries",
+      "value": "96.84",
+      "value_numeric": 96.84,
+      "element_bbox": [
+        461,
+        151,
+        605,
+        884
+      ],
+      "value_bbox": [
+        513,
+        130,
+        553,
+        151
+      ]
+    },
+    {
+      "label": "North America",
+      "value": "98.53",
+      "value_numeric": 98.53,
+      "element_bbox": [
+        641,
+        139,
+        784,
+        884
+      ],
+      "value_bbox": [
+        693,
+        117,
+        732,
+        139
+      ]
+    },
+    {
+      "label": "Western Europe",
+      "value": "96.35",
+      "value_numeric": 96.35,
+      "element_bbox": [
+        820,
+        155,
+        964,
+        884
+      ],
+      "value_bbox": [
+        872,
+        133,
+        912,
+        155
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "chart_id": "6d4ab9735dcc0e7d",
+  "chart_type": "Bar Chart",
+  "image_width": 2714,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Cote d'Ivoire",
+      "value": "150",
+      "value_numeric": 150.0,
+      "element_bbox": [
+        125,
+        818,
+        547,
+        855
+      ],
+      "value_bbox": [
+        555,
+        826,
+        581,
+        847
+      ]
+    },
+    {
+      "label": "Costa Rica",
+      "value": "70",
+      "value_numeric": 70.0,
+      "element_bbox": [
+        125,
+        671,
+        257,
+        708
+      ],
+      "value_bbox": [
+        265,
+        678,
+        282,
+        700
+      ]
+    },
+    {
+      "label": "Colombia",
+      "value": "280",
+      "value_numeric": 280.0,
+      "element_bbox": [
+        125,
+        523,
+        626,
+        560
+      ],
+      "value_bbox": [
+        634,
+        531,
+        660,
+        553
+      ]
+    },
+    {
+      "label": "Chad",
+      "value": "180",
+      "value_numeric": 180.0,
+      "element_bbox": [
+        125,
+        376,
+        639,
+        413
+      ],
+      "value_bbox": [
+        647,
+        384,
+        673,
+        405
+      ]
+    },
+    {
+      "label": "Canada",
+      "value": "5",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        125,
+        229,
+        138,
+        266
+      ],
+      "value_bbox": [
+        146,
+        236,
+        155,
+        258
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "chart_id": "b4e081f752800814",
+  "chart_type": "Bar Chart",
+  "image_width": 3006,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Andorra",
+      "value": "99",
+      "value_numeric": 99.0,
+      "element_bbox": [
+        76,
+        128,
+        129,
+        884
+      ],
+      "value_bbox": [
+        96,
+        106,
+        110,
+        128
+      ]
+    },
+    {
+      "label": "Ireland",
+      "value": "97",
+      "value_numeric": 97.0,
+      "element_bbox": [
+        142,
+        143,
+        195,
+        884
+      ],
+      "value_bbox": [
+        162,
+        121,
+        176,
+        143
+      ]
+    },
+    {
+      "label": "Norway",
+      "value": "99",
+      "value_numeric": 99.0,
+      "element_bbox": [
+        208,
+        128,
+        261,
+        884
+      ],
+      "value_bbox": [
+        228,
+        106,
+        242,
+        128
+      ]
+    },
+    {
+      "label": "Sweden",
+      "value": "98",
+      "value_numeric": 98.0,
+      "element_bbox": [
+        275,
+        135,
+        327,
+        884
+      ],
+      "value_bbox": [
+        294,
+        114,
+        308,
+        135
+      ]
+    },
+    {
+      "label": "France",
+      "value": "96",
+      "value_numeric": 96.0,
+      "element_bbox": [
+        341,
+        150,
+        394,
+        884
+      ],
+      "value_bbox": [
+        360,
+        129,
+        374,
+        150
+      ]
+    },
+    {
+      "label": "Germany",
+      "value": "95",
+      "value_numeric": 95.0,
+      "element_bbox": [
+        407,
+        158,
+        460,
+        884
+      ],
+      "value_bbox": [
+        426,
+        136,
+        440,
+        158
+      ]
+    },
+    {
+      "label": "Guam",
+      "value": "98",
+      "value_numeric": 98.0,
+      "element_bbox": [
+        473,
+        135,
+        526,
+        884
+      ],
+      "value_bbox": [
+        492,
+        114,
+        506,
+        135
+      ]
+    },
+    {
+      "label": "Japan",
+      "value": "97",
+      "value_numeric": 97.0,
+      "element_bbox": [
+        539,
+        143,
+        592,
+        884
+      ],
+      "value_bbox": [
+        558,
+        121,
+        573,
+        143
+      ]
+    },
+    {
+      "label": "Vietnam",
+      "value": "94",
+      "value_numeric": 94.0,
+      "element_bbox": [
+        605,
+        166,
+        658,
+        884
+      ],
+      "value_bbox": [
+        624,
+        144,
+        639,
+        166
+      ]
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "93",
+      "value_numeric": 93.0,
+      "element_bbox": [
+        671,
+        173,
+        724,
+        884
+      ],
+      "value_bbox": [
+        690,
+        152,
+        705,
+        173
+      ]
+    }
+  ]
+}

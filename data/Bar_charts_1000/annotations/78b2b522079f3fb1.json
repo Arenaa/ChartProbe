@@ -1,0 +1,112 @@
+{
+  "chart_id": "78b2b522079f3fb1",
+  "chart_type": "Bar Chart",
+  "image_width": 2547,
+  "image_height": 1666,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Kyrgyz Republic",
+      "value": "9.5",
+      "value_numeric": 9.5,
+      "element_bbox": [
+        160,
+        158,
+        257,
+        890
+      ],
+      "value_bbox": [
+        198,
+        137,
+        220,
+        158
+      ]
+    },
+    {
+      "label": "Latvia",
+      "value": "3.0",
+      "value_numeric": 3.0,
+      "element_bbox": [
+        282,
+        659,
+        379,
+        890
+      ],
+      "value_bbox": [
+        319,
+        637,
+        341,
+        659
+      ]
+    },
+    {
+      "label": "Lebanon",
+      "value": "3.0",
+      "value_numeric": 3.0,
+      "element_bbox": [
+        403,
+        659,
+        500,
+        890
+      ],
+      "value_bbox": [
+        441,
+        637,
+        463,
+        659
+      ]
+    },
+    {
+      "label": "Lithuania",
+      "value": "2.0",
+      "value_numeric": 2.0,
+      "element_bbox": [
+        525,
+        736,
+        622,
+        890
+      ],
+      "value_bbox": [
+        562,
+        714,
+        584,
+        736
+      ]
+    },
+    {
+      "label": "Mexico",
+      "value": "0.5",
+      "value_numeric": 0.5,
+      "element_bbox": [
+        646,
+        852,
+        743,
+        890
+      ],
+      "value_bbox": [
+        750,
+        860,
+        772,
+        882
+      ]
+    },
+    {
+      "label": "Macedonia",
+      "value": "6.5",
+      "value_numeric": 6.5,
+      "element_bbox": [
+        768,
+        389,
+        865,
+        890
+      ],
+      "value_bbox": [
+        805,
+        368,
+        827,
+        389
+      ]
+    }
+  ]
+}

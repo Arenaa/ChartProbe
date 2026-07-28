@@ -1,0 +1,112 @@
+{
+  "chart_id": "b5520bb4175e3e46",
+  "chart_type": "Bar Chart",
+  "image_width": 2945,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Luxembourg",
+      "value": "7.5",
+      "value_numeric": 7.5,
+      "element_bbox": [
+        150,
+        744,
+        435,
+        847
+      ],
+      "value_bbox": [
+        443,
+        785,
+        466,
+        806
+      ]
+    },
+    {
+      "label": "Italy",
+      "value": "4.5",
+      "value_numeric": 4.5,
+      "element_bbox": [
+        150,
+        616,
+        326,
+        719
+      ],
+      "value_bbox": [
+        334,
+        657,
+        356,
+        678
+      ]
+    },
+    {
+      "label": "Ireland",
+      "value": "6.5",
+      "value_numeric": 6.5,
+      "element_bbox": [
+        150,
+        488,
+        404,
+        591
+      ],
+      "value_bbox": [
+        412,
+        529,
+        434,
+        550
+      ]
+    },
+    {
+      "label": "Greece",
+      "value": "7.5",
+      "value_numeric": 7.5,
+      "element_bbox": [
+        150,
+        360,
+        443,
+        463
+      ],
+      "value_bbox": [
+        451,
+        401,
+        473,
+        422
+      ]
+    },
+    {
+      "label": "France",
+      "value": "9.5",
+      "value_numeric": 9.5,
+      "element_bbox": [
+        150,
+        232,
+        521,
+        335
+      ],
+      "value_bbox": [
+        529,
+        273,
+        551,
+        294
+      ]
+    },
+    {
+      "label": "Denmark",
+      "value": "20.3",
+      "value_numeric": 20.3,
+      "element_bbox": [
+        150,
+        104,
+        942,
+        207
+      ],
+      "value_bbox": [
+        951,
+        145,
+        982,
+        166
+      ]
+    }
+  ]
+}

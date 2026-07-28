@@ -1,0 +1,78 @@
+{
+  "chart_id": "a671f8821b515840",
+  "chart_type": "Bar Chart",
+  "image_width": 2591,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Swaziland",
+      "value": "18.0",
+      "value_numeric": 18.0,
+      "element_bbox": [
+        160,
+        168,
+        207,
+        890
+      ],
+      "value_bbox": [
+        168,
+        147,
+        199,
+        168
+      ]
+    },
+    {
+      "label": "Tajikistan",
+      "value": "1.0",
+      "value_numeric": 1.0,
+      "element_bbox": [
+        348,
+        831,
+        395,
+        890
+      ],
+      "value_bbox": [
+        360,
+        810,
+        383,
+        831
+      ]
+    },
+    {
+      "label": "Thailand",
+      "value": "13.5",
+      "value_numeric": 13.5,
+      "element_bbox": [
+        536,
+        344,
+        583,
+        890
+      ],
+      "value_bbox": [
+        544,
+        322,
+        575,
+        344
+      ]
+    },
+    {
+      "label": "Tunisia",
+      "value": "16.0",
+      "value_numeric": 16.0,
+      "element_bbox": [
+        724,
+        207,
+        771,
+        890
+      ],
+      "value_bbox": [
+        732,
+        186,
+        763,
+        207
+      ]
+    }
+  ]
+}

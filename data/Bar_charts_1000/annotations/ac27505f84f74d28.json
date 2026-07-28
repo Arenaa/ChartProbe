@@ -1,0 +1,180 @@
+{
+  "chart_id": "ac27505f84f74d28",
+  "chart_type": "Bar Chart",
+  "image_width": 2947,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Cambodia",
+      "value": "4.0",
+      "value_numeric": 4.0,
+      "element_bbox": [
+        97,
+        715,
+        169,
+        884
+      ],
+      "value_bbox": [
+        122,
+        694,
+        144,
+        715
+      ]
+    },
+    {
+      "label": "Colombia",
+      "value": "7.9",
+      "value_numeric": 7.9,
+      "element_bbox": [
+        187,
+        551,
+        258,
+        884
+      ],
+      "value_bbox": [
+        211,
+        529,
+        234,
+        551
+      ]
+    },
+    {
+      "label": "Philippines",
+      "value": "16.4",
+      "value_numeric": 16.4,
+      "element_bbox": [
+        276,
+        193,
+        348,
+        884
+      ],
+      "value_bbox": [
+        296,
+        172,
+        327,
+        193
+      ]
+    },
+    {
+      "label": "Vietnam",
+      "value": "5.7",
+      "value_numeric": 5.7,
+      "element_bbox": [
+        365,
+        644,
+        437,
+        884
+      ],
+      "value_bbox": [
+        390,
+        622,
+        412,
+        644
+      ]
+    },
+    {
+      "label": "Indonesia",
+      "value": "10.3",
+      "value_numeric": 10.3,
+      "element_bbox": [
+        455,
+        450,
+        526,
+        884
+      ],
+      "value_bbox": [
+        475,
+        428,
+        506,
+        450
+      ]
+    },
+    {
+      "label": "Thailand",
+      "value": "6.8",
+      "value_numeric": 6.8,
+      "element_bbox": [
+        544,
+        597,
+        616,
+        884
+      ],
+      "value_bbox": [
+        569,
+        576,
+        591,
+        597
+      ]
+    },
+    {
+      "label": "Malaysia",
+      "value": "9.0",
+      "value_numeric": 9.0,
+      "element_bbox": [
+        634,
+        505,
+        705,
+        884
+      ],
+      "value_bbox": [
+        658,
+        483,
+        680,
+        505
+      ]
+    },
+    {
+      "label": "Myanmar",
+      "value": "7.0",
+      "value_numeric": 7.0,
+      "element_bbox": [
+        723,
+        589,
+        794,
+        884
+      ],
+      "value_bbox": [
+        748,
+        567,
+        770,
+        589
+      ]
+    },
+    {
+      "label": "Laos",
+      "value": "4.8",
+      "value_numeric": 4.8,
+      "element_bbox": [
+        812,
+        682,
+        884,
+        884
+      ],
+      "value_bbox": [
+        837,
+        660,
+        859,
+        682
+      ]
+    },
+    {
+      "label": "Brunei",
+      "value": "2.6",
+      "value_numeric": 2.6,
+      "element_bbox": [
+        902,
+        774,
+        973,
+        884
+      ],
+      "value_bbox": [
+        926,
+        753,
+        948,
+        774
+      ]
+    }
+  ]
+}

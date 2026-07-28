@@ -1,0 +1,248 @@
+{
+  "chart_id": "078b87bae71ee3b9",
+  "chart_type": "Bar Chart",
+  "image_width": 3570,
+  "image_height": 1766,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Denmark",
+      "value": "6",
+      "value_numeric": 6.0,
+      "element_bbox": [
+        51,
+        273,
+        78,
+        800
+      ],
+      "value_bbox": [
+        61,
+        251,
+        68,
+        273
+      ]
+    },
+    {
+      "label": "Lithuania",
+      "value": "8",
+      "value_numeric": 8.0,
+      "element_bbox": [
+        118,
+        449,
+        145,
+        800
+      ],
+      "value_bbox": [
+        128,
+        427,
+        135,
+        449
+      ]
+    },
+    {
+      "label": "Mauritania",
+      "value": "6",
+      "value_numeric": 6.0,
+      "element_bbox": [
+        186,
+        273,
+        213,
+        800
+      ],
+      "value_bbox": [
+        196,
+        251,
+        203,
+        273
+      ]
+    },
+    {
+      "label": "Virgin Islands",
+      "value": "6",
+      "value_numeric": 6.0,
+      "element_bbox": [
+        253,
+        273,
+        280,
+        800
+      ],
+      "value_bbox": [
+        263,
+        251,
+        270,
+        273
+      ]
+    },
+    {
+      "label": "Portugal",
+      "value": "5",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        321,
+        361,
+        347,
+        800
+      ],
+      "value_bbox": [
+        330,
+        339,
+        338,
+        361
+      ]
+    },
+    {
+      "label": "Slovakia",
+      "value": "7",
+      "value_numeric": 7.0,
+      "element_bbox": [
+        388,
+        361,
+        415,
+        800
+      ],
+      "value_bbox": [
+        398,
+        339,
+        405,
+        361
+      ]
+    },
+    {
+      "label": "Ecuador",
+      "value": "6",
+      "value_numeric": 6.0,
+      "element_bbox": [
+        455,
+        361,
+        482,
+        800
+      ],
+      "value_bbox": [
+        465,
+        339,
+        472,
+        361
+      ]
+    },
+    {
+      "label": "Norway",
+      "value": "5",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        523,
+        273,
+        550,
+        800
+      ],
+      "value_bbox": [
+        532,
+        251,
+        540,
+        273
+      ]
+    },
+    {
+      "label": "Ireland",
+      "value": "7",
+      "value_numeric": 7.0,
+      "element_bbox": [
+        590,
+        361,
+        617,
+        800
+      ],
+      "value_bbox": [
+        600,
+        339,
+        607,
+        361
+      ]
+    },
+    {
+      "label": "Canada",
+      "value": "7",
+      "value_numeric": 7.0,
+      "element_bbox": [
+        657,
+        273,
+        684,
+        800
+      ],
+      "value_bbox": [
+        667,
+        251,
+        674,
+        273
+      ]
+    },
+    {
+      "label": "Japan",
+      "value": "6",
+      "value_numeric": 6.0,
+      "element_bbox": [
+        725,
+        361,
+        752,
+        800
+      ],
+      "value_bbox": [
+        735,
+        339,
+        742,
+        361
+      ]
+    },
+    {
+      "label": "Brazil",
+      "value": "6",
+      "value_numeric": 6.0,
+      "element_bbox": [
+        792,
+        361,
+        819,
+        800
+      ],
+      "value_bbox": [
+        802,
+        339,
+        809,
+        361
+      ]
+    },
+    {
+      "label": "Sweden",
+      "value": "5",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        859,
+        273,
+        886,
+        800
+      ],
+      "value_bbox": [
+        869,
+        251,
+        877,
+        273
+      ]
+    },
+    {
+      "label": "Argentina",
+      "value": "6",
+      "value_numeric": 6.0,
+      "element_bbox": [
+        927,
+        361,
+        954,
+        800
+      ],
+      "value_bbox": [
+        937,
+        339,
+        944,
+        361
+      ]
+    }
+  ]
+}

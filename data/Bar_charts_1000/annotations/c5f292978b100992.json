@@ -1,0 +1,112 @@
+{
+  "chart_id": "c5f292978b100992",
+  "chart_type": "Bar Chart",
+  "image_width": 2945,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "World",
+      "value": "2.6",
+      "value_numeric": 2.6,
+      "element_bbox": [
+        185,
+        795,
+        185,
+        847
+      ],
+      "value_bbox": [
+        174,
+        774,
+        196,
+        795
+      ]
+    },
+    {
+      "label": "Afghanistan",
+      "value": "5.7",
+      "value_numeric": 5.7,
+      "element_bbox": [
+        185,
+        667,
+        244,
+        719
+      ],
+      "value_bbox": [
+        252,
+        682,
+        274,
+        704
+      ]
+    },
+    {
+      "label": "Albania",
+      "value": "2.9",
+      "value_numeric": 2.9,
+      "element_bbox": [
+        185,
+        539,
+        477,
+        591
+      ],
+      "value_bbox": [
+        485,
+        554,
+        507,
+        576
+      ]
+    },
+    {
+      "label": "Algeria",
+      "value": "3.2",
+      "value_numeric": 3.2,
+      "element_bbox": [
+        185,
+        411,
+        430,
+        463
+      ],
+      "value_bbox": [
+        438,
+        426,
+        460,
+        448
+      ]
+    },
+    {
+      "label": "American Samoa",
+      "value": "2.3",
+      "value_numeric": 2.3,
+      "element_bbox": [
+        185,
+        284,
+        442,
+        335
+      ],
+      "value_bbox": [
+        450,
+        298,
+        472,
+        320
+      ]
+    },
+    {
+      "label": "Andorra",
+      "value": "6.5",
+      "value_numeric": 6.5,
+      "element_bbox": [
+        185,
+        156,
+        372,
+        207
+      ],
+      "value_bbox": [
+        380,
+        170,
+        402,
+        192
+      ]
+    }
+  ]
+}

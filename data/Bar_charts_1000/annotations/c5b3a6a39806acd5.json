@@ -1,0 +1,61 @@
+{
+  "chart_id": "c5b3a6a39806acd5",
+  "chart_type": "Bar Chart",
+  "image_width": 2346,
+  "image_height": 1446,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Illiterate",
+      "value": "74",
+      "value_numeric": 74.0,
+      "element_bbox": [
+        134,
+        366,
+        366,
+        860
+      ],
+      "value_bbox": [
+        239,
+        340,
+        261,
+        366
+      ]
+    },
+    {
+      "label": "Semi-Literate",
+      "value": "56",
+      "value_numeric": 56.0,
+      "element_bbox": [
+        425,
+        486,
+        657,
+        860
+      ],
+      "value_bbox": [
+        530,
+        460,
+        552,
+        486
+      ]
+    },
+    {
+      "label": "Fully Literate",
+      "value": "46",
+      "value_numeric": 46.0,
+      "element_bbox": [
+        716,
+        549,
+        948,
+        860
+      ],
+      "value_bbox": [
+        821,
+        523,
+        843,
+        549
+      ]
+    }
+  ]
+}

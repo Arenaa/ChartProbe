@@ -1,0 +1,95 @@
+{
+  "chart_id": "a396c72f6ecd21f7",
+  "chart_type": "Bar Chart",
+  "image_width": 2896,
+  "image_height": 1693,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Female Population (M)",
+      "value": "610",
+      "value_numeric": 610.0,
+      "element_bbox": [
+        137,
+        135,
+        273,
+        709
+      ],
+      "value_bbox": [
+        192,
+        113,
+        218,
+        135
+      ]
+    },
+    {
+      "label": "Labor Force (M)",
+      "value": "335",
+      "value_numeric": 335.0,
+      "element_bbox": [
+        308,
+        394,
+        444,
+        709
+      ],
+      "value_bbox": [
+        363,
+        372,
+        389,
+        394
+      ]
+    },
+    {
+      "label": "Employed Women (M)",
+      "value": "192",
+      "value_numeric": 192.0,
+      "element_bbox": [
+        478,
+        528,
+        615,
+        709
+      ],
+      "value_bbox": [
+        533,
+        507,
+        560,
+        528
+      ]
+    },
+    {
+      "label": "Formal Sector (M)",
+      "value": "98",
+      "value_numeric": 98.0,
+      "element_bbox": [
+        649,
+        617,
+        785,
+        709
+      ],
+      "value_bbox": [
+        708,
+        595,
+        726,
+        617
+      ]
+    },
+    {
+      "label": "Entrepreneurial Women (M)",
+      "value": "42",
+      "value_numeric": 42.0,
+      "element_bbox": [
+        819,
+        670,
+        956,
+        709
+      ],
+      "value_bbox": [
+        879,
+        648,
+        896,
+        670
+      ]
+    }
+  ]
+}

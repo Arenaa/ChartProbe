@@ -1,0 +1,112 @@
+{
+  "chart_id": "a27bac57871e8f19",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Pre-Primary",
+      "value": "2.20",
+      "value_numeric": 2.2,
+      "element_bbox": [
+        80,
+        654,
+        202,
+        884
+      ],
+      "value_bbox": [
+        125,
+        632,
+        156,
+        654
+      ]
+    },
+    {
+      "label": "Primary",
+      "value": "7.22",
+      "value_numeric": 7.22,
+      "element_bbox": [
+        233,
+        128,
+        355,
+        884
+      ],
+      "value_bbox": [
+        278,
+        106,
+        309,
+        128
+      ]
+    },
+    {
+      "label": "Lower Secondary",
+      "value": "5.03",
+      "value_numeric": 5.03,
+      "element_bbox": [
+        386,
+        357,
+        508,
+        884
+      ],
+      "value_bbox": [
+        431,
+        335,
+        462,
+        357
+      ]
+    },
+    {
+      "label": "Upper Secondary",
+      "value": "3.56",
+      "value_numeric": 3.56,
+      "element_bbox": [
+        539,
+        511,
+        661,
+        884
+      ],
+      "value_bbox": [
+        584,
+        489,
+        615,
+        511
+      ]
+    },
+    {
+      "label": "Higher Education",
+      "value": "3.13",
+      "value_numeric": 3.13,
+      "element_bbox": [
+        691,
+        556,
+        814,
+        884
+      ],
+      "value_bbox": [
+        737,
+        534,
+        768,
+        556
+      ]
+    },
+    {
+      "label": "Vocational",
+      "value": "1.60",
+      "value_numeric": 1.6,
+      "element_bbox": [
+        844,
+        717,
+        967,
+        884
+      ],
+      "value_bbox": [
+        890,
+        695,
+        921,
+        717
+      ]
+    }
+  ]
+}

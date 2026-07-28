@@ -1,0 +1,316 @@
+{
+  "chart_id": "03d8482c91c73019",
+  "chart_type": "Bar Chart",
+  "image_width": 3522,
+  "image_height": 2054,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Merchandise Goods",
+      "value": "46.55",
+      "value_numeric": 46.55,
+      "element_bbox": [
+        80,
+        217,
+        120,
+        777
+      ],
+      "value_bbox": [
+        83,
+        199,
+        116,
+        217
+      ]
+    },
+    {
+      "label": "Merchandise Goods",
+      "value": "55.35",
+      "value_numeric": 55.35,
+      "element_bbox": [
+        181,
+        520,
+        222,
+        777
+      ],
+      "value_bbox": [
+        185,
+        502,
+        218,
+        520
+      ]
+    },
+    {
+      "label": "Professional Services",
+      "value": "21.35",
+      "value_numeric": 21.35,
+      "element_bbox": [
+        283,
+        738,
+        324,
+        777
+      ],
+      "value_bbox": [
+        287,
+        719,
+        320,
+        738
+      ]
+    },
+    {
+      "label": "Professional Services",
+      "value": "29.35",
+      "value_numeric": 29.35,
+      "element_bbox": [
+        385,
+        759,
+        426,
+        777
+      ],
+      "value_bbox": [
+        389,
+        741,
+        422,
+        759
+      ]
+    },
+    {
+      "label": "Re‑exports",
+      "value": "3.25",
+      "value_numeric": 3.25,
+      "element_bbox": [
+        487,
+        753,
+        527,
+        777
+      ],
+      "value_bbox": [
+        494,
+        735,
+        520,
+        753
+      ]
+    },
+    {
+      "label": "Re‑exports",
+      "value": "1.25",
+      "value_numeric": 1.25,
+      "element_bbox": [
+        588,
+        764,
+        629,
+        777
+      ],
+      "value_bbox": [
+        596,
+        746,
+        622,
+        764
+      ]
+    },
+    {
+      "label": "Energy Products",
+      "value": "1.45",
+      "value_numeric": 1.45,
+      "element_bbox": [
+        690,
+        764,
+        731,
+        777
+      ],
+      "value_bbox": [
+        697,
+        746,
+        723,
+        764
+      ]
+    },
+    {
+      "label": "Energy Products",
+      "value": "5.75",
+      "value_numeric": 5.75,
+      "element_bbox": [
+        792,
+        757,
+        832,
+        777
+      ],
+      "value_bbox": [
+        799,
+        738,
+        825,
+        757
+      ]
+    },
+    {
+      "label": "Tourism Activities",
+      "value": "1.95",
+      "value_numeric": 1.95,
+      "element_bbox": [
+        893,
+        753,
+        934,
+        777
+      ],
+      "value_bbox": [
+        901,
+        734,
+        927,
+        753
+      ]
+    },
+    {
+      "label": "Tourism Activities",
+      "value": "2.25",
+      "value_numeric": 2.25,
+      "element_bbox": [
+        120,
+        112,
+        161,
+        777
+      ],
+      "value_bbox": [
+        128,
+        93,
+        154,
+        112
+      ]
+    },
+    {
+      "label": "Investment Returns",
+      "value": "1.05",
+      "value_numeric": 1.05,
+      "element_bbox": [
+        222,
+        424,
+        263,
+        777
+      ],
+      "value_bbox": [
+        229,
+        405,
+        255,
+        424
+      ]
+    },
+    {
+      "label": "Investment Returns",
+      "value": "0.65",
+      "value_numeric": 0.65,
+      "element_bbox": [
+        324,
+        762,
+        364,
+        777
+      ],
+      "value_bbox": [
+        331,
+        743,
+        357,
+        762
+      ]
+    },
+    {
+      "label": "Construction Works",
+      "value": "1.05",
+      "value_numeric": 1.05,
+      "element_bbox": [
+        426,
+        708,
+        466,
+        777
+      ],
+      "value_bbox": [
+        433,
+        689,
+        459,
+        708
+      ]
+    },
+    {
+      "label": "Construction Works",
+      "value": "0.65",
+      "value_numeric": 0.65,
+      "element_bbox": [
+        527,
+        750,
+        568,
+        777
+      ],
+      "value_bbox": [
+        535,
+        731,
+        560,
+        750
+      ]
+    },
+    {
+      "label": "Digital Platforms",
+      "value": "1.65",
+      "value_numeric": 1.65,
+      "element_bbox": [
+        629,
+        769,
+        670,
+        777
+      ],
+      "value_bbox": [
+        636,
+        750,
+        662,
+        769
+      ]
+    },
+    {
+      "label": "Digital Platforms",
+      "value": "1.35",
+      "value_numeric": 1.35,
+      "element_bbox": [
+        731,
+        769,
+        771,
+        777
+      ],
+      "value_bbox": [
+        738,
+        750,
+        764,
+        769
+      ]
+    },
+    {
+      "label": "Financial Services",
+      "value": "2.00",
+      "value_numeric": 2.0,
+      "element_bbox": [
+        832,
+        761,
+        873,
+        777
+      ],
+      "value_bbox": [
+        840,
+        742,
+        866,
+        761
+      ]
+    },
+    {
+      "label": "Financial Services",
+      "value": "1.80",
+      "value_numeric": 1.8,
+      "element_bbox": [
+        934,
+        755,
+        975,
+        777
+      ],
+      "value_bbox": [
+        942,
+        737,
+        967,
+        755
+      ]
+    }
+  ]
+}

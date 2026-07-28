@@ -1,0 +1,44 @@
+[
+  {
+    "old_id": "7e047282d9a73360",
+    "new_id": "078b87bae71ee3b9",
+    "library": "seaborn",
+    "bar_count": 14
+  },
+  {
+    "old_id": "cc346dcea233ace6",
+    "new_id": "40495e84afb7f329",
+    "library": "matplotlib",
+    "bar_count": 5
+  },
+  {
+    "old_id": "388391e2f99a3e52",
+    "new_id": "4b095324511871bb",
+    "library": "seaborn",
+    "bar_count": 8
+  },
+  {
+    "old_id": "dfa7a0472d53ac62",
+    "new_id": "5490923087227f39",
+    "library": "matplotlib",
+    "bar_count": 12
+  },
+  {
+    "old_id": "2d63c78ce5232d82",
+    "new_id": "9dbac2c5082685ad",
+    "library": "matplotlib",
+    "bar_count": 4
+  },
+  {
+    "old_id": "702d2e382a33bca0",
+    "new_id": "a44758c628a4c127",
+    "library": "matplotlib",
+    "bar_count": 4
+  },
+  {
+    "old_id": "feda6cf80a8510b9",
+    "new_id": "aa282759ac45b8bc",
+    "library": "matplotlib",
+    "bar_count": 4
+  }
+]

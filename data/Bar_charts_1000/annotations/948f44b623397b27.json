@@ -1,0 +1,112 @@
+{
+  "chart_id": "948f44b623397b27",
+  "chart_type": "Bar Chart",
+  "image_width": 2926,
+  "image_height": 1749,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Clean Cooking Access",
+      "value": "85",
+      "value_numeric": 85.0,
+      "element_bbox": [
+        121,
+        216,
+        237,
+        715
+      ],
+      "value_bbox": [
+        170,
+        195,
+        188,
+        216
+      ]
+    },
+    {
+      "label": "Electrification",
+      "value": "99",
+      "value_numeric": 99.0,
+      "element_bbox": [
+        267,
+        134,
+        383,
+        715
+      ],
+      "value_bbox": [
+        316,
+        113,
+        334,
+        134
+      ]
+    },
+    {
+      "label": "Other Sustainable Energy",
+      "value": "5",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        413,
+        685,
+        529,
+        715
+      ],
+      "value_bbox": [
+        467,
+        663,
+        475,
+        685
+      ]
+    },
+    {
+      "label": "Renewable Heating Access",
+      "value": "82",
+      "value_numeric": 82.0,
+      "element_bbox": [
+        559,
+        235,
+        675,
+        715
+      ],
+      "value_bbox": [
+        608,
+        213,
+        626,
+        235
+      ]
+    },
+    {
+      "label": "Solar Power Access",
+      "value": "72",
+      "value_numeric": 72.0,
+      "element_bbox": [
+        705,
+        293,
+        821,
+        715
+      ],
+      "value_bbox": [
+        754,
+        271,
+        772,
+        293
+      ]
+    },
+    {
+      "label": "Wind Power Access",
+      "value": "56",
+      "value_numeric": 56.0,
+      "element_bbox": [
+        851,
+        386,
+        967,
+        715
+      ],
+      "value_bbox": [
+        900,
+        365,
+        918,
+        386
+      ]
+    }
+  ]
+}

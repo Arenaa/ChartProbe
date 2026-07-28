@@ -1,0 +1,129 @@
+{
+  "chart_id": "ac77fe610e326f45",
+  "chart_type": "Bar Chart",
+  "image_width": 2958,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Full-time",
+      "value": "45",
+      "value_numeric": 45.0,
+      "element_bbox": [
+        87,
+        128,
+        191,
+        884
+      ],
+      "value_bbox": [
+        130,
+        106,
+        148,
+        128
+      ]
+    },
+    {
+      "label": "Part-time",
+      "value": "25",
+      "value_numeric": 25.0,
+      "element_bbox": [
+        217,
+        464,
+        321,
+        884
+      ],
+      "value_bbox": [
+        260,
+        442,
+        277,
+        464
+      ]
+    },
+    {
+      "label": "Under-employed",
+      "value": "15",
+      "value_numeric": 15.0,
+      "element_bbox": [
+        346,
+        632,
+        450,
+        884
+      ],
+      "value_bbox": [
+        390,
+        610,
+        407,
+        632
+      ]
+    },
+    {
+      "label": "Self-employed",
+      "value": "33",
+      "value_numeric": 33.0,
+      "element_bbox": [
+        476,
+        329,
+        580,
+        884
+      ],
+      "value_bbox": [
+        519,
+        308,
+        537,
+        329
+      ]
+    },
+    {
+      "label": "Gig workers",
+      "value": "7",
+      "value_numeric": 7.0,
+      "element_bbox": [
+        606,
+        766,
+        710,
+        884
+      ],
+      "value_bbox": [
+        653,
+        744,
+        662,
+        766
+      ]
+    },
+    {
+      "label": "Freelancers",
+      "value": "10",
+      "value_numeric": 10.0,
+      "element_bbox": [
+        736,
+        716,
+        839,
+        884
+      ],
+      "value_bbox": [
+        779,
+        694,
+        796,
+        716
+      ]
+    },
+    {
+      "label": "Unemployed",
+      "value": "0",
+      "value_numeric": 0.0,
+      "element_bbox": [
+        865,
+        884,
+        969,
+        884
+      ],
+      "value_bbox": [
+        977,
+        873,
+        986,
+        895
+      ]
+    }
+  ]
+}

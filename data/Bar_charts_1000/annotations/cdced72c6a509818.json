@@ -1,0 +1,95 @@
+{
+  "chart_id": "cdced72c6a509818",
+  "chart_type": "Bar Chart",
+  "image_width": 2610,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Austria",
+      "value": "8.5",
+      "value_numeric": 8.5,
+      "element_bbox": [
+        160,
+        594,
+        213,
+        890
+      ],
+      "value_bbox": [
+        175,
+        573,
+        198,
+        594
+      ]
+    },
+    {
+      "label": "Bahamas",
+      "value": "4.5",
+      "value_numeric": 4.5,
+      "element_bbox": [
+        310,
+        736,
+        363,
+        890
+      ],
+      "value_bbox": [
+        325,
+        715,
+        347,
+        736
+      ]
+    },
+    {
+      "label": "Barbados",
+      "value": "3.5",
+      "value_numeric": 3.5,
+      "element_bbox": [
+        460,
+        157,
+        512,
+        890
+      ],
+      "value_bbox": [
+        475,
+        135,
+        497,
+        157
+      ]
+    },
+    {
+      "label": "Belize",
+      "value": "2.5",
+      "value_numeric": 2.5,
+      "element_bbox": [
+        610,
+        855,
+        662,
+        890
+      ],
+      "value_bbox": [
+        625,
+        833,
+        647,
+        855
+      ]
+    },
+    {
+      "label": "Benin",
+      "value": "15.0",
+      "value_numeric": 15.0,
+      "element_bbox": [
+        760,
+        784,
+        812,
+        890
+      ],
+      "value_bbox": [
+        771,
+        762,
+        802,
+        784
+      ]
+    }
+  ]
+}

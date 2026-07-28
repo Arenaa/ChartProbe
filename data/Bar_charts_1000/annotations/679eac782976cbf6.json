@@ -1,0 +1,95 @@
+{
+  "chart_id": "679eac782976cbf6",
+  "chart_type": "Bar Chart",
+  "image_width": 2902,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "East Asia (all income levels)",
+      "value": "3.5",
+      "value_numeric": 3.5,
+      "element_bbox": [
+        348,
+        723,
+        618,
+        847
+      ],
+      "value_bbox": [
+        623,
+        774,
+        645,
+        796
+      ]
+    },
+    {
+      "label": "East Asia (developing only)",
+      "value": "3.5",
+      "value_numeric": 3.5,
+      "element_bbox": [
+        348,
+        568,
+        738,
+        692
+      ],
+      "value_bbox": [
+        743,
+        619,
+        766,
+        641
+      ]
+    },
+    {
+      "label": "Europe(all income levels)",
+      "value": "4.5",
+      "value_numeric": 4.5,
+      "element_bbox": [
+        348,
+        414,
+        748,
+        537
+      ],
+      "value_bbox": [
+        753,
+        465,
+        776,
+        486
+      ]
+    },
+    {
+      "label": "Europe(developing only)",
+      "value": "4.5",
+      "value_numeric": 4.5,
+      "element_bbox": [
+        348,
+        259,
+        678,
+        383
+      ],
+      "value_bbox": [
+        683,
+        310,
+        706,
+        332
+      ]
+    },
+    {
+      "label": "Fragile and conflict affected situations",
+      "value": "2.8",
+      "value_numeric": 2.8,
+      "element_bbox": [
+        348,
+        104,
+        688,
+        228
+      ],
+      "value_bbox": [
+        693,
+        155,
+        715,
+        177
+      ]
+    }
+  ]
+}

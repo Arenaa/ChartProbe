@@ -1,0 +1,95 @@
+{
+  "chart_id": "49a3488aa04d5a8c",
+  "chart_type": "Bar Chart",
+  "image_width": 2562,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "China",
+      "value": "8.00e+07",
+      "value_numeric": 80000000.0,
+      "element_bbox": [
+        160,
+        844,
+        190,
+        890
+      ],
+      "value_bbox": [
+        141,
+        822,
+        209,
+        844
+      ]
+    },
+    {
+      "label": "Guyana",
+      "value": "1.00e+07",
+      "value_numeric": 10000000.0,
+      "element_bbox": [
+        307,
+        884,
+        336,
+        890
+      ],
+      "value_bbox": [
+        288,
+        863,
+        355,
+        884
+      ]
+    },
+    {
+      "label": "Haiti",
+      "value": "0",
+      "value_numeric": 0.0,
+      "element_bbox": [
+        454,
+        890,
+        483,
+        890
+      ],
+      "value_bbox": [
+        490,
+        879,
+        499,
+        901
+      ]
+    },
+    {
+      "label": "Honduras",
+      "value": "4.00e+07",
+      "value_numeric": 40000000.0,
+      "element_bbox": [
+        601,
+        867,
+        630,
+        890
+      ],
+      "value_bbox": [
+        581,
+        845,
+        649,
+        867
+      ]
+    },
+    {
+      "label": "India",
+      "value": "5.00e+08",
+      "value_numeric": 500000000.0,
+      "element_bbox": [
+        747,
+        157,
+        777,
+        890
+      ],
+      "value_bbox": [
+        728,
+        135,
+        796,
+        157
+      ]
+    }
+  ]
+}

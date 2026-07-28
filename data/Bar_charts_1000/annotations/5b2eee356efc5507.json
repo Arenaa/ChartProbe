@@ -1,0 +1,180 @@
+{
+  "chart_id": "5b2eee356efc5507",
+  "chart_type": "Bar Chart",
+  "image_width": 3195,
+  "image_height": 1834,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Social Security & Pensions",
+      "value": "355",
+      "value_numeric": 355.0,
+      "element_bbox": [
+        123,
+        187,
+        140,
+        653
+      ],
+      "value_bbox": [
+        119,
+        165,
+        143,
+        187
+      ]
+    },
+    {
+      "label": "Health & Welfare",
+      "value": "205",
+      "value_numeric": 205.0,
+      "element_bbox": [
+        210,
+        392,
+        227,
+        653
+      ],
+      "value_bbox": [
+        206,
+        371,
+        230,
+        392
+      ]
+    },
+    {
+      "label": "Family Support",
+      "value": "129",
+      "value_numeric": 129.0,
+      "element_bbox": [
+        296,
+        488,
+        314,
+        653
+      ],
+      "value_bbox": [
+        293,
+        467,
+        317,
+        488
+      ]
+    },
+    {
+      "label": "Housing & Infrastructure",
+      "value": "59",
+      "value_numeric": 59.0,
+      "element_bbox": [
+        383,
+        580,
+        401,
+        653
+      ],
+      "value_bbox": [
+        384,
+        558,
+        400,
+        580
+      ]
+    },
+    {
+      "label": "Administration",
+      "value": "28",
+      "value_numeric": 28.0,
+      "element_bbox": [
+        470,
+        623,
+        488,
+        653
+      ],
+      "value_bbox": [
+        471,
+        601,
+        487,
+        623
+      ]
+    },
+    {
+      "label": "Education & Digital",
+      "value": "15",
+      "value_numeric": 15.0,
+      "element_bbox": [
+        557,
+        636,
+        575,
+        653
+      ],
+      "value_bbox": [
+        558,
+        615,
+        574,
+        636
+      ]
+    },
+    {
+      "label": "Community Development",
+      "value": "21",
+      "value_numeric": 21.0,
+      "element_bbox": [
+        644,
+        632,
+        662,
+        653
+      ],
+      "value_bbox": [
+        645,
+        610,
+        661,
+        632
+      ]
+    },
+    {
+      "label": "Environmental Protection",
+      "value": "16",
+      "value_numeric": 16.0,
+      "element_bbox": [
+        731,
+        636,
+        749,
+        653
+      ],
+      "value_bbox": [
+        732,
+        615,
+        748,
+        636
+      ]
+    },
+    {
+      "label": "Public Safety",
+      "value": "11",
+      "value_numeric": 11.0,
+      "element_bbox": [
+        818,
+        642,
+        836,
+        653
+      ],
+      "value_bbox": [
+        819,
+        620,
+        835,
+        642
+      ]
+    },
+    {
+      "label": "Transportation",
+      "value": "36",
+      "value_numeric": 36.0,
+      "element_bbox": [
+        905,
+        612,
+        922,
+        653
+      ],
+      "value_bbox": [
+        906,
+        590,
+        922,
+        612
+      ]
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "chart_id": "82551d38bbcc5dd2",
+  "chart_type": "Bar Chart",
+  "image_width": 4174,
+  "image_height": 2369,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Digital Platforms",
+      "value": "57.8",
+      "value_numeric": 57.8,
+      "element_bbox": [
+        60,
+        115,
+        69,
+        781
+      ],
+      "value_bbox": [
+        53,
+        98,
+        76,
+        115
+      ]
+    },
+    {
+      "label": "Transport & Logistics",
+      "value": "6.4",
+      "value_numeric": 6.4,
+      "element_bbox": [
+        132,
+        712,
+        142,
+        781
+      ],
+      "value_bbox": [
+        129,
+        696,
+        145,
+        712
+      ]
+    },
+    {
+      "label": "Financial Services",
+      "value": "16.1",
+      "value_numeric": 16.1,
+      "element_bbox": [
+        204,
+        599,
+        214,
+        781
+      ],
+      "value_bbox": [
+        198,
+        583,
+        220,
+        599
+      ]
+    },
+    {
+      "label": "Health & Social",
+      "value": "8.6",
+      "value_numeric": 8.6,
+      "element_bbox": [
+        277,
+        685,
+        286,
+        781
+      ],
+      "value_bbox": [
+        274,
+        669,
+        289,
+        685
+      ]
+    },
+    {
+      "label": "Tourism & Hospitality",
+      "value": "6.8",
+      "value_numeric": 6.8,
+      "element_bbox": [
+        349,
+        707,
+        359,
+        781
+      ],
+      "value_bbox": [
+        346,
+        691,
+        362,
+        707
+      ]
+    },
+    {
+      "label": "Education & Training",
+      "value": "6.1",
+      "value_numeric": 6.1,
+      "element_bbox": [
+        421,
+        716,
+        431,
+        781
+      ],
+      "value_bbox": [
+        418,
+        700,
+        434,
+        716
+      ]
+    },
+    {
+      "label": "Miscellaneous",
+      "value": "6.0",
+      "value_numeric": 6.0,
+      "element_bbox": [
+        494,
+        716,
+        503,
+        781
+      ],
+      "value_bbox": [
+        491,
+        700,
+        506,
+        716
+      ]
+    },
+    {
+      "label": "Consulting Services",
+      "value": "6.4",
+      "value_numeric": 6.4,
+      "element_bbox": [
+        566,
+        712,
+        576,
+        781
+      ],
+      "value_bbox": [
+        563,
+        696,
+        579,
+        712
+      ]
+    },
+    {
+      "label": "Renewable Energy",
+      "value": "2.5",
+      "value_numeric": 2.5,
+      "element_bbox": [
+        638,
+        757,
+        648,
+        781
+      ],
+      "value_bbox": [
+        635,
+        741,
+        651,
+        757
+      ]
+    },
+    {
+      "label": "Technology & Innovation",
+      "value": "4.0",
+      "value_numeric": 4.0,
+      "element_bbox": [
+        711,
+        740,
+        720,
+        781
+      ],
+      "value_bbox": [
+        708,
+        724,
+        724,
+        740
+      ]
+    },
+    {
+      "label": "Data & AI Services",
+      "value": "1.6",
+      "value_numeric": 1.6,
+      "element_bbox": [
+        783,
+        764,
+        793,
+        781
+      ],
+      "value_bbox": [
+        780,
+        748,
+        796,
+        764
+      ]
+    },
+    {
+      "label": "Advanced Manufacturing",
+      "value": "1.1",
+      "value_numeric": 1.1,
+      "element_bbox": [
+        855,
+        772,
+        865,
+        781
+      ],
+      "value_bbox": [
+        852,
+        755,
+        868,
+        772
+      ]
+    }
+  ]
+}

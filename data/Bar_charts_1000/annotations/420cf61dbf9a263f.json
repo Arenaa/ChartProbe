@@ -1,0 +1,95 @@
+{
+  "chart_id": "420cf61dbf9a263f",
+  "chart_type": "Bar Chart",
+  "image_width": 2981,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "High income",
+      "value": "680000",
+      "value_numeric": 680000.0,
+      "element_bbox": [
+        270,
+        723,
+        935,
+        847
+      ],
+      "value_bbox": [
+        942,
+        774,
+        994,
+        796
+      ]
+    },
+    {
+      "label": "European Union",
+      "value": "250000",
+      "value_numeric": 250000.0,
+      "element_bbox": [
+        270,
+        568,
+        514,
+        692
+      ],
+      "value_bbox": [
+        521,
+        619,
+        574,
+        641
+      ]
+    },
+    {
+      "label": "Euro area",
+      "value": "180000",
+      "value_numeric": 180000.0,
+      "element_bbox": [
+        270,
+        414,
+        446,
+        537
+      ],
+      "value_bbox": [
+        453,
+        465,
+        505,
+        486
+      ]
+    },
+    {
+      "label": "East Asia (developing only)",
+      "value": "100000",
+      "value_numeric": 100000.0,
+      "element_bbox": [
+        270,
+        259,
+        367,
+        383
+      ],
+      "value_bbox": [
+        374,
+        310,
+        427,
+        332
+      ]
+    },
+    {
+      "label": "East Asia (all income levels)",
+      "value": "320000",
+      "value_numeric": 320000.0,
+      "element_bbox": [
+        270,
+        104,
+        583,
+        228
+      ],
+      "value_bbox": [
+        590,
+        155,
+        642,
+        177
+      ]
+    }
+  ]
+}

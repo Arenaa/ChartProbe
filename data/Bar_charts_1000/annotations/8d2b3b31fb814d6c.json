@@ -1,0 +1,78 @@
+{
+  "chart_id": "8d2b3b31fb814d6c",
+  "chart_type": "Bar Chart",
+  "image_width": 3143,
+  "image_height": 1764,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "North America",
+      "value": "57",
+      "value_numeric": 57.0,
+      "element_bbox": [
+        193,
+        693,
+        942,
+        851
+      ],
+      "value_bbox": [
+        950,
+        761,
+        967,
+        783
+      ]
+    },
+    {
+      "label": "OECD members",
+      "value": "49",
+      "value_numeric": 49.0,
+      "element_bbox": [
+        193,
+        496,
+        919,
+        654
+      ],
+      "value_bbox": [
+        927,
+        564,
+        945,
+        586
+      ]
+    },
+    {
+      "label": "Other small states",
+      "value": "44",
+      "value_numeric": 44.0,
+      "element_bbox": [
+        193,
+        299,
+        942,
+        457
+      ],
+      "value_bbox": [
+        950,
+        367,
+        967,
+        388
+      ]
+    },
+    {
+      "label": "Small states",
+      "value": "46",
+      "value_numeric": 46.0,
+      "element_bbox": [
+        193,
+        101,
+        964,
+        259
+      ],
+      "value_bbox": [
+        972,
+        169,
+        989,
+        191
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "chart_id": "96d9b3634bea05b4",
+  "chart_type": "Bar Chart",
+  "image_width": 2930,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Cyprus",
+      "value": "0.2",
+      "value_numeric": 0.2,
+      "element_bbox": [
+        114,
+        884,
+        200,
+        884
+      ],
+      "value_bbox": [
+        208,
+        873,
+        230,
+        895
+      ]
+    },
+    {
+      "label": "Estonia",
+      "value": "44.1",
+      "value_numeric": 44.1,
+      "element_bbox": [
+        221,
+        883,
+        307,
+        884
+      ],
+      "value_bbox": [
+        249,
+        861,
+        280,
+        883
+      ]
+    },
+    {
+      "label": "Latvia",
+      "value": "734.4",
+      "value_numeric": 734.4,
+      "element_bbox": [
+        329,
+        873,
+        414,
+        884
+      ],
+      "value_bbox": [
+        352,
+        852,
+        391,
+        873
+      ]
+    },
+    {
+      "label": "Lithuania",
+      "value": "20.9",
+      "value_numeric": 20.9,
+      "element_bbox": [
+        436,
+        883,
+        522,
+        884
+      ],
+      "value_bbox": [
+        463,
+        862,
+        494,
+        883
+      ]
+    },
+    {
+      "label": "Moldova",
+      "value": "2702.3",
+      "value_numeric": 2702.3,
+      "element_bbox": [
+        543,
+        845,
+        629,
+        884
+      ],
+      "value_bbox": [
+        562,
+        823,
+        610,
+        845
+      ]
+    },
+    {
+      "label": "Poland",
+      "value": "28.1",
+      "value_numeric": 28.1,
+      "element_bbox": [
+        651,
+        883,
+        737,
+        884
+      ],
+      "value_bbox": [
+        678,
+        862,
+        709,
+        883
+      ]
+    },
+    {
+      "label": "Slovakia",
+      "value": "25.0",
+      "value_numeric": 25.0,
+      "element_bbox": [
+        758,
+        883,
+        844,
+        884
+      ],
+      "value_bbox": [
+        786,
+        862,
+        817,
+        883
+      ]
+    },
+    {
+      "label": "Trinidad & Tobago",
+      "value": "54332.0",
+      "value_numeric": 54332.0,
+      "element_bbox": [
+        865,
+        108,
+        951,
+        884
+      ],
+      "value_bbox": [
+        880,
+        86,
+        937,
+        108
+      ]
+    }
+  ]
+}

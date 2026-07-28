@@ -1,0 +1,78 @@
+{
+  "chart_id": "041b49e788afd221",
+  "chart_type": "Bar Chart",
+  "image_width": 2547,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Canada",
+      "value": "10",
+      "value_numeric": 10.0,
+      "element_bbox": [
+        160,
+        780,
+        309,
+        890
+      ],
+      "value_bbox": [
+        226,
+        758,
+        243,
+        780
+      ]
+    },
+    {
+      "label": "Indonesia",
+      "value": "65",
+      "value_numeric": 65.0,
+      "element_bbox": [
+        346,
+        175,
+        494,
+        890
+      ],
+      "value_bbox": [
+        411,
+        153,
+        428,
+        175
+      ]
+    },
+    {
+      "label": "Ireland",
+      "value": "12",
+      "value_numeric": 12.0,
+      "element_bbox": [
+        531,
+        758,
+        679,
+        890
+      ],
+      "value_bbox": [
+        596,
+        736,
+        614,
+        758
+      ]
+    },
+    {
+      "label": "Italy",
+      "value": "15",
+      "value_numeric": 15.0,
+      "element_bbox": [
+        716,
+        725,
+        865,
+        890
+      ],
+      "value_bbox": [
+        782,
+        703,
+        799,
+        725
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "chart_id": "60c07cc2fdb7a898",
+  "chart_type": "Bar Chart",
+  "image_width": 2518,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Jamaica",
+      "value": "8.0e7",
+      "value_numeric": 80000000.0,
+      "element_bbox": [
+        160,
+        795,
+        257,
+        890
+      ],
+      "value_bbox": [
+        189,
+        774,
+        229,
+        795
+      ]
+    },
+    {
+      "label": "Japan",
+      "value": "1.5e8",
+      "value_numeric": 150000000.0,
+      "element_bbox": [
+        282,
+        712,
+        379,
+        890
+      ],
+      "value_bbox": [
+        311,
+        691,
+        350,
+        712
+      ]
+    },
+    {
+      "label": "Jordan",
+      "value": "6.0e8",
+      "value_numeric": 600000000.0,
+      "element_bbox": [
+        403,
+        179,
+        500,
+        890
+      ],
+      "value_bbox": [
+        432,
+        158,
+        471,
+        179
+      ]
+    },
+    {
+      "label": "Kenya",
+      "value": "1.0e7",
+      "value_numeric": 10000000.0,
+      "element_bbox": [
+        525,
+        878,
+        622,
+        890
+      ],
+      "value_bbox": [
+        553,
+        856,
+        593,
+        878
+      ]
+    },
+    {
+      "label": "Korea (Republic)",
+      "value": "1.0e8",
+      "value_numeric": 100000000.0,
+      "element_bbox": [
+        646,
+        890,
+        743,
+        890
+      ],
+      "value_bbox": [
+        750,
+        879,
+        790,
+        901
+      ]
+    }
+  ]
+}

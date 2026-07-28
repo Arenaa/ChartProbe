@@ -1,0 +1,146 @@
+{
+  "chart_id": "d026348907d10fb0",
+  "chart_type": "Bar Chart",
+  "image_width": 3005,
+  "image_height": 2046,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "2004",
+      "value": "0.9",
+      "value_numeric": 0.9,
+      "element_bbox": [
+        80,
+        584,
+        100,
+        900
+      ],
+      "value_bbox": [
+        81,
+        566,
+        99,
+        584
+      ]
+    },
+    {
+      "label": "2005",
+      "value": "1",
+      "value_numeric": 1.0,
+      "element_bbox": [
+        154,
+        571,
+        174,
+        900
+      ],
+      "value_bbox": [
+        160,
+        553,
+        167,
+        571
+      ]
+    },
+    {
+      "label": "2006",
+      "value": "1.5",
+      "value_numeric": 1.5,
+      "element_bbox": [
+        228,
+        521,
+        247,
+        900
+      ],
+      "value_bbox": [
+        228,
+        502,
+        247,
+        521
+      ]
+    },
+    {
+      "label": "2007",
+      "value": "2",
+      "value_numeric": 2.0,
+      "element_bbox": [
+        301,
+        369,
+        321,
+        900
+      ],
+      "value_bbox": [
+        307,
+        351,
+        315,
+        369
+      ]
+    },
+    {
+      "label": "2008",
+      "value": "3",
+      "value_numeric": 3.0,
+      "element_bbox": [
+        375,
+        344,
+        394,
+        900
+      ],
+      "value_bbox": [
+        381,
+        325,
+        388,
+        344
+      ]
+    },
+    {
+      "label": "2009",
+      "value": "2.5",
+      "value_numeric": 2.5,
+      "element_bbox": [
+        448,
+        546,
+        468,
+        900
+      ],
+      "value_bbox": [
+        449,
+        528,
+        467,
+        546
+      ]
+    },
+    {
+      "label": "2010",
+      "value": "3",
+      "value_numeric": 3.0,
+      "element_bbox": [
+        522,
+        458,
+        541,
+        900
+      ],
+      "value_bbox": [
+        528,
+        439,
+        535,
+        458
+      ]
+    },
+    {
+      "label": "2011",
+      "value": "3.2",
+      "value_numeric": 3.2,
+      "element_bbox": [
+        595,
+        445,
+        615,
+        900
+      ],
+      "value_bbox": [
+        596,
+        426,
+        614,
+        445
+      ]
+    }
+  ]
+}

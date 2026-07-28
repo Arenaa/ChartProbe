@@ -1,0 +1,95 @@
+{
+  "chart_id": "8f174a72cee302e0",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1679,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Arab League",
+      "value": "6961",
+      "value_numeric": 6961.0,
+      "element_bbox": [
+        111,
+        178,
+        253,
+        791
+      ],
+      "value_bbox": [
+        165,
+        156,
+        200,
+        178
+      ]
+    },
+    {
+      "label": "MENA Developing",
+      "value": "7152",
+      "value_numeric": 7152.0,
+      "element_bbox": [
+        289,
+        161,
+        431,
+        791
+      ],
+      "value_bbox": [
+        342,
+        140,
+        377,
+        161
+      ]
+    },
+    {
+      "label": "UN",
+      "value": "2681",
+      "value_numeric": 2681.0,
+      "element_bbox": [
+        467,
+        555,
+        609,
+        791
+      ],
+      "value_bbox": [
+        520,
+        533,
+        555,
+        555
+      ]
+    },
+    {
+      "label": "European Union",
+      "value": "1736",
+      "value_numeric": 1736.0,
+      "element_bbox": [
+        644,
+        638,
+        787,
+        791
+      ],
+      "value_bbox": [
+        698,
+        616,
+        733,
+        638
+      ]
+    },
+    {
+      "label": "Gulf Cooperation Council",
+      "value": "1480",
+      "value_numeric": 1480.0,
+      "element_bbox": [
+        822,
+        661,
+        964,
+        791
+      ],
+      "value_bbox": [
+        876,
+        639,
+        911,
+        661
+      ]
+    }
+  ]
+}

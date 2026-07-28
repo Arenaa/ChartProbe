@@ -1,0 +1,61 @@
+{
+  "chart_id": "1840000c36525e55",
+  "chart_type": "Bar Chart",
+  "image_width": 1805,
+  "image_height": 1381,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Primary education",
+      "value": "9",
+      "value_numeric": 9.0,
+      "element_bbox": [
+        160,
+        382,
+        261,
+        890
+      ],
+      "value_bbox": [
+        204,
+        355,
+        217,
+        382
+      ]
+    },
+    {
+      "label": "Secondary education",
+      "value": "42",
+      "value_numeric": 42.0,
+      "element_bbox": [
+        412,
+        243,
+        513,
+        890
+      ],
+      "value_bbox": [
+        449,
+        216,
+        476,
+        243
+      ]
+    },
+    {
+      "label": "Tertiary education",
+      "value": "48",
+      "value_numeric": 48.0,
+      "element_bbox": [
+        663,
+        505,
+        764,
+        890
+      ],
+      "value_bbox": [
+        700,
+        478,
+        727,
+        505
+      ]
+    }
+  ]
+}

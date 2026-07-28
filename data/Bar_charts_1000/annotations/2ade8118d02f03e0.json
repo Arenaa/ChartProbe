@@ -1,0 +1,95 @@
+{
+  "chart_id": "2ade8118d02f03e0",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Central Asia",
+      "value": "3.34",
+      "value_numeric": 3.34,
+      "element_bbox": [
+        83,
+        587,
+        230,
+        884
+      ],
+      "value_bbox": [
+        141,
+        565,
+        172,
+        587
+      ]
+    },
+    {
+      "label": "Eastern Asia",
+      "value": "4.84",
+      "value_numeric": 4.84,
+      "element_bbox": [
+        266,
+        453,
+        413,
+        884
+      ],
+      "value_bbox": [
+        324,
+        432,
+        355,
+        453
+      ]
+    },
+    {
+      "label": "Southeastern Asia",
+      "value": "4.53",
+      "value_numeric": 4.53,
+      "element_bbox": [
+        450,
+        480,
+        597,
+        884
+      ],
+      "value_bbox": [
+        508,
+        459,
+        539,
+        480
+      ]
+    },
+    {
+      "label": "Southern Asia",
+      "value": "4.60",
+      "value_numeric": 4.6,
+      "element_bbox": [
+        633,
+        475,
+        780,
+        884
+      ],
+      "value_bbox": [
+        691,
+        453,
+        722,
+        475
+      ]
+    },
+    {
+      "label": "Western Asia",
+      "value": "3.76",
+      "value_numeric": 3.76,
+      "element_bbox": [
+        817,
+        549,
+        964,
+        884
+      ],
+      "value_bbox": [
+        875,
+        528,
+        906,
+        549
+      ]
+    }
+  ]
+}

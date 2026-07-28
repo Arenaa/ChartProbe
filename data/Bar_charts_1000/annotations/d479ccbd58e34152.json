@@ -1,0 +1,61 @@
+{
+  "chart_id": "d479ccbd58e34152",
+  "chart_type": "Bar Chart",
+  "image_width": 2945,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Arab World",
+      "value": "10000000",
+      "value_numeric": 10000000.0,
+      "element_bbox": [
+        177,
+        750,
+        179,
+        847
+      ],
+      "value_bbox": [
+        187,
+        788,
+        257,
+        809
+      ]
+    },
+    {
+      "label": "European Union",
+      "value": "1900000000",
+      "value_numeric": 1900000000.0,
+      "element_bbox": [
+        177,
+        475,
+        697,
+        572
+      ],
+      "value_bbox": [
+        705,
+        513,
+        793,
+        534
+      ]
+    },
+    {
+      "label": "North America",
+      "value": "10000000",
+      "value_numeric": 10000000.0,
+      "element_bbox": [
+        177,
+        201,
+        179,
+        297
+      ],
+      "value_bbox": [
+        187,
+        238,
+        257,
+        260
+      ]
+    }
+  ]
+}

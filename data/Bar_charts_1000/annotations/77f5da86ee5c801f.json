@@ -1,0 +1,78 @@
+{
+  "chart_id": "77f5da86ee5c801f",
+  "chart_type": "Bar Chart",
+  "image_width": 2912,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "South Asia",
+      "value": "5.00E+04",
+      "value_numeric": 50000.0,
+      "element_bbox": [
+        323,
+        808,
+        425,
+        847
+      ],
+      "value_bbox": [
+        430,
+        816,
+        497,
+        838
+      ]
+    },
+    {
+      "label": "Sub-Saharan Africa (all income levels)",
+      "value": "1.10E+06",
+      "value_numeric": 1100000.0,
+      "element_bbox": [
+        323,
+        612,
+        366,
+        651
+      ],
+      "value_bbox": [
+        372,
+        621,
+        439,
+        643
+      ]
+    },
+    {
+      "label": "Sub-Saharan Africa (developing only)",
+      "value": "1.10E+06",
+      "value_numeric": 1100000.0,
+      "element_bbox": [
+        323,
+        417,
+        366,
+        456
+      ],
+      "value_bbox": [
+        372,
+        426,
+        439,
+        447
+      ]
+    },
+    {
+      "label": "World",
+      "value": "1.70E+06",
+      "value_numeric": 1700000.0,
+      "element_bbox": [
+        323,
+        222,
+        614,
+        261
+      ],
+      "value_bbox": [
+        619,
+        230,
+        686,
+        252
+      ]
+    }
+  ]
+}

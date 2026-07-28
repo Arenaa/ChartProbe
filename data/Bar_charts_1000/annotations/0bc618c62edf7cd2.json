@@ -1,0 +1,333 @@
+{
+  "chart_id": "0bc618c62edf7cd2",
+  "chart_type": "Bar Chart",
+  "image_width": 4146,
+  "image_height": 2350,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Colombia",
+      "value": "5.22",
+      "value_numeric": 5.22,
+      "element_bbox": [
+        89,
+        113,
+        125,
+        830
+      ],
+      "value_bbox": [
+        96,
+        97,
+        118,
+        113
+      ]
+    },
+    {
+      "label": "Brazil",
+      "value": "1.89",
+      "value_numeric": 1.89,
+      "element_bbox": [
+        134,
+        571,
+        171,
+        830
+      ],
+      "value_bbox": [
+        142,
+        555,
+        164,
+        571
+      ]
+    },
+    {
+      "label": "Mexico",
+      "value": "1.82",
+      "value_numeric": 1.82,
+      "element_bbox": [
+        180,
+        581,
+        216,
+        830
+      ],
+      "value_bbox": [
+        187,
+        564,
+        209,
+        581
+      ]
+    },
+    {
+      "label": "Argentina",
+      "value": "1.68",
+      "value_numeric": 1.68,
+      "element_bbox": [
+        225,
+        600,
+        262,
+        830
+      ],
+      "value_bbox": [
+        233,
+        584,
+        255,
+        600
+      ]
+    },
+    {
+      "label": "Vietnam",
+      "value": "1.65",
+      "value_numeric": 1.65,
+      "element_bbox": [
+        271,
+        603,
+        307,
+        830
+      ],
+      "value_bbox": [
+        278,
+        587,
+        300,
+        603
+      ]
+    },
+    {
+      "label": "Chile",
+      "value": "0.95",
+      "value_numeric": 0.95,
+      "element_bbox": [
+        316,
+        699,
+        353,
+        830
+      ],
+      "value_bbox": [
+        324,
+        683,
+        346,
+        699
+      ]
+    },
+    {
+      "label": "Peru",
+      "value": "0.66",
+      "value_numeric": 0.66,
+      "element_bbox": [
+        362,
+        740,
+        398,
+        830
+      ],
+      "value_bbox": [
+        407,
+        777,
+        429,
+        793
+      ]
+    },
+    {
+      "label": "Ecuador (EC)",
+      "value": "0.65",
+      "value_numeric": 0.65,
+      "element_bbox": [
+        407,
+        741,
+        444,
+        830
+      ],
+      "value_bbox": [
+        453,
+        777,
+        475,
+        794
+      ]
+    },
+    {
+      "label": "Uruguay",
+      "value": "0.47",
+      "value_numeric": 0.47,
+      "element_bbox": [
+        453,
+        766,
+        489,
+        830
+      ],
+      "value_bbox": [
+        498,
+        790,
+        520,
+        806
+      ]
+    },
+    {
+      "label": "Paraguay",
+      "value": "0.42",
+      "value_numeric": 0.42,
+      "element_bbox": [
+        498,
+        773,
+        535,
+        830
+      ],
+      "value_bbox": [
+        544,
+        794,
+        566,
+        810
+      ]
+    },
+    {
+      "label": "Guatemala",
+      "value": "0.36",
+      "value_numeric": 0.36,
+      "element_bbox": [
+        544,
+        781,
+        580,
+        830
+      ],
+      "value_bbox": [
+        589,
+        797,
+        611,
+        814
+      ]
+    },
+    {
+      "label": "Bolivia",
+      "value": "0.28",
+      "value_numeric": 0.28,
+      "element_bbox": [
+        589,
+        792,
+        626,
+        830
+      ],
+      "value_bbox": [
+        635,
+        803,
+        657,
+        819
+      ]
+    },
+    {
+      "label": "Panama",
+      "value": "0.27",
+      "value_numeric": 0.27,
+      "element_bbox": [
+        635,
+        793,
+        671,
+        830
+      ],
+      "value_bbox": [
+        680,
+        803,
+        702,
+        820
+      ]
+    },
+    {
+      "label": "Guyana",
+      "value": "0.27",
+      "value_numeric": 0.27,
+      "element_bbox": [
+        680,
+        794,
+        717,
+        830
+      ],
+      "value_bbox": [
+        726,
+        804,
+        748,
+        820
+      ]
+    },
+    {
+      "label": "Costa Rica",
+      "value": "0.23",
+      "value_numeric": 0.23,
+      "element_bbox": [
+        726,
+        799,
+        762,
+        830
+      ],
+      "value_bbox": [
+        771,
+        807,
+        793,
+        823
+      ]
+    },
+    {
+      "label": "Nicaragua",
+      "value": "0.19",
+      "value_numeric": 0.19,
+      "element_bbox": [
+        771,
+        805,
+        808,
+        830
+      ],
+      "value_bbox": [
+        817,
+        810,
+        839,
+        826
+      ]
+    },
+    {
+      "label": "El Salvador",
+      "value": "0.17",
+      "value_numeric": 0.17,
+      "element_bbox": [
+        817,
+        808,
+        853,
+        830
+      ],
+      "value_bbox": [
+        862,
+        811,
+        884,
+        827
+      ]
+    },
+    {
+      "label": "Suriname",
+      "value": "0.14",
+      "value_numeric": 0.14,
+      "element_bbox": [
+        862,
+        810,
+        899,
+        830
+      ],
+      "value_bbox": [
+        908,
+        812,
+        930,
+        829
+      ]
+    },
+    {
+      "label": "Belize",
+      "value": "0.14",
+      "value_numeric": 0.14,
+      "element_bbox": [
+        908,
+        812,
+        944,
+        830
+      ],
+      "value_bbox": [
+        953,
+        813,
+        975,
+        829
+      ]
+    }
+  ]
+}

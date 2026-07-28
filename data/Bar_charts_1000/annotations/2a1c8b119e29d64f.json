@@ -1,0 +1,146 @@
+{
+  "chart_id": "2a1c8b119e29d64f",
+  "chart_type": "Bar Chart",
+  "image_width": 2922,
+  "image_height": 1694,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Age 15-24 Employment",
+      "value": "62.0",
+      "value_numeric": 62.0,
+      "element_bbox": [
+        354,
+        116,
+        771,
+        190
+      ],
+      "value_bbox": [
+        777,
+        142,
+        808,
+        164
+      ]
+    },
+    {
+      "label": "Age 25-34 Employment",
+      "value": "78.0",
+      "value_numeric": 78.0,
+      "element_bbox": [
+        354,
+        208,
+        879,
+        283
+      ],
+      "value_bbox": [
+        885,
+        235,
+        916,
+        256
+      ]
+    },
+    {
+      "label": "Unemployment Rate",
+      "value": "5.4",
+      "value_numeric": 5.4,
+      "element_bbox": [
+        354,
+        301,
+        390,
+        375
+      ],
+      "value_bbox": [
+        396,
+        327,
+        418,
+        349
+      ]
+    },
+    {
+      "label": "Labor Participation",
+      "value": "74.0",
+      "value_numeric": 74.0,
+      "element_bbox": [
+        354,
+        394,
+        852,
+        468
+      ],
+      "value_bbox": [
+        858,
+        420,
+        889,
+        442
+      ]
+    },
+    {
+      "label": "NEET Rate",
+      "value": "9.8",
+      "value_numeric": 9.8,
+      "element_bbox": [
+        354,
+        487,
+        420,
+        561
+      ],
+      "value_bbox": [
+        426,
+        513,
+        448,
+        535
+      ]
+    },
+    {
+      "label": "Graduate Employment",
+      "value": "86.0",
+      "value_numeric": 86.0,
+      "element_bbox": [
+        354,
+        579,
+        933,
+        654
+      ],
+      "value_bbox": [
+        939,
+        606,
+        970,
+        627
+      ]
+    },
+    {
+      "label": "Female 15-24 Employment",
+      "value": "58.0",
+      "value_numeric": 58.0,
+      "element_bbox": [
+        354,
+        672,
+        744,
+        746
+      ],
+      "value_bbox": [
+        750,
+        698,
+        781,
+        720
+      ]
+    },
+    {
+      "label": "Male 15-24 Employment",
+      "value": "66.0",
+      "value_numeric": 66.0,
+      "element_bbox": [
+        354,
+        765,
+        798,
+        839
+      ],
+      "value_bbox": [
+        804,
+        791,
+        835,
+        813
+      ]
+    }
+  ]
+}

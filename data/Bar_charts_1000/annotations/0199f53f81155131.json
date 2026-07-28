@@ -1,0 +1,163 @@
+{
+  "chart_id": "0199f53f81155131",
+  "chart_type": "Bar Chart",
+  "image_width": 2934,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Community Outreach",
+      "value": "87.5",
+      "value_numeric": 87.5,
+      "element_bbox": [
+        111,
+        183,
+        189,
+        698
+      ],
+      "value_bbox": [
+        135,
+        162,
+        166,
+        183
+      ]
+    },
+    {
+      "label": "Handwashing",
+      "value": "80.5",
+      "value_numeric": 80.5,
+      "element_bbox": [
+        209,
+        220,
+        287,
+        698
+      ],
+      "value_bbox": [
+        233,
+        199,
+        264,
+        220
+      ]
+    },
+    {
+      "label": "Health Education",
+      "value": "64.5",
+      "value_numeric": 64.5,
+      "element_bbox": [
+        307,
+        320,
+        385,
+        698
+      ],
+      "value_bbox": [
+        331,
+        298,
+        361,
+        320
+      ]
+    },
+    {
+      "label": "Nutrition",
+      "value": "79.5",
+      "value_numeric": 79.5,
+      "element_bbox": [
+        405,
+        231,
+        483,
+        698
+      ],
+      "value_bbox": [
+        428,
+        209,
+        459,
+        231
+      ]
+    },
+    {
+      "label": "Policy Enforcement",
+      "value": "56.5",
+      "value_numeric": 56.5,
+      "element_bbox": [
+        503,
+        373,
+        581,
+        698
+      ],
+      "value_bbox": [
+        526,
+        351,
+        557,
+        373
+      ]
+    },
+    {
+      "label": "Sanitation",
+      "value": "95.5",
+      "value_numeric": 95.5,
+      "element_bbox": [
+        600,
+        134,
+        679,
+        698
+      ],
+      "value_bbox": [
+        624,
+        112,
+        655,
+        134
+      ]
+    },
+    {
+      "label": "Vaccination",
+      "value": "69.5",
+      "value_numeric": 69.5,
+      "element_bbox": [
+        698,
+        290,
+        777,
+        698
+      ],
+      "value_bbox": [
+        722,
+        268,
+        753,
+        290
+      ]
+    },
+    {
+      "label": "Waste Management",
+      "value": "67.5",
+      "value_numeric": 67.5,
+      "element_bbox": [
+        796,
+        307,
+        874,
+        698
+      ],
+      "value_bbox": [
+        820,
+        285,
+        851,
+        307
+      ]
+    },
+    {
+      "label": "Water Supply",
+      "value": "99.5",
+      "value_numeric": 99.5,
+      "element_bbox": [
+        894,
+        119,
+        972,
+        698
+      ],
+      "value_bbox": [
+        918,
+        97,
+        948,
+        119
+      ]
+    }
+  ]
+}

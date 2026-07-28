@@ -1,0 +1,78 @@
+{
+  "chart_id": "a33e0555c13b278e",
+  "chart_type": "Bar Chart",
+  "image_width": 2980,
+  "image_height": 1736,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "OECD members",
+      "value": "2.5",
+      "value_numeric": 2.5,
+      "element_bbox": [
+        160,
+        409,
+        309,
+        890
+      ],
+      "value_bbox": [
+        223,
+        387,
+        246,
+        409
+      ]
+    },
+    {
+      "label": "Other small states",
+      "value": "3.1",
+      "value_numeric": 3.1,
+      "element_bbox": [
+        346,
+        293,
+        494,
+        890
+      ],
+      "value_bbox": [
+        409,
+        272,
+        431,
+        293
+      ]
+    },
+    {
+      "label": "Small states",
+      "value": "3.6",
+      "value_numeric": 3.6,
+      "element_bbox": [
+        531,
+        197,
+        679,
+        890
+      ],
+      "value_bbox": [
+        594,
+        175,
+        616,
+        197
+      ]
+    },
+    {
+      "label": "South Asia",
+      "value": "1.9",
+      "value_numeric": 1.9,
+      "element_bbox": [
+        716,
+        524,
+        865,
+        890
+      ],
+      "value_bbox": [
+        780,
+        503,
+        802,
+        524
+      ]
+    }
+  ]
+}

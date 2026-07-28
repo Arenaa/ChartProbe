@@ -1,0 +1,129 @@
+{
+  "chart_id": "20817db0ec4dcea9",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Kenya",
+      "value": "9.9",
+      "value_numeric": 9.9,
+      "element_bbox": [
+        115,
+        800,
+        212,
+        884
+      ],
+      "value_bbox": [
+        153,
+        778,
+        175,
+        800
+      ]
+    },
+    {
+      "label": "Lebanon",
+      "value": "88.9",
+      "value_numeric": 88.9,
+      "element_bbox": [
+        237,
+        128,
+        334,
+        884
+      ],
+      "value_bbox": [
+        270,
+        106,
+        301,
+        128
+      ]
+    },
+    {
+      "label": "Pakistan",
+      "value": "64.1",
+      "value_numeric": 64.1,
+      "element_bbox": [
+        358,
+        339,
+        455,
+        884
+      ],
+      "value_bbox": [
+        391,
+        317,
+        422,
+        339
+      ]
+    },
+    {
+      "label": "India",
+      "value": "38.9",
+      "value_numeric": 38.9,
+      "element_bbox": [
+        480,
+        553,
+        577,
+        884
+      ],
+      "value_bbox": [
+        513,
+        532,
+        543,
+        553
+      ]
+    },
+    {
+      "label": "Bangladesh",
+      "value": "3.2",
+      "value_numeric": 3.2,
+      "element_bbox": [
+        601,
+        856,
+        698,
+        884
+      ],
+      "value_bbox": [
+        638,
+        834,
+        660,
+        856
+      ]
+    },
+    {
+      "label": "Egypt",
+      "value": "31.2",
+      "value_numeric": 31.2,
+      "element_bbox": [
+        722,
+        619,
+        819,
+        884
+      ],
+      "value_bbox": [
+        755,
+        597,
+        786,
+        619
+      ]
+    },
+    {
+      "label": "Morocco",
+      "value": "4.1",
+      "value_numeric": 4.1,
+      "element_bbox": [
+        844,
+        849,
+        941,
+        884
+      ],
+      "value_bbox": [
+        881,
+        827,
+        903,
+        849
+      ]
+    }
+  ]
+}

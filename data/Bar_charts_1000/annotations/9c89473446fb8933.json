@@ -1,0 +1,163 @@
+{
+  "chart_id": "9c89473446fb8933",
+  "chart_type": "Bar Chart",
+  "image_width": 3008,
+  "image_height": 1745,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Belgium",
+      "value": "32.9",
+      "value_numeric": 32.9,
+      "element_bbox": [
+        84,
+        121,
+        165,
+        756
+      ],
+      "value_bbox": [
+        109,
+        100,
+        140,
+        121
+      ]
+    },
+    {
+      "label": "France",
+      "value": "24.6",
+      "value_numeric": 24.6,
+      "element_bbox": [
+        185,
+        281,
+        266,
+        756
+      ],
+      "value_bbox": [
+        210,
+        260,
+        241,
+        281
+      ]
+    },
+    {
+      "label": "Germany",
+      "value": "20.6",
+      "value_numeric": 20.6,
+      "element_bbox": [
+        286,
+        359,
+        367,
+        756
+      ],
+      "value_bbox": [
+        311,
+        337,
+        342,
+        359
+      ]
+    },
+    {
+      "label": "Sweden",
+      "value": "19.5",
+      "value_numeric": 19.5,
+      "element_bbox": [
+        387,
+        380,
+        468,
+        756
+      ],
+      "value_bbox": [
+        412,
+        358,
+        443,
+        380
+      ]
+    },
+    {
+      "label": "Netherlands",
+      "value": "18.7",
+      "value_numeric": 18.7,
+      "element_bbox": [
+        488,
+        396,
+        568,
+        756
+      ],
+      "value_bbox": [
+        513,
+        374,
+        544,
+        396
+      ]
+    },
+    {
+      "label": "Central Europe",
+      "value": "17.8",
+      "value_numeric": 17.8,
+      "element_bbox": [
+        589,
+        413,
+        669,
+        756
+      ],
+      "value_bbox": [
+        614,
+        391,
+        644,
+        413
+      ]
+    },
+    {
+      "label": "Norway",
+      "value": "15.6",
+      "value_numeric": 15.6,
+      "element_bbox": [
+        689,
+        455,
+        770,
+        756
+      ],
+      "value_bbox": [
+        714,
+        433,
+        745,
+        455
+      ]
+    },
+    {
+      "label": "Vietnam",
+      "value": "11.5",
+      "value_numeric": 11.5,
+      "element_bbox": [
+        790,
+        535,
+        871,
+        756
+      ],
+      "value_bbox": [
+        815,
+        513,
+        846,
+        535
+      ]
+    },
+    {
+      "label": "Suriname",
+      "value": "0.5",
+      "value_numeric": 0.5,
+      "element_bbox": [
+        891,
+        746,
+        972,
+        756
+      ],
+      "value_bbox": [
+        980,
+        740,
+        1000,
+        762
+      ]
+    }
+  ]
+}

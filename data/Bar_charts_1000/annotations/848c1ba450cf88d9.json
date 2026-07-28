@@ -1,0 +1,95 @@
+{
+  "chart_id": "848c1ba450cf88d9",
+  "chart_type": "Bar Chart",
+  "image_width": 2964,
+  "image_height": 1764,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Southern Africa",
+      "value": "51.94",
+      "value_numeric": 51.94,
+      "element_bbox": [
+        89,
+        240,
+        236,
+        889
+      ],
+      "value_bbox": [
+        143,
+        218,
+        182,
+        240
+      ]
+    },
+    {
+      "label": "East Africa",
+      "value": "52.12",
+      "value_numeric": 52.12,
+      "element_bbox": [
+        272,
+        235,
+        418,
+        889
+      ],
+      "value_bbox": [
+        325,
+        213,
+        365,
+        235
+      ]
+    },
+    {
+      "label": "North Africa",
+      "value": "54.45",
+      "value_numeric": 54.45,
+      "element_bbox": [
+        455,
+        209,
+        601,
+        889
+      ],
+      "value_bbox": [
+        508,
+        188,
+        548,
+        209
+      ]
+    },
+    {
+      "label": "Central Africa",
+      "value": "52.03",
+      "value_numeric": 52.03,
+      "element_bbox": [
+        638,
+        239,
+        784,
+        889
+      ],
+      "value_bbox": [
+        691,
+        217,
+        731,
+        239
+      ]
+    },
+    {
+      "label": "West Africa",
+      "value": "52.43",
+      "value_numeric": 52.43,
+      "element_bbox": [
+        821,
+        232,
+        967,
+        889
+      ],
+      "value_bbox": [
+        874,
+        210,
+        913,
+        232
+      ]
+    }
+  ]
+}

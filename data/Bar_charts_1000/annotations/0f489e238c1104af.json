@@ -1,0 +1,95 @@
+{
+  "chart_id": "0f489e238c1104af",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1745,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "West Africa",
+      "value": "24.0",
+      "value_numeric": 24.0,
+      "element_bbox": [
+        92,
+        123,
+        237,
+        789
+      ],
+      "value_bbox": [
+        149,
+        101,
+        180,
+        123
+      ]
+    },
+    {
+      "label": "Southern Africa",
+      "value": "20.4",
+      "value_numeric": 20.4,
+      "element_bbox": [
+        274,
+        223,
+        419,
+        789
+      ],
+      "value_bbox": [
+        331,
+        201,
+        362,
+        223
+      ]
+    },
+    {
+      "label": "North Africa",
+      "value": "18.8",
+      "value_numeric": 18.8,
+      "element_bbox": [
+        455,
+        265,
+        601,
+        789
+      ],
+      "value_bbox": [
+        513,
+        244,
+        543,
+        265
+      ]
+    },
+    {
+      "label": "East Africa",
+      "value": "9.7",
+      "value_numeric": 9.7,
+      "element_bbox": [
+        637,
+        519,
+        782,
+        789
+      ],
+      "value_bbox": [
+        699,
+        498,
+        721,
+        519
+      ]
+    },
+    {
+      "label": "Island Nations",
+      "value": "2.2",
+      "value_numeric": 2.2,
+      "element_bbox": [
+        819,
+        727,
+        964,
+        789
+      ],
+      "value_bbox": [
+        880,
+        706,
+        902,
+        727
+      ]
+    }
+  ]
+}

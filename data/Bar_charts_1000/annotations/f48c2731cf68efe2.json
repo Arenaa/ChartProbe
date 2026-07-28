@@ -1,0 +1,95 @@
+{
+  "chart_id": "f48c2731cf68efe2",
+  "chart_type": "Bar Chart",
+  "image_width": 2945,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Finland",
+      "value": "65",
+      "value_numeric": 65.0,
+      "element_bbox": [
+        192,
+        723,
+        529,
+        847
+      ],
+      "value_bbox": [
+        537,
+        774,
+        554,
+        796
+      ]
+    },
+    {
+      "label": "Fiji",
+      "value": "140",
+      "value_numeric": 140.0,
+      "element_bbox": [
+        192,
+        568,
+        918,
+        692
+      ],
+      "value_bbox": [
+        926,
+        619,
+        953,
+        641
+      ]
+    },
+    {
+      "label": "Ethiopia",
+      "value": "125",
+      "value_numeric": 125.0,
+      "element_bbox": [
+        192,
+        414,
+        841,
+        537
+      ],
+      "value_bbox": [
+        848,
+        465,
+        875,
+        486
+      ]
+    },
+    {
+      "label": "Estonia",
+      "value": "105",
+      "value_numeric": 105.0,
+      "element_bbox": [
+        192,
+        259,
+        737,
+        383
+      ],
+      "value_bbox": [
+        745,
+        310,
+        771,
+        332
+      ]
+    },
+    {
+      "label": "Equatorial Guinea",
+      "value": "145",
+      "value_numeric": 145.0,
+      "element_bbox": [
+        192,
+        104,
+        944,
+        228
+      ],
+      "value_bbox": [
+        952,
+        155,
+        979,
+        177
+      ]
+    }
+  ]
+}

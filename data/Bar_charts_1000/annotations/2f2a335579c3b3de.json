@@ -1,0 +1,112 @@
+{
+  "chart_id": "2f2a335579c3b3de",
+  "chart_type": "Bar Chart",
+  "image_width": 2891,
+  "image_height": 1689,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Africa",
+      "value": "2.66",
+      "value_numeric": 2.66,
+      "element_bbox": [
+        133,
+        757,
+        247,
+        848
+      ],
+      "value_bbox": [
+        175,
+        736,
+        206,
+        757
+      ]
+    },
+    {
+      "label": "Asia",
+      "value": "20.67",
+      "value_numeric": 20.67,
+      "element_bbox": [
+        276,
+        140,
+        390,
+        848
+      ],
+      "value_bbox": [
+        313,
+        118,
+        352,
+        140
+      ]
+    },
+    {
+      "label": "Caribbean Islands",
+      "value": "0.26",
+      "value_numeric": 0.26,
+      "element_bbox": [
+        418,
+        840,
+        532,
+        848
+      ],
+      "value_bbox": [
+        540,
+        833,
+        571,
+        855
+      ]
+    },
+    {
+      "label": "Latin America",
+      "value": "1.89",
+      "value_numeric": 1.89,
+      "element_bbox": [
+        560,
+        784,
+        674,
+        848
+      ],
+      "value_bbox": [
+        602,
+        762,
+        633,
+        784
+      ]
+    },
+    {
+      "label": "Middle East",
+      "value": "3.93",
+      "value_numeric": 3.93,
+      "element_bbox": [
+        703,
+        714,
+        816,
+        848
+      ],
+      "value_bbox": [
+        744,
+        692,
+        775,
+        714
+      ]
+    },
+    {
+      "label": "Oceania",
+      "value": "1.33",
+      "value_numeric": 1.33,
+      "element_bbox": [
+        845,
+        803,
+        959,
+        848
+      ],
+      "value_bbox": [
+        886,
+        781,
+        917,
+        803
+      ]
+    }
+  ]
+}

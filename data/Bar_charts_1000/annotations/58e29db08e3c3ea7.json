@@ -1,0 +1,78 @@
+{
+  "chart_id": "58e29db08e3c3ea7",
+  "chart_type": "Bar Chart",
+  "image_width": 2945,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Colombia",
+      "value": "20.5",
+      "value_numeric": 20.5,
+      "element_bbox": [
+        127,
+        690,
+        618,
+        847
+      ],
+      "value_bbox": [
+        626,
+        758,
+        657,
+        779
+      ]
+    },
+    {
+      "label": "China",
+      "value": "17.5",
+      "value_numeric": 17.5,
+      "element_bbox": [
+        127,
+        495,
+        546,
+        651
+      ],
+      "value_bbox": [
+        554,
+        562,
+        585,
+        584
+      ]
+    },
+    {
+      "label": "Chile",
+      "value": "26.5",
+      "value_numeric": 26.5,
+      "element_bbox": [
+        127,
+        300,
+        762,
+        456
+      ],
+      "value_bbox": [
+        770,
+        367,
+        801,
+        389
+      ]
+    },
+    {
+      "label": "Chad",
+      "value": "34",
+      "value_numeric": 34.0,
+      "element_bbox": [
+        127,
+        104,
+        941,
+        261
+      ],
+      "value_bbox": [
+        950,
+        172,
+        967,
+        193
+      ]
+    }
+  ]
+}

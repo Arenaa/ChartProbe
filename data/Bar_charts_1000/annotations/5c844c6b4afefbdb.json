@@ -1,0 +1,112 @@
+{
+  "chart_id": "5c844c6b4afefbdb",
+  "chart_type": "Bar Chart",
+  "image_width": 2646,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "2022",
+      "value": "67.95",
+      "value_numeric": 67.95,
+      "element_bbox": [
+        97,
+        238,
+        217,
+        884
+      ],
+      "value_bbox": [
+        135,
+        217,
+        179,
+        238
+      ]
+    },
+    {
+      "label": "2023",
+      "value": "71.59",
+      "value_numeric": 71.59,
+      "element_bbox": [
+        247,
+        204,
+        367,
+        884
+      ],
+      "value_bbox": [
+        285,
+        182,
+        329,
+        204
+      ]
+    },
+    {
+      "label": "2024",
+      "value": "74.32",
+      "value_numeric": 74.32,
+      "element_bbox": [
+        397,
+        178,
+        516,
+        884
+      ],
+      "value_bbox": [
+        434,
+        156,
+        478,
+        178
+      ]
+    },
+    {
+      "label": "2025",
+      "value": "76.53",
+      "value_numeric": 76.53,
+      "element_bbox": [
+        546,
+        157,
+        666,
+        884
+      ],
+      "value_bbox": [
+        584,
+        135,
+        628,
+        157
+      ]
+    },
+    {
+      "label": "2026",
+      "value": "78.60",
+      "value_numeric": 78.6,
+      "element_bbox": [
+        696,
+        137,
+        815,
+        884
+      ],
+      "value_bbox": [
+        734,
+        116,
+        778,
+        137
+      ]
+    },
+    {
+      "label": "2027",
+      "value": "80.33",
+      "value_numeric": 80.33,
+      "element_bbox": [
+        845,
+        121,
+        965,
+        884
+      ],
+      "value_bbox": [
+        883,
+        99,
+        927,
+        121
+      ]
+    }
+  ]
+}

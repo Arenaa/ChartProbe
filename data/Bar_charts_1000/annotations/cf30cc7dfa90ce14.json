@@ -1,0 +1,95 @@
+{
+  "chart_id": "cf30cc7dfa90ce14",
+  "chart_type": "Bar Chart",
+  "image_width": 2576,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "France",
+      "value": "270",
+      "value_numeric": 270.0,
+      "element_bbox": [
+        160,
+        483,
+        213,
+        890
+      ],
+      "value_bbox": [
+        173,
+        461,
+        200,
+        483
+      ]
+    },
+    {
+      "label": "India",
+      "value": "210",
+      "value_numeric": 210.0,
+      "element_bbox": [
+        310,
+        428,
+        363,
+        890
+      ],
+      "value_bbox": [
+        323,
+        407,
+        349,
+        428
+      ]
+    },
+    {
+      "label": "Japan",
+      "value": "160",
+      "value_numeric": 160.0,
+      "element_bbox": [
+        460,
+        618,
+        512,
+        890
+      ],
+      "value_bbox": [
+        473,
+        597,
+        499,
+        618
+      ]
+    },
+    {
+      "label": "Papua New Guinea",
+      "value": "210",
+      "value_numeric": 210.0,
+      "element_bbox": [
+        610,
+        591,
+        662,
+        890
+      ],
+      "value_bbox": [
+        623,
+        570,
+        649,
+        591
+      ]
+    },
+    {
+      "label": "Denmark",
+      "value": "160",
+      "value_numeric": 160.0,
+      "element_bbox": [
+        760,
+        618,
+        812,
+        890
+      ],
+      "value_bbox": [
+        773,
+        597,
+        799,
+        618
+      ]
+    }
+  ]
+}

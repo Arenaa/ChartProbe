@@ -1,0 +1,146 @@
+{
+  "chart_id": "a156be84b4591669",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1717,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Healthcare",
+      "value": "58.4",
+      "value_numeric": 58.4,
+      "element_bbox": [
+        95,
+        483,
+        140,
+        755
+      ],
+      "value_bbox": [
+        102,
+        461,
+        133,
+        483
+      ]
+    },
+    {
+      "label": "Education",
+      "value": "13.5",
+      "value_numeric": 13.5,
+      "element_bbox": [
+        207,
+        693,
+        252,
+        755
+      ],
+      "value_bbox": [
+        214,
+        671,
+        245,
+        693
+      ]
+    },
+    {
+      "label": "Defense",
+      "value": "10.4",
+      "value_numeric": 10.4,
+      "element_bbox": [
+        319,
+        710,
+        364,
+        755
+      ],
+      "value_bbox": [
+        326,
+        688,
+        357,
+        710
+      ]
+    },
+    {
+      "label": "Infrastructure",
+      "value": "125.3",
+      "value_numeric": 125.3,
+      "element_bbox": [
+        432,
+        171,
+        477,
+        755
+      ],
+      "value_bbox": [
+        434,
+        150,
+        474,
+        171
+      ]
+    },
+    {
+      "label": "Social Services",
+      "value": "34.2",
+      "value_numeric": 34.2,
+      "element_bbox": [
+        544,
+        599,
+        589,
+        755
+      ],
+      "value_bbox": [
+        551,
+        578,
+        582,
+        599
+      ]
+    },
+    {
+      "label": "R&D",
+      "value": "5.7",
+      "value_numeric": 5.7,
+      "element_bbox": [
+        656,
+        731,
+        701,
+        755
+      ],
+      "value_bbox": [
+        668,
+        709,
+        690,
+        731
+      ]
+    },
+    {
+      "label": "Miscellaneous",
+      "value": "7.8",
+      "value_numeric": 7.8,
+      "element_bbox": [
+        769,
+        721,
+        814,
+        755
+      ],
+      "value_bbox": [
+        780,
+        699,
+        802,
+        721
+      ]
+    },
+    {
+      "label": "Energy",
+      "value": "9.0",
+      "value_numeric": 9.0,
+      "element_bbox": [
+        881,
+        715,
+        926,
+        755
+      ],
+      "value_bbox": [
+        892,
+        693,
+        914,
+        715
+      ]
+    }
+  ]
+}

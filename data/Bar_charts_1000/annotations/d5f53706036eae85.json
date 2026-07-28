@@ -1,0 +1,78 @@
+{
+  "chart_id": "d5f53706036eae85",
+  "chart_type": "Bar Chart",
+  "image_width": 3526,
+  "image_height": 2340,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Heavily indebted poor countries",
+      "value": "1.8e+10",
+      "value_numeric": 18000000000.0,
+      "element_bbox": [
+        101,
+        689,
+        190,
+        701
+      ],
+      "value_bbox": [
+        121,
+        673,
+        170,
+        689
+      ]
+    },
+    {
+      "label": "India",
+      "value": "2.7e+11",
+      "value_numeric": 270000000000.0,
+      "element_bbox": [
+        323,
+        81,
+        411,
+        701
+      ],
+      "value_bbox": [
+        343,
+        65,
+        392,
+        81
+      ]
+    },
+    {
+      "label": "High income: nonOECD",
+      "value": "5.0e+09",
+      "value_numeric": 5000000000.0,
+      "element_bbox": [
+        544,
+        667,
+        633,
+        701
+      ],
+      "value_bbox": [
+        564,
+        651,
+        613,
+        667
+      ]
+    },
+    {
+      "label": "High income: OECD",
+      "value": "8.0e+09",
+      "value_numeric": 8000000000.0,
+      "element_bbox": [
+        766,
+        101,
+        854,
+        701
+      ],
+      "value_bbox": [
+        786,
+        85,
+        834,
+        101
+      ]
+    }
+  ]
+}

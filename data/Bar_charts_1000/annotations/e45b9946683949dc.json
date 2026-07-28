@@ -1,0 +1,44 @@
+{
+  "chart_id": "e45b9946683949dc",
+  "chart_type": "Bar Chart",
+  "image_width": 1762,
+  "image_height": 1381,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Merchandise exports",
+      "value": "9",
+      "value_numeric": 9.0,
+      "element_bbox": [
+        160,
+        817,
+        239,
+        890
+      ],
+      "value_bbox": [
+        193,
+        790,
+        206,
+        817
+      ]
+    },
+    {
+      "label": "Merchandise imports",
+      "value": "15",
+      "value_numeric": 15.0,
+      "element_bbox": [
+        552,
+        831,
+        630,
+        890
+      ],
+      "value_bbox": [
+        577,
+        804,
+        604,
+        831
+      ]
+    }
+  ]
+}

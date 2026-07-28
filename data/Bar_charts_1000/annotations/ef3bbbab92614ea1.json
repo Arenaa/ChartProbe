@@ -1,0 +1,248 @@
+{
+  "chart_id": "ef3bbbab92614ea1",
+  "chart_type": "Bar Chart",
+  "image_width": 3904,
+  "image_height": 1754,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Health & Social Services",
+      "value": "780",
+      "value_numeric": 780.0,
+      "element_bbox": [
+        70,
+        153,
+        87,
+        611
+      ],
+      "value_bbox": [
+        69,
+        131,
+        89,
+        153
+      ]
+    },
+    {
+      "label": "Education & Training",
+      "value": "689",
+      "value_numeric": 689.0,
+      "element_bbox": [
+        135,
+        210,
+        152,
+        611
+      ],
+      "value_bbox": [
+        134,
+        188,
+        154,
+        210
+      ]
+    },
+    {
+      "label": "Infrastructure Development",
+      "value": "638",
+      "value_numeric": 638.0,
+      "element_bbox": [
+        200,
+        252,
+        218,
+        611
+      ],
+      "value_bbox": [
+        199,
+        230,
+        219,
+        252
+      ]
+    },
+    {
+      "label": "Digital Infrastructure",
+      "value": "160",
+      "value_numeric": 160.0,
+      "element_bbox": [
+        265,
+        531,
+        283,
+        611
+      ],
+      "value_bbox": [
+        264,
+        509,
+        284,
+        531
+      ]
+    },
+    {
+      "label": "Governance & Institutional Support",
+      "value": "388",
+      "value_numeric": 388.0,
+      "element_bbox": [
+        330,
+        397,
+        348,
+        611
+      ],
+      "value_bbox": [
+        329,
+        375,
+        349,
+        397
+      ]
+    },
+    {
+      "label": "Health Emergency Relief",
+      "value": "210",
+      "value_numeric": 210.0,
+      "element_bbox": [
+        396,
+        499,
+        413,
+        611
+      ],
+      "value_bbox": [
+        394,
+        478,
+        414,
+        499
+      ]
+    },
+    {
+      "label": "Other Humanitarian Aid",
+      "value": "240",
+      "value_numeric": 240.0,
+      "element_bbox": [
+        461,
+        483,
+        478,
+        611
+      ],
+      "value_bbox": [
+        459,
+        462,
+        479,
+        483
+      ]
+    },
+    {
+      "label": "Renewable Energy",
+      "value": "115",
+      "value_numeric": 115.0,
+      "element_bbox": [
+        526,
+        551,
+        543,
+        611
+      ],
+      "value_bbox": [
+        524,
+        529,
+        544,
+        551
+      ]
+    },
+    {
+      "label": "Environmental Protection",
+      "value": "98",
+      "value_numeric": 98.0,
+      "element_bbox": [
+        591,
+        567,
+        608,
+        611
+      ],
+      "value_bbox": [
+        593,
+        545,
+        606,
+        567
+      ]
+    },
+    {
+      "label": "Water & Sanitation",
+      "value": "60",
+      "value_numeric": 60.0,
+      "element_bbox": [
+        656,
+        582,
+        673,
+        611
+      ],
+      "value_bbox": [
+        658,
+        560,
+        671,
+        582
+      ]
+    },
+    {
+      "label": "Climate Resilience",
+      "value": "81",
+      "value_numeric": 81.0,
+      "element_bbox": [
+        721,
+        571,
+        738,
+        611
+      ],
+      "value_bbox": [
+        723,
+        549,
+        736,
+        571
+      ]
+    },
+    {
+      "label": "Social Protection",
+      "value": "166",
+      "value_numeric": 166.0,
+      "element_bbox": [
+        786,
+        522,
+        804,
+        611
+      ],
+      "value_bbox": [
+        785,
+        501,
+        805,
+        522
+      ]
+    },
+    {
+      "label": "Housing & Urban Development",
+      "value": "99",
+      "value_numeric": 99.0,
+      "element_bbox": [
+        851,
+        557,
+        869,
+        611
+      ],
+      "value_bbox": [
+        853,
+        536,
+        867,
+        557
+      ]
+    },
+    {
+      "label": "Climate Adaptation",
+      "value": "44",
+      "value_numeric": 44.0,
+      "element_bbox": [
+        916,
+        591,
+        934,
+        611
+      ],
+      "value_bbox": [
+        918,
+        570,
+        932,
+        591
+      ]
+    }
+  ]
+}

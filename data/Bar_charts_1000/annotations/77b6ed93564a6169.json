@@ -1,0 +1,146 @@
+{
+  "chart_id": "77b6ed93564a6169",
+  "chart_type": "Bar Chart",
+  "image_width": 3564,
+  "image_height": 1769,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Low income",
+      "value": "90",
+      "value_numeric": 90.0,
+      "element_bbox": [
+        71,
+        117,
+        164,
+        761
+      ],
+      "value_bbox": [
+        110,
+        95,
+        125,
+        117
+      ]
+    },
+    {
+      "label": "Lower middle income",
+      "value": "85",
+      "value_numeric": 85.0,
+      "element_bbox": [
+        187,
+        153,
+        280,
+        761
+      ],
+      "value_bbox": [
+        226,
+        131,
+        241,
+        153
+      ]
+    },
+    {
+      "label": "Middle income",
+      "value": "81",
+      "value_numeric": 81.0,
+      "element_bbox": [
+        303,
+        181,
+        396,
+        761
+      ],
+      "value_bbox": [
+        342,
+        160,
+        357,
+        181
+      ]
+    },
+    {
+      "label": "Emerging economies",
+      "value": "80",
+      "value_numeric": 80.0,
+      "element_bbox": [
+        419,
+        188,
+        512,
+        761
+      ],
+      "value_bbox": [
+        458,
+        167,
+        473,
+        188
+      ]
+    },
+    {
+      "label": "Upper middle income",
+      "value": "78",
+      "value_numeric": 78.0,
+      "element_bbox": [
+        535,
+        203,
+        628,
+        761
+      ],
+      "value_bbox": [
+        574,
+        181,
+        589,
+        203
+      ]
+    },
+    {
+      "label": "High income",
+      "value": "74",
+      "value_numeric": 74.0,
+      "element_bbox": [
+        651,
+        231,
+        744,
+        761
+      ],
+      "value_bbox": [
+        690,
+        210,
+        705,
+        231
+      ]
+    },
+    {
+      "label": "Ultra high income",
+      "value": "71",
+      "value_numeric": 71.0,
+      "element_bbox": [
+        767,
+        253,
+        860,
+        761
+      ],
+      "value_bbox": [
+        806,
+        231,
+        821,
+        253
+      ]
+    },
+    {
+      "label": "World average",
+      "value": "77",
+      "value_numeric": 77.0,
+      "element_bbox": [
+        883,
+        210,
+        976,
+        761
+      ],
+      "value_bbox": [
+        922,
+        188,
+        937,
+        210
+      ]
+    }
+  ]
+}

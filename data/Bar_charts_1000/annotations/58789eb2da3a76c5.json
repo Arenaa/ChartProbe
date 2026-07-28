@@ -1,0 +1,95 @@
+{
+  "chart_id": "58789eb2da3a76c5",
+  "chart_type": "Bar Chart",
+  "image_width": 2773,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Netherlands",
+      "value": "6.5",
+      "value_numeric": 6.5,
+      "element_bbox": [
+        125,
+        738,
+        260,
+        855
+      ],
+      "value_bbox": [
+        268,
+        786,
+        290,
+        808
+      ]
+    },
+    {
+      "label": "Morocco",
+      "value": "17.1",
+      "value_numeric": 17.1,
+      "element_bbox": [
+        125,
+        593,
+        480,
+        709
+      ],
+      "value_bbox": [
+        487,
+        640,
+        518,
+        662
+      ]
+    },
+    {
+      "label": "Montenegro",
+      "value": "35.6",
+      "value_numeric": 35.6,
+      "element_bbox": [
+        125,
+        447,
+        863,
+        563
+      ],
+      "value_bbox": [
+        871,
+        494,
+        902,
+        516
+      ]
+    },
+    {
+      "label": "Mongolia",
+      "value": "10.1",
+      "value_numeric": 10.1,
+      "element_bbox": [
+        125,
+        301,
+        334,
+        418
+      ],
+      "value_bbox": [
+        342,
+        348,
+        373,
+        370
+      ]
+    },
+    {
+      "label": "Moldova",
+      "value": "15.4",
+      "value_numeric": 15.4,
+      "element_bbox": [
+        125,
+        155,
+        444,
+        272
+      ],
+      "value_bbox": [
+        452,
+        203,
+        483,
+        224
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "chart_id": "4060581b19fdb685",
+  "chart_type": "Bar Chart",
+  "image_width": 2957,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "East Asia (Developing)",
+      "value": "3.48",
+      "value_numeric": 3.48,
+      "element_bbox": [
+        264,
+        100,
+        783,
+        179
+      ],
+      "value_bbox": [
+        791,
+        129,
+        821,
+        150
+      ]
+    },
+    {
+      "label": "Sub-Saharan Africa",
+      "value": "4.10",
+      "value_numeric": 4.1,
+      "element_bbox": [
+        264,
+        199,
+        876,
+        278
+      ],
+      "value_bbox": [
+        884,
+        228,
+        915,
+        249
+      ]
+    },
+    {
+      "label": "Fragile & Conflict-Affected",
+      "value": "2.83",
+      "value_numeric": 2.83,
+      "element_bbox": [
+        264,
+        298,
+        687,
+        378
+      ],
+      "value_bbox": [
+        694,
+        327,
+        725,
+        349
+      ]
+    },
+    {
+      "label": "Uganda",
+      "value": "4.58",
+      "value_numeric": 4.58,
+      "element_bbox": [
+        264,
+        397,
+        948,
+        477
+      ],
+      "value_bbox": [
+        955,
+        426,
+        986,
+        448
+      ]
+    },
+    {
+      "label": "Europe (Developing)",
+      "value": "4.10",
+      "value_numeric": 4.1,
+      "element_bbox": [
+        264,
+        497,
+        876,
+        576
+      ],
+      "value_bbox": [
+        884,
+        526,
+        915,
+        547
+      ]
+    },
+    {
+      "label": "Latin America (Developing)",
+      "value": "3.84",
+      "value_numeric": 3.84,
+      "element_bbox": [
+        264,
+        596,
+        838,
+        675
+      ],
+      "value_bbox": [
+        845,
+        625,
+        876,
+        646
+      ]
+    },
+    {
+      "label": "North Africa",
+      "value": "3.58",
+      "value_numeric": 3.58,
+      "element_bbox": [
+        264,
+        695,
+        798,
+        775
+      ],
+      "value_bbox": [
+        806,
+        724,
+        836,
+        746
+      ]
+    },
+    {
+      "label": "Middle East",
+      "value": "4.01",
+      "value_numeric": 4.01,
+      "element_bbox": [
+        264,
+        794,
+        863,
+        874
+      ],
+      "value_bbox": [
+        870,
+        823,
+        901,
+        845
+      ]
+    }
+  ]
+}

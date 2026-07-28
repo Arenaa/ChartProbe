@@ -1,0 +1,112 @@
+{
+  "chart_id": "e2d0b0cfc873e8d3",
+  "chart_type": "Bar Chart",
+  "image_width": 2956,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Education",
+      "value": "910.3",
+      "value_numeric": 910.3,
+      "element_bbox": [
+        227,
+        103,
+        258,
+        209
+      ],
+      "value_bbox": [
+        265,
+        145,
+        305,
+        167
+      ]
+    },
+    {
+      "label": "Public Health",
+      "value": "19790.3",
+      "value_numeric": 19790.3,
+      "element_bbox": [
+        227,
+        235,
+        915,
+        341
+      ],
+      "value_bbox": [
+        923,
+        277,
+        980,
+        299
+      ]
+    },
+    {
+      "label": "Infrastructure",
+      "value": "11544.3",
+      "value_numeric": 11544.3,
+      "element_bbox": [
+        227,
+        368,
+        628,
+        474
+      ],
+      "value_bbox": [
+        636,
+        410,
+        693,
+        431
+      ]
+    },
+    {
+      "label": "Research & Development",
+      "value": "5359.9",
+      "value_numeric": 5359.9,
+      "element_bbox": [
+        227,
+        500,
+        413,
+        606
+      ],
+      "value_bbox": [
+        420,
+        542,
+        469,
+        564
+      ]
+    },
+    {
+      "label": "Defense",
+      "value": "1649.2",
+      "value_numeric": 1649.2,
+      "element_bbox": [
+        227,
+        632,
+        284,
+        738
+      ],
+      "value_bbox": [
+        291,
+        674,
+        339,
+        696
+      ]
+    },
+    {
+      "label": "Environmental Protection",
+      "value": "2886.1",
+      "value_numeric": 2886.1,
+      "element_bbox": [
+        227,
+        765,
+        327,
+        871
+      ],
+      "value_bbox": [
+        334,
+        807,
+        382,
+        828
+      ]
+    }
+  ]
+}

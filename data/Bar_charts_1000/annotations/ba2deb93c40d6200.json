@@ -1,0 +1,265 @@
+{
+  "chart_id": "ba2deb93c40d6200",
+  "chart_type": "Bar Chart",
+  "image_width": 3546,
+  "image_height": 2050,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "1990",
+      "value": "6",
+      "value_numeric": 6.0,
+      "element_bbox": [
+        76,
+        139,
+        100,
+        867
+      ],
+      "value_bbox": [
+        84,
+        121,
+        92,
+        139
+      ]
+    },
+    {
+      "label": "1995",
+      "value": "5",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        137,
+        131,
+        161,
+        867
+      ],
+      "value_bbox": [
+        145,
+        113,
+        153,
+        131
+      ]
+    },
+    {
+      "label": "2000",
+      "value": "5",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        198,
+        131,
+        222,
+        867
+      ],
+      "value_bbox": [
+        206,
+        113,
+        214,
+        131
+      ]
+    },
+    {
+      "label": "2005",
+      "value": "4",
+      "value_numeric": 4.0,
+      "element_bbox": [
+        259,
+        124,
+        283,
+        867
+      ],
+      "value_bbox": [
+        267,
+        105,
+        275,
+        124
+      ]
+    },
+    {
+      "label": "2010",
+      "value": "4",
+      "value_numeric": 4.0,
+      "element_bbox": [
+        320,
+        124,
+        344,
+        867
+      ],
+      "value_bbox": [
+        328,
+        105,
+        336,
+        124
+      ]
+    },
+    {
+      "label": "2015",
+      "value": "3",
+      "value_numeric": 3.0,
+      "element_bbox": [
+        381,
+        116,
+        405,
+        867
+      ],
+      "value_bbox": [
+        390,
+        97,
+        397,
+        116
+      ]
+    },
+    {
+      "label": "2020",
+      "value": "5",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        442,
+        131,
+        466,
+        867
+      ],
+      "value_bbox": [
+        450,
+        113,
+        458,
+        131
+      ]
+    },
+    {
+      "label": "2025",
+      "value": "4",
+      "value_numeric": 4.0,
+      "element_bbox": [
+        503,
+        124,
+        527,
+        867
+      ],
+      "value_bbox": [
+        511,
+        105,
+        519,
+        124
+      ]
+    },
+    {
+      "label": "2030",
+      "value": "6",
+      "value_numeric": 6.0,
+      "element_bbox": [
+        564,
+        139,
+        588,
+        867
+      ],
+      "value_bbox": [
+        573,
+        121,
+        580,
+        139
+      ]
+    },
+    {
+      "label": "2035",
+      "value": "5",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        625,
+        131,
+        649,
+        867
+      ],
+      "value_bbox": [
+        634,
+        113,
+        641,
+        131
+      ]
+    },
+    {
+      "label": "2040",
+      "value": "4",
+      "value_numeric": 4.0,
+      "element_bbox": [
+        686,
+        124,
+        710,
+        867
+      ],
+      "value_bbox": [
+        695,
+        105,
+        702,
+        124
+      ]
+    },
+    {
+      "label": "2045",
+      "value": "3",
+      "value_numeric": 3.0,
+      "element_bbox": [
+        747,
+        116,
+        771,
+        867
+      ],
+      "value_bbox": [
+        756,
+        97,
+        763,
+        116
+      ]
+    },
+    {
+      "label": "2050",
+      "value": "4",
+      "value_numeric": 4.0,
+      "element_bbox": [
+        808,
+        124,
+        832,
+        867
+      ],
+      "value_bbox": [
+        817,
+        105,
+        824,
+        124
+      ]
+    },
+    {
+      "label": "2055",
+      "value": "5",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        869,
+        131,
+        893,
+        867
+      ],
+      "value_bbox": [
+        878,
+        113,
+        885,
+        131
+      ]
+    },
+    {
+      "label": "2060",
+      "value": "7",
+      "value_numeric": 7.0,
+      "element_bbox": [
+        930,
+        147,
+        954,
+        867
+      ],
+      "value_bbox": [
+        939,
+        128,
+        946,
+        147
+      ]
+    }
+  ]
+}

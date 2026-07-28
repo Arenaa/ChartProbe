@@ -1,0 +1,95 @@
+{
+  "chart_id": "fdf6a049558d517b",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1752,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Industrial Use",
+      "value": "33.0",
+      "value_numeric": 33.0,
+      "element_bbox": [
+        92,
+        236,
+        238,
+        923
+      ],
+      "value_bbox": [
+        150,
+        214,
+        180,
+        236
+      ]
+    },
+    {
+      "label": "Residential Use",
+      "value": "18.0",
+      "value_numeric": 18.0,
+      "element_bbox": [
+        274,
+        548,
+        419,
+        923
+      ],
+      "value_bbox": [
+        331,
+        526,
+        362,
+        548
+      ]
+    },
+    {
+      "label": "Transportation",
+      "value": "12.0",
+      "value_numeric": 12.0,
+      "element_bbox": [
+        455,
+        673,
+        601,
+        923
+      ],
+      "value_bbox": [
+        513,
+        651,
+        544,
+        673
+      ]
+    },
+    {
+      "label": "Commercial Use",
+      "value": "7.0",
+      "value_numeric": 7.0,
+      "element_bbox": [
+        637,
+        777,
+        782,
+        923
+      ],
+      "value_bbox": [
+        699,
+        756,
+        721,
+        777
+      ]
+    },
+    {
+      "label": "Exported Energy",
+      "value": "5.0",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        819,
+        819,
+        964,
+        923
+      ],
+      "value_bbox": [
+        880,
+        797,
+        902,
+        819
+      ]
+    }
+  ]
+}

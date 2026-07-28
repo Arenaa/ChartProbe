@@ -1,0 +1,248 @@
+{
+  "chart_id": "1aaf331e0502401e",
+  "chart_type": "Bar Chart",
+  "image_width": 3546,
+  "image_height": 2045,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Macao",
+      "value": "91.4",
+      "value_numeric": 91.4,
+      "element_bbox": [
+        104,
+        112,
+        152,
+        809
+      ],
+      "value_bbox": [
+        115,
+        93,
+        141,
+        112
+      ]
+    },
+    {
+      "label": "Morocco",
+      "value": "34.6",
+      "value_numeric": 34.6,
+      "element_bbox": [
+        165,
+        545,
+        213,
+        809
+      ],
+      "value_bbox": [
+        176,
+        526,
+        202,
+        545
+      ]
+    },
+    {
+      "label": "Algeria",
+      "value": "23.5",
+      "value_numeric": 23.5,
+      "element_bbox": [
+        225,
+        629,
+        274,
+        809
+      ],
+      "value_bbox": [
+        237,
+        611,
+        263,
+        629
+      ]
+    },
+    {
+      "label": "Botswana",
+      "value": "17.4",
+      "value_numeric": 17.4,
+      "element_bbox": [
+        286,
+        676,
+        335,
+        809
+      ],
+      "value_bbox": [
+        298,
+        657,
+        323,
+        676
+      ]
+    },
+    {
+      "label": "Saudi Arabia",
+      "value": "13.6",
+      "value_numeric": 13.6,
+      "element_bbox": [
+        347,
+        705,
+        396,
+        809
+      ],
+      "value_bbox": [
+        359,
+        687,
+        384,
+        705
+      ]
+    },
+    {
+      "label": "Egypt",
+      "value": "11.7",
+      "value_numeric": 11.7,
+      "element_bbox": [
+        408,
+        719,
+        456,
+        809
+      ],
+      "value_bbox": [
+        419,
+        700,
+        445,
+        719
+      ]
+    },
+    {
+      "label": "Qatar",
+      "value": "9.2",
+      "value_numeric": 9.2,
+      "element_bbox": [
+        469,
+        738,
+        517,
+        809
+      ],
+      "value_bbox": [
+        484,
+        720,
+        502,
+        738
+      ]
+    },
+    {
+      "label": "Jordan",
+      "value": "8.8",
+      "value_numeric": 8.8,
+      "element_bbox": [
+        529,
+        742,
+        578,
+        809
+      ],
+      "value_bbox": [
+        545,
+        723,
+        563,
+        742
+      ]
+    },
+    {
+      "label": "Libya",
+      "value": "8.6",
+      "value_numeric": 8.6,
+      "element_bbox": [
+        590,
+        743,
+        639,
+        809
+      ],
+      "value_bbox": [
+        605,
+        725,
+        624,
+        743
+      ]
+    },
+    {
+      "label": "Tunisia",
+      "value": "7.8",
+      "value_numeric": 7.8,
+      "element_bbox": [
+        651,
+        749,
+        700,
+        809
+      ],
+      "value_bbox": [
+        666,
+        731,
+        685,
+        749
+      ]
+    },
+    {
+      "label": "Oman",
+      "value": "7.0",
+      "value_numeric": 7.0,
+      "element_bbox": [
+        712,
+        755,
+        761,
+        809
+      ],
+      "value_bbox": [
+        727,
+        736,
+        746,
+        755
+      ]
+    },
+    {
+      "label": "UAE",
+      "value": "6.2",
+      "value_numeric": 6.2,
+      "element_bbox": [
+        773,
+        761,
+        821,
+        809
+      ],
+      "value_bbox": [
+        788,
+        742,
+        806,
+        761
+      ]
+    },
+    {
+      "label": "Bahrain",
+      "value": "2.0",
+      "value_numeric": 2.0,
+      "element_bbox": [
+        834,
+        793,
+        882,
+        809
+      ],
+      "value_bbox": [
+        849,
+        775,
+        867,
+        793
+      ]
+    },
+    {
+      "label": "Kuwait",
+      "value": "0.1",
+      "value_numeric": 0.1,
+      "element_bbox": [
+        894,
+        808,
+        943,
+        809
+      ],
+      "value_bbox": [
+        952,
+        799,
+        970,
+        817
+      ]
+    }
+  ]
+}

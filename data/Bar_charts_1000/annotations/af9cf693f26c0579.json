@@ -1,0 +1,129 @@
+{
+  "chart_id": "af9cf693f26c0579",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1745,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Export",
+      "value": "125.5",
+      "value_numeric": 125.5,
+      "element_bbox": [
+        97,
+        289,
+        199,
+        802
+      ],
+      "value_bbox": [
+        128,
+        267,
+        168,
+        289
+      ]
+    },
+    {
+      "label": "Import",
+      "value": "166",
+      "value_numeric": 166.0,
+      "element_bbox": [
+        225,
+        124,
+        328,
+        802
+      ],
+      "value_bbox": [
+        263,
+        102,
+        289,
+        124
+      ]
+    },
+    {
+      "label": "Re-export",
+      "value": "143.5",
+      "value_numeric": 143.5,
+      "element_bbox": [
+        353,
+        216,
+        456,
+        802
+      ],
+      "value_bbox": [
+        385,
+        194,
+        424,
+        216
+      ]
+    },
+    {
+      "label": "Transit",
+      "value": "127",
+      "value_numeric": 127.0,
+      "element_bbox": [
+        482,
+        283,
+        584,
+        802
+      ],
+      "value_bbox": [
+        520,
+        261,
+        546,
+        283
+      ]
+    },
+    {
+      "label": "Domestic",
+      "value": "95.2",
+      "value_numeric": 95.2,
+      "element_bbox": [
+        610,
+        413,
+        713,
+        802
+      ],
+      "value_bbox": [
+        646,
+        391,
+        677,
+        413
+      ]
+    },
+    {
+      "label": "Processing",
+      "value": "30",
+      "value_numeric": 30.0,
+      "element_bbox": [
+        738,
+        679,
+        841,
+        802
+      ],
+      "value_bbox": [
+        781,
+        658,
+        798,
+        679
+      ]
+    },
+    {
+      "label": "Inspection",
+      "value": "12.5",
+      "value_numeric": 12.5,
+      "element_bbox": [
+        867,
+        751,
+        969,
+        802
+      ],
+      "value_bbox": [
+        902,
+        729,
+        933,
+        751
+      ]
+    }
+  ]
+}

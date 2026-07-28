@@ -1,0 +1,61 @@
+{
+  "chart_id": "45af3c2390d6cbca",
+  "chart_type": "Bar Chart",
+  "image_width": 1911,
+  "image_height": 1381,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Switzerland",
+      "value": "5.8",
+      "value_numeric": 5.8,
+      "element_bbox": [
+        160,
+        157,
+        224,
+        890
+      ],
+      "value_bbox": [
+        175,
+        130,
+        210,
+        157
+      ]
+    },
+    {
+      "label": "Finland",
+      "value": "3.5",
+      "value_numeric": 3.5,
+      "element_bbox": [
+        416,
+        628,
+        480,
+        890
+      ],
+      "value_bbox": [
+        431,
+        601,
+        466,
+        628
+      ]
+    },
+    {
+      "label": "Trinidad and Tobago",
+      "value": "5.8",
+      "value_numeric": 5.8,
+      "element_bbox": [
+        673,
+        366,
+        737,
+        890
+      ],
+      "value_bbox": [
+        687,
+        339,
+        722,
+        366
+      ]
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "chart_id": "dd8e0bec5a79ee6c",
+  "chart_type": "Bar Chart",
+  "image_width": 3548,
+  "image_height": 2356,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "1998",
+      "value": "100",
+      "value_numeric": 100.0,
+      "element_bbox": [
+        75,
+        528,
+        88,
+        912
+      ],
+      "value_bbox": [
+        71,
+        511,
+        93,
+        528
+      ]
+    },
+    {
+      "label": "1999",
+      "value": "75",
+      "value_numeric": 75.0,
+      "element_bbox": [
+        124,
+        423,
+        136,
+        912
+      ],
+      "value_bbox": [
+        123,
+        407,
+        137,
+        423
+      ]
+    },
+    {
+      "label": "2000",
+      "value": "80",
+      "value_numeric": 80.0,
+      "element_bbox": [
+        172,
+        367,
+        185,
+        912
+      ],
+      "value_bbox": [
+        171,
+        351,
+        186,
+        367
+      ]
+    },
+    {
+      "label": "2001",
+      "value": "38",
+      "value_numeric": 38.0,
+      "element_bbox": [
+        220,
+        667,
+        233,
+        912
+      ],
+      "value_bbox": [
+        219,
+        651,
+        234,
+        667
+      ]
+    },
+    {
+      "label": "2002",
+      "value": "42",
+      "value_numeric": 42.0,
+      "element_bbox": [
+        268,
+        632,
+        281,
+        912
+      ],
+      "value_bbox": [
+        268,
+        616,
+        282,
+        632
+      ]
+    },
+    {
+      "label": "2003",
+      "value": "48",
+      "value_numeric": 48.0,
+      "element_bbox": [
+        317,
+        597,
+        330,
+        912
+      ],
+      "value_bbox": [
+        316,
+        581,
+        330,
+        597
+      ]
+    },
+    {
+      "label": "2004",
+      "value": "55",
+      "value_numeric": 55.0,
+      "element_bbox": [
+        365,
+        562,
+        378,
+        912
+      ],
+      "value_bbox": [
+        364,
+        546,
+        379,
+        562
+      ]
+    },
+    {
+      "label": "2005",
+      "value": "60",
+      "value_numeric": 60.0,
+      "element_bbox": [
+        413,
+        507,
+        426,
+        912
+      ],
+      "value_bbox": [
+        412,
+        490,
+        427,
+        507
+      ]
+    },
+    {
+      "label": "2006",
+      "value": "65",
+      "value_numeric": 65.0,
+      "element_bbox": [
+        461,
+        479,
+        474,
+        912
+      ],
+      "value_bbox": [
+        461,
+        462,
+        475,
+        479
+      ]
+    },
+    {
+      "label": "2007",
+      "value": "70",
+      "value_numeric": 70.0,
+      "element_bbox": [
+        510,
+        437,
+        523,
+        912
+      ],
+      "value_bbox": [
+        509,
+        421,
+        523,
+        437
+      ]
+    },
+    {
+      "label": "2008",
+      "value": "100",
+      "value_numeric": 100.0,
+      "element_bbox": [
+        558,
+        318,
+        571,
+        912
+      ],
+      "value_bbox": [
+        553,
+        302,
+        575,
+        318
+      ]
+    },
+    {
+      "label": "2009",
+      "value": "100",
+      "value_numeric": 100.0,
+      "element_bbox": [
+        606,
+        283,
+        619,
+        912
+      ],
+      "value_bbox": [
+        602,
+        267,
+        624,
+        283
+      ]
+    },
+    {
+      "label": "2010",
+      "value": "105",
+      "value_numeric": 105.0,
+      "element_bbox": [
+        655,
+        269,
+        667,
+        912
+      ],
+      "value_bbox": [
+        650,
+        253,
+        672,
+        269
+      ]
+    },
+    {
+      "label": "2011",
+      "value": "110",
+      "value_numeric": 110.0,
+      "element_bbox": [
+        703,
+        248,
+        716,
+        912
+      ],
+      "value_bbox": [
+        698,
+        232,
+        720,
+        248
+      ]
+    },
+    {
+      "label": "2012",
+      "value": "115",
+      "value_numeric": 115.0,
+      "element_bbox": [
+        751,
+        234,
+        764,
+        912
+      ],
+      "value_bbox": [
+        747,
+        218,
+        768,
+        234
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "chart_id": "49f810575bca7ab5",
+  "chart_type": "Bar Chart",
+  "image_width": 2038,
+  "image_height": 1381,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Cameroon",
+      "value": "21",
+      "value_numeric": 21.0,
+      "element_bbox": [
+        125,
+        812,
+        171,
+        855
+      ],
+      "value_bbox": [
+        179,
+        820,
+        206,
+        847
+      ]
+    },
+    {
+      "label": "Costa Rica",
+      "value": "28",
+      "value_numeric": 28.0,
+      "element_bbox": [
+        125,
+        689,
+        356,
+        732
+      ],
+      "value_bbox": [
+        363,
+        697,
+        391,
+        724
+      ]
+    },
+    {
+      "label": "Ecuador",
+      "value": "32",
+      "value_numeric": 32.0,
+      "element_bbox": [
+        125,
+        566,
+        540,
+        609
+      ],
+      "value_bbox": [
+        548,
+        574,
+        575,
+        601
+      ]
+    },
+    {
+      "label": "Ethiopia",
+      "value": "29",
+      "value_numeric": 29.0,
+      "element_bbox": [
+        125,
+        444,
+        448,
+        487
+      ],
+      "value_bbox": [
+        456,
+        452,
+        483,
+        479
+      ]
+    },
+    {
+      "label": "Iraq",
+      "value": "22",
+      "value_numeric": 22.0,
+      "element_bbox": [
+        125,
+        321,
+        310,
+        364
+      ],
+      "value_bbox": [
+        317,
+        329,
+        345,
+        356
+      ]
+    },
+    {
+      "label": "Jamaica",
+      "value": "4",
+      "value_numeric": 4.0,
+      "element_bbox": [
+        125,
+        198,
+        379,
+        241
+      ],
+      "value_bbox": [
+        386,
+        206,
+        400,
+        233
+      ]
+    }
+  ]
+}

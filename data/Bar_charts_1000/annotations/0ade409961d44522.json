@@ -1,0 +1,112 @@
+{
+  "chart_id": "0ade409961d44522",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Manufactured Goods",
+      "value": "482.8",
+      "value_numeric": 482.8,
+      "element_bbox": [
+        99,
+        128,
+        218,
+        884
+      ],
+      "value_bbox": [
+        139,
+        106,
+        178,
+        128
+      ]
+    },
+    {
+      "label": "Energy",
+      "value": "83.0",
+      "value_numeric": 83.0,
+      "element_bbox": [
+        248,
+        754,
+        368,
+        884
+      ],
+      "value_bbox": [
+        293,
+        732,
+        324,
+        754
+      ]
+    },
+    {
+      "label": "Agriculture",
+      "value": "46.7",
+      "value_numeric": 46.7,
+      "element_bbox": [
+        398,
+        811,
+        518,
+        884
+      ],
+      "value_bbox": [
+        443,
+        789,
+        473,
+        811
+      ]
+    },
+    {
+      "label": "Tech",
+      "value": "22.4",
+      "value_numeric": 22.4,
+      "element_bbox": [
+        548,
+        849,
+        668,
+        884
+      ],
+      "value_bbox": [
+        592,
+        827,
+        623,
+        849
+      ]
+    },
+    {
+      "label": "Services",
+      "value": "18.9",
+      "value_numeric": 18.9,
+      "element_bbox": [
+        698,
+        854,
+        817,
+        884
+      ],
+      "value_bbox": [
+        742,
+        832,
+        773,
+        854
+      ]
+    },
+    {
+      "label": "Minerals",
+      "value": "6.8",
+      "value_numeric": 6.8,
+      "element_bbox": [
+        847,
+        873,
+        967,
+        884
+      ],
+      "value_bbox": [
+        896,
+        852,
+        918,
+        873
+      ]
+    }
+  ]
+}

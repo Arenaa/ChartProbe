@@ -1,0 +1,78 @@
+{
+  "chart_id": "2062fe110901b0c1",
+  "chart_type": "Bar Chart",
+  "image_width": 2547,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Mali",
+      "value": "62",
+      "value_numeric": 62.0,
+      "element_bbox": [
+        160,
+        293,
+        309,
+        890
+      ],
+      "value_bbox": [
+        226,
+        272,
+        243,
+        293
+      ]
+    },
+    {
+      "label": "Mauritius",
+      "value": "60",
+      "value_numeric": 60.0,
+      "element_bbox": [
+        346,
+        312,
+        494,
+        890
+      ],
+      "value_bbox": [
+        411,
+        291,
+        428,
+        312
+      ]
+    },
+    {
+      "label": "Netherlands",
+      "value": "60",
+      "value_numeric": 60.0,
+      "element_bbox": [
+        531,
+        312,
+        679,
+        890
+      ],
+      "value_bbox": [
+        597,
+        291,
+        614,
+        312
+      ]
+    },
+    {
+      "label": "New Zealand",
+      "value": "73",
+      "value_numeric": 73.0,
+      "element_bbox": [
+        716,
+        187,
+        865,
+        890
+      ],
+      "value_bbox": [
+        782,
+        166,
+        799,
+        187
+      ]
+    }
+  ]
+}

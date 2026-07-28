@@ -1,0 +1,78 @@
+{
+  "chart_id": "2c45284a7d406a79",
+  "chart_type": "Bar Chart",
+  "image_width": 2945,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Central Europe",
+      "value": "79",
+      "value_numeric": 79.0,
+      "element_bbox": [
+        270,
+        779,
+        858,
+        847
+      ],
+      "value_bbox": [
+        865,
+        802,
+        882,
+        824
+      ]
+    },
+    {
+      "label": "East Asia (all income levels)",
+      "value": "90",
+      "value_numeric": 90.0,
+      "element_bbox": [
+        277,
+        554,
+        941,
+        622
+      ],
+      "value_bbox": [
+        948,
+        577,
+        966,
+        599
+      ]
+    },
+    {
+      "label": "East Asia (developing only)",
+      "value": "92",
+      "value_numeric": 92.0,
+      "element_bbox": [
+        285,
+        329,
+        941,
+        397
+      ],
+      "value_bbox": [
+        948,
+        352,
+        966,
+        374
+      ]
+    },
+    {
+      "label": "Euro area",
+      "value": "78",
+      "value_numeric": 78.0,
+      "element_bbox": [
+        292,
+        104,
+        869,
+        172
+      ],
+      "value_bbox": [
+        876,
+        127,
+        894,
+        149
+      ]
+    }
+  ]
+}

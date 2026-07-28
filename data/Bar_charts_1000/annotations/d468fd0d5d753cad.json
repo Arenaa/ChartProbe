@@ -1,0 +1,129 @@
+{
+  "chart_id": "d468fd0d5d753cad",
+  "chart_type": "Bar Chart",
+  "image_width": 3552,
+  "image_height": 2236,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "France (FRA)",
+      "value": "6.548",
+      "value_numeric": 6.548,
+      "element_bbox": [
+        68,
+        151,
+        174,
+        795
+      ],
+      "value_bbox": [
+        105,
+        135,
+        138,
+        151
+      ]
+    },
+    {
+      "label": "Switzerland (CHE)",
+      "value": "5.928",
+      "value_numeric": 5.928,
+      "element_bbox": [
+        201,
+        201,
+        307,
+        795
+      ],
+      "value_bbox": [
+        238,
+        185,
+        270,
+        201
+      ]
+    },
+    {
+      "label": "Italy (ITA)",
+      "value": "5.604",
+      "value_numeric": 5.604,
+      "element_bbox": [
+        334,
+        241,
+        440,
+        795
+      ],
+      "value_bbox": [
+        370,
+        224,
+        403,
+        241
+      ]
+    },
+    {
+      "label": "Germany (DEU)",
+      "value": "5.132",
+      "value_numeric": 5.132,
+      "element_bbox": [
+        467,
+        292,
+        573,
+        795
+      ],
+      "value_bbox": [
+        503,
+        276,
+        536,
+        292
+      ]
+    },
+    {
+      "label": "Spain (ESP)",
+      "value": "4.896",
+      "value_numeric": 4.896,
+      "element_bbox": [
+        600,
+        313,
+        706,
+        795
+      ],
+      "value_bbox": [
+        636,
+        296,
+        669,
+        313
+      ]
+    },
+    {
+      "label": "Portugal (PRT)",
+      "value": "4.876",
+      "value_numeric": 4.876,
+      "element_bbox": [
+        732,
+        313,
+        839,
+        795
+      ],
+      "value_bbox": [
+        769,
+        296,
+        802,
+        313
+      ]
+    },
+    {
+      "label": "East Timor (TLS)",
+      "value": "2.864",
+      "value_numeric": 2.864,
+      "element_bbox": [
+        865,
+        513,
+        972,
+        795
+      ],
+      "value_bbox": [
+        902,
+        496,
+        935,
+        513
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "chart_id": "853b8d7cf5197577",
+  "chart_type": "Bar Chart",
+  "image_width": 3032,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Guinea",
+      "value": "850000",
+      "value_numeric": 850000.0,
+      "element_bbox": [
+        139,
+        690,
+        363,
+        847
+      ],
+      "value_bbox": [
+        371,
+        758,
+        424,
+        779
+      ]
+    },
+    {
+      "label": "Guatemala",
+      "value": "1400000",
+      "value_numeric": 1400000.0,
+      "element_bbox": [
+        139,
+        495,
+        508,
+        651
+      ],
+      "value_bbox": [
+        516,
+        562,
+        577,
+        584
+      ]
+    },
+    {
+      "label": "Greece",
+      "value": "3050000",
+      "value_numeric": 3050000.0,
+      "element_bbox": [
+        139,
+        300,
+        942,
+        456
+      ],
+      "value_bbox": [
+        950,
+        367,
+        1000,
+        389
+      ]
+    },
+    {
+      "label": "Ghana",
+      "value": "1150000",
+      "value_numeric": 1150000.0,
+      "element_bbox": [
+        139,
+        104,
+        442,
+        261
+      ],
+      "value_bbox": [
+        450,
+        172,
+        511,
+        193
+      ]
+    }
+  ]
+}

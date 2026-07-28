@@ -1,0 +1,112 @@
+{
+  "chart_id": "3ac56a63e1ad6a5f",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Djibouti",
+      "value": "57.4",
+      "value_numeric": 57.4,
+      "element_bbox": [
+        172,
+        744,
+        667,
+        847
+      ],
+      "value_bbox": [
+        675,
+        785,
+        706,
+        806
+      ]
+    },
+    {
+      "label": "Denmark",
+      "value": "89.5",
+      "value_numeric": 89.5,
+      "element_bbox": [
+        172,
+        616,
+        943,
+        719
+      ],
+      "value_bbox": [
+        952,
+        657,
+        982,
+        678
+      ]
+    },
+    {
+      "label": "Czech Republic",
+      "value": "85.8",
+      "value_numeric": 85.8,
+      "element_bbox": [
+        172,
+        488,
+        911,
+        591
+      ],
+      "value_bbox": [
+        920,
+        529,
+        950,
+        550
+      ]
+    },
+    {
+      "label": "Cuba",
+      "value": "84.3",
+      "value_numeric": 84.3,
+      "element_bbox": [
+        172,
+        360,
+        899,
+        463
+      ],
+      "value_bbox": [
+        907,
+        401,
+        937,
+        422
+      ]
+    },
+    {
+      "label": "Croatia",
+      "value": "71.5",
+      "value_numeric": 71.5,
+      "element_bbox": [
+        172,
+        232,
+        788,
+        335
+      ],
+      "value_bbox": [
+        796,
+        273,
+        827,
+        294
+      ]
+    },
+    {
+      "label": "Costa Rica",
+      "value": "70.7",
+      "value_numeric": 70.7,
+      "element_bbox": [
+        172,
+        104,
+        781,
+        207
+      ],
+      "value_bbox": [
+        789,
+        145,
+        820,
+        166
+      ]
+    }
+  ]
+}

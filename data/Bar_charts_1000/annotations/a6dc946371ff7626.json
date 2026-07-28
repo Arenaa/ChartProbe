@@ -1,0 +1,95 @@
+{
+  "chart_id": "a6dc946371ff7626",
+  "chart_type": "Bar Chart",
+  "image_width": 3143,
+  "image_height": 1736,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Lesotho",
+      "value": "0.7",
+      "value_numeric": 0.7,
+      "element_bbox": [
+        125,
+        738,
+        219,
+        855
+      ],
+      "value_bbox": [
+        161,
+        717,
+        183,
+        738
+      ]
+    },
+    {
+      "label": "Latvia",
+      "value": "5.5",
+      "value_numeric": 5.5,
+      "element_bbox": [
+        125,
+        592,
+        863,
+        709
+      ],
+      "value_bbox": [
+        871,
+        640,
+        893,
+        662
+      ]
+    },
+    {
+      "label": "Kosovo",
+      "value": "0.6",
+      "value_numeric": 0.6,
+      "element_bbox": [
+        125,
+        447,
+        206,
+        563
+      ],
+      "value_bbox": [
+        154,
+        425,
+        176,
+        447
+      ]
+    },
+    {
+      "label": "Kenya",
+      "value": "0.4",
+      "value_numeric": 0.4,
+      "element_bbox": [
+        125,
+        301,
+        179,
+        418
+      ],
+      "value_bbox": [
+        141,
+        279,
+        163,
+        301
+      ]
+    },
+    {
+      "label": "Kazakhstan",
+      "value": "2.0",
+      "value_numeric": 2.0,
+      "element_bbox": [
+        125,
+        155,
+        393,
+        272
+      ],
+      "value_bbox": [
+        401,
+        202,
+        423,
+        224
+      ]
+    }
+  ]
+}

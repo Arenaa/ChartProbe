@@ -1,0 +1,95 @@
+{
+  "chart_id": "d6fc1a43dbdfafb3",
+  "chart_type": "Bar Chart",
+  "image_width": 2648,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Indonesia",
+      "value": "45.0",
+      "value_numeric": 45.0,
+      "element_bbox": [
+        100,
+        128,
+        244,
+        884
+      ],
+      "value_bbox": [
+        155,
+        106,
+        189,
+        128
+      ]
+    },
+    {
+      "label": "Iraq",
+      "value": "2.2",
+      "value_numeric": 2.2,
+      "element_bbox": [
+        280,
+        847,
+        423,
+        884
+      ],
+      "value_bbox": [
+        339,
+        825,
+        364,
+        847
+      ]
+    },
+    {
+      "label": "Philippines",
+      "value": "1.1",
+      "value_numeric": 1.1,
+      "element_bbox": [
+        459,
+        865,
+        603,
+        884
+      ],
+      "value_bbox": [
+        519,
+        844,
+        544,
+        865
+      ]
+    },
+    {
+      "label": "Vietnam",
+      "value": "1.8",
+      "value_numeric": 1.8,
+      "element_bbox": [
+        639,
+        854,
+        783,
+        884
+      ],
+      "value_bbox": [
+        698,
+        832,
+        723,
+        854
+      ]
+    },
+    {
+      "label": "Lithuania",
+      "value": "1.1",
+      "value_numeric": 1.1,
+      "element_bbox": [
+        818,
+        862,
+        962,
+        884
+      ],
+      "value_bbox": [
+        878,
+        840,
+        903,
+        862
+      ]
+    }
+  ]
+}

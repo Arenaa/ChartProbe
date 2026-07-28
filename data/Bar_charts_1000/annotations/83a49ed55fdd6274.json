@@ -1,0 +1,265 @@
+{
+  "chart_id": "83a49ed55fdd6274",
+  "chart_type": "Bar Chart",
+  "image_width": 3560,
+  "image_height": 2372,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "World (Global)",
+      "value": "57.2",
+      "value_numeric": 57.2,
+      "element_bbox": [
+        60,
+        96,
+        110,
+        754
+      ],
+      "value_bbox": [
+        72,
+        79,
+        98,
+        96
+      ]
+    },
+    {
+      "label": "North America",
+      "value": "44.7",
+      "value_numeric": 44.7,
+      "element_bbox": [
+        123,
+        245,
+        172,
+        754
+      ],
+      "value_bbox": [
+        135,
+        229,
+        160,
+        245
+      ]
+    },
+    {
+      "label": "Europe",
+      "value": "39.7",
+      "value_numeric": 39.7,
+      "element_bbox": [
+        185,
+        290,
+        234,
+        754
+      ],
+      "value_bbox": [
+        197,
+        274,
+        222,
+        290
+      ]
+    },
+    {
+      "label": "East Asia",
+      "value": "37.2",
+      "value_numeric": 37.2,
+      "element_bbox": [
+        247,
+        314,
+        297,
+        754
+      ],
+      "value_bbox": [
+        259,
+        298,
+        285,
+        314
+      ]
+    },
+    {
+      "label": "Upper-Middle Income",
+      "value": "34.7",
+      "value_numeric": 34.7,
+      "element_bbox": [
+        433,
+        369,
+        483,
+        754
+      ],
+      "value_bbox": [
+        445,
+        352,
+        471,
+        369
+      ]
+    },
+    {
+      "label": "Latin America",
+      "value": "34.2",
+      "value_numeric": 34.2,
+      "element_bbox": [
+        309,
+        346,
+        359,
+        754
+      ],
+      "value_bbox": [
+        321,
+        329,
+        347,
+        346
+      ]
+    },
+    {
+      "label": "Oceania",
+      "value": "33.0",
+      "value_numeric": 33.0,
+      "element_bbox": [
+        371,
+        357,
+        421,
+        754
+      ],
+      "value_bbox": [
+        383,
+        341,
+        409,
+        357
+      ]
+    },
+    {
+      "label": "South America",
+      "value": "32.0",
+      "value_numeric": 32.0,
+      "element_bbox": [
+        495,
+        380,
+        545,
+        754
+      ],
+      "value_bbox": [
+        507,
+        364,
+        533,
+        380
+      ]
+    },
+    {
+      "label": "South Asia",
+      "value": "31.5",
+      "value_numeric": 31.5,
+      "element_bbox": [
+        557,
+        392,
+        607,
+        754
+      ],
+      "value_bbox": [
+        569,
+        375,
+        595,
+        392
+      ]
+    },
+    {
+      "label": "Arabia",
+      "value": "29.5",
+      "value_numeric": 29.5,
+      "element_bbox": [
+        620,
+        415,
+        669,
+        754
+      ],
+      "value_bbox": [
+        632,
+        398,
+        657,
+        415
+      ]
+    },
+    {
+      "label": "Sub-Saharan Africa (Developing)",
+      "value": "26.2",
+      "value_numeric": 26.2,
+      "element_bbox": [
+        868,
+        522,
+        918,
+        754
+      ],
+      "value_bbox": [
+        880,
+        505,
+        906,
+        522
+      ]
+    },
+    {
+      "label": "Sub-Saharan Africa (All Income)",
+      "value": "24.7",
+      "value_numeric": 24.7,
+      "element_bbox": [
+        682,
+        453,
+        731,
+        754
+      ],
+      "value_bbox": [
+        694,
+        436,
+        719,
+        453
+      ]
+    },
+    {
+      "label": "Central Asia",
+      "value": "21.5",
+      "value_numeric": 21.5,
+      "element_bbox": [
+        744,
+        464,
+        793,
+        754
+      ],
+      "value_bbox": [
+        756,
+        448,
+        782,
+        464
+      ]
+    },
+    {
+      "label": "Caribbean",
+      "value": "20.5",
+      "value_numeric": 20.5,
+      "element_bbox": [
+        806,
+        499,
+        856,
+        754
+      ],
+      "value_bbox": [
+        818,
+        482,
+        844,
+        499
+      ]
+    },
+    {
+      "label": "Middle East",
+      "value": "19.5",
+      "value_numeric": 19.5,
+      "element_bbox": [
+        930,
+        533,
+        980,
+        754
+      ],
+      "value_bbox": [
+        942,
+        517,
+        968,
+        533
+      ]
+    }
+  ]
+}

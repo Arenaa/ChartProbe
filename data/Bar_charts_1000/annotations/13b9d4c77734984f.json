@@ -1,0 +1,95 @@
+{
+  "chart_id": "13b9d4c77734984f",
+  "chart_type": "Bar Chart",
+  "image_width": 2647,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Cabo Verde",
+      "value": "2.8",
+      "value_numeric": 2.8,
+      "element_bbox": [
+        116,
+        769,
+        187,
+        884
+      ],
+      "value_bbox": [
+        139,
+        747,
+        164,
+        769
+      ]
+    },
+    {
+      "label": "India",
+      "value": "5.4",
+      "value_numeric": 5.4,
+      "element_bbox": [
+        292,
+        509,
+        363,
+        884
+      ],
+      "value_bbox": [
+        315,
+        488,
+        340,
+        509
+      ]
+    },
+    {
+      "label": "Sierra Leone",
+      "value": "6.7",
+      "value_numeric": 6.7,
+      "element_bbox": [
+        469,
+        128,
+        539,
+        884
+      ],
+      "value_bbox": [
+        492,
+        106,
+        516,
+        128
+      ]
+    },
+    {
+      "label": "Bangladesh",
+      "value": "5.6",
+      "value_numeric": 5.6,
+      "element_bbox": [
+        645,
+        700,
+        716,
+        884
+      ],
+      "value_bbox": [
+        668,
+        678,
+        693,
+        700
+      ]
+    },
+    {
+      "label": "Nigeria",
+      "value": "7.9",
+      "value_numeric": 7.9,
+      "element_bbox": [
+        821,
+        585,
+        892,
+        884
+      ],
+      "value_bbox": [
+        844,
+        563,
+        869,
+        585
+      ]
+    }
+  ]
+}

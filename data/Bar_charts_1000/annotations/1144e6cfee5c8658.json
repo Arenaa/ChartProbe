@@ -1,0 +1,61 @@
+{
+  "chart_id": "1144e6cfee5c8658",
+  "chart_type": "Bar Chart",
+  "image_width": 2158,
+  "image_height": 1316,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "United Kingdom",
+      "value": "35",
+      "value_numeric": 35.0,
+      "element_bbox": [
+        160,
+        240,
+        224,
+        890
+      ],
+      "value_bbox": [
+        179,
+        213,
+        206,
+        240
+      ]
+    },
+    {
+      "label": "United States",
+      "value": "32",
+      "value_numeric": 32.0,
+      "element_bbox": [
+        416,
+        282,
+        480,
+        890
+      ],
+      "value_bbox": [
+        435,
+        255,
+        462,
+        282
+      ]
+    },
+    {
+      "label": "Uruguay",
+      "value": "23",
+      "value_numeric": 23.0,
+      "element_bbox": [
+        673,
+        429,
+        737,
+        890
+      ],
+      "value_bbox": [
+        691,
+        402,
+        718,
+        429
+      ]
+    }
+  ]
+}

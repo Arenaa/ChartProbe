@@ -1,0 +1,571 @@
+{
+  "chart_id": "cffb9d623264d8a7",
+  "chart_type": "Bar Chart",
+  "image_width": 4144,
+  "image_height": 2348,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "High income",
+      "value": "100",
+      "value_numeric": 100.0,
+      "element_bbox": [
+        62,
+        121,
+        81,
+        801
+      ],
+      "value_bbox": [
+        62,
+        105,
+        81,
+        121
+      ]
+    },
+    {
+      "label": "High income",
+      "value": "100",
+      "value_numeric": 100.0,
+      "element_bbox": [
+        85,
+        121,
+        104,
+        801
+      ],
+      "value_bbox": [
+        85,
+        105,
+        104,
+        121
+      ]
+    },
+    {
+      "label": "High income",
+      "value": "100",
+      "value_numeric": 100.0,
+      "element_bbox": [
+        108,
+        121,
+        127,
+        801
+      ],
+      "value_bbox": [
+        108,
+        105,
+        127,
+        121
+      ]
+    },
+    {
+      "label": "High income",
+      "value": "100",
+      "value_numeric": 100.0,
+      "element_bbox": [
+        132,
+        121,
+        150,
+        801
+      ],
+      "value_bbox": [
+        131,
+        105,
+        150,
+        121
+      ]
+    },
+    {
+      "label": "High income",
+      "value": "100",
+      "value_numeric": 100.0,
+      "element_bbox": [
+        155,
+        121,
+        173,
+        801
+      ],
+      "value_bbox": [
+        155,
+        105,
+        173,
+        121
+      ]
+    },
+    {
+      "label": "High income",
+      "value": "100",
+      "value_numeric": 100.0,
+      "element_bbox": [
+        178,
+        121,
+        196,
+        801
+      ],
+      "value_bbox": [
+        178,
+        105,
+        197,
+        121
+      ]
+    },
+    {
+      "label": "High income",
+      "value": "100",
+      "value_numeric": 100.0,
+      "element_bbox": [
+        201,
+        121,
+        220,
+        801
+      ],
+      "value_bbox": [
+        201,
+        105,
+        220,
+        121
+      ]
+    },
+    {
+      "label": "High income",
+      "value": "99",
+      "value_numeric": 99.0,
+      "element_bbox": [
+        224,
+        128,
+        243,
+        801
+      ],
+      "value_bbox": [
+        227,
+        111,
+        240,
+        128
+      ]
+    },
+    {
+      "label": "High income",
+      "value": "100",
+      "value_numeric": 100.0,
+      "element_bbox": [
+        247,
+        121,
+        266,
+        801
+      ],
+      "value_bbox": [
+        247,
+        105,
+        266,
+        121
+      ]
+    },
+    {
+      "label": "Upper middle income",
+      "value": "92",
+      "value_numeric": 92.0,
+      "element_bbox": [
+        271,
+        175,
+        289,
+        801
+      ],
+      "value_bbox": [
+        274,
+        159,
+        286,
+        175
+      ]
+    },
+    {
+      "label": "Upper middle income",
+      "value": "88",
+      "value_numeric": 88.0,
+      "element_bbox": [
+        294,
+        203,
+        312,
+        801
+      ],
+      "value_bbox": [
+        297,
+        186,
+        309,
+        203
+      ]
+    },
+    {
+      "label": "Upper middle income",
+      "value": "96",
+      "value_numeric": 96.0,
+      "element_bbox": [
+        317,
+        148,
+        336,
+        801
+      ],
+      "value_bbox": [
+        320,
+        132,
+        332,
+        148
+      ]
+    },
+    {
+      "label": "Upper middle income",
+      "value": "97",
+      "value_numeric": 97.0,
+      "element_bbox": [
+        340,
+        141,
+        359,
+        801
+      ],
+      "value_bbox": [
+        343,
+        125,
+        356,
+        141
+      ]
+    },
+    {
+      "label": "Upper middle income",
+      "value": "85",
+      "value_numeric": 85.0,
+      "element_bbox": [
+        363,
+        223,
+        382,
+        801
+      ],
+      "value_bbox": [
+        366,
+        207,
+        379,
+        223
+      ]
+    },
+    {
+      "label": "Upper middle income",
+      "value": "87",
+      "value_numeric": 87.0,
+      "element_bbox": [
+        387,
+        209,
+        405,
+        801
+      ],
+      "value_bbox": [
+        390,
+        193,
+        402,
+        209
+      ]
+    },
+    {
+      "label": "Upper middle income",
+      "value": "89",
+      "value_numeric": 89.0,
+      "element_bbox": [
+        410,
+        196,
+        428,
+        801
+      ],
+      "value_bbox": [
+        413,
+        180,
+        425,
+        196
+      ]
+    },
+    {
+      "label": "Upper middle income",
+      "value": "94",
+      "value_numeric": 94.0,
+      "element_bbox": [
+        433,
+        162,
+        451,
+        801
+      ],
+      "value_bbox": [
+        436,
+        146,
+        448,
+        162
+      ]
+    },
+    {
+      "label": "Lower middle income",
+      "value": "70",
+      "value_numeric": 70.0,
+      "element_bbox": [
+        456,
+        325,
+        475,
+        801
+      ],
+      "value_bbox": [
+        459,
+        309,
+        472,
+        325
+      ]
+    },
+    {
+      "label": "Lower middle income",
+      "value": "80",
+      "value_numeric": 80.0,
+      "element_bbox": [
+        479,
+        257,
+        498,
+        801
+      ],
+      "value_bbox": [
+        482,
+        241,
+        495,
+        257
+      ]
+    },
+    {
+      "label": "Lower middle income",
+      "value": "72",
+      "value_numeric": 72.0,
+      "element_bbox": [
+        502,
+        311,
+        521,
+        801
+      ],
+      "value_bbox": [
+        505,
+        295,
+        518,
+        311
+      ]
+    },
+    {
+      "label": "Lower middle income",
+      "value": "68",
+      "value_numeric": 68.0,
+      "element_bbox": [
+        526,
+        339,
+        544,
+        801
+      ],
+      "value_bbox": [
+        529,
+        322,
+        541,
+        339
+      ]
+    },
+    {
+      "label": "Lower middle income",
+      "value": "71",
+      "value_numeric": 71.0,
+      "element_bbox": [
+        549,
+        318,
+        567,
+        801
+      ],
+      "value_bbox": [
+        552,
+        302,
+        564,
+        318
+      ]
+    },
+    {
+      "label": "Lower middle income",
+      "value": "56",
+      "value_numeric": 56.0,
+      "element_bbox": [
+        572,
+        420,
+        591,
+        801
+      ],
+      "value_bbox": [
+        575,
+        404,
+        587,
+        420
+      ]
+    },
+    {
+      "label": "Lower middle income",
+      "value": "66",
+      "value_numeric": 66.0,
+      "element_bbox": [
+        595,
+        352,
+        614,
+        801
+      ],
+      "value_bbox": [
+        598,
+        336,
+        611,
+        352
+      ]
+    },
+    {
+      "label": "Lower middle income",
+      "value": "74",
+      "value_numeric": 74.0,
+      "element_bbox": [
+        618,
+        298,
+        637,
+        801
+      ],
+      "value_bbox": [
+        621,
+        282,
+        634,
+        298
+      ]
+    },
+    {
+      "label": "Low income",
+      "value": "43",
+      "value_numeric": 43.0,
+      "element_bbox": [
+        642,
+        509,
+        660,
+        801
+      ],
+      "value_bbox": [
+        645,
+        492,
+        657,
+        509
+      ]
+    },
+    {
+      "label": "Low income",
+      "value": "60",
+      "value_numeric": 60.0,
+      "element_bbox": [
+        665,
+        393,
+        683,
+        801
+      ],
+      "value_bbox": [
+        668,
+        377,
+        680,
+        393
+      ]
+    },
+    {
+      "label": "Low income",
+      "value": "51",
+      "value_numeric": 51.0,
+      "element_bbox": [
+        688,
+        454,
+        706,
+        801
+      ],
+      "value_bbox": [
+        691,
+        438,
+        703,
+        454
+      ]
+    },
+    {
+      "label": "Low income",
+      "value": "55",
+      "value_numeric": 55.0,
+      "element_bbox": [
+        711,
+        427,
+        730,
+        801
+      ],
+      "value_bbox": [
+        714,
+        411,
+        727,
+        427
+      ]
+    },
+    {
+      "label": "Low income",
+      "value": "41",
+      "value_numeric": 41.0,
+      "element_bbox": [
+        734,
+        522,
+        753,
+        801
+      ],
+      "value_bbox": [
+        737,
+        506,
+        750,
+        522
+      ]
+    },
+    {
+      "label": "Low income",
+      "value": "57",
+      "value_numeric": 57.0,
+      "element_bbox": [
+        757,
+        413,
+        776,
+        801
+      ],
+      "value_bbox": [
+        760,
+        397,
+        773,
+        413
+      ]
+    },
+    {
+      "label": "Low income",
+      "value": "44",
+      "value_numeric": 44.0,
+      "element_bbox": [
+        781,
+        502,
+        799,
+        801
+      ],
+      "value_bbox": [
+        784,
+        486,
+        796,
+        502
+      ]
+    },
+    {
+      "label": "Low income",
+      "value": "48",
+      "value_numeric": 48.0,
+      "element_bbox": [
+        804,
+        475,
+        822,
+        801
+      ],
+      "value_bbox": [
+        807,
+        458,
+        819,
+        475
+      ]
+    }
+  ]
+}

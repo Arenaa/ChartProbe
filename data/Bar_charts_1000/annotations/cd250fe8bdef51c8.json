@@ -1,0 +1,95 @@
+{
+  "chart_id": "cd250fe8bdef51c8",
+  "chart_type": "Bar Chart",
+  "image_width": 2951,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Northern Europe",
+      "value": "46.0",
+      "value_numeric": 46.0,
+      "element_bbox": [
+        160,
+        106,
+        943,
+        233
+      ],
+      "value_bbox": [
+        951,
+        158,
+        982,
+        180
+      ]
+    },
+    {
+      "label": "Western Europe",
+      "value": "43.9",
+      "value_numeric": 43.9,
+      "element_bbox": [
+        160,
+        264,
+        907,
+        391
+      ],
+      "value_bbox": [
+        915,
+        317,
+        946,
+        339
+      ]
+    },
+    {
+      "label": "Southern Europe",
+      "value": "40.6",
+      "value_numeric": 40.6,
+      "element_bbox": [
+        160,
+        423,
+        851,
+        550
+      ],
+      "value_bbox": [
+        859,
+        476,
+        890,
+        498
+      ]
+    },
+    {
+      "label": "MENA",
+      "value": "37.9",
+      "value_numeric": 37.9,
+      "element_bbox": [
+        160,
+        582,
+        804,
+        709
+      ],
+      "value_bbox": [
+        813,
+        635,
+        843,
+        656
+      ]
+    },
+    {
+      "label": "Balkans",
+      "value": "34.6",
+      "value_numeric": 34.6,
+      "element_bbox": [
+        160,
+        741,
+        750,
+        868
+      ],
+      "value_bbox": [
+        758,
+        794,
+        788,
+        815
+      ]
+    }
+  ]
+}

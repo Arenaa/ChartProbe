@@ -1,0 +1,163 @@
+{
+  "chart_id": "b2ad9d819c8ba4d5",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1745,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Electricity Access",
+      "value": "99.1",
+      "value_numeric": 99.1,
+      "element_bbox": [
+        94,
+        117,
+        173,
+        658
+      ],
+      "value_bbox": [
+        118,
+        95,
+        149,
+        117
+      ]
+    },
+    {
+      "label": "Clean Cooking Fuels",
+      "value": "96.3",
+      "value_numeric": 96.3,
+      "element_bbox": [
+        193,
+        132,
+        273,
+        658
+      ],
+      "value_bbox": [
+        218,
+        110,
+        249,
+        132
+      ]
+    },
+    {
+      "label": "Renewable Energy Use",
+      "value": "91.1",
+      "value_numeric": 91.1,
+      "element_bbox": [
+        293,
+        160,
+        373,
+        658
+      ],
+      "value_bbox": [
+        318,
+        139,
+        349,
+        160
+      ]
+    },
+    {
+      "label": "Industrial Renewable Energy",
+      "value": "31.7",
+      "value_numeric": 31.7,
+      "element_bbox": [
+        393,
+        485,
+        473,
+        658
+      ],
+      "value_bbox": [
+        418,
+        463,
+        448,
+        485
+      ]
+    },
+    {
+      "label": "Transport Renewable Energy",
+      "value": "23.9",
+      "value_numeric": 23.9,
+      "element_bbox": [
+        493,
+        527,
+        573,
+        658
+      ],
+      "value_bbox": [
+        517,
+        506,
+        548,
+        527
+      ]
+    },
+    {
+      "label": "Heating Renewable Energy",
+      "value": "15.9",
+      "value_numeric": 15.9,
+      "element_bbox": [
+        593,
+        571,
+        673,
+        658
+      ],
+      "value_bbox": [
+        617,
+        550,
+        648,
+        571
+      ]
+    },
+    {
+      "label": "Battery Storage Services",
+      "value": "8.0",
+      "value_numeric": 8.0,
+      "element_bbox": [
+        693,
+        614,
+        772,
+        658
+      ],
+      "value_bbox": [
+        721,
+        593,
+        744,
+        614
+      ]
+    },
+    {
+      "label": "Smart Grid Services",
+      "value": "6.5",
+      "value_numeric": 6.5,
+      "element_bbox": [
+        792,
+        623,
+        872,
+        658
+      ],
+      "value_bbox": [
+        821,
+        601,
+        843,
+        623
+      ]
+    },
+    {
+      "label": "Hydrogen Fuel Services",
+      "value": "4.3",
+      "value_numeric": 4.3,
+      "element_bbox": [
+        892,
+        635,
+        972,
+        658
+      ],
+      "value_bbox": [
+        921,
+        613,
+        943,
+        635
+      ]
+    }
+  ]
+}

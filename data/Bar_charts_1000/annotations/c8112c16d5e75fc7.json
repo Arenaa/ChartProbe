@@ -1,0 +1,95 @@
+{
+  "chart_id": "c8112c16d5e75fc7",
+  "chart_type": "Bar Chart",
+  "image_width": 2646,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "≥12 kcal/day",
+      "value": "8",
+      "value_numeric": 8.0,
+      "element_bbox": [
+        109,
+        330,
+        251,
+        870
+      ],
+      "value_bbox": [
+        176,
+        308,
+        185,
+        330
+      ]
+    },
+    {
+      "label": "10–12 kcal/day",
+      "value": "5",
+      "value_numeric": 5.0,
+      "element_bbox": [
+        287,
+        532,
+        429,
+        870
+      ],
+      "value_bbox": [
+        353,
+        510,
+        363,
+        532
+      ]
+    },
+    {
+      "label": "8–10 kcal/day",
+      "value": "4",
+      "value_numeric": 4.0,
+      "element_bbox": [
+        465,
+        600,
+        607,
+        870
+      ],
+      "value_bbox": [
+        531,
+        578,
+        541,
+        600
+      ]
+    },
+    {
+      "label": "6–8 kcal/day",
+      "value": "11",
+      "value_numeric": 11.0,
+      "element_bbox": [
+        642,
+        127,
+        785,
+        870
+      ],
+      "value_bbox": [
+        704,
+        105,
+        723,
+        127
+      ]
+    },
+    {
+      "label": "<6 kcal/day",
+      "value": "10",
+      "value_numeric": 10.0,
+      "element_bbox": [
+        820,
+        194,
+        962,
+        870
+      ],
+      "value_bbox": [
+        881,
+        173,
+        901,
+        194
+      ]
+    }
+  ]
+}

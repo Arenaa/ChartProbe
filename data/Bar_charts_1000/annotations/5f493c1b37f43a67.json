@@ -1,0 +1,163 @@
+{
+  "chart_id": "5f493c1b37f43a67",
+  "chart_type": "Bar Chart",
+  "image_width": 3649,
+  "image_height": 2049,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "MENA",
+      "value": "0.02",
+      "value_numeric": 0.02,
+      "element_bbox": [
+        94,
+        110,
+        174,
+        160
+      ],
+      "value_bbox": [
+        183,
+        126,
+        209,
+        145
+      ]
+    },
+    {
+      "label": "Europe",
+      "value": "0.02",
+      "value_numeric": 0.02,
+      "element_bbox": [
+        194,
+        115,
+        275,
+        160
+      ],
+      "value_bbox": [
+        283,
+        128,
+        309,
+        147
+      ]
+    },
+    {
+      "label": "Central America",
+      "value": "0.00",
+      "value_numeric": 0.0,
+      "element_bbox": [
+        295,
+        150,
+        375,
+        160
+      ],
+      "value_bbox": [
+        383,
+        146,
+        409,
+        164
+      ]
+    },
+    {
+      "label": "Caribbean",
+      "value": "-0.05",
+      "value_numeric": -0.05,
+      "element_bbox": [
+        395,
+        160,
+        475,
+        264
+      ],
+      "value_bbox": [
+        483,
+        203,
+        513,
+        221
+      ]
+    },
+    {
+      "label": "South America",
+      "value": "-0.07",
+      "value_numeric": -0.07,
+      "element_bbox": [
+        495,
+        160,
+        575,
+        314
+      ],
+      "value_bbox": [
+        583,
+        228,
+        613,
+        246
+      ]
+    },
+    {
+      "label": "Asia",
+      "value": "-0.14",
+      "value_numeric": -0.14,
+      "element_bbox": [
+        595,
+        160,
+        675,
+        442
+      ],
+      "value_bbox": [
+        683,
+        292,
+        713,
+        310
+      ]
+    },
+    {
+      "label": "Australasia",
+      "value": "-0.18",
+      "value_numeric": -0.18,
+      "element_bbox": [
+        695,
+        160,
+        775,
+        545
+      ],
+      "value_bbox": [
+        783,
+        343,
+        813,
+        362
+      ]
+    },
+    {
+      "label": "Africa",
+      "value": "-0.20",
+      "value_numeric": -0.2,
+      "element_bbox": [
+        795,
+        160,
+        875,
+        576
+      ],
+      "value_bbox": [
+        883,
+        359,
+        914,
+        377
+      ]
+    },
+    {
+      "label": "North America",
+      "value": "-0.28",
+      "value_numeric": -0.28,
+      "element_bbox": [
+        895,
+        160,
+        975,
+        750
+      ],
+      "value_bbox": [
+        983,
+        446,
+        1000,
+        464
+      ]
+    }
+  ]
+}

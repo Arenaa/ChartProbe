@@ -1,0 +1,146 @@
+{
+  "chart_id": "cadf6a2fd0305226",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1745,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Italy",
+      "value": "14.00",
+      "value_numeric": 14.0,
+      "element_bbox": [
+        85,
+        119,
+        176,
+        712
+      ],
+      "value_bbox": [
+        111,
+        98,
+        151,
+        119
+      ]
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "11.67",
+      "value_numeric": 11.67,
+      "element_bbox": [
+        199,
+        218,
+        290,
+        712
+      ],
+      "value_bbox": [
+        224,
+        196,
+        264,
+        218
+      ]
+    },
+    {
+      "label": "France",
+      "value": "10.58",
+      "value_numeric": 10.58,
+      "element_bbox": [
+        312,
+        264,
+        403,
+        712
+      ],
+      "value_bbox": [
+        338,
+        242,
+        378,
+        264
+      ]
+    },
+    {
+      "label": "Canada",
+      "value": "10.18",
+      "value_numeric": 10.18,
+      "element_bbox": [
+        426,
+        281,
+        517,
+        712
+      ],
+      "value_bbox": [
+        451,
+        259,
+        491,
+        281
+      ]
+    },
+    {
+      "label": "Spain",
+      "value": "9.60",
+      "value_numeric": 9.6,
+      "element_bbox": [
+        539,
+        306,
+        630,
+        712
+      ],
+      "value_bbox": [
+        569,
+        284,
+        600,
+        306
+      ]
+    },
+    {
+      "label": "Israel",
+      "value": "9.33",
+      "value_numeric": 9.33,
+      "element_bbox": [
+        653,
+        317,
+        744,
+        712
+      ],
+      "value_bbox": [
+        683,
+        295,
+        714,
+        317
+      ]
+    },
+    {
+      "label": "Portugal",
+      "value": "8.83",
+      "value_numeric": 8.83,
+      "element_bbox": [
+        766,
+        338,
+        857,
+        712
+      ],
+      "value_bbox": [
+        796,
+        316,
+        827,
+        338
+      ]
+    },
+    {
+      "label": "Colombia",
+      "value": "4.28",
+      "value_numeric": 4.28,
+      "element_bbox": [
+        880,
+        531,
+        971,
+        712
+      ],
+      "value_bbox": [
+        910,
+        509,
+        941,
+        531
+      ]
+    }
+  ]
+}

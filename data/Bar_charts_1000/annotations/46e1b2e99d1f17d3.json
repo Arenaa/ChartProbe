@@ -1,0 +1,95 @@
+{
+  "chart_id": "46e1b2e99d1f17d3",
+  "chart_type": "Bar Chart",
+  "image_width": 2763,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Canada",
+      "value": "12.5",
+      "value_numeric": 12.5,
+      "element_bbox": [
+        125,
+        738,
+        518,
+        855
+      ],
+      "value_bbox": [
+        525,
+        786,
+        556,
+        808
+      ]
+    },
+    {
+      "label": "Belgium",
+      "value": "12.0",
+      "value_numeric": 12.0,
+      "element_bbox": [
+        125,
+        593,
+        502,
+        709
+      ],
+      "value_bbox": [
+        510,
+        640,
+        541,
+        662
+      ]
+    },
+    {
+      "label": "Bangladesh",
+      "value": "23.5",
+      "value_numeric": 23.5,
+      "element_bbox": [
+        125,
+        447,
+        863,
+        563
+      ],
+      "value_bbox": [
+        871,
+        494,
+        902,
+        516
+      ]
+    },
+    {
+      "label": "Austria",
+      "value": "10.5",
+      "value_numeric": 10.5,
+      "element_bbox": [
+        125,
+        301,
+        455,
+        418
+      ],
+      "value_bbox": [
+        463,
+        348,
+        494,
+        370
+      ]
+    },
+    {
+      "label": "Australia",
+      "value": "8.5",
+      "value_numeric": 8.5,
+      "element_bbox": [
+        125,
+        155,
+        392,
+        272
+      ],
+      "value_bbox": [
+        400,
+        203,
+        422,
+        224
+      ]
+    }
+  ]
+}

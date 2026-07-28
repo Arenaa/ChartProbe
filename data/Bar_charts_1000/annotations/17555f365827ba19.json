@@ -1,0 +1,78 @@
+{
+  "chart_id": "17555f365827ba19",
+  "chart_type": "Bar Chart",
+  "image_width": 2346,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Fiber Broadband",
+      "value": "77.5",
+      "value_numeric": 77.5,
+      "element_bbox": [
+        133,
+        193,
+        302,
+        884
+      ],
+      "value_bbox": [
+        198,
+        172,
+        237,
+        193
+      ]
+    },
+    {
+      "label": "Mobile",
+      "value": "46.2",
+      "value_numeric": 46.2,
+      "element_bbox": [
+        345,
+        472,
+        514,
+        884
+      ],
+      "value_bbox": [
+        410,
+        450,
+        449,
+        472
+      ]
+    },
+    {
+      "label": "Landline",
+      "value": "16.8",
+      "value_numeric": 16.8,
+      "element_bbox": [
+        556,
+        734,
+        726,
+        884
+      ],
+      "value_bbox": [
+        622,
+        712,
+        660,
+        734
+      ]
+    },
+    {
+      "label": "Fixed Wireless",
+      "value": "9.3",
+      "value_numeric": 9.3,
+      "element_bbox": [
+        768,
+        801,
+        937,
+        884
+      ],
+      "value_bbox": [
+        839,
+        779,
+        866,
+        801
+      ]
+    }
+  ]
+}

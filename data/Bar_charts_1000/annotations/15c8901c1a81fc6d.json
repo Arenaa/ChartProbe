@@ -1,0 +1,146 @@
+{
+  "chart_id": "15c8901c1a81fc6d",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1745,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "All Managers",
+      "value": "150.0",
+      "value_numeric": 150.0,
+      "element_bbox": [
+        125,
+        171,
+        208,
+        736
+      ],
+      "value_bbox": [
+        147,
+        149,
+        186,
+        171
+      ]
+    },
+    {
+      "label": "Male",
+      "value": "162.2",
+      "value_numeric": 162.2,
+      "element_bbox": [
+        229,
+        125,
+        313,
+        736
+      ],
+      "value_bbox": [
+        251,
+        103,
+        291,
+        125
+      ]
+    },
+    {
+      "label": "Female",
+      "value": "136.2",
+      "value_numeric": 136.2,
+      "element_bbox": [
+        334,
+        223,
+        418,
+        736
+      ],
+      "value_bbox": [
+        356,
+        201,
+        396,
+        223
+      ]
+    },
+    {
+      "label": "Non-binary/Undisclosed",
+      "value": "130.2",
+      "value_numeric": 130.2,
+      "element_bbox": [
+        439,
+        245,
+        522,
+        736
+      ],
+      "value_bbox": [
+        461,
+        224,
+        500,
+        245
+      ]
+    },
+    {
+      "label": "Non-binary",
+      "value": "154.2",
+      "value_numeric": 154.2,
+      "element_bbox": [
+        543,
+        155,
+        627,
+        736
+      ],
+      "value_bbox": [
+        565,
+        133,
+        605,
+        155
+      ]
+    },
+    {
+      "label": "Prefer not to say",
+      "value": "116.2",
+      "value_numeric": 116.2,
+      "element_bbox": [
+        648,
+        298,
+        732,
+        736
+      ],
+      "value_bbox": [
+        670,
+        276,
+        710,
+        298
+      ]
+    },
+    {
+      "label": "Gender Diverse",
+      "value": "138.2",
+      "value_numeric": 138.2,
+      "element_bbox": [
+        753,
+        215,
+        836,
+        736
+      ],
+      "value_bbox": [
+        775,
+        194,
+        814,
+        215
+      ]
+    },
+    {
+      "label": "Transgender",
+      "value": "128.2",
+      "value_numeric": 128.2,
+      "element_bbox": [
+        857,
+        253,
+        941,
+        736
+      ],
+      "value_bbox": [
+        879,
+        231,
+        919,
+        253
+      ]
+    }
+  ]
+}

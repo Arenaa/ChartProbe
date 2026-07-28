@@ -1,0 +1,112 @@
+{
+  "chart_id": "331824524a739f2e",
+  "chart_type": "Bar Chart",
+  "image_width": 2941,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Midwest",
+      "value": "27.51",
+      "value_numeric": 27.51,
+      "element_bbox": [
+        134,
+        103,
+        933,
+        209
+      ],
+      "value_bbox": [
+        941,
+        145,
+        981,
+        167
+      ]
+    },
+    {
+      "label": "Mountain",
+      "value": "26.68",
+      "value_numeric": 26.68,
+      "element_bbox": [
+        134,
+        235,
+        908,
+        341
+      ],
+      "value_bbox": [
+        917,
+        277,
+        956,
+        299
+      ]
+    },
+    {
+      "label": "Northeast",
+      "value": "26.05",
+      "value_numeric": 26.05,
+      "element_bbox": [
+        134,
+        368,
+        890,
+        474
+      ],
+      "value_bbox": [
+        898,
+        410,
+        938,
+        431
+      ]
+    },
+    {
+      "label": "Northwest",
+      "value": "25.05",
+      "value_numeric": 25.05,
+      "element_bbox": [
+        134,
+        500,
+        861,
+        606
+      ],
+      "value_bbox": [
+        869,
+        542,
+        909,
+        564
+      ]
+    },
+    {
+      "label": "Central",
+      "value": "24.05",
+      "value_numeric": 24.05,
+      "element_bbox": [
+        134,
+        632,
+        832,
+        738
+      ],
+      "value_bbox": [
+        840,
+        674,
+        880,
+        696
+      ]
+    },
+    {
+      "label": "Southeast",
+      "value": "23.05",
+      "value_numeric": 23.05,
+      "element_bbox": [
+        134,
+        765,
+        803,
+        871
+      ],
+      "value_bbox": [
+        811,
+        807,
+        851,
+        828
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "chart_id": "8eb2e21d30abfa2a",
+  "chart_type": "Bar Chart",
+  "image_width": 2957,
+  "image_height": 1764,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Oman",
+      "value": "55",
+      "value_numeric": 55.0,
+      "element_bbox": [
+        116,
+        637,
+        383,
+        851
+      ],
+      "value_bbox": [
+        390,
+        733,
+        408,
+        755
+      ]
+    },
+    {
+      "label": "Pakistan",
+      "value": "62",
+      "value_numeric": 62.0,
+      "element_bbox": [
+        116,
+        369,
+        810,
+        583
+      ],
+      "value_bbox": [
+        817,
+        465,
+        835,
+        487
+      ]
+    },
+    {
+      "label": "Panama",
+      "value": "22",
+      "value_numeric": 22.0,
+      "element_bbox": [
+        116,
+        101,
+        735,
+        316
+      ],
+      "value_bbox": [
+        743,
+        198,
+        760,
+        219
+      ]
+    }
+  ]
+}

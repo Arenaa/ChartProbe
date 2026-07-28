@@ -1,0 +1,163 @@
+{
+  "chart_id": "489adc86f0bf1d28",
+  "chart_type": "Bar Chart",
+  "image_width": 2952,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Urban",
+      "value": "100.0",
+      "value_numeric": 100.0,
+      "element_bbox": [
+        121,
+        99,
+        922,
+        169
+      ],
+      "value_bbox": [
+        930,
+        123,
+        969,
+        145
+      ]
+    },
+    {
+      "label": "Rural",
+      "value": "98.2",
+      "value_numeric": 98.2,
+      "element_bbox": [
+        121,
+        187,
+        907,
+        257
+      ],
+      "value_bbox": [
+        915,
+        211,
+        946,
+        233
+      ]
+    },
+    {
+      "label": "Suburban",
+      "value": "100.0",
+      "value_numeric": 100.0,
+      "element_bbox": [
+        121,
+        275,
+        922,
+        346
+      ],
+      "value_bbox": [
+        930,
+        299,
+        969,
+        321
+      ]
+    },
+    {
+      "label": "Urban",
+      "value": "100.0",
+      "value_numeric": 100.0,
+      "element_bbox": [
+        121,
+        363,
+        922,
+        434
+      ],
+      "value_bbox": [
+        930,
+        388,
+        969,
+        409
+      ]
+    },
+    {
+      "label": "Coastal",
+      "value": "99.3",
+      "value_numeric": 99.3,
+      "element_bbox": [
+        121,
+        451,
+        916,
+        522
+      ],
+      "value_bbox": [
+        924,
+        476,
+        955,
+        498
+      ]
+    },
+    {
+      "label": "Mountain",
+      "value": "5.2",
+      "value_numeric": 5.2,
+      "element_bbox": [
+        121,
+        540,
+        163,
+        610
+      ],
+      "value_bbox": [
+        171,
+        564,
+        193,
+        586
+      ]
+    },
+    {
+      "label": "Highland",
+      "value": "3.2",
+      "value_numeric": 3.2,
+      "element_bbox": [
+        121,
+        628,
+        147,
+        698
+      ],
+      "value_bbox": [
+        155,
+        652,
+        177,
+        674
+      ]
+    },
+    {
+      "label": "Plateau",
+      "value": "2.2",
+      "value_numeric": 2.2,
+      "element_bbox": [
+        121,
+        716,
+        139,
+        787
+      ],
+      "value_bbox": [
+        147,
+        741,
+        169,
+        762
+      ]
+    },
+    {
+      "label": "Riverine",
+      "value": "52.2",
+      "value_numeric": 52.2,
+      "element_bbox": [
+        121,
+        804,
+        540,
+        875
+      ],
+      "value_bbox": [
+        548,
+        829,
+        579,
+        850
+      ]
+    }
+  ]
+}

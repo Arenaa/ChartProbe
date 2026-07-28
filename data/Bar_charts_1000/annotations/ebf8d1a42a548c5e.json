@@ -1,0 +1,78 @@
+{
+  "chart_id": "ebf8d1a42a548c5e",
+  "chart_type": "Bar Chart",
+  "image_width": 1874,
+  "image_height": 1381,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Latin America(all income levels)",
+      "value": "7.3",
+      "value_numeric": 7.3,
+      "element_bbox": [
+        242,
+        121,
+        388,
+        502
+      ],
+      "value_bbox": [
+        298,
+        93,
+        332,
+        121
+      ]
+    },
+    {
+      "label": "Latin America(developing only)",
+      "value": "7.1",
+      "value_numeric": 7.1,
+      "element_bbox": [
+        425,
+        131,
+        571,
+        502
+      ],
+      "value_bbox": [
+        481,
+        104,
+        515,
+        131
+      ]
+    },
+    {
+      "label": "Heavily indebted poor countries",
+      "value": "6.5",
+      "value_numeric": 6.5,
+      "element_bbox": [
+        608,
+        162,
+        754,
+        502
+      ],
+      "value_bbox": [
+        664,
+        135,
+        698,
+        162
+      ]
+    },
+    {
+      "label": "Low & middle income",
+      "value": "5.8",
+      "value_numeric": 5.8,
+      "element_bbox": [
+        791,
+        199,
+        937,
+        502
+      ],
+      "value_bbox": [
+        847,
+        172,
+        881,
+        199
+      ]
+    }
+  ]
+}

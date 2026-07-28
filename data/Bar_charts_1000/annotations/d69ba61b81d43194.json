@@ -1,0 +1,231 @@
+{
+  "chart_id": "d69ba61b81d43194",
+  "chart_type": "Bar Chart",
+  "image_width": 3545,
+  "image_height": 2050,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "2001",
+      "value": "93",
+      "value_numeric": 93.0,
+      "element_bbox": [
+        75,
+        208,
+        83,
+        900
+      ],
+      "value_bbox": [
+        72,
+        190,
+        87,
+        208
+      ]
+    },
+    {
+      "label": "2002",
+      "value": "95",
+      "value_numeric": 95.0,
+      "element_bbox": [
+        133,
+        180,
+        141,
+        900
+      ],
+      "value_bbox": [
+        130,
+        162,
+        145,
+        180
+      ]
+    },
+    {
+      "label": "2003",
+      "value": "96",
+      "value_numeric": 96.0,
+      "element_bbox": [
+        191,
+        215,
+        199,
+        900
+      ],
+      "value_bbox": [
+        188,
+        197,
+        202,
+        215
+      ]
+    },
+    {
+      "label": "2004",
+      "value": "98",
+      "value_numeric": 98.0,
+      "element_bbox": [
+        249,
+        208,
+        257,
+        900
+      ],
+      "value_bbox": [
+        246,
+        190,
+        260,
+        208
+      ]
+    },
+    {
+      "label": "2005",
+      "value": "99",
+      "value_numeric": 99.0,
+      "element_bbox": [
+        307,
+        180,
+        315,
+        900
+      ],
+      "value_bbox": [
+        304,
+        162,
+        318,
+        180
+      ]
+    },
+    {
+      "label": "2006",
+      "value": "101",
+      "value_numeric": 101.0,
+      "element_bbox": [
+        365,
+        173,
+        373,
+        900
+      ],
+      "value_bbox": [
+        358,
+        155,
+        380,
+        173
+      ]
+    },
+    {
+      "label": "2007",
+      "value": "102",
+      "value_numeric": 102.0,
+      "element_bbox": [
+        423,
+        166,
+        431,
+        900
+      ],
+      "value_bbox": [
+        416,
+        148,
+        438,
+        166
+      ]
+    },
+    {
+      "label": "2008",
+      "value": "103",
+      "value_numeric": 103.0,
+      "element_bbox": [
+        481,
+        159,
+        489,
+        900
+      ],
+      "value_bbox": [
+        474,
+        141,
+        496,
+        159
+      ]
+    },
+    {
+      "label": "2009",
+      "value": "104",
+      "value_numeric": 104.0,
+      "element_bbox": [
+        539,
+        152,
+        547,
+        900
+      ],
+      "value_bbox": [
+        532,
+        134,
+        554,
+        152
+      ]
+    },
+    {
+      "label": "2010",
+      "value": "106",
+      "value_numeric": 106.0,
+      "element_bbox": [
+        597,
+        138,
+        605,
+        900
+      ],
+      "value_bbox": [
+        590,
+        120,
+        612,
+        138
+      ]
+    },
+    {
+      "label": "2011",
+      "value": "107",
+      "value_numeric": 107.0,
+      "element_bbox": [
+        655,
+        131,
+        663,
+        900
+      ],
+      "value_bbox": [
+        648,
+        113,
+        670,
+        131
+      ]
+    },
+    {
+      "label": "2012",
+      "value": "108",
+      "value_numeric": 108.0,
+      "element_bbox": [
+        713,
+        124,
+        721,
+        900
+      ],
+      "value_bbox": [
+        706,
+        106,
+        728,
+        124
+      ]
+    },
+    {
+      "label": "2013",
+      "value": "109",
+      "value_numeric": 109.0,
+      "element_bbox": [
+        771,
+        117,
+        779,
+        900
+      ],
+      "value_bbox": [
+        764,
+        99,
+        786,
+        117
+      ]
+    }
+  ]
+}

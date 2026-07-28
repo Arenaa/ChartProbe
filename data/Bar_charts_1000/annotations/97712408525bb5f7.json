@@ -1,0 +1,112 @@
+{
+  "chart_id": "97712408525bb5f7",
+  "chart_type": "Bar Chart",
+  "image_width": 3663,
+  "image_height": 2373,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Mauritania",
+      "value": "15000000",
+      "value_numeric": 15000000.0,
+      "element_bbox": [
+        104,
+        838,
+        946,
+        888
+      ],
+      "value_bbox": [
+        955,
+        855,
+        1000,
+        871
+      ]
+    },
+    {
+      "label": "Mexico",
+      "value": "48000000",
+      "value_numeric": 48000000.0,
+      "element_bbox": [
+        104,
+        697,
+        107,
+        746
+      ],
+      "value_bbox": [
+        116,
+        713,
+        174,
+        730
+      ]
+    },
+    {
+      "label": "Morocco",
+      "value": "5000000",
+      "value_numeric": 5000000.0,
+      "element_bbox": [
+        104,
+        555,
+        222,
+        605
+      ],
+      "value_bbox": [
+        231,
+        572,
+        282,
+        588
+      ]
+    },
+    {
+      "label": "Namibia",
+      "value": "15000000",
+      "value_numeric": 15000000.0,
+      "element_bbox": [
+        104,
+        414,
+        170,
+        463
+      ],
+      "value_bbox": [
+        179,
+        430,
+        237,
+        447
+      ]
+    },
+    {
+      "label": "New Zealand",
+      "value": "0",
+      "value_numeric": 0.0,
+      "element_bbox": [
+        104,
+        272,
+        532,
+        322
+      ],
+      "value_bbox": [
+        540,
+        289,
+        548,
+        305
+      ]
+    },
+    {
+      "label": "Peru",
+      "value": "82000000",
+      "value_numeric": 82000000.0,
+      "element_bbox": [
+        104,
+        131,
+        203,
+        180
+      ],
+      "value_bbox": [
+        211,
+        147,
+        270,
+        164
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "chart_id": "1aeed29ab0c2d388",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1741,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "芬兰",
+      "value": "7.5e+10",
+      "value_numeric": 75000000000.0,
+      "element_bbox": [
+        106,
+        740,
+        157,
+        740
+      ],
+      "value_bbox": [
+        166,
+        730,
+        225,
+        751
+      ]
+    },
+    {
+      "label": "法国",
+      "value": "6.7e+11",
+      "value_numeric": 670000000000.0,
+      "element_bbox": [
+        253,
+        740,
+        304,
+        740
+      ],
+      "value_bbox": [
+        312,
+        730,
+        371,
+        751
+      ]
+    }
+  ]
+}

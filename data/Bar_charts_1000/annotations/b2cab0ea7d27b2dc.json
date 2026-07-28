@@ -1,0 +1,231 @@
+{
+  "chart_id": "b2cab0ea7d27b2dc",
+  "chart_type": "Bar Chart",
+  "image_width": 3547,
+  "image_height": 2349,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Planning",
+      "value": "550",
+      "value_numeric": 550.0,
+      "element_bbox": [
+        76,
+        135,
+        100,
+        782
+      ],
+      "value_bbox": [
+        77,
+        119,
+        99,
+        135
+      ]
+    },
+    {
+      "label": "Permitting",
+      "value": "450",
+      "value_numeric": 450.0,
+      "element_bbox": [
+        136,
+        252,
+        160,
+        782
+      ],
+      "value_bbox": [
+        137,
+        236,
+        159,
+        252
+      ]
+    },
+    {
+      "label": "Site Clearance",
+      "value": "85",
+      "value_numeric": 85.0,
+      "element_bbox": [
+        196,
+        689,
+        220,
+        782
+      ],
+      "value_bbox": [
+        201,
+        673,
+        216,
+        689
+      ]
+    },
+    {
+      "label": "Foundation",
+      "value": "235",
+      "value_numeric": 235.0,
+      "element_bbox": [
+        257,
+        517,
+        281,
+        782
+      ],
+      "value_bbox": [
+        258,
+        501,
+        280,
+        517
+      ]
+    },
+    {
+      "label": "Structure",
+      "value": "345",
+      "value_numeric": 345.0,
+      "element_bbox": [
+        317,
+        382,
+        341,
+        782
+      ],
+      "value_bbox": [
+        318,
+        365,
+        340,
+        382
+      ]
+    },
+    {
+      "label": "Systems Installation",
+      "value": "175",
+      "value_numeric": 175.0,
+      "element_bbox": [
+        377,
+        591,
+        401,
+        782
+      ],
+      "value_bbox": [
+        378,
+        575,
+        400,
+        591
+      ]
+    },
+    {
+      "label": "Inspection",
+      "value": "285",
+      "value_numeric": 285.0,
+      "element_bbox": [
+        437,
+        455,
+        462,
+        782
+      ],
+      "value_bbox": [
+        439,
+        439,
+        460,
+        455
+      ]
+    },
+    {
+      "label": "Commissioning",
+      "value": "175",
+      "value_numeric": 175.0,
+      "element_bbox": [
+        498,
+        579,
+        522,
+        782
+      ],
+      "value_bbox": [
+        499,
+        562,
+        521,
+        579
+      ]
+    },
+    {
+      "label": "Handover",
+      "value": "100",
+      "value_numeric": 100.0,
+      "element_bbox": [
+        558,
+        671,
+        582,
+        782
+      ],
+      "value_bbox": [
+        559,
+        655,
+        581,
+        671
+      ]
+    },
+    {
+      "label": "Rehabilitation",
+      "value": "50",
+      "value_numeric": 50.0,
+      "element_bbox": [
+        618,
+        730,
+        642,
+        782
+      ],
+      "value_bbox": [
+        623,
+        714,
+        638,
+        730
+      ]
+    },
+    {
+      "label": "Decommissioning",
+      "value": "18",
+      "value_numeric": 18.0,
+      "element_bbox": [
+        679,
+        766,
+        703,
+        782
+      ],
+      "value_bbox": [
+        683,
+        749,
+        698,
+        766
+      ]
+    },
+    {
+      "label": "Project Closeout",
+      "value": "27",
+      "value_numeric": 27.0,
+      "element_bbox": [
+        739,
+        755,
+        763,
+        782
+      ],
+      "value_bbox": [
+        744,
+        738,
+        758,
+        755
+      ]
+    },
+    {
+      "label": "Warranty",
+      "value": "8",
+      "value_numeric": 8.0,
+      "element_bbox": [
+        799,
+        775,
+        823,
+        782
+      ],
+      "value_bbox": [
+        808,
+        759,
+        815,
+        775
+      ]
+    }
+  ]
+}

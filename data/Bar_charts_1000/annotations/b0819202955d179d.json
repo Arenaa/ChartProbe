@@ -1,0 +1,503 @@
+{
+  "chart_id": "b0819202955d179d",
+  "chart_type": "Bar Chart",
+  "image_width": 3315,
+  "image_height": 4146,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Conflict Zones",
+      "value": "0.583",
+      "value_numeric": 0.583,
+      "element_bbox": [
+        156,
+        42,
+        718,
+        54
+      ],
+      "value_bbox": [
+        729,
+        43,
+        762,
+        53
+      ]
+    },
+    {
+      "label": "Jordan",
+      "value": "0.250",
+      "value_numeric": 0.25,
+      "element_bbox": [
+        156,
+        73,
+        397,
+        86
+      ],
+      "value_bbox": [
+        260,
+        76,
+        293,
+        86
+      ]
+    },
+    {
+      "label": "Eurozone",
+      "value": "0.166",
+      "value_numeric": 0.166,
+      "element_bbox": [
+        156,
+        104,
+        261,
+        117
+      ],
+      "value_bbox": [
+        192,
+        108,
+        225,
+        117
+      ]
+    },
+    {
+      "label": "Senegal",
+      "value": "0.049",
+      "value_numeric": 0.049,
+      "element_bbox": [
+        156,
+        136,
+        203,
+        148
+      ],
+      "value_bbox": [
+        163,
+        139,
+        196,
+        148
+      ]
+    },
+    {
+      "label": "North Africa",
+      "value": "0.098",
+      "value_numeric": 0.098,
+      "element_bbox": [
+        156,
+        167,
+        250,
+        180
+      ],
+      "value_bbox": [
+        186,
+        171,
+        219,
+        180
+      ]
+    },
+    {
+      "label": "Maghreb",
+      "value": "0.109",
+      "value_numeric": 0.109,
+      "element_bbox": [
+        156,
+        199,
+        261,
+        211
+      ],
+      "value_bbox": [
+        192,
+        202,
+        225,
+        211
+      ]
+    },
+    {
+      "label": "Middle East",
+      "value": "0.230",
+      "value_numeric": 0.23,
+      "element_bbox": [
+        156,
+        230,
+        356,
+        243
+      ],
+      "value_bbox": [
+        240,
+        234,
+        273,
+        243
+      ]
+    },
+    {
+      "label": "Central Asia",
+      "value": "0.092",
+      "value_numeric": 0.092,
+      "element_bbox": [
+        156,
+        262,
+        244,
+        274
+      ],
+      "value_bbox": [
+        184,
+        265,
+        217,
+        274
+      ]
+    },
+    {
+      "label": "Sub-Saharan Africa",
+      "value": "0.073",
+      "value_numeric": 0.073,
+      "element_bbox": [
+        156,
+        293,
+        226,
+        306
+      ],
+      "value_bbox": [
+        174,
+        296,
+        207,
+        306
+      ]
+    },
+    {
+      "label": "East Africa",
+      "value": "0.052",
+      "value_numeric": 0.052,
+      "element_bbox": [
+        156,
+        325,
+        206,
+        337
+      ],
+      "value_bbox": [
+        164,
+        328,
+        197,
+        337
+      ]
+    },
+    {
+      "label": "USA & Canada",
+      "value": "0.125",
+      "value_numeric": 0.125,
+      "element_bbox": [
+        156,
+        356,
+        230,
+        369
+      ],
+      "value_bbox": [
+        176,
+        359,
+        210,
+        369
+      ]
+    },
+    {
+      "label": "South America",
+      "value": "0.059",
+      "value_numeric": 0.059,
+      "element_bbox": [
+        156,
+        387,
+        212,
+        400
+      ],
+      "value_bbox": [
+        168,
+        391,
+        201,
+        400
+      ]
+    },
+    {
+      "label": "Latin America",
+      "value": "0.033",
+      "value_numeric": 0.033,
+      "element_bbox": [
+        156,
+        419,
+        188,
+        431
+      ],
+      "value_bbox": [
+        155,
+        422,
+        188,
+        431
+      ]
+    },
+    {
+      "label": "South Asia",
+      "value": "0.040",
+      "value_numeric": 0.04,
+      "element_bbox": [
+        156,
+        450,
+        195,
+        463
+      ],
+      "value_bbox": [
+        159,
+        454,
+        192,
+        463
+      ]
+    },
+    {
+      "label": "East Europe",
+      "value": "0.073",
+      "value_numeric": 0.073,
+      "element_bbox": [
+        156,
+        482,
+        226,
+        494
+      ],
+      "value_bbox": [
+        174,
+        485,
+        207,
+        494
+      ]
+    },
+    {
+      "label": "West Africa",
+      "value": "0.058",
+      "value_numeric": 0.058,
+      "element_bbox": [
+        156,
+        513,
+        211,
+        526
+      ],
+      "value_bbox": [
+        167,
+        516,
+        200,
+        526
+      ]
+    },
+    {
+      "label": "Central Europe",
+      "value": "0.045",
+      "value_numeric": 0.045,
+      "element_bbox": [
+        156,
+        545,
+        199,
+        557
+      ],
+      "value_bbox": [
+        161,
+        548,
+        194,
+        557
+      ]
+    },
+    {
+      "label": "Southeast Asia",
+      "value": "0.052",
+      "value_numeric": 0.052,
+      "element_bbox": [
+        156,
+        576,
+        206,
+        589
+      ],
+      "value_bbox": [
+        164,
+        579,
+        197,
+        589
+      ]
+    },
+    {
+      "label": "Caribbean",
+      "value": "0.036",
+      "value_numeric": 0.036,
+      "element_bbox": [
+        156,
+        607,
+        190,
+        620
+      ],
+      "value_bbox": [
+        157,
+        611,
+        190,
+        620
+      ]
+    },
+    {
+      "label": "North America",
+      "value": "0.067",
+      "value_numeric": 0.067,
+      "element_bbox": [
+        156,
+        639,
+        220,
+        652
+      ],
+      "value_bbox": [
+        171,
+        642,
+        205,
+        652
+      ]
+    },
+    {
+      "label": "Oceania",
+      "value": "0.038",
+      "value_numeric": 0.038,
+      "element_bbox": [
+        156,
+        670,
+        192,
+        683
+      ],
+      "value_bbox": [
+        158,
+        674,
+        191,
+        683
+      ]
+    },
+    {
+      "label": "Pacific Islands",
+      "value": "0.021",
+      "value_numeric": 0.021,
+      "element_bbox": [
+        156,
+        702,
+        176,
+        714
+      ],
+      "value_bbox": [
+        149,
+        705,
+        182,
+        714
+      ]
+    },
+    {
+      "label": "Central America",
+      "value": "0.032",
+      "value_numeric": 0.032,
+      "element_bbox": [
+        156,
+        733,
+        187,
+        746
+      ],
+      "value_bbox": [
+        155,
+        737,
+        188,
+        746
+      ]
+    },
+    {
+      "label": "Australia",
+      "value": "0.026",
+      "value_numeric": 0.026,
+      "element_bbox": [
+        156,
+        765,
+        181,
+        777
+      ],
+      "value_bbox": [
+        152,
+        768,
+        185,
+        777
+      ]
+    },
+    {
+      "label": "International Waters",
+      "value": "0.013",
+      "value_numeric": 0.013,
+      "element_bbox": [
+        156,
+        796,
+        168,
+        809
+      ],
+      "value_bbox": [
+        145,
+        799,
+        178,
+        809
+      ]
+    },
+    {
+      "label": "Greenland",
+      "value": "0.007",
+      "value_numeric": 0.007,
+      "element_bbox": [
+        156,
+        828,
+        167,
+        840
+      ],
+      "value_bbox": [
+        145,
+        831,
+        178,
+        840
+      ]
+    },
+    {
+      "label": "Antarctic Region",
+      "value": "0.008",
+      "value_numeric": 0.008,
+      "element_bbox": [
+        156,
+        859,
+        163,
+        872
+      ],
+      "value_bbox": [
+        143,
+        862,
+        176,
+        872
+      ]
+    },
+    {
+      "label": "Arctic Region",
+      "value": "0.008",
+      "value_numeric": 0.008,
+      "element_bbox": [
+        156,
+        890,
+        164,
+        903
+      ],
+      "value_bbox": [
+        143,
+        894,
+        176,
+        903
+      ]
+    },
+    {
+      "label": "Baltic States",
+      "value": "0.015",
+      "value_numeric": 0.015,
+      "element_bbox": [
+        156,
+        922,
+        170,
+        934
+      ],
+      "value_bbox": [
+        147,
+        925,
+        180,
+        934
+      ]
+    }
+  ]
+}

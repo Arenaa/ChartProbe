@@ -1,0 +1,78 @@
+{
+  "chart_id": "86d91feab365ec2d",
+  "chart_type": "Bar Chart",
+  "image_width": 2346,
+  "image_height": 1446,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Advanced",
+      "value": "33.66",
+      "value_numeric": 33.66,
+      "element_bbox": [
+        115,
+        227,
+        292,
+        860
+      ],
+      "value_bbox": [
+        179,
+        201,
+        228,
+        227
+      ]
+    },
+    {
+      "label": "Emerging",
+      "value": "25.97",
+      "value_numeric": 25.97,
+      "element_bbox": [
+        336,
+        372,
+        513,
+        860
+      ],
+      "value_bbox": [
+        400,
+        346,
+        449,
+        372
+      ]
+    },
+    {
+      "label": "Developed",
+      "value": "19.21",
+      "value_numeric": 19.21,
+      "element_bbox": [
+        557,
+        499,
+        734,
+        860
+      ],
+      "value_bbox": [
+        621,
+        473,
+        670,
+        499
+      ]
+    },
+    {
+      "label": "Developing",
+      "value": "38.12",
+      "value_numeric": 38.12,
+      "element_bbox": [
+        778,
+        144,
+        955,
+        860
+      ],
+      "value_bbox": [
+        842,
+        118,
+        892,
+        144
+      ]
+    }
+  ]
+}

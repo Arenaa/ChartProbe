@@ -1,0 +1,112 @@
+{
+  "chart_id": "64f41b3042ecbc54",
+  "chart_type": "Bar Chart",
+  "image_width": 2950,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Capital Investment",
+      "value": "20.5",
+      "value_numeric": 20.5,
+      "element_bbox": [
+        234,
+        103,
+        784,
+        156
+      ],
+      "value_bbox": [
+        791,
+        119,
+        822,
+        140
+      ]
+    },
+    {
+      "label": "National Savings",
+      "value": "11",
+      "value_numeric": 11.0,
+      "element_bbox": [
+        234,
+        235,
+        453,
+        288
+      ],
+      "value_bbox": [
+        460,
+        251,
+        478,
+        273
+      ]
+    },
+    {
+      "label": "Public Debt",
+      "value": "8",
+      "value_numeric": 8.0,
+      "element_bbox": [
+        234,
+        368,
+        354,
+        421
+      ],
+      "value_bbox": [
+        361,
+        383,
+        370,
+        405
+      ]
+    },
+    {
+      "label": "Health Expenditure",
+      "value": "9.5",
+      "value_numeric": 9.5,
+      "element_bbox": [
+        234,
+        500,
+        428,
+        553
+      ],
+      "value_bbox": [
+        436,
+        516,
+        458,
+        537
+      ]
+    },
+    {
+      "label": "Education Expenditure",
+      "value": "6",
+      "value_numeric": 6.0,
+      "element_bbox": [
+        234,
+        632,
+        352,
+        685
+      ],
+      "value_bbox": [
+        360,
+        648,
+        368,
+        670
+      ]
+    },
+    {
+      "label": "Infrastructure Expenditure",
+      "value": "4.5",
+      "value_numeric": 4.5,
+      "element_bbox": [
+        234,
+        765,
+        314,
+        818
+      ],
+      "value_bbox": [
+        321,
+        780,
+        344,
+        802
+      ]
+    }
+  ]
+}

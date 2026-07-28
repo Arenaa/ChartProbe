@@ -1,0 +1,44 @@
+{
+  "chart_id": "ad96ce407ce6ff64",
+  "chart_type": "Bar Chart",
+  "image_width": 1725,
+  "image_height": 1381,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "From Government",
+      "value": "150000000",
+      "value_numeric": 150000000.0,
+      "element_bbox": [
+        160,
+        781,
+        261,
+        890
+      ],
+      "value_bbox": [
+        149,
+        754,
+        272,
+        781
+      ]
+    },
+    {
+      "label": "From World Bank",
+      "value": "180000000",
+      "value_numeric": 180000000.0,
+      "element_bbox": [
+        563,
+        157,
+        663,
+        890
+      ],
+      "value_bbox": [
+        552,
+        130,
+        675,
+        157
+      ]
+    }
+  ]
+}

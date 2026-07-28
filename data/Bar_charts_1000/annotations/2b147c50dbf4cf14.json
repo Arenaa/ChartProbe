@@ -1,0 +1,78 @@
+{
+  "chart_id": "2b147c50dbf4cf14",
+  "chart_type": "Bar Chart",
+  "image_width": 2346,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Caribbean",
+      "value": "29.6",
+      "value_numeric": 29.6,
+      "element_bbox": [
+        115,
+        128,
+        292,
+        884
+      ],
+      "value_bbox": [
+        184,
+        106,
+        222,
+        128
+      ]
+    },
+    {
+      "label": "Oceania",
+      "value": "3.65",
+      "value_numeric": 3.65,
+      "element_bbox": [
+        336,
+        791,
+        513,
+        884
+      ],
+      "value_bbox": [
+        405,
+        769,
+        444,
+        791
+      ]
+    },
+    {
+      "label": "North America",
+      "value": "3.9",
+      "value_numeric": 3.9,
+      "element_bbox": [
+        557,
+        784,
+        734,
+        884
+      ],
+      "value_bbox": [
+        632,
+        762,
+        659,
+        784
+      ]
+    },
+    {
+      "label": "Europe",
+      "value": "2.7",
+      "value_numeric": 2.7,
+      "element_bbox": [
+        778,
+        815,
+        955,
+        884
+      ],
+      "value_bbox": [
+        853,
+        793,
+        881,
+        815
+      ]
+    }
+  ]
+}

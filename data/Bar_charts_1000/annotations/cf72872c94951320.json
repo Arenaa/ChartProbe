@@ -1,0 +1,180 @@
+{
+  "chart_id": "cf72872c94951320",
+  "chart_type": "Bar Chart",
+  "image_width": 2945,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Overall",
+      "value": "66.5",
+      "value_numeric": 66.5,
+      "element_bbox": [
+        98,
+        133,
+        161,
+        870
+      ],
+      "value_bbox": [
+        114,
+        111,
+        145,
+        133
+      ]
+    },
+    {
+      "label": "Overall",
+      "value": "64.6",
+      "value_numeric": 64.6,
+      "element_bbox": [
+        254,
+        127,
+        317,
+        870
+      ],
+      "value_bbox": [
+        270,
+        105,
+        301,
+        127
+      ]
+    },
+    {
+      "label": "Urban",
+      "value": "67.0",
+      "value_numeric": 67.0,
+      "element_bbox": [
+        411,
+        138,
+        473,
+        870
+      ],
+      "value_bbox": [
+        427,
+        117,
+        457,
+        138
+      ]
+    },
+    {
+      "label": "Urban",
+      "value": "65.1",
+      "value_numeric": 65.1,
+      "element_bbox": [
+        567,
+        130,
+        630,
+        870
+      ],
+      "value_bbox": [
+        583,
+        109,
+        614,
+        130
+      ]
+    },
+    {
+      "label": "Rural",
+      "value": "66.0",
+      "value_numeric": 66.0,
+      "element_bbox": [
+        723,
+        129,
+        786,
+        870
+      ],
+      "value_bbox": [
+        739,
+        107,
+        770,
+        129
+      ]
+    },
+    {
+      "label": "Rural",
+      "value": "64.0",
+      "value_numeric": 64.0,
+      "element_bbox": [
+        161,
+        148,
+        223,
+        870
+      ],
+      "value_bbox": [
+        176,
+        126,
+        207,
+        148
+      ]
+    },
+    {
+      "label": "Suburban",
+      "value": "66.7",
+      "value_numeric": 66.7,
+      "element_bbox": [
+        317,
+        142,
+        379,
+        870
+      ],
+      "value_bbox": [
+        333,
+        121,
+        364,
+        142
+      ]
+    },
+    {
+      "label": "Suburban",
+      "value": "64.8",
+      "value_numeric": 64.8,
+      "element_bbox": [
+        473,
+        154,
+        536,
+        870
+      ],
+      "value_bbox": [
+        489,
+        132,
+        520,
+        154
+      ]
+    },
+    {
+      "label": "Coastal",
+      "value": "66.8",
+      "value_numeric": 66.8,
+      "element_bbox": [
+        630,
+        146,
+        692,
+        870
+      ],
+      "value_bbox": [
+        645,
+        124,
+        676,
+        146
+      ]
+    },
+    {
+      "label": "Coastal",
+      "value": "64.9",
+      "value_numeric": 64.9,
+      "element_bbox": [
+        786,
+        145,
+        848,
+        870
+      ],
+      "value_bbox": [
+        802,
+        123,
+        832,
+        145
+      ]
+    }
+  ]
+}

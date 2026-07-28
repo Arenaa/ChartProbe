@@ -1,0 +1,78 @@
+{
+  "chart_id": "59ee836f8b3f5356",
+  "chart_type": "Bar Chart",
+  "image_width": 2547,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Morocco",
+      "value": "34",
+      "value_numeric": 34.0,
+      "element_bbox": [
+        160,
+        487,
+        309,
+        890
+      ],
+      "value_bbox": [
+        226,
+        466,
+        243,
+        487
+      ]
+    },
+    {
+      "label": "Mexico",
+      "value": "42",
+      "value_numeric": 42.0,
+      "element_bbox": [
+        346,
+        392,
+        494,
+        890
+      ],
+      "value_bbox": [
+        411,
+        371,
+        429,
+        392
+      ]
+    },
+    {
+      "label": "Netherlands",
+      "value": "52",
+      "value_numeric": 52.0,
+      "element_bbox": [
+        531,
+        274,
+        679,
+        890
+      ],
+      "value_bbox": [
+        596,
+        252,
+        614,
+        274
+      ]
+    },
+    {
+      "label": "Norway",
+      "value": "59",
+      "value_numeric": 59.0,
+      "element_bbox": [
+        716,
+        191,
+        865,
+        890
+      ],
+      "value_bbox": [
+        782,
+        169,
+        799,
+        191
+      ]
+    }
+  ]
+}

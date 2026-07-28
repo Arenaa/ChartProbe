@@ -1,0 +1,78 @@
+{
+  "chart_id": "47bda7bd00ebd286",
+  "chart_type": "Bar Chart",
+  "image_width": 2647,
+  "image_height": 1752,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Planned Aid",
+      "value": "659.78",
+      "value_numeric": 659.78,
+      "element_bbox": [
+        135,
+        535,
+        308,
+        923
+      ],
+      "value_bbox": [
+        195,
+        513,
+        248,
+        535
+      ]
+    },
+    {
+      "label": "Disbursed Aid",
+      "value": "636.71",
+      "value_numeric": 636.71,
+      "element_bbox": [
+        351,
+        549,
+        525,
+        923
+      ],
+      "value_bbox": [
+        411,
+        527,
+        465,
+        549
+      ]
+    },
+    {
+      "label": "Emergency Aid",
+      "value": "52.78",
+      "value_numeric": 52.78,
+      "element_bbox": [
+        568,
+        892,
+        742,
+        923
+      ],
+      "value_bbox": [
+        633,
+        870,
+        677,
+        892
+      ]
+    },
+    {
+      "label": "Overall Aid",
+      "value": "1349.27",
+      "value_numeric": 1349.27,
+      "element_bbox": [
+        785,
+        129,
+        958,
+        923
+      ],
+      "value_bbox": [
+        840,
+        108,
+        903,
+        129
+      ]
+    }
+  ]
+}

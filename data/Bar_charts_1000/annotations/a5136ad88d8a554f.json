@@ -1,0 +1,44 @@
+{
+  "chart_id": "a5136ad88d8a554f",
+  "chart_type": "Bar Chart",
+  "image_width": 1815,
+  "image_height": 1428,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Mobile cellular",
+      "value": "0",
+      "value_numeric": 0.0,
+      "element_bbox": [
+        160,
+        857,
+        239,
+        890
+      ],
+      "value_bbox": [
+        193,
+        830,
+        206,
+        857
+      ]
+    },
+    {
+      "label": "Fixed telephone",
+      "value": "150000",
+      "value_numeric": 150000.0,
+      "element_bbox": [
+        552,
+        190,
+        630,
+        890
+      ],
+      "value_bbox": [
+        550,
+        163,
+        632,
+        190
+      ]
+    }
+  ]
+}

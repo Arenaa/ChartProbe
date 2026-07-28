@@ -1,0 +1,61 @@
+{
+  "chart_id": "5368ff28f5cd34b0",
+  "chart_type": "Bar Chart",
+  "image_width": 2947,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Sierra Leone",
+      "value": "558.71",
+      "value_numeric": 558.71,
+      "element_bbox": [
+        143,
+        868,
+        185,
+        884
+      ],
+      "value_bbox": [
+        140,
+        846,
+        188,
+        868
+      ]
+    },
+    {
+      "label": "South Africa",
+      "value": "11894.57",
+      "value_numeric": 11894.57,
+      "element_bbox": [
+        353,
+        877,
+        395,
+        884
+      ],
+      "value_bbox": [
+        341,
+        856,
+        407,
+        877
+      ]
+    },
+    {
+      "label": "Spain",
+      "value": "20221.87",
+      "value_numeric": 20221.87,
+      "element_bbox": [
+        563,
+        552,
+        606,
+        884
+      ],
+      "value_bbox": [
+        552,
+        530,
+        617,
+        552
+      ]
+    }
+  ]
+}

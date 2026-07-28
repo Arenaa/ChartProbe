@@ -1,0 +1,163 @@
+{
+  "chart_id": "98d5f73831b17db7",
+  "chart_type": "Bar Chart",
+  "image_width": 2975,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Germany",
+      "value": "1290.6",
+      "value_numeric": 1290.6,
+      "element_bbox": [
+        148,
+        78,
+        935,
+        150
+      ],
+      "value_bbox": [
+        944,
+        103,
+        992,
+        125
+      ]
+    },
+    {
+      "label": "France",
+      "value": "1044.1",
+      "value_numeric": 1044.1,
+      "element_bbox": [
+        148,
+        168,
+        785,
+        241
+      ],
+      "value_bbox": [
+        793,
+        194,
+        842,
+        216
+      ]
+    },
+    {
+      "label": "Netherlands",
+      "value": "1043.2",
+      "value_numeric": 1043.2,
+      "element_bbox": [
+        148,
+        259,
+        785,
+        331
+      ],
+      "value_bbox": [
+        793,
+        284,
+        841,
+        306
+      ]
+    },
+    {
+      "label": "Belgium",
+      "value": "689.1",
+      "value_numeric": 689.1,
+      "element_bbox": [
+        148,
+        350,
+        569,
+        422
+      ],
+      "value_bbox": [
+        577,
+        375,
+        616,
+        397
+      ]
+    },
+    {
+      "label": "Italy",
+      "value": "616.8",
+      "value_numeric": 616.8,
+      "element_bbox": [
+        148,
+        440,
+        524,
+        513
+      ],
+      "value_bbox": [
+        533,
+        465,
+        572,
+        487
+      ]
+    },
+    {
+      "label": "Spain",
+      "value": "608.5",
+      "value_numeric": 608.5,
+      "element_bbox": [
+        148,
+        531,
+        519,
+        603
+      ],
+      "value_bbox": [
+        528,
+        556,
+        567,
+        578
+      ]
+    },
+    {
+      "label": "Austria",
+      "value": "516.5",
+      "value_numeric": 516.5,
+      "element_bbox": [
+        148,
+        621,
+        463,
+        694
+      ],
+      "value_bbox": [
+        471,
+        647,
+        511,
+        668
+      ]
+    },
+    {
+      "label": "Poland",
+      "value": "402.5",
+      "value_numeric": 402.5,
+      "element_bbox": [
+        148,
+        712,
+        394,
+        784
+      ],
+      "value_bbox": [
+        402,
+        737,
+        442,
+        759
+      ]
+    },
+    {
+      "label": "Estonia",
+      "value": "391.6",
+      "value_numeric": 391.6,
+      "element_bbox": [
+        148,
+        802,
+        387,
+        875
+      ],
+      "value_bbox": [
+        395,
+        828,
+        435,
+        849
+      ]
+    }
+  ]
+}

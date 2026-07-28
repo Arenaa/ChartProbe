@@ -1,0 +1,95 @@
+{
+  "chart_id": "e9f6b3b2e65b1f89",
+  "chart_type": "Bar Chart",
+  "image_width": 2945,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Madagascar",
+      "value": "60.5",
+      "value_numeric": 60.5,
+      "element_bbox": [
+        158,
+        723,
+        943,
+        754
+      ],
+      "value_bbox": [
+        951,
+        728,
+        982,
+        749
+      ]
+    },
+    {
+      "label": "Liechtenstein",
+      "value": "60.5",
+      "value_numeric": 60.5,
+      "element_bbox": [
+        158,
+        568,
+        409,
+        599
+      ],
+      "value_bbox": [
+        417,
+        573,
+        448,
+        595
+      ]
+    },
+    {
+      "label": "Libya",
+      "value": "6.6",
+      "value_numeric": 6.6,
+      "element_bbox": [
+        158,
+        414,
+        218,
+        445
+      ],
+      "value_bbox": [
+        226,
+        418,
+        248,
+        440
+      ]
+    },
+    {
+      "label": "Liberia",
+      "value": "27.5",
+      "value_numeric": 27.5,
+      "element_bbox": [
+        158,
+        259,
+        696,
+        290
+      ],
+      "value_bbox": [
+        704,
+        264,
+        735,
+        285
+      ]
+    },
+    {
+      "label": "Lesotho",
+      "value": "85.9",
+      "value_numeric": 85.9,
+      "element_bbox": [
+        158,
+        104,
+        711,
+        135
+      ],
+      "value_bbox": [
+        719,
+        109,
+        750,
+        131
+      ]
+    }
+  ]
+}

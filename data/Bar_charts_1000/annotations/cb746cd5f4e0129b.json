@@ -1,0 +1,61 @@
+{
+  "chart_id": "cb746cd5f4e0129b",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Emerging Market Economies",
+      "value": "31.13",
+      "value_numeric": 31.13,
+      "element_bbox": [
+        104,
+        282,
+        346,
+        884
+      ],
+      "value_bbox": [
+        206,
+        261,
+        245,
+        282
+      ]
+    },
+    {
+      "label": "High Income Countries",
+      "value": "40.17",
+      "value_numeric": 40.17,
+      "element_bbox": [
+        407,
+        108,
+        649,
+        884
+      ],
+      "value_bbox": [
+        508,
+        86,
+        548,
+        108
+      ]
+    },
+    {
+      "label": "OECD Member Countries",
+      "value": "35.22",
+      "value_numeric": 35.22,
+      "element_bbox": [
+        710,
+        203,
+        952,
+        884
+      ],
+      "value_bbox": [
+        811,
+        182,
+        851,
+        203
+      ]
+    }
+  ]
+}

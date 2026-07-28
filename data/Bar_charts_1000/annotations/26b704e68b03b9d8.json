@@ -1,0 +1,163 @@
+{
+  "chart_id": "26b704e68b03b9d8",
+  "chart_type": "Bar Chart",
+  "image_width": 2945,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "1981",
+      "value": "96",
+      "value_numeric": 96.0,
+      "element_bbox": [
+        83,
+        418,
+        118,
+        884
+      ],
+      "value_bbox": [
+        92,
+        396,
+        109,
+        418
+      ]
+    },
+    {
+      "label": "1982",
+      "value": "95",
+      "value_numeric": 95.0,
+      "element_bbox": [
+        171,
+        410,
+        206,
+        884
+      ],
+      "value_bbox": [
+        180,
+        388,
+        197,
+        410
+      ]
+    },
+    {
+      "label": "1983",
+      "value": "88",
+      "value_numeric": 88.0,
+      "element_bbox": [
+        258,
+        426,
+        294,
+        884
+      ],
+      "value_bbox": [
+        267,
+        404,
+        285,
+        426
+      ]
+    },
+    {
+      "label": "1984",
+      "value": "83",
+      "value_numeric": 83.0,
+      "element_bbox": [
+        346,
+        402,
+        381,
+        884
+      ],
+      "value_bbox": [
+        355,
+        380,
+        372,
+        402
+      ]
+    },
+    {
+      "label": "1985",
+      "value": "81",
+      "value_numeric": 81.0,
+      "element_bbox": [
+        434,
+        418,
+        469,
+        884
+      ],
+      "value_bbox": [
+        443,
+        396,
+        460,
+        418
+      ]
+    },
+    {
+      "label": "1986",
+      "value": "85",
+      "value_numeric": 85.0,
+      "element_bbox": [
+        522,
+        410,
+        557,
+        884
+      ],
+      "value_bbox": [
+        531,
+        388,
+        548,
+        410
+      ]
+    },
+    {
+      "label": "1987",
+      "value": "87",
+      "value_numeric": 87.0,
+      "element_bbox": [
+        609,
+        394,
+        645,
+        884
+      ],
+      "value_bbox": [
+        618,
+        372,
+        636,
+        394
+      ]
+    },
+    {
+      "label": "1988",
+      "value": "86",
+      "value_numeric": 86.0,
+      "element_bbox": [
+        697,
+        402,
+        732,
+        884
+      ],
+      "value_bbox": [
+        706,
+        380,
+        723,
+        402
+      ]
+    },
+    {
+      "label": "1989",
+      "value": "84",
+      "value_numeric": 84.0,
+      "element_bbox": [
+        785,
+        386,
+        820,
+        884
+      ],
+      "value_bbox": [
+        794,
+        364,
+        811,
+        386
+      ]
+    }
+  ]
+}

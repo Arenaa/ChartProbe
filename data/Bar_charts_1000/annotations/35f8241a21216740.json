@@ -1,0 +1,129 @@
+{
+  "chart_id": "35f8241a21216740",
+  "chart_type": "Bar Chart",
+  "image_width": 2950,
+  "image_height": 1749,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Qatar",
+      "value": "1450.0",
+      "value_numeric": 1450.0,
+      "element_bbox": [
+        132,
+        103,
+        908,
+        191
+      ],
+      "value_bbox": [
+        917,
+        136,
+        965,
+        158
+      ]
+    },
+    {
+      "label": "South Africa",
+      "value": "1330.0",
+      "value_numeric": 1330.0,
+      "element_bbox": [
+        132,
+        214,
+        844,
+        303
+      ],
+      "value_bbox": [
+        852,
+        247,
+        901,
+        269
+      ]
+    },
+    {
+      "label": "Uganda",
+      "value": "71.0",
+      "value_numeric": 71.0,
+      "element_bbox": [
+        132,
+        325,
+        170,
+        414
+      ],
+      "value_bbox": [
+        178,
+        359,
+        209,
+        380
+      ]
+    },
+    {
+      "label": "Egypt",
+      "value": "45.0",
+      "value_numeric": 45.0,
+      "element_bbox": [
+        132,
+        436,
+        156,
+        525
+      ],
+      "value_bbox": [
+        164,
+        470,
+        195,
+        491
+      ]
+    },
+    {
+      "label": "Kenya",
+      "value": "40.0",
+      "value_numeric": 40.0,
+      "element_bbox": [
+        132,
+        547,
+        153,
+        636
+      ],
+      "value_bbox": [
+        162,
+        581,
+        193,
+        603
+      ]
+    },
+    {
+      "label": "Nigeria",
+      "value": "33.0",
+      "value_numeric": 33.0,
+      "element_bbox": [
+        132,
+        659,
+        150,
+        748
+      ],
+      "value_bbox": [
+        158,
+        692,
+        189,
+        714
+      ]
+    },
+    {
+      "label": "Ghana",
+      "value": "30.0",
+      "value_numeric": 30.0,
+      "element_bbox": [
+        132,
+        770,
+        148,
+        859
+      ],
+      "value_bbox": [
+        156,
+        803,
+        187,
+        825
+      ]
+    }
+  ]
+}

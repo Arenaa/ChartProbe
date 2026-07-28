@@ -1,0 +1,112 @@
+{
+  "chart_id": "7eb92702d9aba84a",
+  "chart_type": "Bar Chart",
+  "image_width": 2964,
+  "image_height": 1764,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "1960s",
+      "value": "11.55",
+      "value_numeric": 11.55,
+      "element_bbox": [
+        86,
+        609,
+        208,
+        889
+      ],
+      "value_bbox": [
+        127,
+        587,
+        167,
+        609
+      ]
+    },
+    {
+      "label": "1970s",
+      "value": "17.02",
+      "value_numeric": 17.02,
+      "element_bbox": [
+        239,
+        476,
+        361,
+        889
+      ],
+      "value_bbox": [
+        280,
+        455,
+        319,
+        476
+      ]
+    },
+    {
+      "label": "1980s",
+      "value": "22.37",
+      "value_numeric": 22.37,
+      "element_bbox": [
+        391,
+        347,
+        513,
+        889
+      ],
+      "value_bbox": [
+        432,
+        325,
+        472,
+        347
+      ]
+    },
+    {
+      "label": "1990s",
+      "value": "27.51",
+      "value_numeric": 27.51,
+      "element_bbox": [
+        543,
+        222,
+        665,
+        889
+      ],
+      "value_bbox": [
+        584,
+        200,
+        624,
+        222
+      ]
+    },
+    {
+      "label": "2000s",
+      "value": "30.51",
+      "value_numeric": 30.51,
+      "element_bbox": [
+        696,
+        150,
+        817,
+        889
+      ],
+      "value_bbox": [
+        737,
+        128,
+        776,
+        150
+      ]
+    },
+    {
+      "label": "2010s",
+      "value": "31.60",
+      "value_numeric": 31.6,
+      "element_bbox": [
+        848,
+        123,
+        970,
+        889
+      ],
+      "value_bbox": [
+        889,
+        101,
+        929,
+        123
+      ]
+    }
+  ]
+}

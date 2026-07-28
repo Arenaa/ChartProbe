@@ -1,0 +1,112 @@
+{
+  "chart_id": "fea3344e282f347d",
+  "chart_type": "Bar Chart",
+  "image_width": 2947,
+  "image_height": 1745,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Africa",
+      "value": "340",
+      "value_numeric": 340.0,
+      "element_bbox": [
+        108,
+        625,
+        227,
+        740
+      ],
+      "value_bbox": [
+        154,
+        603,
+        180,
+        625
+      ]
+    },
+    {
+      "label": "Baltic",
+      "value": "165",
+      "value_numeric": 165.0,
+      "element_bbox": [
+        256,
+        680,
+        375,
+        740
+      ],
+      "value_bbox": [
+        302,
+        659,
+        328,
+        680
+      ]
+    },
+    {
+      "label": "Central Europe",
+      "value": "1150",
+      "value_numeric": 1150.0,
+      "element_bbox": [
+        404,
+        362,
+        523,
+        740
+      ],
+      "value_bbox": [
+        446,
+        340,
+        481,
+        362
+      ]
+    },
+    {
+      "label": "Northern Europe",
+      "value": "737.5",
+      "value_numeric": 737.5,
+      "element_bbox": [
+        552,
+        506,
+        671,
+        740
+      ],
+      "value_bbox": [
+        592,
+        485,
+        632,
+        506
+      ]
+    },
+    {
+      "label": "Southern Europe",
+      "value": "1437.5",
+      "value_numeric": 1437.5,
+      "element_bbox": [
+        701,
+        280,
+        819,
+        740
+      ],
+      "value_bbox": [
+        736,
+        258,
+        784,
+        280
+      ]
+    },
+    {
+      "label": "Western Europe",
+      "value": "1850",
+      "value_numeric": 1850.0,
+      "element_bbox": [
+        849,
+        121,
+        967,
+        740
+      ],
+      "value_bbox": [
+        890,
+        99,
+        925,
+        121
+      ]
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "chart_id": "e726b3ff41197b0f",
+  "chart_type": "Bar Chart",
+  "image_width": 4150,
+  "image_height": 2353,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Bahamas",
+      "value": "68.0",
+      "value_numeric": 68.0,
+      "element_bbox": [
+        62,
+        248,
+        100,
+        784
+      ],
+      "value_bbox": [
+        70,
+        232,
+        92,
+        248
+      ]
+    },
+    {
+      "label": "Bahamas",
+      "value": "72.8",
+      "value_numeric": 72.8,
+      "element_bbox": [
+        156,
+        145,
+        193,
+        784
+      ],
+      "value_bbox": [
+        163,
+        129,
+        185,
+        145
+      ]
+    },
+    {
+      "label": "Barbados",
+      "value": "81.1",
+      "value_numeric": 81.1,
+      "element_bbox": [
+        249,
+        259,
+        286,
+        784
+      ],
+      "value_bbox": [
+        257,
+        243,
+        279,
+        259
+      ]
+    },
+    {
+      "label": "Barbados",
+      "value": "86.5",
+      "value_numeric": 86.5,
+      "element_bbox": [
+        343,
+        271,
+        380,
+        784
+      ],
+      "value_bbox": [
+        350,
+        254,
+        372,
+        271
+      ]
+    },
+    {
+      "label": "Chile",
+      "value": "66.6",
+      "value_numeric": 66.6,
+      "element_bbox": [
+        436,
+        366,
+        473,
+        784
+      ],
+      "value_bbox": [
+        444,
+        350,
+        466,
+        366
+      ]
+    },
+    {
+      "label": "Chile",
+      "value": "71.1",
+      "value_numeric": 71.1,
+      "element_bbox": [
+        529,
+        302,
+        567,
+        784
+      ],
+      "value_bbox": [
+        537,
+        286,
+        559,
+        302
+      ]
+    },
+    {
+      "label": "Cuba",
+      "value": "65.2",
+      "value_numeric": 65.2,
+      "element_bbox": [
+        623,
+        307,
+        660,
+        784
+      ],
+      "value_bbox": [
+        630,
+        290,
+        653,
+        307
+      ]
+    },
+    {
+      "label": "Cuba",
+      "value": "70.2",
+      "value_numeric": 70.2,
+      "element_bbox": [
+        716,
+        278,
+        754,
+        784
+      ],
+      "value_bbox": [
+        724,
+        262,
+        746,
+        278
+      ]
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "53.1",
+      "value_numeric": 53.1,
+      "element_bbox": [
+        810,
+        259,
+        847,
+        784
+      ],
+      "value_bbox": [
+        817,
+        243,
+        839,
+        259
+      ]
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "57.8",
+      "value_numeric": 57.8,
+      "element_bbox": [
+        903,
+        280,
+        940,
+        784
+      ],
+      "value_bbox": [
+        911,
+        263,
+        933,
+        280
+      ]
+    },
+    {
+      "label": "Guyana",
+      "value": "61.2",
+      "value_numeric": 61.2,
+      "element_bbox": [
+        100,
+        210,
+        137,
+        784
+      ],
+      "value_bbox": [
+        107,
+        194,
+        129,
+        210
+      ]
+    },
+    {
+      "label": "Guyana",
+      "value": "66.2",
+      "value_numeric": 66.2,
+      "element_bbox": [
+        193,
+        103,
+        230,
+        784
+      ],
+      "value_bbox": [
+        201,
+        86,
+        223,
+        103
+      ]
+    },
+    {
+      "label": "Jamaica",
+      "value": "60.6",
+      "value_numeric": 60.6,
+      "element_bbox": [
+        286,
+        224,
+        324,
+        784
+      ],
+      "value_bbox": [
+        294,
+        208,
+        316,
+        224
+      ]
+    },
+    {
+      "label": "Jamaica",
+      "value": "65.1",
+      "value_numeric": 65.1,
+      "element_bbox": [
+        380,
+        231,
+        417,
+        784
+      ],
+      "value_bbox": [
+        388,
+        215,
+        410,
+        231
+      ]
+    },
+    {
+      "label": "Puerto Rico (PR)",
+      "value": "64.2",
+      "value_numeric": 64.2,
+      "element_bbox": [
+        473,
+        329,
+        511,
+        784
+      ],
+      "value_bbox": [
+        481,
+        312,
+        503,
+        329
+      ]
+    },
+    {
+      "label": "Puerto Rico (PR)",
+      "value": "68.9",
+      "value_numeric": 68.9,
+      "element_bbox": [
+        567,
+        262,
+        604,
+        784
+      ],
+      "value_bbox": [
+        575,
+        246,
+        596,
+        262
+      ]
+    },
+    {
+      "label": "Suriname",
+      "value": "66.6",
+      "value_numeric": 66.6,
+      "element_bbox": [
+        660,
+        271,
+        698,
+        784
+      ],
+      "value_bbox": [
+        668,
+        255,
+        690,
+        271
+      ]
+    },
+    {
+      "label": "Suriname",
+      "value": "71.2",
+      "value_numeric": 71.2,
+      "element_bbox": [
+        754,
+        241,
+        791,
+        784
+      ],
+      "value_bbox": [
+        761,
+        225,
+        783,
+        241
+      ]
+    },
+    {
+      "label": "Trinidad & Tobago",
+      "value": "64.0",
+      "value_numeric": 64.0,
+      "element_bbox": [
+        847,
+        223,
+        884,
+        784
+      ],
+      "value_bbox": [
+        855,
+        206,
+        877,
+        223
+      ]
+    },
+    {
+      "label": "Trinidad & Tobago",
+      "value": "68.3",
+      "value_numeric": 68.3,
+      "element_bbox": [
+        940,
+        246,
+        978,
+        784
+      ],
+      "value_bbox": [
+        948,
+        230,
+        970,
+        246
+      ]
+    }
+  ]
+}

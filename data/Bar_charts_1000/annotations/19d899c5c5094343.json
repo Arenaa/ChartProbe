@@ -1,0 +1,95 @@
+{
+  "chart_id": "19d899c5c5094343",
+  "chart_type": "Bar Chart",
+  "image_width": 2646,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "South Africa",
+      "value": "16200",
+      "value_numeric": 16200.0,
+      "element_bbox": [
+        141,
+        127,
+        278,
+        870
+      ],
+      "value_bbox": [
+        185,
+        105,
+        234,
+        127
+      ]
+    },
+    {
+      "label": "Nigeria",
+      "value": "7000",
+      "value_numeric": 7000.0,
+      "element_bbox": [
+        312,
+        549,
+        449,
+        870
+      ],
+      "value_bbox": [
+        361,
+        527,
+        400,
+        549
+      ]
+    },
+    {
+      "label": "Kenya",
+      "value": "2720",
+      "value_numeric": 2720.0,
+      "element_bbox": [
+        483,
+        745,
+        620,
+        870
+      ],
+      "value_bbox": [
+        532,
+        723,
+        571,
+        745
+      ]
+    },
+    {
+      "label": "Somalia",
+      "value": "1255",
+      "value_numeric": 1255.0,
+      "element_bbox": [
+        655,
+        812,
+        792,
+        870
+      ],
+      "value_bbox": [
+        704,
+        791,
+        743,
+        812
+      ]
+    },
+    {
+      "label": "Sierra Leone",
+      "value": "455",
+      "value_numeric": 455.0,
+      "element_bbox": [
+        826,
+        849,
+        963,
+        870
+      ],
+      "value_bbox": [
+        880,
+        827,
+        909,
+        849
+      ]
+    }
+  ]
+}

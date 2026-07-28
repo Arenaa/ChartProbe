@@ -1,0 +1,214 @@
+{
+  "chart_id": "ca78c667077fcad5",
+  "chart_type": "Bar Chart",
+  "image_width": 3187,
+  "image_height": 1745,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Barbados",
+      "value": "13500",
+      "value_numeric": 13500.0,
+      "element_bbox": [
+        103,
+        431,
+        117,
+        724
+      ],
+      "value_bbox": [
+        90,
+        410,
+        130,
+        431
+      ]
+    },
+    {
+      "label": "Vanuatu",
+      "value": "2100",
+      "value_numeric": 2100.0,
+      "element_bbox": [
+        177,
+        679,
+        191,
+        724
+      ],
+      "value_bbox": [
+        168,
+        657,
+        200,
+        679
+      ]
+    },
+    {
+      "label": "West Bank & Gaza",
+      "value": "4250",
+      "value_numeric": 4250.0,
+      "element_bbox": [
+        251,
+        637,
+        265,
+        724
+      ],
+      "value_bbox": [
+        242,
+        616,
+        274,
+        637
+      ]
+    },
+    {
+      "label": "Mauritania",
+      "value": "300",
+      "value_numeric": 300.0,
+      "element_bbox": [
+        325,
+        719,
+        339,
+        724
+      ],
+      "value_bbox": [
+        320,
+        697,
+        344,
+        719
+      ]
+    },
+    {
+      "label": "Fiji",
+      "value": "16500",
+      "value_numeric": 16500.0,
+      "element_bbox": [
+        399,
+        363,
+        413,
+        724
+      ],
+      "value_bbox": [
+        386,
+        341,
+        426,
+        363
+      ]
+    },
+    {
+      "label": "Namibia",
+      "value": "900",
+      "value_numeric": 900.0,
+      "element_bbox": [
+        473,
+        704,
+        487,
+        724
+      ],
+      "value_bbox": [
+        468,
+        682,
+        492,
+        704
+      ]
+    },
+    {
+      "label": "Costa Rica",
+      "value": "17500",
+      "value_numeric": 17500.0,
+      "element_bbox": [
+        547,
+        349,
+        561,
+        724
+      ],
+      "value_bbox": [
+        534,
+        327,
+        574,
+        349
+      ]
+    },
+    {
+      "label": "Ecuador",
+      "value": "17800",
+      "value_numeric": 17800.0,
+      "element_bbox": [
+        621,
+        344,
+        636,
+        724
+      ],
+      "value_bbox": [
+        608,
+        322,
+        648,
+        344
+      ]
+    },
+    {
+      "label": "Seychelles",
+      "value": "4300",
+      "value_numeric": 4300.0,
+      "element_bbox": [
+        695,
+        644,
+        710,
+        724
+      ],
+      "value_bbox": [
+        686,
+        622,
+        718,
+        644
+      ]
+    },
+    {
+      "label": "Maldives",
+      "value": "20500",
+      "value_numeric": 20500.0,
+      "element_bbox": [
+        769,
+        289,
+        784,
+        724
+      ],
+      "value_bbox": [
+        756,
+        268,
+        796,
+        289
+      ]
+    },
+    {
+      "label": "Samoa",
+      "value": "15000",
+      "value_numeric": 15000.0,
+      "element_bbox": [
+        843,
+        413,
+        858,
+        724
+      ],
+      "value_bbox": [
+        830,
+        391,
+        870,
+        413
+      ]
+    },
+    {
+      "label": "Montserrat",
+      "value": "11200",
+      "value_numeric": 11200.0,
+      "element_bbox": [
+        917,
+        480,
+        932,
+        724
+      ],
+      "value_bbox": [
+        904,
+        459,
+        944,
+        480
+      ]
+    }
+  ]
+}

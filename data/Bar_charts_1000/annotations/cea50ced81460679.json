@@ -1,0 +1,112 @@
+{
+  "chart_id": "cea50ced81460679",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1744,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Upper middle income",
+      "value": "1.0",
+      "value_numeric": 1.0,
+      "element_bbox": [
+        106,
+        658,
+        164,
+        717
+      ],
+      "value_bbox": [
+        124,
+        636,
+        146,
+        658
+      ]
+    },
+    {
+      "label": "World",
+      "value": "0.6",
+      "value_numeric": 0.6,
+      "element_bbox": [
+        250,
+        668,
+        308,
+        717
+      ],
+      "value_bbox": [
+        268,
+        646,
+        290,
+        668
+      ]
+    },
+    {
+      "label": "Algeria",
+      "value": "6.1",
+      "value_numeric": 6.1,
+      "element_bbox": [
+        394,
+        101,
+        451,
+        717
+      ],
+      "value_bbox": [
+        412,
+        80,
+        434,
+        101
+      ]
+    },
+    {
+      "label": "Argentina",
+      "value": "0.5",
+      "value_numeric": 0.5,
+      "element_bbox": [
+        538,
+        677,
+        595,
+        717
+      ],
+      "value_bbox": [
+        604,
+        686,
+        626,
+        708
+      ]
+    },
+    {
+      "label": "Australia",
+      "value": "0.3",
+      "value_numeric": 0.3,
+      "element_bbox": [
+        681,
+        697,
+        739,
+        717
+      ],
+      "value_bbox": [
+        747,
+        696,
+        770,
+        718
+      ]
+    },
+    {
+      "label": "Austria",
+      "value": "0.3",
+      "value_numeric": 0.3,
+      "element_bbox": [
+        825,
+        697,
+        883,
+        717
+      ],
+      "value_bbox": [
+        891,
+        696,
+        913,
+        718
+      ]
+    }
+  ]
+}

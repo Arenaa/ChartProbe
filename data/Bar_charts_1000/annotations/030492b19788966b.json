@@ -1,0 +1,95 @@
+{
+  "chart_id": "030492b19788966b",
+  "chart_type": "Bar Chart",
+  "image_width": 2348,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Mongolia",
+      "value": "9.51",
+      "value_numeric": 9.51,
+      "element_bbox": [
+        155,
+        106,
+        925,
+        233
+      ],
+      "value_bbox": [
+        933,
+        158,
+        971,
+        180
+      ]
+    },
+    {
+      "label": "Japan",
+      "value": "7.98",
+      "value_numeric": 7.98,
+      "element_bbox": [
+        155,
+        264,
+        801,
+        391
+      ],
+      "value_bbox": [
+        809,
+        317,
+        847,
+        339
+      ]
+    },
+    {
+      "label": "South Korea",
+      "value": "6.33",
+      "value_numeric": 6.33,
+      "element_bbox": [
+        155,
+        423,
+        667,
+        550
+      ],
+      "value_bbox": [
+        676,
+        476,
+        714,
+        498
+      ]
+    },
+    {
+      "label": "Indonesia",
+      "value": "0.98",
+      "value_numeric": 0.98,
+      "element_bbox": [
+        155,
+        582,
+        234,
+        709
+      ],
+      "value_bbox": [
+        242,
+        635,
+        281,
+        656
+      ]
+    },
+    {
+      "label": "South Asia",
+      "value": "0.58",
+      "value_numeric": 0.58,
+      "element_bbox": [
+        155,
+        741,
+        202,
+        868
+      ],
+      "value_bbox": [
+        159,
+        846,
+        198,
+        868
+      ]
+    }
+  ]
+}

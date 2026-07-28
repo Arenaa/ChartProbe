@@ -1,0 +1,78 @@
+{
+  "chart_id": "46222e8510e1a1ce",
+  "chart_type": "Bar Chart",
+  "image_width": 2346,
+  "image_height": 1750,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Private",
+      "value": "1610",
+      "value_numeric": 1610.0,
+      "element_bbox": [
+        138,
+        129,
+        310,
+        884
+      ],
+      "value_bbox": [
+        203,
+        107,
+        246,
+        129
+      ]
+    },
+    {
+      "label": "Public",
+      "value": "520",
+      "value_numeric": 520.0,
+      "element_bbox": [
+        353,
+        642,
+        526,
+        884
+      ],
+      "value_bbox": [
+        423,
+        620,
+        456,
+        642
+      ]
+    },
+    {
+      "label": "Hybrid",
+      "value": "990",
+      "value_numeric": 990.0,
+      "element_bbox": [
+        569,
+        423,
+        741,
+        884
+      ],
+      "value_bbox": [
+        638,
+        401,
+        671,
+        423
+      ]
+    },
+    {
+      "label": "Consortium",
+      "value": "300",
+      "value_numeric": 300.0,
+      "element_bbox": [
+        784,
+        744,
+        956,
+        884
+      ],
+      "value_bbox": [
+        854,
+        722,
+        886,
+        744
+      ]
+    }
+  ]
+}

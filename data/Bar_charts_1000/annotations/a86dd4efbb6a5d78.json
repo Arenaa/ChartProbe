@@ -1,0 +1,78 @@
+{
+  "chart_id": "a86dd4efbb6a5d78",
+  "chart_type": "Bar Chart",
+  "image_width": 2310,
+  "image_height": 1689,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Coal",
+      "value": "0.51",
+      "value_numeric": 0.51,
+      "element_bbox": [
+        169,
+        560,
+        328,
+        848
+      ],
+      "value_bbox": [
+        336,
+        693,
+        374,
+        715
+      ]
+    },
+    {
+      "label": "Crude Oil",
+      "value": "1.25",
+      "value_numeric": 1.25,
+      "element_bbox": [
+        368,
+        134,
+        528,
+        848
+      ],
+      "value_bbox": [
+        429,
+        112,
+        468,
+        134
+      ]
+    },
+    {
+      "label": "Natural Gas",
+      "value": "0.56",
+      "value_numeric": 0.56,
+      "element_bbox": [
+        568,
+        530,
+        728,
+        848
+      ],
+      "value_bbox": [
+        736,
+        678,
+        774,
+        700
+      ]
+    },
+    {
+      "label": "Renewables",
+      "value": "0.11",
+      "value_numeric": 0.11,
+      "element_bbox": [
+        768,
+        783,
+        928,
+        848
+      ],
+      "value_bbox": [
+        935,
+        805,
+        974,
+        827
+      ]
+    }
+  ]
+}

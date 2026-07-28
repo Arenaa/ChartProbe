@@ -1,0 +1,95 @@
+{
+  "chart_id": "a4adfee00a465a7a",
+  "chart_type": "Bar Chart",
+  "image_width": 3586,
+  "image_height": 1525,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Luxembourg",
+      "value": "4.5e10",
+      "value_numeric": 45000000000.0,
+      "element_bbox": [
+        160,
+        544,
+        278,
+        890
+      ],
+      "value_bbox": [
+        181,
+        516,
+        257,
+        544
+      ]
+    },
+    {
+      "label": "Macao",
+      "value": "9.0e10",
+      "value_numeric": 90000000000.0,
+      "element_bbox": [
+        307,
+        197,
+        424,
+        890
+      ],
+      "value_bbox": [
+        328,
+        170,
+        403,
+        197
+      ]
+    },
+    {
+      "label": "Macedonia",
+      "value": "7.5e10",
+      "value_numeric": 75000000000.0,
+      "element_bbox": [
+        454,
+        313,
+        571,
+        890
+      ],
+      "value_bbox": [
+        475,
+        285,
+        550,
+        313
+      ]
+    },
+    {
+      "label": "Madagascar",
+      "value": "8.8e10",
+      "value_numeric": 88000000000.0,
+      "element_bbox": [
+        601,
+        212,
+        718,
+        890
+      ],
+      "value_bbox": [
+        622,
+        185,
+        697,
+        212
+      ]
+    },
+    {
+      "label": "Malawi",
+      "value": "8.5e10",
+      "value_numeric": 85000000000.0,
+      "element_bbox": [
+        747,
+        236,
+        865,
+        890
+      ],
+      "value_bbox": [
+        768,
+        208,
+        844,
+        236
+      ]
+    }
+  ]
+}

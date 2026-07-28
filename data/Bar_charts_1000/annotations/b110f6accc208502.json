@@ -1,0 +1,129 @@
+{
+  "chart_id": "b110f6accc208502",
+  "chart_type": "Bar Chart",
+  "image_width": 2742,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Energy",
+      "value": "+0.34",
+      "value_numeric": 0.34,
+      "element_bbox": [
+        114,
+        450,
+        215,
+        847
+      ],
+      "value_bbox": [
+        223,
+        638,
+        269,
+        660
+      ]
+    },
+    {
+      "label": "Waste",
+      "value": "+0.09",
+      "value_numeric": 0.09,
+      "element_bbox": [
+        240,
+        450,
+        340,
+        715
+      ],
+      "value_bbox": [
+        348,
+        572,
+        395,
+        593
+      ]
+    },
+    {
+      "label": "Manufacturing",
+      "value": "-0.12",
+      "value_numeric": -0.12,
+      "element_bbox": [
+        365,
+        450,
+        466,
+        560
+      ],
+      "value_bbox": [
+        474,
+        494,
+        514,
+        516
+      ]
+    },
+    {
+      "label": "Transport",
+      "value": "-0.41",
+      "value_numeric": -0.41,
+      "element_bbox": [
+        491,
+        450,
+        591,
+        450
+      ],
+      "value_bbox": [
+        599,
+        439,
+        639,
+        461
+      ]
+    },
+    {
+      "label": "Agriculture",
+      "value": "+0.00",
+      "value_numeric": 0.0,
+      "element_bbox": [
+        616,
+        274,
+        717,
+        450
+      ],
+      "value_bbox": [
+        725,
+        351,
+        771,
+        373
+      ]
+    },
+    {
+      "label": "Residential",
+      "value": "+0.18",
+      "value_numeric": 0.18,
+      "element_bbox": [
+        742,
+        119,
+        842,
+        450
+      ],
+      "value_bbox": [
+        850,
+        274,
+        896,
+        296
+      ]
+    },
+    {
+      "label": "Industry",
+      "value": "-0.28",
+      "value_numeric": -0.28,
+      "element_bbox": [
+        867,
+        362,
+        967,
+        450
+      ],
+      "value_bbox": [
+        976,
+        395,
+        1000,
+        417
+      ]
+    }
+  ]
+}

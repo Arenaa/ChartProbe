@@ -1,0 +1,44 @@
+{
+  "chart_id": "d196afdc37c90ebd",
+  "chart_type": "Bar Chart",
+  "image_width": 2950,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Current education expenditure",
+      "value": "82",
+      "value_numeric": 82.0,
+      "element_bbox": [
+        283,
+        741,
+        949,
+        847
+      ],
+      "value_bbox": [
+        956,
+        783,
+        973,
+        804
+      ]
+    },
+    {
+      "label": "All education staff compensation",
+      "value": "82",
+      "value_numeric": 82.0,
+      "element_bbox": [
+        283,
+        210,
+        949,
+        316
+      ],
+      "value_bbox": [
+        956,
+        253,
+        973,
+        274
+      ]
+    }
+  ]
+}

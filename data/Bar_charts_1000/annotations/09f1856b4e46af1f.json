@@ -1,0 +1,78 @@
+{
+  "chart_id": "09f1856b4e46af1f",
+  "chart_type": "Bar Chart",
+  "image_width": 2352,
+  "image_height": 1447,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Eastern Region",
+      "value": "33.0",
+      "value_numeric": 33.0,
+      "element_bbox": [
+        110,
+        208,
+        288,
+        804
+      ],
+      "value_bbox": [
+        180,
+        182,
+        218,
+        208
+      ]
+    },
+    {
+      "label": "Northern Region",
+      "value": "34.5",
+      "value_numeric": 34.5,
+      "element_bbox": [
+        332,
+        180,
+        510,
+        804
+      ],
+      "value_bbox": [
+        402,
+        154,
+        441,
+        180
+      ]
+    },
+    {
+      "label": "Southern Region",
+      "value": "36.8",
+      "value_numeric": 36.8,
+      "element_bbox": [
+        555,
+        139,
+        733,
+        804
+      ],
+      "value_bbox": [
+        625,
+        113,
+        663,
+        139
+      ]
+    },
+    {
+      "label": "Western Region",
+      "value": "34.8",
+      "value_numeric": 34.8,
+      "element_bbox": [
+        777,
+        175,
+        955,
+        804
+      ],
+      "value_bbox": [
+        847,
+        149,
+        885,
+        175
+      ]
+    }
+  ]
+}

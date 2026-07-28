@@ -1,0 +1,146 @@
+{
+  "chart_id": "4573ad1bc5159904",
+  "chart_type": "Bar Chart",
+  "image_width": 2951,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Safe Sanitation (Hygiene)",
+      "value": "100",
+      "value_numeric": 100.0,
+      "element_bbox": [
+        227,
+        100,
+        913,
+        179
+      ],
+      "value_bbox": [
+        921,
+        129,
+        947,
+        150
+      ]
+    },
+    {
+      "label": "Potable Water Supply",
+      "value": "100",
+      "value_numeric": 100.0,
+      "element_bbox": [
+        227,
+        199,
+        913,
+        278
+      ],
+      "value_bbox": [
+        921,
+        228,
+        947,
+        249
+      ]
+    },
+    {
+      "label": "Stormwater Management",
+      "value": "98",
+      "value_numeric": 98.0,
+      "element_bbox": [
+        227,
+        298,
+        913,
+        378
+      ],
+      "value_bbox": [
+        921,
+        327,
+        938,
+        349
+      ]
+    },
+    {
+      "label": "Wastewater Treatment",
+      "value": "100",
+      "value_numeric": 100.0,
+      "element_bbox": [
+        227,
+        397,
+        900,
+        477
+      ],
+      "value_bbox": [
+        907,
+        426,
+        933,
+        448
+      ]
+    },
+    {
+      "label": "Groundwater Protection",
+      "value": "70",
+      "value_numeric": 70.0,
+      "element_bbox": [
+        227,
+        497,
+        893,
+        576
+      ],
+      "value_bbox": [
+        900,
+        526,
+        918,
+        547
+      ]
+    },
+    {
+      "label": "Water Quality Monitoring",
+      "value": "36",
+      "value_numeric": 36.0,
+      "element_bbox": [
+        227,
+        596,
+        859,
+        675
+      ],
+      "value_bbox": [
+        866,
+        625,
+        883,
+        646
+      ]
+    },
+    {
+      "label": "Rainwater Harvesting",
+      "value": "97",
+      "value_numeric": 97.0,
+      "element_bbox": [
+        227,
+        695,
+        708,
+        775
+      ],
+      "value_bbox": [
+        715,
+        724,
+        733,
+        746
+      ]
+    },
+    {
+      "label": "Greywater Recycling",
+      "value": "92",
+      "value_numeric": 92.0,
+      "element_bbox": [
+        227,
+        794,
+        474,
+        874
+      ],
+      "value_bbox": [
+        482,
+        823,
+        499,
+        845
+      ]
+    }
+  ]
+}

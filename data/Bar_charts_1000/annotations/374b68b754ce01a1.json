@@ -1,0 +1,112 @@
+{
+  "chart_id": "374b68b754ce01a1",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1745,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Machinery",
+      "value": "10.4",
+      "value_numeric": 10.4,
+      "element_bbox": [
+        89,
+        668,
+        210,
+        770
+      ],
+      "value_bbox": [
+        134,
+        646,
+        165,
+        668
+      ]
+    },
+    {
+      "label": "Transport",
+      "value": "63.2",
+      "value_numeric": 63.2,
+      "element_bbox": [
+        241,
+        122,
+        362,
+        770
+      ],
+      "value_bbox": [
+        286,
+        100,
+        316,
+        122
+      ]
+    },
+    {
+      "label": "Chemicals",
+      "value": "20.5",
+      "value_numeric": 20.5,
+      "element_bbox": [
+        392,
+        556,
+        513,
+        770
+      ],
+      "value_bbox": [
+        437,
+        535,
+        468,
+        556
+      ]
+    },
+    {
+      "label": "Food & Beverages",
+      "value": "41.4",
+      "value_numeric": 41.4,
+      "element_bbox": [
+        543,
+        351,
+        664,
+        770
+      ],
+      "value_bbox": [
+        588,
+        329,
+        619,
+        351
+      ]
+    },
+    {
+      "label": "Textiles",
+      "value": "8.6",
+      "value_numeric": 8.6,
+      "element_bbox": [
+        695,
+        682,
+        816,
+        770
+      ],
+      "value_bbox": [
+        744,
+        660,
+        766,
+        682
+      ]
+    },
+    {
+      "label": "Energy",
+      "value": "4.7",
+      "value_numeric": 4.7,
+      "element_bbox": [
+        846,
+        722,
+        967,
+        770
+      ],
+      "value_bbox": [
+        895,
+        700,
+        917,
+        722
+      ]
+    }
+  ]
+}

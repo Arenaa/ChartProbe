@@ -1,0 +1,78 @@
+{
+  "chart_id": "b5037209f778eadd",
+  "chart_type": "Bar Chart",
+  "image_width": 3712,
+  "image_height": 1697,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Low income",
+      "value": "6.2",
+      "value_numeric": 6.2,
+      "element_bbox": [
+        432,
+        661,
+        722,
+        804
+      ],
+      "value_bbox": [
+        728,
+        722,
+        750,
+        744
+      ]
+    },
+    {
+      "label": "Low & middle income",
+      "value": "7.2",
+      "value_numeric": 7.2,
+      "element_bbox": [
+        432,
+        482,
+        769,
+        626
+      ],
+      "value_bbox": [
+        775,
+        543,
+        797,
+        565
+      ]
+    },
+    {
+      "label": "Latin America(developing only)",
+      "value": "11.0",
+      "value_numeric": 11.0,
+      "element_bbox": [
+        432,
+        303,
+        947,
+        447
+      ],
+      "value_bbox": [
+        953,
+        364,
+        984,
+        386
+      ]
+    },
+    {
+      "label": "Europe(developing only)",
+      "value": "6.0",
+      "value_numeric": 6.0,
+      "element_bbox": [
+        432,
+        125,
+        713,
+        268
+      ],
+      "value_bbox": [
+        719,
+        185,
+        741,
+        207
+      ]
+    }
+  ]
+}

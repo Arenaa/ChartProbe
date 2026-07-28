@@ -1,0 +1,95 @@
+{
+  "chart_id": "0f78d20771e20769",
+  "chart_type": "Bar Chart",
+  "image_width": 2351,
+  "image_height": 1446,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Total Resource Rent (1982)",
+      "value": "14.8",
+      "value_numeric": 14.8,
+      "element_bbox": [
+        297,
+        123,
+        864,
+        243
+      ],
+      "value_bbox": [
+        871,
+        170,
+        909,
+        196
+      ]
+    },
+    {
+      "label": "Forest Rent (1982)",
+      "value": "12.1",
+      "value_numeric": 12.1,
+      "element_bbox": [
+        297,
+        273,
+        761,
+        394
+      ],
+      "value_bbox": [
+        767,
+        321,
+        806,
+        347
+      ]
+    },
+    {
+      "label": "Mineral Rent (1982)",
+      "value": "2.7",
+      "value_numeric": 2.7,
+      "element_bbox": [
+        297,
+        424,
+        400,
+        544
+      ],
+      "value_bbox": [
+        407,
+        471,
+        435,
+        497
+      ]
+    },
+    {
+      "label": "Agricultural Rent (1982)",
+      "value": "0.6",
+      "value_numeric": 0.6,
+      "element_bbox": [
+        297,
+        574,
+        320,
+        695
+      ],
+      "value_bbox": [
+        295,
+        669,
+        322,
+        695
+      ]
+    },
+    {
+      "label": "Other Resources (1982)",
+      "value": "0.5",
+      "value_numeric": 0.5,
+      "element_bbox": [
+        297,
+        725,
+        316,
+        845
+      ],
+      "value_bbox": [
+        293,
+        819,
+        320,
+        845
+      ]
+    }
+  ]
+}

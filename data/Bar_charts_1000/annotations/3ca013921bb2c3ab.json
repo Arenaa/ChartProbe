@@ -1,0 +1,78 @@
+{
+  "chart_id": "3ca013921bb2c3ab",
+  "chart_type": "Bar Chart",
+  "image_width": 3073,
+  "image_height": 1742,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "High income",
+      "value": "6.50e+08",
+      "value_numeric": 650000000.0,
+      "element_bbox": [
+        348,
+        690,
+        810,
+        847
+      ],
+      "value_bbox": [
+        816,
+        758,
+        883,
+        779
+      ]
+    },
+    {
+      "label": "Heavily indebted poor countries",
+      "value": "8.50e+08",
+      "value_numeric": 850000000.0,
+      "element_bbox": [
+        348,
+        495,
+        952,
+        651
+      ],
+      "value_bbox": [
+        958,
+        562,
+        1000,
+        584
+      ]
+    },
+    {
+      "label": "Fragile and conflict affected situations",
+      "value": "4.50e+08",
+      "value_numeric": 450000000.0,
+      "element_bbox": [
+        348,
+        300,
+        668,
+        456
+      ],
+      "value_bbox": [
+        674,
+        367,
+        741,
+        389
+      ]
+    },
+    {
+      "label": "European Union",
+      "value": "5.00e+06",
+      "value_numeric": 5000000.0,
+      "element_bbox": [
+        348,
+        104,
+        351,
+        261
+      ],
+      "value_bbox": [
+        358,
+        172,
+        425,
+        193
+      ]
+    }
+  ]
+}

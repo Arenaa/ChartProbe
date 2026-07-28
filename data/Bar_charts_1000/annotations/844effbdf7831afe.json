@@ -1,0 +1,44 @@
+{
+  "chart_id": "844effbdf7831afe",
+  "chart_type": "Bar Chart",
+  "image_width": 2839,
+  "image_height": 1389,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Secondary rate",
+      "value": "30.5",
+      "value_numeric": 30.5,
+      "element_bbox": [
+        125,
+        690,
+        464,
+        855
+      ],
+      "value_bbox": [
+        471,
+        759,
+        520,
+        786
+      ]
+    },
+    {
+      "label": "Primary completion rate",
+      "value": "64.5",
+      "value_numeric": 64.5,
+      "element_bbox": [
+        125,
+        484,
+        680,
+        649
+      ],
+      "value_bbox": [
+        688,
+        553,
+        736,
+        580
+      ]
+    }
+  ]
+}

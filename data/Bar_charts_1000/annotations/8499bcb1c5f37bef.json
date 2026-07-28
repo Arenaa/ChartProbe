@@ -1,0 +1,282 @@
+{
+  "chart_id": "8499bcb1c5f37bef",
+  "chart_type": "Bar Chart",
+  "image_width": 3555,
+  "image_height": 2068,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Developing Europe",
+      "value": "150.5",
+      "value_numeric": 150.5,
+      "element_bbox": [
+        70,
+        258,
+        116,
+        753
+      ],
+      "value_bbox": [
+        76,
+        240,
+        109,
+        258
+      ]
+    },
+    {
+      "label": "European Union",
+      "value": "188.0",
+      "value_numeric": 188.0,
+      "element_bbox": [
+        127,
+        135,
+        174,
+        753
+      ],
+      "value_bbox": [
+        134,
+        117,
+        167,
+        135
+      ]
+    },
+    {
+      "label": "Fragile/Conflict",
+      "value": "101.0",
+      "value_numeric": 101.0,
+      "element_bbox": [
+        185,
+        421,
+        231,
+        753
+      ],
+      "value_bbox": [
+        192,
+        402,
+        225,
+        421
+      ]
+    },
+    {
+      "label": "Indebted Poor",
+      "value": "85.0",
+      "value_numeric": 85.0,
+      "element_bbox": [
+        243,
+        474,
+        289,
+        753
+      ],
+      "value_bbox": [
+        253,
+        455,
+        279,
+        474
+      ]
+    },
+    {
+      "label": "High Income",
+      "value": "197.0",
+      "value_numeric": 197.0,
+      "element_bbox": [
+        301,
+        106,
+        347,
+        753
+      ],
+      "value_bbox": [
+        307,
+        87,
+        340,
+        106
+      ]
+    },
+    {
+      "label": "Emerging Asia",
+      "value": "164.0",
+      "value_numeric": 164.0,
+      "element_bbox": [
+        358,
+        214,
+        405,
+        753
+      ],
+      "value_bbox": [
+        365,
+        195,
+        398,
+        214
+      ]
+    },
+    {
+      "label": "Rapidly Growing",
+      "value": "181.0",
+      "value_numeric": 181.0,
+      "element_bbox": [
+        416,
+        158,
+        462,
+        753
+      ],
+      "value_bbox": [
+        423,
+        140,
+        456,
+        158
+      ]
+    },
+    {
+      "label": "Developing Low Income",
+      "value": "102.0",
+      "value_numeric": 102.0,
+      "element_bbox": [
+        474,
+        418,
+        520,
+        753
+      ],
+      "value_bbox": [
+        481,
+        399,
+        514,
+        418
+      ]
+    },
+    {
+      "label": "Upper-Middle Income",
+      "value": "103.0",
+      "value_numeric": 103.0,
+      "element_bbox": [
+        532,
+        414,
+        578,
+        753
+      ],
+      "value_bbox": [
+        538,
+        396,
+        571,
+        414
+      ]
+    },
+    {
+      "label": "Sub-Saharan Africa",
+      "value": "69.5",
+      "value_numeric": 69.5,
+      "element_bbox": [
+        590,
+        525,
+        636,
+        753
+      ],
+      "value_bbox": [
+        600,
+        506,
+        625,
+        525
+      ]
+    },
+    {
+      "label": "Reformed Middle Income",
+      "value": "133.5",
+      "value_numeric": 133.5,
+      "element_bbox": [
+        647,
+        314,
+        693,
+        753
+      ],
+      "value_bbox": [
+        654,
+        296,
+        687,
+        314
+      ]
+    },
+    {
+      "label": "South Asia",
+      "value": "162.5",
+      "value_numeric": 162.5,
+      "element_bbox": [
+        705,
+        219,
+        751,
+        753
+      ],
+      "value_bbox": [
+        712,
+        200,
+        745,
+        219
+      ]
+    },
+    {
+      "label": "Central Asia",
+      "value": "161.0",
+      "value_numeric": 161.0,
+      "element_bbox": [
+        763,
+        224,
+        809,
+        753
+      ],
+      "value_bbox": [
+        769,
+        205,
+        802,
+        224
+      ]
+    },
+    {
+      "label": "North Africa & Middle East",
+      "value": "126.5",
+      "value_numeric": 126.5,
+      "element_bbox": [
+        821,
+        337,
+        867,
+        753
+      ],
+      "value_bbox": [
+        827,
+        319,
+        860,
+        337
+      ]
+    },
+    {
+      "label": "West Asia",
+      "value": "153.5",
+      "value_numeric": 153.5,
+      "element_bbox": [
+        878,
+        249,
+        924,
+        753
+      ],
+      "value_bbox": [
+        885,
+        230,
+        918,
+        249
+      ]
+    },
+    {
+      "label": "South-East Asia",
+      "value": "143.0",
+      "value_numeric": 143.0,
+      "element_bbox": [
+        936,
+        283,
+        982,
+        753
+      ],
+      "value_bbox": [
+        943,
+        264,
+        976,
+        283
+      ]
+    }
+  ]
+}

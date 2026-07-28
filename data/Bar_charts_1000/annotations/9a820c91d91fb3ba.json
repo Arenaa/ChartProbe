@@ -1,0 +1,129 @@
+{
+  "chart_id": "9a820c91d91fb3ba",
+  "chart_type": "Bar Chart",
+  "image_width": 2946,
+  "image_height": 1745,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "High Income",
+      "value": "5.45",
+      "value_numeric": 5.45,
+      "element_bbox": [
+        106,
+        205,
+        204,
+        778
+      ],
+      "value_bbox": [
+        140,
+        183,
+        171,
+        205
+      ]
+    },
+    {
+      "label": "Upper-Middle",
+      "value": "6.30",
+      "value_numeric": 6.3,
+      "element_bbox": [
+        229,
+        116,
+        327,
+        778
+      ],
+      "value_bbox": [
+        263,
+        94,
+        293,
+        116
+      ]
+    },
+    {
+      "label": "Lower-Middle",
+      "value": "4.32",
+      "value_numeric": 4.32,
+      "element_bbox": [
+        352,
+        324,
+        450,
+        778
+      ],
+      "value_bbox": [
+        385,
+        302,
+        416,
+        324
+      ]
+    },
+    {
+      "label": "Middle Income",
+      "value": "1.49",
+      "value_numeric": 1.49,
+      "element_bbox": [
+        474,
+        621,
+        572,
+        778
+      ],
+      "value_bbox": [
+        508,
+        599,
+        539,
+        621
+      ]
+    },
+    {
+      "label": "Low Income",
+      "value": "1.29",
+      "value_numeric": 1.29,
+      "element_bbox": [
+        597,
+        642,
+        695,
+        778
+      ],
+      "value_bbox": [
+        630,
+        620,
+        661,
+        642
+      ]
+    },
+    {
+      "label": "Very Low Income",
+      "value": "1.14",
+      "value_numeric": 1.14,
+      "element_bbox": [
+        720,
+        658,
+        818,
+        778
+      ],
+      "value_bbox": [
+        753,
+        636,
+        784,
+        658
+      ]
+    },
+    {
+      "label": "Emerging Market",
+      "value": "2.25",
+      "value_numeric": 2.25,
+      "element_bbox": [
+        842,
+        541,
+        940,
+        778
+      ],
+      "value_bbox": [
+        876,
+        520,
+        907,
+        541
+      ]
+    }
+  ]
+}

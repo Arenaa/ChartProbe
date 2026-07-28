@@ -1,0 +1,95 @@
+{
+  "chart_id": "90efc9415a2d63e7",
+  "chart_type": "Bar Chart",
+  "image_width": 2352,
+  "image_height": 1442,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Age 55",
+      "value": "33.5",
+      "value_numeric": 33.5,
+      "element_bbox": [
+        104,
+        707,
+        777,
+        825
+      ],
+      "value_bbox": [
+        786,
+        753,
+        824,
+        779
+      ]
+    },
+    {
+      "label": "Age 65",
+      "value": "30.5",
+      "value_numeric": 30.5,
+      "element_bbox": [
+        104,
+        559,
+        715,
+        677
+      ],
+      "value_bbox": [
+        724,
+        605,
+        763,
+        631
+      ]
+    },
+    {
+      "label": "Age 75",
+      "value": "26.7",
+      "value_numeric": 26.7,
+      "element_bbox": [
+        104,
+        412,
+        640,
+        530
+      ],
+      "value_bbox": [
+        648,
+        458,
+        687,
+        484
+      ]
+    },
+    {
+      "label": "Age 85",
+      "value": "23.2",
+      "value_numeric": 23.2,
+      "element_bbox": [
+        104,
+        264,
+        570,
+        382
+      ],
+      "value_bbox": [
+        579,
+        310,
+        617,
+        336
+      ]
+    },
+    {
+      "label": "Age 95",
+      "value": "19.1",
+      "value_numeric": 19.1,
+      "element_bbox": [
+        104,
+        116,
+        488,
+        234
+      ],
+      "value_bbox": [
+        497,
+        162,
+        535,
+        188
+      ]
+    }
+  ]
+}

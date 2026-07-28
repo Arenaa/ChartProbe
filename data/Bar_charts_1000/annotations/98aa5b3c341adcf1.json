@@ -1,0 +1,146 @@
+{
+  "chart_id": "98aa5b3c341adcf1",
+  "chart_type": "Bar Chart",
+  "image_width": 2951,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Vietnam",
+      "value": "54.57",
+      "value_numeric": 54.57,
+      "element_bbox": [
+        183,
+        100,
+        858,
+        179
+      ],
+      "value_bbox": [
+        866,
+        129,
+        906,
+        150
+      ]
+    },
+    {
+      "label": "Chile",
+      "value": "4.33",
+      "value_numeric": 4.33,
+      "element_bbox": [
+        183,
+        199,
+        237,
+        278
+      ],
+      "value_bbox": [
+        245,
+        228,
+        276,
+        249
+      ]
+    },
+    {
+      "label": "Ecuador",
+      "value": "3.35",
+      "value_numeric": 3.35,
+      "element_bbox": [
+        183,
+        298,
+        225,
+        378
+      ],
+      "value_bbox": [
+        233,
+        327,
+        263,
+        349
+      ]
+    },
+    {
+      "label": "Colombia",
+      "value": "3.31",
+      "value_numeric": 3.31,
+      "element_bbox": [
+        183,
+        397,
+        224,
+        477
+      ],
+      "value_bbox": [
+        232,
+        426,
+        263,
+        448
+      ]
+    },
+    {
+      "label": "Peru",
+      "value": "3.18",
+      "value_numeric": 3.18,
+      "element_bbox": [
+        183,
+        497,
+        223,
+        576
+      ],
+      "value_bbox": [
+        231,
+        526,
+        261,
+        547
+      ]
+    },
+    {
+      "label": "Bolivia",
+      "value": "3.00",
+      "value_numeric": 3.0,
+      "element_bbox": [
+        183,
+        596,
+        220,
+        675
+      ],
+      "value_bbox": [
+        228,
+        625,
+        259,
+        646
+      ]
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "2.62",
+      "value_numeric": 2.62,
+      "element_bbox": [
+        183,
+        695,
+        216,
+        775
+      ],
+      "value_bbox": [
+        224,
+        724,
+        255,
+        746
+      ]
+    },
+    {
+      "label": "Guatemala",
+      "value": "2.45",
+      "value_numeric": 2.45,
+      "element_bbox": [
+        183,
+        794,
+        214,
+        874
+      ],
+      "value_bbox": [
+        222,
+        823,
+        253,
+        845
+      ]
+    }
+  ]
+}

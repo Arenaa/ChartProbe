@@ -1,0 +1,129 @@
+{
+  "chart_id": "ac6b1d01543a185a",
+  "chart_type": "Bar Chart",
+  "image_width": 2433,
+  "image_height": 1752,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Netherlands",
+      "value": "17.8",
+      "value_numeric": 17.8,
+      "element_bbox": [
+        98,
+        129,
+        170,
+        923
+      ],
+      "value_bbox": [
+        118,
+        108,
+        149,
+        129
+      ]
+    },
+    {
+      "label": "Israel",
+      "value": "15.2",
+      "value_numeric": 15.2,
+      "element_bbox": [
+        188,
+        245,
+        261,
+        923
+      ],
+      "value_bbox": [
+        209,
+        224,
+        240,
+        245
+      ]
+    },
+    {
+      "label": "Egypt",
+      "value": "11.6",
+      "value_numeric": 11.6,
+      "element_bbox": [
+        279,
+        406,
+        352,
+        923
+      ],
+      "value_bbox": [
+        300,
+        384,
+        331,
+        406
+      ]
+    },
+    {
+      "label": "South Africa",
+      "value": "9.2",
+      "value_numeric": 9.2,
+      "element_bbox": [
+        460,
+        580,
+        533,
+        923
+      ],
+      "value_bbox": [
+        486,
+        558,
+        508,
+        580
+      ]
+    },
+    {
+      "label": "Morocco",
+      "value": "7.7",
+      "value_numeric": 7.7,
+      "element_bbox": [
+        551,
+        682,
+        624,
+        923
+      ],
+      "value_bbox": [
+        576,
+        661,
+        598,
+        682
+      ]
+    },
+    {
+      "label": "Tunisia",
+      "value": "5.4",
+      "value_numeric": 5.4,
+      "element_bbox": [
+        370,
+        513,
+        442,
+        923
+      ],
+      "value_bbox": [
+        395,
+        491,
+        417,
+        513
+      ]
+    },
+    {
+      "label": "Guatemala",
+      "value": "1.1",
+      "value_numeric": 1.1,
+      "element_bbox": [
+        642,
+        874,
+        714,
+        923
+      ],
+      "value_bbox": [
+        667,
+        852,
+        689,
+        874
+      ]
+    }
+  ]
+}

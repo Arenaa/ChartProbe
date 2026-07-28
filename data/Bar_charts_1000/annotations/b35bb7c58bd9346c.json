@@ -1,0 +1,61 @@
+{
+  "chart_id": "b35bb7c58bd9346c",
+  "chart_type": "Bar Chart",
+  "image_width": 2298,
+  "image_height": 1392,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Established",
+      "value": "2165.3",
+      "value_numeric": 2165.3,
+      "element_bbox": [
+        180,
+        149,
+        397,
+        826
+      ],
+      "value_bbox": [
+        258,
+        123,
+        318,
+        149
+      ]
+    },
+    {
+      "label": "Neighbour Region",
+      "value": "1028.0",
+      "value_numeric": 1028.0,
+      "element_bbox": [
+        451,
+        505,
+        668,
+        826
+      ],
+      "value_bbox": [
+        529,
+        479,
+        590,
+        505
+      ]
+    },
+    {
+      "label": "Host",
+      "value": "171.2",
+      "value_numeric": 171.2,
+      "element_bbox": [
+        722,
+        773,
+        939,
+        826
+      ],
+      "value_bbox": [
+        806,
+        747,
+        856,
+        773
+      ]
+    }
+  ]
+}

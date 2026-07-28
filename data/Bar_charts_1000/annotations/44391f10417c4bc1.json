@@ -1,0 +1,78 @@
+{
+  "chart_id": "44391f10417c4bc1",
+  "chart_type": "Bar Chart",
+  "image_width": 2518,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Central African Republic",
+      "value": "1.18e+07",
+      "value_numeric": 11800000.0,
+      "element_bbox": [
+        160,
+        888,
+        309,
+        890
+      ],
+      "value_bbox": [
+        201,
+        866,
+        268,
+        888
+      ]
+    },
+    {
+      "label": "Chad",
+      "value": "1.00e+06",
+      "value_numeric": 1000000.0,
+      "element_bbox": [
+        346,
+        890,
+        494,
+        890
+      ],
+      "value_bbox": [
+        386,
+        868,
+        454,
+        890
+      ]
+    },
+    {
+      "label": "Chile",
+      "value": "6.24e+08",
+      "value_numeric": 624000000.0,
+      "element_bbox": [
+        531,
+        786,
+        679,
+        890
+      ],
+      "value_bbox": [
+        572,
+        764,
+        639,
+        786
+      ]
+    },
+    {
+      "label": "Guinea",
+      "value": "4.40e+09",
+      "value_numeric": 4400000000.0,
+      "element_bbox": [
+        716,
+        157,
+        865,
+        890
+      ],
+      "value_bbox": [
+        757,
+        135,
+        824,
+        157
+      ]
+    }
+  ]
+}

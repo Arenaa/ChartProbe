@@ -1,0 +1,61 @@
+{
+  "chart_id": "a9cf6fae5878dffb",
+  "chart_type": "Bar Chart",
+  "image_width": 1971,
+  "image_height": 1381,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Coal",
+      "value": "1.5%",
+      "value_numeric": 1.5,
+      "element_bbox": [
+        160,
+        869,
+        252,
+        890
+      ],
+      "value_bbox": [
+        258,
+        866,
+        313,
+        893
+      ]
+    },
+    {
+      "label": "Natural Gas",
+      "value": "1.75%",
+      "value_numeric": 1.75,
+      "element_bbox": [
+        421,
+        722,
+        512,
+        890
+      ],
+      "value_bbox": [
+        433,
+        695,
+        501,
+        722
+      ]
+    },
+    {
+      "label": "Oil",
+      "value": "0.6%",
+      "value_numeric": 0.6,
+      "element_bbox": [
+        682,
+        806,
+        773,
+        890
+      ],
+      "value_bbox": [
+        780,
+        835,
+        834,
+        862
+      ]
+    }
+  ]
+}

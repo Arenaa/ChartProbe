@@ -1,0 +1,61 @@
+{
+  "chart_id": "0dfb9b5e8a5367db",
+  "chart_type": "Bar Chart",
+  "image_width": 2646,
+  "image_height": 1746,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "East Africa",
+      "value": "65.2",
+      "value_numeric": 65.2,
+      "element_bbox": [
+        112,
+        336,
+        352,
+        884
+      ],
+      "value_bbox": [
+        215,
+        314,
+        249,
+        336
+      ]
+    },
+    {
+      "label": "Middle East Region",
+      "value": "90.0",
+      "value_numeric": 90.0,
+      "element_bbox": [
+        411,
+        128,
+        651,
+        884
+      ],
+      "value_bbox": [
+        514,
+        106,
+        548,
+        128
+      ]
+    },
+    {
+      "label": "South Asia",
+      "value": "78.0",
+      "value_numeric": 78.0,
+      "element_bbox": [
+        711,
+        228,
+        950,
+        884
+      ],
+      "value_bbox": [
+        813,
+        207,
+        848,
+        228
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "chart_id": "7be65b408cbe1cf5",
+  "chart_type": "Bar Chart",
+  "image_width": 3027,
+  "image_height": 2128,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Pakistan",
+      "value": "1300000000",
+      "value_numeric": 1300000000.0,
+      "element_bbox": [
+        160,
+        337,
+        197,
+        890
+      ],
+      "value_bbox": [
+        142,
+        321,
+        215,
+        337
+      ]
+    },
+    {
+      "label": "South Africa",
+      "value": "320000000",
+      "value_numeric": 320000000.0,
+      "element_bbox": [
+        346,
+        738,
+        383,
+        890
+      ],
+      "value_bbox": [
+        331,
+        721,
+        397,
+        738
+      ]
+    }
+  ]
+}

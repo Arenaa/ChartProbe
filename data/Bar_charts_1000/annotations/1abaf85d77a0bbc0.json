@@ -1,0 +1,78 @@
+{
+  "chart_id": "1abaf85d77a0bbc0",
+  "chart_type": "Bar Chart",
+  "image_width": 2547,
+  "image_height": 1658,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Bosnia and Herzegovina",
+      "value": "27.5",
+      "value_numeric": 27.5,
+      "element_bbox": [
+        160,
+        184,
+        309,
+        890
+      ],
+      "value_bbox": [
+        219,
+        163,
+        250,
+        184
+      ]
+    },
+    {
+      "label": "Botswana",
+      "value": "25.5",
+      "value_numeric": 25.5,
+      "element_bbox": [
+        346,
+        236,
+        494,
+        890
+      ],
+      "value_bbox": [
+        404,
+        214,
+        435,
+        236
+      ]
+    },
+    {
+      "label": "Brazil",
+      "value": "7.5",
+      "value_numeric": 7.5,
+      "element_bbox": [
+        531,
+        698,
+        679,
+        890
+      ],
+      "value_bbox": [
+        594,
+        676,
+        616,
+        698
+      ]
+    },
+    {
+      "label": "Brunei Darussalam",
+      "value": "4.5",
+      "value_numeric": 4.5,
+      "element_bbox": [
+        716,
+        774,
+        865,
+        890
+      ],
+      "value_bbox": [
+        779,
+        753,
+        802,
+        774
+      ]
+    }
+  ]
+}

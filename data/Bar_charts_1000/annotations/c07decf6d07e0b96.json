@@ -1,0 +1,129 @@
+{
+  "chart_id": "c07decf6d07e0b96",
+  "chart_type": "Bar Chart",
+  "image_width": 2656,
+  "image_height": 1446,
+  "bbox_format": "xyxy_1000",
+  "element_kind": "bar",
+  "elements": [
+    {
+      "label": "Asia",
+      "value": "1005",
+      "value_numeric": 1005.0,
+      "element_bbox": [
+        290,
+        110,
+        937,
+        197
+      ],
+      "value_bbox": [
+        944,
+        141,
+        983,
+        167
+      ]
+    },
+    {
+      "label": "Africa",
+      "value": "322",
+      "value_numeric": 322.0,
+      "element_bbox": [
+        290,
+        219,
+        497,
+        306
+      ],
+      "value_bbox": [
+        504,
+        249,
+        533,
+        275
+      ]
+    },
+    {
+      "label": "North America",
+      "value": "212",
+      "value_numeric": 212.0,
+      "element_bbox": [
+        290,
+        328,
+        426,
+        415
+      ],
+      "value_bbox": [
+        433,
+        358,
+        462,
+        384
+      ]
+    },
+    {
+      "label": "Europe",
+      "value": "155",
+      "value_numeric": 155.0,
+      "element_bbox": [
+        290,
+        436,
+        390,
+        523
+      ],
+      "value_bbox": [
+        397,
+        467,
+        426,
+        493
+      ]
+    },
+    {
+      "label": "Latin America & Caribbean",
+      "value": "130",
+      "value_numeric": 130.0,
+      "element_bbox": [
+        290,
+        545,
+        374,
+        632
+      ],
+      "value_bbox": [
+        380,
+        576,
+        410,
+        602
+      ]
+    },
+    {
+      "label": "Middle East & North Africa",
+      "value": "86",
+      "value_numeric": 86.0,
+      "element_bbox": [
+        290,
+        654,
+        345,
+        741
+      ],
+      "value_bbox": [
+        352,
+        684,
+        371,
+        710
+      ]
+    },
+    {
+      "label": "Oceania",
+      "value": "42",
+      "value_numeric": 42.0,
+      "element_bbox": [
+        290,
+        763,
+        317,
+        850
+      ],
+      "value_bbox": [
+        324,
+        793,
+        343,
+        819
+      ]
+    }
+  ]
+}
