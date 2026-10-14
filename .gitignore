@@ -27,7 +27,6 @@ _tmp*/
 *.zip
 
 # Editor / OS
-.cursor/
 .vscode/
 .idea/
 .DS_Store

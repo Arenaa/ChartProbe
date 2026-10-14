@@ -2,6 +2,9 @@
 
 Skill-targeted diagnostics for chart-understanding VLMs.
 
+- Preprint: https://arxiv.org/abs/2608.13766
+- Project page: https://arenaa.github.io/ChartProbe-webpage/
+
 ChartProbe pinpoints where a vision-language model fails on charts, not just whether it does. Every sample is decomposed into 9 fixed probes: 3 Perception, 3 Grounding, and 3 Reasoning, so errors can be traced to a specific stage rather than a single aggregate score. Complex-Reasoning (CR) sets add 1 free-form chain-of-thought question per sample to test end-to-end reasoning.
 
 This release ships code under `src/` and packed eval/train data under `data/`.  
