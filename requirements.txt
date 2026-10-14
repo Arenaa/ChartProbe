@@ -1,4 +1,4 @@
-# ChartProbe dependencies (eval + LoRA finetune)
+# ChartProbe (Mahsa Khoshnoodi, Sarah Adel Bargal) — eval + LoRA finetune
 torch>=2.5.0
 transformers>=4.48.0
 datasets>=2.19.0
