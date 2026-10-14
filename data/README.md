@@ -1,4 +1,4 @@
-Packed ChartProbe sets. See the root README for how to run eval and training.
+Shipped ChartProbe sets. See the root README for how to run eval and training.
 
 | Path | Role |
 |------|------|
