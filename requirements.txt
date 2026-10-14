@@ -14,3 +14,4 @@ safetensors>=0.4.0
 huggingface_hub>=0.24.0
 peft>=0.14.0
 bitsandbytes>=0.45.0
+
